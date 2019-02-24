@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.jucaizhan.com/"/>
-  <updated>2019-02-24T08:20:36.813Z</updated>
+  <updated>2019-02-24T13:42:46.594Z</updated>
   <id>https://www.jucaizhan.com/</id>
   
   <author>
@@ -15,6 +15,235 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>企业级实战：Spark离线和实时电影推荐系统</title>
+    <link href="https://www.jucaizhan.com/%E5%A4%A7%E8%AE%B2%E5%8F%B0/%E5%A4%A7%E8%AE%B2%E5%8F%B0%E3%80%8A%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%AE%9E%E6%88%98%EF%BC%9ASpark%E7%A6%BB%E7%BA%BF%E5%92%8C%E5%AE%9E%E6%97%B6%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E3%80%8B2018/"/>
+    <id>https://www.jucaizhan.com/大讲台/大讲台《企业级实战：Spark离线和实时电影推荐系统》2018/</id>
+    <published>2019-02-24T12:32:13.000Z</published>
+    <updated>2019-02-24T13:42:46.594Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://static0.f.dajiangtai.com/www/images/c_56.png" alt="image"><br>课程介绍</p><p>课程特色</p><p>1、基于经典的电影推荐系统进行全面的讲解</p><p>2、使用大数据业内流行的Spark框架实现电影推荐系统</p><p>3、运用数据挖掘的算法产生模型，为用户精准推荐喜好的电影</p><p>4、分别通过离线和实时两种方式实现电影推荐系统<br>项目涉及技术</p><p>Spark Core,Spark Streaming,Spark Mlib,Hadoop，Linux，Scala，Kafka，Hbase，Phoenix</p><p>Spark：基于内存的分布式计算框架</p><p>Hadoop：分布式离线计算框架</p><p>Kafka：分布式高并发消息队列，负责缓存Flume采集的数据并为下游的各种计算提供高并发的数据处理</p><p>Hbase：亿级行百万列并可毫秒级查询的数据库，可快速查询我们的计算数据</p><p>Phoenix：是构建在HBase上的SQL中间层，Phoenix查询引擎会将SQL查询转换为一个或者多个HBase Scan，并行执行以生成标准的JDBC结果集。</p><p>适用人群</p><p>1、大数据技术爱好者及从业人员。</p><p>2、有hadoop基础缺少推荐项目经验的学员</p><p>3、有spark基础缺少推荐项目经验的学员<br><a id="more"></a></p><p><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://www.dajiangtai.com/course/56.do" target="_blank" rel="noopener">http://www.dajiangtai.com/course/56.do</a><br></blockquote><br>课程目标</p><p>1、 学会使用spark来实际分析处理数据的思路和方法，以及如何把原始数据整理成结构化的数据</p><p>2、 学会如何把数据集切分成训练集，验证集，训练模型，寻找最佳的模型。</p><p>3、 使用模型，通过离线和实时的方式得到推荐结果。</p><p>4、 在分布式的环境下实际运行和调试我们的程序。</p><p>5、 掌握在开发和调试过程中，遇到的各种问题的解决思路和方法。</p><p>讲师介绍</p><p>罗辉</p><p>北京航空航天大学云计算专业硕士研究生</p><p>IT类工作10年以上经验, 熟练使用Spark和hadoop生态圈的技术，熟练使用Scala和shell。有架构设计能力，能自主设计以Spark为主的大数据应用架构。 12年开始接触hadoop技术，14年专业从事spark技术研究与开发，目前在某企业里从事spark数据开发的相关工作，曾负责企业的spark内训，主讲spark部分。</p><p>1、在2014年夏作为Hadoop培训讲师，曾参与过广州汇丰软件公司的高级Hadoop课程(Hbase，Spark）培训讲授。</p><p>2、作为特邀嘉宾曾参与EASYHADOOP社区14年11月北京线下活动，演讲《spark介绍及SPARKSQL应用》。</p><p>3、另外完成和知名IT培训网站北风网和PPV网合作的spark培训的视频。</p><p>4、在2016年3月通过了Databricks的Develop Certification for Apache Spark认证。</p><p>5、2016年6月~7月作为红象云腾外聘讲师参与联想ITBT部门的spark培训项目。</p><p>6、2016年7月开始带领5人团队参加IBM Spark大赛，研发基于Spark的数据挖掘产品。</p><p>7、2016年9月独立完成对广州汇丰银行5天的hadoop&amp;spark培训。</p><p>课程大纲</p><p>第一模块：开发环境和集群准备<br>1、项目总体介绍和背景    a.基于Spark流行的大数据工具，开发一套电影推荐系统，让大家体验到如何实现自己的“猜你喜欢”的推荐。 很多电商和购物网站以及一些手机上的应用，猜你喜欢已经成为了必备功能，它对网站的销售有着很明显的刺激作用。<br>2、技术框架    a.大数据工具的选择，包括HDFS、HIVE、SPARK、KAFKA、HBASE、PHOENIX、ZEPPELIN等工具。<br>b.推荐的实时性，包括实时推荐和离线推荐。<br>3、系统要求以及开发的重点和难点    a. 完成一个推荐系统，为每个用户产生合适的电影产品的推荐结果。并且满足在性能，可靠性上的要求。<br>b. 实时数据的产生以及打到kafka消息队列中。<br>c. 对数据特征的发掘、清洗和加工。<br>d. 产生推荐系统的模型，并在多个模型中选择最佳的模型。<br>e. 解决整个系统中的性能问题。<br>4、集群准备    a. 搭建hadoop、hive、spark、kafka、zookeeper、hbase、phoenix、ZEPPELIN集群<br>b. 安装MYSQL，配置Hive metastore。<br>5、开发环境准备    a.在eclipse中构建项目，通过Maven来管理项目，并添加相关的依赖。<br>6、项目数据准备    a. 下载数据<br>第二模块：数据特点分析、清洗、加工成表和数据集的准备<br>1、分析数据的特点    a. 介绍各个文件的作用以及用户和电影的各个属性<br>b. 分析数据区间、特点<br>c. 探讨开发的思路<br>2、数据入HDFS,通过SPARKSQL整理成表    a. 构建RDD<br>b. 定义各个表对应的case class<br>c. 将RDD转换成DATAFRAME<br>d. 在sparksql中创建对应的表<br>e. 通过sparksql做一些查询来验证<br>3、数据集的准备    a. 字段剖析<br>b. 选择合适的字段将数据切分成测试集和验证集<br>第三模块：离线推荐模块的开发<br>1、数据加工，整理出rating    a. 通过一系列的数据转换形成rating数据<br>2、依据ratings构建模型    a. 构建模型<br>3、理论补充    a. ALS算法的介绍<br>4、最佳参数的寻找    a. 评估模型好坏的指标RMSE<br>b. 模型相关的参数<br>c. 如何寻找最好的模型<br>5、离线推荐    a. 依据输入的某个用户ID，加载模型，产生推荐的电影结果，写入到数据库中<br>b. 依据输入的某个电影，加载模型，给出可能喜欢的用户<br>第四模块：Kafka+spark Streaming实时推荐模块的开发<br>1、构建实时数据流    a. 将ratings表里的数据通过模拟的方式打入到kafka的消息队列中。<br>2、在sparkstreaming中接收kafka消息队列中的数据，开发实时数据处理模块    a. 在sparkstreaming通过direct的方式来接收kakfa中的数据，然后加载已经存在的模型，实时生成推荐结果，写入到数据库中。<br>3、新用户或者未登录用户    a. 推荐策略的推想，以及实现用户的推荐。<br>第五模块：推荐系统的完善<br>1、系统稳定性的考虑    a. 开发脚本来保证实时应用的持续运行。<br>2、数据的展示    a. 通过Zeppelin来连接sparkSQL,提供一个方面快捷的数据探查的系统<br>3、探索其他的算法在推荐系统中可能的用处    a. 其他算法的介绍和应用<br>第六模块：性能优化<br>1、内存的分配    a. 思考和探讨各部分内存的优化思路<br>2、任务的调度    a. 寻求合理的资源分配及任务调度，修改适当的配置来完善系统<br>3、其他方面的优化<br>第七模块：项目总结<br>1、项目总结    a. 与大家一块探讨整个系统开发过程中的感受，对系统的理解，需求的理解，各个组件的理解。<br>2、技术探讨    a. 与学生一起探讨整个系统还可以从哪些方向去做改进，如果做改进。架构，性能，推荐的准确性，实时性，系统稳定性，安全性。</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 内容打赏后可见</span><br>      <span class="post-copyright-info"><a href="http://t.cn/EfJuh60" target="_blank" rel="noopener">打赏</a></span><br>    </div><br></div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://static0.f.dajiangtai.com/www/images/c_56.png&quot; alt=&quot;image&quot;&gt;&lt;br&gt;课程介绍&lt;/p&gt;
+&lt;p&gt;课程特色&lt;/p&gt;
+&lt;p&gt;1、基于经典的电影推荐系统进行全面的讲解&lt;/p&gt;
+&lt;p&gt;2、使用大数据业内流行的Spark框架实现电影推荐系统&lt;/p&gt;
+&lt;p&gt;3、运用数据挖掘的算法产生模型，为用户精准推荐喜好的电影&lt;/p&gt;
+&lt;p&gt;4、分别通过离线和实时两种方式实现电影推荐系统&lt;br&gt;项目涉及技术&lt;/p&gt;
+&lt;p&gt;Spark Core,Spark Streaming,Spark Mlib,Hadoop，Linux，Scala，Kafka，Hbase，Phoenix&lt;/p&gt;
+&lt;p&gt;Spark：基于内存的分布式计算框架&lt;/p&gt;
+&lt;p&gt;Hadoop：分布式离线计算框架&lt;/p&gt;
+&lt;p&gt;Kafka：分布式高并发消息队列，负责缓存Flume采集的数据并为下游的各种计算提供高并发的数据处理&lt;/p&gt;
+&lt;p&gt;Hbase：亿级行百万列并可毫秒级查询的数据库，可快速查询我们的计算数据&lt;/p&gt;
+&lt;p&gt;Phoenix：是构建在HBase上的SQL中间层，Phoenix查询引擎会将SQL查询转换为一个或者多个HBase Scan，并行执行以生成标准的JDBC结果集。&lt;/p&gt;
+&lt;p&gt;适用人群&lt;/p&gt;
+&lt;p&gt;1、大数据技术爱好者及从业人员。&lt;/p&gt;
+&lt;p&gt;2、有hadoop基础缺少推荐项目经验的学员&lt;/p&gt;
+&lt;p&gt;3、有spark基础缺少推荐项目经验的学员&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="大数据" scheme="https://www.jucaizhan.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="实战" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%88%98/"/>
+    
+      <category term="大数据" scheme="https://www.jucaizhan.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+      <category term="实时处理" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%97%B6%E5%A4%84%E7%90%86/"/>
+    
+      <category term="Spark" scheme="https://www.jucaizhan.com/tags/Spark/"/>
+    
+      <category term="大讲台" scheme="https://www.jucaizhan.com/tags/%E5%A4%A7%E8%AE%B2%E5%8F%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spark项目实战：爱奇艺用户行为实时分析系统</title>
+    <link href="https://www.jucaizhan.com/%E5%A4%A7%E8%AE%B2%E5%8F%B0/%E5%A4%A7%E8%AE%B2%E5%8F%B0%E3%80%8ASpark%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%EF%BC%9A%E7%88%B1%E5%A5%87%E8%89%BA%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E5%AE%9E%E6%97%B6%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F%E3%80%8B2017/"/>
+    <id>https://www.jucaizhan.com/大讲台/大讲台《Spark项目实战：爱奇艺用户行为实时分析系统》2017/</id>
+    <published>2019-02-24T12:32:13.000Z</published>
+    <updated>2019-02-24T13:43:03.712Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://static0.f.dajiangtai.com/www/images/c_76.jpg" alt="image"><br>课程介绍</p><p>本项目基于爱奇艺用户行为项目进行讲解，快速提升Spark Streaming实时计算项目经验。本项目通过近35课时的集中讲解，从项目需求分析到数据采集，然后通过Spark Streaming完成业务统计，接着完成数据入库HBase，最后通过SpringBoot结合echart完成数据可视化。</p><p>课程特色</p><p>1、基于爱奇艺用户行为项目进行讲解，项目真实且整个开发流程系统完整。<br>2、该项目通过Spark Streaming完成对爱奇艺用户行为进行统计分析。<br>3、近35课时的讲解，课程内容进行了居多拓展，涉及大数据多方面的技能讲解。</p><p>适用人群</p><p>1、有大数据基础的学员；<br>2、有Java或者scala编程基础的学员；<br>3、对大数据感兴趣想转行的学员；<br>4、想提升大数据相关技能和积累项目经验的学员；</p><p>涉及技术</p><p>Hadoop2.x、Zookeeper、Flume、Kafka、Spark Streaming、Hbase、MySQL、SpringBoot、Echarts<br><a id="more"></a></p><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://www.dajiangtai.com/course/76.do" target="_blank" rel="noopener">http://www.dajiangtai.com/course/76.do</a><br></blockquote><p>讲师介绍</p><p>张长志</p><p>大数据项目经理</p><p>09年在中国联通做JavaWeb开发工程师，11年在Motorola做Android开发负责人，15年成立猿团科技。工作中主要负责Spark、Python和移动端开发，管理过多个大型项目。在工作之余给企业和一些培训机构做Android、Hadoop、Spark培训，中国第一个讲跨平台技术的人。</p><p>课程大纲</p><p>Spark项目实战：爱奇艺用户行为实时分析系统<br>00.爱奇艺实时统计的一个概述<br>01.生成环境中日志产生的一个描述<br>02.项目使用的技术点以及开发对应的流程顺序<br>03.互联网访问日志概述<br>04.日志的真实数据介绍并且讲解对应的栏目的log样式<br>05.脚本生成Log日志方式上<br>05.脚本生成Log日志方式下<br>06.通过linux自带的定时器定时生成日志<br>07.启动和配置flume、kafka<br>08.开发环境搭建<br>09.flume和kafka和SparkStreaming联通和测试<br>10.数据库的介绍和选择<br>11.启动hdfs和zk和hbase并且创建hbase表<br>12.写一个操作Hbase的工具类操作HBase增加<br>13.项目时间工具的实现<br>14.根据条件对产生的实时流做数据清洗并且封装成类<br>15.项目中的DAO操作Hbae的增加和查询并且可以分批保存和测试<br>16.保存手机的数据累加到Hbase中<br>17.功能二的DAO增和查询的实现<br>18.功能二处理业务逻辑保存到hbase数据库里面<br>19.项目运行在真实的生成环境上面<br>20.项目中spark脚本的编写和运行<br>21.数据可视化只为什么要可视化<br>22.数据可视化之web页面的搭建<br>23.数据可视化之第一个springboot应用程序<br>24.数据可视化之echart的介绍和使用范围<br>25.数据可视化之springboot创建web应用并返回html页面<br>26.数据可视化之springboot继承echart的页面<br>27.数据可视化之springboot替换成生成中的饼图<br>28.数据可视化之HBase数据访问的工具类开发<br>29.数据可视化之DAO数据访问层开发<br>30.数据可视化之展示层页面逻辑处理<br>31.数据可视化之ajax请求数据页面展示<br>32.数据可视化代码运行在生成服务器中<br>33.项目在服务器上面运行流程与过程</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 内容打赏后可见</span><br>      <span class="post-copyright-info"><a href="http://t.cn/EfJmlw2" target="_blank" rel="noopener">打赏</a></span><br>    </div><br></div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://static0.f.dajiangtai.com/www/images/c_76.jpg&quot; alt=&quot;image&quot;&gt;&lt;br&gt;课程介绍&lt;/p&gt;
+&lt;p&gt;本项目基于爱奇艺用户行为项目进行讲解，快速提升Spark Streaming实时计算项目经验。本项目通过近35课时的集中讲解，从项目需求分析到数据采集，然后通过Spark Streaming完成业务统计，接着完成数据入库HBase，最后通过SpringBoot结合echart完成数据可视化。&lt;/p&gt;
+&lt;p&gt;课程特色&lt;/p&gt;
+&lt;p&gt;1、基于爱奇艺用户行为项目进行讲解，项目真实且整个开发流程系统完整。&lt;br&gt;2、该项目通过Spark Streaming完成对爱奇艺用户行为进行统计分析。&lt;br&gt;3、近35课时的讲解，课程内容进行了居多拓展，涉及大数据多方面的技能讲解。&lt;/p&gt;
+&lt;p&gt;适用人群&lt;/p&gt;
+&lt;p&gt;1、有大数据基础的学员；&lt;br&gt;2、有Java或者scala编程基础的学员；&lt;br&gt;3、对大数据感兴趣想转行的学员；&lt;br&gt;4、想提升大数据相关技能和积累项目经验的学员；&lt;/p&gt;
+&lt;p&gt;涉及技术&lt;/p&gt;
+&lt;p&gt;Hadoop2.x、Zookeeper、Flume、Kafka、Spark Streaming、Hbase、MySQL、SpringBoot、Echarts&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="大数据" scheme="https://www.jucaizhan.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="实战" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%88%98/"/>
+    
+      <category term="大数据" scheme="https://www.jucaizhan.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+      <category term="实时处理" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%97%B6%E5%A4%84%E7%90%86/"/>
+    
+      <category term="Spark" scheme="https://www.jucaizhan.com/tags/Spark/"/>
+    
+      <category term="大讲台" scheme="https://www.jucaizhan.com/tags/%E5%A4%A7%E8%AE%B2%E5%8F%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spark企业级实战项目：道路交通实时流量监控项目</title>
+    <link href="https://www.jucaizhan.com/%E5%A4%A7%E8%AE%B2%E5%8F%B0/%E5%A4%A7%E8%AE%B2%E5%8F%B0%E3%80%8ASpark%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%EF%BC%9A%E9%81%93%E8%B7%AF%E4%BA%A4%E9%80%9A%E5%AE%9E%E6%97%B6%E6%B5%81%E9%87%8F%E7%9B%91%E6%8E%A7%E9%A1%B9%E7%9B%AE%E3%80%8B2017/"/>
+    <id>https://www.jucaizhan.com/大讲台/大讲台《Spark企业级实战项目：道路交通实时流量监控项目》2017/</id>
+    <published>2019-02-24T11:32:13.000Z</published>
+    <updated>2019-02-24T13:43:20.308Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://static0.f.dajiangtai.com/www/images/c_37.jpg" alt="image"><br>课程介绍</p><p>本项目主要采用目前大数据领域最成熟的实时计算框架Spark，它是目前主流企业在实时计算方向采用的主流框架。本项目使用了Spark技术生态栈中的三个技术框架：Spark Core、Spark Streaming和Spark MLlib，进行道路交通实时流量监控预测系统的开发。业务实现包括数据产生模块、数据实时收集处理模块、特征数据提取模块、模型预测模块、数据存储模块。</p><p>讲师介绍</p><p>陶睿<br>大讲台大数据特聘讲师   |   国有企业智能交通大数据高级工程师<br>在国有企业以及一线互联网公司从事过大数据开发和架构工作，负责过多个大型大数据系统的架构和开发。精通Hadoop、Storm、Spark等大数据技术。有丰富的企业内部技术分享、技术培训和技术讲座的经验。</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://www.dajiangtai.com/course/37.do" target="_blank" rel="noopener">http://www.dajiangtai.com/course/37.do</a><br></blockquote><p>课程大纲</p><p>需求分析<br>1、项目背景<br>2、总体业务要求<br>3、难点分析<br>数据收集<br>1、数据采集阶段技术对比<br>2、项目中数据采集技术Kafka<br>3、Kafka安装及基本操作<br>4、Kafka的API操作及项目中应用<br>数据流处理<br>1、数据实时处理阶段技术拓展Storm<br>2、Spark Streaming实用项目解决方案<br>3、Spark Streaming项目中性能调优<br>数据快速存取<br>1、项目存储工具Redis<br>2、Redis部署、基本操作及项目中使用<br>模型建立<br>1、项目机器学习算法库Mllib<br>2、Mllib基本数据格式<br>3、项目中实际模型选择<br>整体解决方案设计<br>1、产品功能的简单介绍<br>2、架构设计<br>3、技术选型<br>4、部署方案<br>5、模块设计划分<br>部署及代码实现<br>1、测试环境介绍<br>2、分析模块实现1–数据产生<br>3、分析模块实现2–数据实时收集处理模块<br>4、分析模块实现3–特征数据提取及模型预测<br>5、分析模块实现4–模型预测<br>6、项目调优<br>项目总结</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 内容打赏后可见</span><br>      <span class="post-copyright-info"><a href="http://t.cn/EfJmqMH" target="_blank" rel="noopener">打赏</a></span><br>    </div><br></div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://static0.f.dajiangtai.com/www/images/c_37.jpg&quot; alt=&quot;image&quot;&gt;&lt;br&gt;课程介绍&lt;/p&gt;
+&lt;p&gt;本项目主要采用目前大数据领域最成熟的实时计算框架Spark，它是目前主流企业在实时计算方向采用的主流框架。本项目使用了Spark技术生态栈中的三个技术框架：Spark Core、Spark Streaming和Spark MLlib，进行道路交通实时流量监控预测系统的开发。业务实现包括数据产生模块、数据实时收集处理模块、特征数据提取模块、模型预测模块、数据存储模块。&lt;/p&gt;
+&lt;p&gt;讲师介绍&lt;/p&gt;
+&lt;p&gt;陶睿&lt;br&gt;大讲台大数据特聘讲师   |   国有企业智能交通大数据高级工程师&lt;br&gt;在国有企业以及一线互联网公司从事过大数据开发和架构工作，负责过多个大型大数据系统的架构和开发。精通Hadoop、Storm、Spark等大数据技术。有丰富的企业内部技术分享、技术培训和技术讲座的经验。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="大数据" scheme="https://www.jucaizhan.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="实战" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%88%98/"/>
+    
+      <category term="大数据" scheme="https://www.jucaizhan.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+      <category term="实时处理" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%97%B6%E5%A4%84%E7%90%86/"/>
+    
+      <category term="Spark" scheme="https://www.jucaizhan.com/tags/Spark/"/>
+    
+      <category term="大讲台" scheme="https://www.jucaizhan.com/tags/%E5%A4%A7%E8%AE%B2%E5%8F%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spark企业级实战：知名手机厂商用户行为实时分析系统</title>
+    <link href="https://www.jucaizhan.com/%E5%A4%A7%E8%AE%B2%E5%8F%B0/%E5%A4%A7%E8%AE%B2%E5%8F%B0%E3%80%8ASpark%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%AE%9E%E6%88%98%EF%BC%9A%E7%9F%A5%E5%90%8D%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E5%AE%9E%E6%97%B6%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F%E3%80%8B2017/"/>
+    <id>https://www.jucaizhan.com/大讲台/大讲台《Spark企业级实战：知名手机厂商用户行为实时分析系统》2017/</id>
+    <published>2019-02-24T11:32:13.000Z</published>
+    <updated>2019-02-24T13:43:43.104Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://static0.f.dajiangtai.com/www/images/c_20.jpg" alt="image"><br>课程特色</p><p>1、基于知名手机厂商线上项目需求进行讲解，快速提升Spark项目经验，解决手机应用实时分析、实时查询需求。</p><p>2、涵盖大数据实时计算一体化的处理流程，包括Flume采集不同来源不同类型的日志（用户行为日志，Nginx日志等等），Kafka消息队列缓存数据并提供高并发的处理以及供后续多种系统消费数据，spark-streaming根据业务需求实时计算数据，Hbase用来存储大数据量和低延迟的访问。</p><p>3、特别注重企业级Spark项目开发的系统性、完整性，拒绝小demo小案例，提升视野与高度。</p><p>项目涉及技术</p><p>Java，hadoop YARN，Flume，Kafka，Spark-streaming，Hbase</p><p>Hadoop YARN：分布式文件存储系统、资源管理平台，负责spark-streaming的文件存储和资源分配</p><p>Flume：实时收集、过滤、聚合各种日志数据</p><p>Kafka：分布式高并发消息队列，负责缓存Flume采集的数据并为下游的各种计算提供高并发的数据处理</p><p>Spark-streaming：基于内存的高吞吐量实时流式计算</p><p>Hbase：亿级行百万列并可毫秒级查询的数据库，可快速查询我们的计算数据</p><p>【提醒】参团即送基础课，先买先学，夯实基础，事半功倍！！</p><p>适用人群</p><p>1、对大数据有简单了解的学员；</p><p>2、有java编程基础想做大数据实时计算的学员；</p><p>3、想转行或者从事海量数据实时计算的学员；</p><p>4、想提升大数据相关技能和积累项目经验的学员；</p><p>课程目标</p><p>1、熟悉掌握大数据实时计算一体化的处理流程，包括数据采集、数据存储、数据处理、处理结构毫秒级查询</p><p>2、熟悉掌握Flume数据采集、过滤、聚合不同来源不同类型的海量日志</p><p>3、熟悉掌握Kafka的体系结构、生产者、消费者、分区以及上下游的结合</p><p>4、熟悉掌握spark-streaming流式计算编程，熟悉各种算子的计算逻辑</p><p>5、熟悉掌握hbase表、列族、列、rowkey、过滤器、计数器的使用以及设计</p><p>6、能够让学员在以后的工作中举一反三，对不同的需求有能力独立设计方案，真正掌握大数据实时计算<br><a id="more"></a></p><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://www.dajiangtai.com/course/20.do" target="_blank" rel="noopener">http://www.dajiangtai.com/course/20.do</a><br></blockquote><p>讲师介绍</p><p>杨哲</p><p>大讲台大数据特聘讲师   |   国内知名手机厂商大数据资深工程师</p><p>某大型手机厂商大数据小组Team Leader，对离线计算和实时计算都有丰富的经验。从业时间10年，曾在社交网络、移动广告、视频等行业研发大数据平台，擅长Hadoop、Flume、Kafka、Spark 、hbase大数据相关技术。在高可用高并发的业务系统的研发以及构架设计也有丰富的经验，热衷于将业务系统和大数据系统相结合的项目开发与设计。</p><p>开课时间</p><p>18小时直播，已结束，有完整视频回放和资料，随买随学</p><p>学习方式</p><p>观看直播回放视频 + QQ群交流答疑</p><p>视频可在线反复观看，有效期1年</p><p>课程大纲</p><p>一、需求分析<br>1.1背景    1、如何更好的了解用户的行为以及属性以便更好的服务用户是当今互联网公司必须要做的事情，我们可以收集用户在手机上用了哪些应用，当然这个是需要经过用户同意的，如果用户同意上报自己的数据，那么根据用户的使用情况会给用户一些奖励，比如成长值、各种特权(优惠券、电影票等)、游戏币、游戏礼包，进一步刺激用户的使用情况，同时让用户实时看到应用使用情况。<br>2、随着业务的规模以及用户量越来越大，对系统接口的响应情况需要实时监控，比如PV、UV、接口响应时间；<br>1.2总体要求    1、搭建高可用的实时计算框架，在框架的中的每个部分必须是高可用的<br>2、实时计算用户手机中App应用的使用情况，比如每小时、每天手机APP应用的使用时长、流量消耗等。<br>3、实时计算每个接口的PV、UV、响应时间<br>4、对用户的请求做到毫秒级响应<br>1.3难点分析    1、业务系统很多，如何实时聚合日志并对业务侵入性很小，这么多的系统的日志格式肯定都不一样，统一聚合后如何区分日志；<br>2、数据量很大如何达到高并发，让处理速度远高于写入速度<br>3、如何分布和处理数据才能对后续的系统减少压力，比如处理好的数据写入hbase，如何减少写次数；<br>4、我们的系统是大数据和业务系统紧密结合的，那么在大数据大量用户的情况下如何做到低延时；<br>1.4解决问题的思路    1、需求分析并找出实现难点<br>2、设计每个难点的详细解决方案<br>3、程序或者脚本编码<br>4、项目测试<br>5、项目部署<br>6、项目交付<br>二、知识要点<br>2.1Flume要点    1、什么是agent，组件有哪些<br>2、支持的拓扑结构有哪些，怎么实现负载均衡<br>3、根据我们的实战项目该怎么选择source、channel、sink<br>4、根据我们的实战项目怎么设计拓扑以达到高可用<br>5、如何自己开发拦截器来实现我们特殊的要求，比如区分日志、均匀的写kafka分区<br>6、写kafka是同步写还是异步写<br>7、KafkaSink配置<br>2.2Kafka要点    1、kafka体系结构：broker、topic、partition<br>2、kafka的高可用<br>3、建立topic，创建分区，分区副本设置<br>4、kafka高级消费者、低级消费者<br>5、查看分区消息量以及消费进度<br>2.3spark-streaming要点    1、kafka低级消费者stream还是高级消费者stream<br>2、各种算子的功能<br>3、如何实现二次排序<br>4、根据业务情况如何优化计算逻辑使计算结果对后续压力减少<br>2.4Hbase要点    1、Hbase的数据模型<br>2、计数器、过滤器<br>3、根据我们的项目需求如何设计rowkey和表结构<br>4、如何批量写hbase减少网络通信时间<br>5、项目开发中如何选择合适的拦截器以避免全表扫描<br>三、难点攻克<br>3.1难点攻克1：如何收集不同业务系统的日志    1、不同的业务员系统由不同的团队开发运维，故产生的日志格式以及内容都不一样<br>2、每个业务系统会有多个日志机器，所以多个业务系统可能至少有十几台日志服务器<br>3、日志服务器上面一般都有业务系统的服务再跑，如何在采集日志的时候不影响业务系统<br>4、多个业务系统的日志被聚合在一起后如何在后续计算中区分日志<br>3.2难点攻克2：数据容错和提高并发处理能力    1、业务系统产生的数据都是海量的，少则千万多则上亿，数据容错性如何保障，我们辛苦采集的数据不能再处理之前丢失；<br>2、这些海量日志如何被均匀发布到多台机器上来提高并发处理能力<br>3、采集的数据不只为一种计算需求所使用，数据要重复被不同的需求使用，那么如何保证<br>3.3难点攻克3：减少写hbase的读写次数    1、我们不能每条日志处理后都写一次hbase，那么怎么减少写hbase的次数又不失准确性呢<br>2、hbase里面的结果数据是要被查询的，如何减少查询次数又能满足需求<br>四、解决方案设计<br>4.1技术选型    1、Flume:内置十几种数据采集方式、几种存储队列、十几种数据写出方式，组件轻量不会影响业务系统并吞吐量很高，消息可带消息头可区分日志来源<br>2、Kafka：高可用高并发的分布式消息队列，数据一旦进入kafka则不会丢失，并且数据可用重复使用，存储日志分布在集群各个机器上提高后续并发处理能力<br>3、spark-streaming:基于内存的流式计算框架，可用在内存中对数据批量快速处理，具有高吞吐量低延迟的特效<br>4、Hbase:亿级行百万列并可达到毫秒级查询的数据库,可以满足毫秒级低延迟查询<br>4.2架构设计    构架分层设计：<br>1、日志采集层<br>2、日志存储层<br>3、日志处理层<br>4、结果存储层<br>5、查询接口<br>4.3部署方案    1、拓扑图，哪些服务部署在哪些机器上<br>2、高可用方案<br>hadoop hdfs HA<br>hadoop resource HA<br>Flume高可用拓扑<br>Kafka高可用集群<br>Spark on YARN<br>Hbase HA<br>4.4业务日志采集    1、提供Flume全拓扑图<br>2、采用两层agent设计<br>3、第一层在业务系统服务器上部署<br>4、第二层做日志聚合<br>五、集群部署<br>1、Zookeeper集群<br>2、Hadoop YARN集群<br>3、Hbase集群<br>4、Kafka集群<br>5、Spark 集群<br>六、业务实现<br>6.1模拟搭建业务系统    1、搭建tomcat、nginx服务器<br>2、编写服务器接口<br>3、模拟访问接口产生用户行为日志和nginx日志<br>6.2Flume采集agent    1、配置采集agent的Source、Channel、Sink、sinkGroup<br>2、采用负载均衡模式可达到高可用<br>6.3Flume聚合agent    1、编写自定义拦截器区分业务类型<br>2、配置聚合agent的Source、Channel、Sink<br>3、配置写入kafka的生产者<br>4、如何让日志均匀的分布到Kafka分区<br>6.4编写Spark-streaming程序    1、根据需求创建hbase表、设计rowkey<br>2、建立读取topic的DStream<br>3、根据需求组合各种算子统计数据，如 map/mapRoPair/filter/reduceByKey/groupByKey/sortByKey/transform<br>4、将消费进度写入zookeeper以便监控消费情况<br>5、写入HBASE<br>6、查看监控页面以查看作业执行情况<br>6.5Hbase Java访问数据    1、编写访问Hbase的Java接口供实时访问<br>2、根据rowKey查询、范围查询<br>3、使用拦截<br>6.6spark程序提交    1、YARN程序简介<br>2、提交作业的不同方式<br>七、项目总结<br>大数据项目需要综合运用各种技术    1、介绍实际生产环境的注意事项<br>2、谈谈项目需要改进的地方<br>3、各个项目中遇到的坑</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 内容打赏后可见</span><br>      <span class="post-copyright-info"><a href="http://t.cn/EfJnmTa" target="_blank" rel="noopener">打赏</a></span><br>    </div><br></div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://static0.f.dajiangtai.com/www/images/c_20.jpg&quot; alt=&quot;image&quot;&gt;&lt;br&gt;课程特色&lt;/p&gt;
+&lt;p&gt;1、基于知名手机厂商线上项目需求进行讲解，快速提升Spark项目经验，解决手机应用实时分析、实时查询需求。&lt;/p&gt;
+&lt;p&gt;2、涵盖大数据实时计算一体化的处理流程，包括Flume采集不同来源不同类型的日志（用户行为日志，Nginx日志等等），Kafka消息队列缓存数据并提供高并发的处理以及供后续多种系统消费数据，spark-streaming根据业务需求实时计算数据，Hbase用来存储大数据量和低延迟的访问。&lt;/p&gt;
+&lt;p&gt;3、特别注重企业级Spark项目开发的系统性、完整性，拒绝小demo小案例，提升视野与高度。&lt;/p&gt;
+&lt;p&gt;项目涉及技术&lt;/p&gt;
+&lt;p&gt;Java，hadoop YARN，Flume，Kafka，Spark-streaming，Hbase&lt;/p&gt;
+&lt;p&gt;Hadoop YARN：分布式文件存储系统、资源管理平台，负责spark-streaming的文件存储和资源分配&lt;/p&gt;
+&lt;p&gt;Flume：实时收集、过滤、聚合各种日志数据&lt;/p&gt;
+&lt;p&gt;Kafka：分布式高并发消息队列，负责缓存Flume采集的数据并为下游的各种计算提供高并发的数据处理&lt;/p&gt;
+&lt;p&gt;Spark-streaming：基于内存的高吞吐量实时流式计算&lt;/p&gt;
+&lt;p&gt;Hbase：亿级行百万列并可毫秒级查询的数据库，可快速查询我们的计算数据&lt;/p&gt;
+&lt;p&gt;【提醒】参团即送基础课，先买先学，夯实基础，事半功倍！！&lt;/p&gt;
+&lt;p&gt;适用人群&lt;/p&gt;
+&lt;p&gt;1、对大数据有简单了解的学员；&lt;/p&gt;
+&lt;p&gt;2、有java编程基础想做大数据实时计算的学员；&lt;/p&gt;
+&lt;p&gt;3、想转行或者从事海量数据实时计算的学员；&lt;/p&gt;
+&lt;p&gt;4、想提升大数据相关技能和积累项目经验的学员；&lt;/p&gt;
+&lt;p&gt;课程目标&lt;/p&gt;
+&lt;p&gt;1、熟悉掌握大数据实时计算一体化的处理流程，包括数据采集、数据存储、数据处理、处理结构毫秒级查询&lt;/p&gt;
+&lt;p&gt;2、熟悉掌握Flume数据采集、过滤、聚合不同来源不同类型的海量日志&lt;/p&gt;
+&lt;p&gt;3、熟悉掌握Kafka的体系结构、生产者、消费者、分区以及上下游的结合&lt;/p&gt;
+&lt;p&gt;4、熟悉掌握spark-streaming流式计算编程，熟悉各种算子的计算逻辑&lt;/p&gt;
+&lt;p&gt;5、熟悉掌握hbase表、列族、列、rowkey、过滤器、计数器的使用以及设计&lt;/p&gt;
+&lt;p&gt;6、能够让学员在以后的工作中举一反三，对不同的需求有能力独立设计方案，真正掌握大数据实时计算&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="大数据" scheme="https://www.jucaizhan.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="实战" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%88%98/"/>
+    
+      <category term="大数据" scheme="https://www.jucaizhan.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+      <category term="实时处理" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%97%B6%E5%A4%84%E7%90%86/"/>
+    
+      <category term="Spark" scheme="https://www.jucaizhan.com/tags/Spark/"/>
+    
+      <category term="大讲台" scheme="https://www.jucaizhan.com/tags/%E5%A4%A7%E8%AE%B2%E5%8F%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大数据实时计算系统实践</title>
+    <link href="https://www.jucaizhan.com/%E5%B0%8F%E8%B1%A1%E5%AD%A6%E9%99%A2/%E5%B0%8F%E8%B1%A1%E5%AD%A6%E9%99%A2%E3%80%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B7%B5%E3%80%8B2018/"/>
+    <id>https://www.jucaizhan.com/小象学院/小象学院《大数据实时计算系统实践》2018/</id>
+    <published>2019-02-24T10:32:13.000Z</published>
+    <updated>2019-02-24T13:44:05.694Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn.chinahadoop.cn/files/course/2019/02-18/1605255a9e21777337.png" alt="image"></p><p>课程名称: </p><p>《大数据实时计算系统实践》第一期 </p><p>主讲老师：</p><p>余海琳 原阿里巴巴资深研发工程师</p><p>曾就职于阿里巴巴任资深研发工程师，从事分布式网络系统研发，包括内核TCP/IP网络协议、DDOS攻击防御、负载均衡、RPC网络通讯以及分布式系统开发维护，对系统开发有比较深入的理解。现任某大型互联网公司，从事大数据分布式实时流计算引擎Flink研发工作、业务支撑，负责维护公司内部Flink版本，跟进新技术点落地实战。</p><p>罗江宇  原新浪微博资深研发工程师</p><p>研究生毕业于浙江大学，曾就职于新浪微博，目前就职于某大型互联网公司，从事Flink集群维护，业务支撑和研发工作， 有Flink 大规模生产经验。</p><p>闵文俊  资深研发工程师</p><p>毕业于南京理工大学，目前就职于某大型互联网公司，从事Flink集群维护，业务支撑和研发优化工作，有Flink大规模生产经验。</p><p>刘博宇  资深研发工程师</p><p>就职于某大型互联网公司，从事大数据基础平台建设相关工作，负责Druid集群维护与研发工作。</p><p>课程简介：</p><p>本次的课程主要包括三大部分：</p><ol><li>Flink基本原理概述。指导学员了解并掌握Flink使用过程中设计到的基本概念和简要API，介绍大数据实时流计算相关生态体系，着重梳理清楚Flink上下游体系，掌握Flink的核心技术原理，建立大数据实时流计算的方法论思维。</li><li>Flink实战生产技术。从实战出发，围绕实时流计算业务场景分析、基本编程模型、高级特性等系统性介绍Flink实时流计算的实战技术，使得学员具备研发Flink实时流计算相关应用的基础能力。</li><li>Druid是一款支持数据实时写入、低延时、高性能的OLAP引擎，具有优秀的数据聚合能力与实时查询能力。在大数据分析、实时计算、监控等领域都有特定的应用场景，是大数据基础架构建设中重要的一环。本次课程我们将介绍Druid的核心特性与原理，以及在性能调优以及最佳实践经验。</li></ol><p>面向人群：</p><ol><li>希望学习大数据实时流计算和实时OLAP的学生；</li><li>希望了解大数据实时流计算和OLAP实战技术的IT从业人员；</li><li>未来希望成为大数据实时流计算的求职者；</li><li>想在大数据实时流计算方向和OLAP方面进行深入研究者。</li></ol><p>学习收益：</p><p>通过本课程的学习，学员将会收获：</p><ol><li>学员将系统性的了解并掌握大数据实时流计算的基本技术原理，结合Flink的生产技术案例，可基本实现独立开发、业务场景分析能力；</li><li>了解大数据实时流计算上下游生态；</li><li>理解Druid基础特性与正确使用方式，基本工作原理，并了解Druid面向的问题域以及典型的使用场景；</li><li>对有志于从事大数据实时流计算以及OLAP研发的学员，提供系统实现原理的讲解与指导。</li></ol><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://www.chinahadoop.cn/course/1103" target="_blank" rel="noopener">https://www.chinahadoop.cn/course/1103</a><br></blockquote><p>开课时间：</p><p>2018年2月27日</p><p>学习方式：</p><p>在线直播，共10次课，每次2小时</p><p>每周2次（周二、四，20:00 - 22:00）</p><p>直播后提供录制回放视频，可在线反复观看，有效期1年</p><p>课程大纲：</p><p>第一课： Flink基本概念与部署            </p><ol><li>Flink 简介</li><li>编程模型</li><li>运行时概念</li><li>应用部署与原理</li></ol><p>a. 部署模式</p><p>b. On-Yarn 启动设置与原理</p><p>c. Job 启动设置与原理</p><p>第二课： DataStream        </p><ol><li>DataStreamContext环境</li><li>数据源(DataSource)<ol><li>转化(Transformation)</li></ol></li><li>数据Sink</li></ol><p>第三课：Window &amp; Time</p><pre><code>1. Window介绍</code></pre><p>a. 为什么要有Window</p><p>b. Window类型</p><ol><li>Window API的使用</li></ol><p>a. Window的三大组件</p><p>b. Time&amp;watermark</p><p>c. 时间语义</p><p>d. 乱序问题解决WaterMark</p><p>e. AllowLateness正确设置与理解</p><p>f. Sideoutput在Window中的使用</p><ol><li>Window的内部实现原理</li></ol><p>a. Window的处理流程</p><p>b. Window中的状态存储</p><ol><li>生产环境中的Window使用遇到的一些问题</li></ol><p>第四课： Connector</p><ol><li><p>基本Connnector</p></li><li><p>自定义Source 与 Sink</p></li><li><p>Kafka-connecotor      </p></li></ol><p>a. Kafka 简介<br>b. Kafka Consumer 与Sink 的正确使用方式        </p><p>c. Kafka-Connector 内部机制与实现原理 </p><p>第五课： 状态管理与恢复机制 </p><ol><li>基本概念<ol><li>KeyState 基本类型及用法<br>a.  ValueState</li></ol></li></ol><p>b.  ListState</p><p>c.  ReduceState</p><p>d.  FoldState</p><p>e.  AggregatingState</p><ol><li><p>OperatorState基本用法</p></li><li><p>Checkpoint</p><pre><code>a.  概念</code></pre><p>b. 开启checkpoint</p><pre><code>c.  基本原理</code></pre></li></ol><p>第六课： Metrics 与监控 </p><ol><li><p>Metrics的种类</p></li><li><p>Metrics的获取方式</p></li></ol><p>a. Web Ui</p><p>b. Rest API</p><p>c. MetricReporter</p><ol><li><p>用户自定义Metric指标方式</p></li><li><p>监控和诊断:Metric和Druid 实时OLAP联合使用</p></li></ol><p>a. Metric上报</p><p>b. Metric指标聚合</p><p>c. Metric的分类和格式定义</p><ol><li>Druid查询和指标系统</li></ol><p>a. Flink作业反压监控</p><p>b. Flink作业的延迟监控</p><p>c. 其他</p><ol><li><p>Metric系统的内部实现</p></li><li><p>生产环境中的案例分析 – 通过指标来排查应用问题</p></li></ol><p>第七课： Flink应用案例介绍</p><ol><li><p>数据清洗：map/flatmap等</p></li><li><p>监控告警系统</p></li></ol><p>a. 数据拉平</p><p>b. 基础窗口计算等</p><ol><li><p>线上运营系统</p></li><li><p>风控系统    </p></li></ol><p>第八课： Druid基本概念与架构设计 </p><ol><li>Druid与OLAP VS Kylin、ES等</li><li><p>Druid与指标系统 VS 各种时序数据库</p></li><li><p>Druid特性</p></li><li><p>基本架构:角色节点与基本职责</p></li></ol><p>a.  角色行为</p><p>b. 角色暴露的API</p><ol><li>基本架构:外部依赖</li></ol><p>a. MySQL数据结构</p><p>b. ZK数据结构</p><p>c. HDFS数据结构</p><p>第九课： Druid数据写入与查询 </p><ol><li>数据流向与存储格式<br>a. 数据写入流程</li></ol><p>b. 存储与索引格式</p><ol><li>实时数据写入</li></ol><p>a. Firehose</p><p>b. Realtime Node</p><p>c. Index-Service原理介绍</p><p>d. Tranquility原理介绍</p><p>e. Kafka-index-service原理</p><ol><li>离线数据写入<br>a. Indexer</li></ol><p>b. MR Indexer </p><ol><li>查询模式与查询类型介绍</li></ol><p>第十课： Druid实践介绍</p><ol><li>容错设计</li></ol><ol><li><p>指标监控</p><p>a. 基于Graphite搭建指标监控系统</p></li></ol><p>b. 重要的指标项</p><ol><li>运维实践</li></ol><p>a. 数据修复</p><p>b. 集群升级实践</p><p>c. Segment元数据管理</p><p>d. JVM调优</p><p>c. 资源隔离</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 内容打赏后可见</span><br>      <span class="post-copyright-info"><a href="http://t.cn/EfJEd9C" target="_blank" rel="noopener">打赏</a></span><br>    </div><br></div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://cdn.chinahadoop.cn/files/course/2019/02-18/1605255a9e21777337.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;课程名称: &lt;/p&gt;
+&lt;p&gt;《大数据实时计算系统实践》第一期 &lt;/p&gt;
+&lt;p&gt;主讲老师：&lt;/p&gt;
+&lt;p&gt;余海琳 原阿里巴巴资深研发工程师&lt;/p&gt;
+&lt;p&gt;曾就职于阿里巴巴任资深研发工程师，从事分布式网络系统研发，包括内核TCP/IP网络协议、DDOS攻击防御、负载均衡、RPC网络通讯以及分布式系统开发维护，对系统开发有比较深入的理解。现任某大型互联网公司，从事大数据分布式实时流计算引擎Flink研发工作、业务支撑，负责维护公司内部Flink版本，跟进新技术点落地实战。&lt;/p&gt;
+&lt;p&gt;罗江宇  原新浪微博资深研发工程师&lt;/p&gt;
+&lt;p&gt;研究生毕业于浙江大学，曾就职于新浪微博，目前就职于某大型互联网公司，从事Flink集群维护，业务支撑和研发工作， 有Flink 大规模生产经验。&lt;/p&gt;
+&lt;p&gt;闵文俊  资深研发工程师&lt;/p&gt;
+&lt;p&gt;毕业于南京理工大学，目前就职于某大型互联网公司，从事Flink集群维护，业务支撑和研发优化工作，有Flink大规模生产经验。&lt;/p&gt;
+&lt;p&gt;刘博宇  资深研发工程师&lt;/p&gt;
+&lt;p&gt;就职于某大型互联网公司，从事大数据基础平台建设相关工作，负责Druid集群维护与研发工作。&lt;/p&gt;
+&lt;p&gt;课程简介：&lt;/p&gt;
+&lt;p&gt;本次的课程主要包括三大部分：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Flink基本原理概述。指导学员了解并掌握Flink使用过程中设计到的基本概念和简要API，介绍大数据实时流计算相关生态体系，着重梳理清楚Flink上下游体系，掌握Flink的核心技术原理，建立大数据实时流计算的方法论思维。&lt;/li&gt;
+&lt;li&gt;Flink实战生产技术。从实战出发，围绕实时流计算业务场景分析、基本编程模型、高级特性等系统性介绍Flink实时流计算的实战技术，使得学员具备研发Flink实时流计算相关应用的基础能力。&lt;/li&gt;
+&lt;li&gt;Druid是一款支持数据实时写入、低延时、高性能的OLAP引擎，具有优秀的数据聚合能力与实时查询能力。在大数据分析、实时计算、监控等领域都有特定的应用场景，是大数据基础架构建设中重要的一环。本次课程我们将介绍Druid的核心特性与原理，以及在性能调优以及最佳实践经验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;面向人群：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;希望学习大数据实时流计算和实时OLAP的学生；&lt;/li&gt;
+&lt;li&gt;希望了解大数据实时流计算和OLAP实战技术的IT从业人员；&lt;/li&gt;
+&lt;li&gt;未来希望成为大数据实时流计算的求职者；&lt;/li&gt;
+&lt;li&gt;想在大数据实时流计算方向和OLAP方面进行深入研究者。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;学习收益：&lt;/p&gt;
+&lt;p&gt;通过本课程的学习，学员将会收获：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;学员将系统性的了解并掌握大数据实时流计算的基本技术原理，结合Flink的生产技术案例，可基本实现独立开发、业务场景分析能力；&lt;/li&gt;
+&lt;li&gt;了解大数据实时流计算上下游生态；&lt;/li&gt;
+&lt;li&gt;理解Druid基础特性与正确使用方式，基本工作原理，并了解Druid面向的问题域以及典型的使用场景；&lt;/li&gt;
+&lt;li&gt;对有志于从事大数据实时流计算以及OLAP研发的学员，提供系统实现原理的讲解与指导。&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+      <category term="大数据" scheme="https://www.jucaizhan.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="大数据" scheme="https://www.jucaizhan.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+      <category term="实时处理" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%97%B6%E5%A4%84%E7%90%86/"/>
+    
+      <category term="Flink" scheme="https://www.jucaizhan.com/tags/Flink/"/>
+    
+      <category term="小象学院" scheme="https://www.jucaizhan.com/tags/%E5%B0%8F%E8%B1%A1%E5%AD%A6%E9%99%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>【徐葳】Flink入门及实战上下合集</title>
@@ -481,167 +710,6 @@
       <category term="React Native" scheme="https://www.jucaizhan.com/tags/React-Native/"/>
     
       <category term="APP开发" scheme="https://www.jucaizhan.com/tags/APP%E5%BC%80%E5%8F%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>纯正商业级应用-微信小程序开发实战</title>
-    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/155_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E7%BA%AF%E6%AD%A3%E5%95%86%E4%B8%9A%E7%BA%A7%E5%BA%94%E7%94%A8-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E3%80%8B_2018/"/>
-    <id>https://www.jucaizhan.com/慕课网/155_慕课网_《纯正商业级应用-微信小程序开发实战》_2018/</id>
-    <published>2018-10-10T08:41:21.000Z</published>
-    <updated>2019-02-24T07:12:04.065Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="//img.mukewang.com/szimg/5b4bfb7000019d2e10800600-360-202.jpg" alt="image"></p><p>纯正商业级应用-微信小程序开发实战<br>小程序的成功，让广大程序员早已不再纠结该不该学习小程序开发 ，但会纠结如何学习小程序开发，直到他们遇到了 “七月”老师，你可以自行看看七月老师其它课程的学员对他课程的真实评价，选择他的课，不需要纠结，更不需要犹豫<br>第1章 导学与申请appkey<br>如何更好的学习本课程？如何申请开发者key？如何调用和测试接口？</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/251.html" target="_blank" rel="noopener">https://coding.imooc.com/class/251.html</a></blockquote><br><p>1-1 微信小程序商业级实战-课程导学。<br>1-2 优先自己开发<br>1-3 appkey的申请<br>1-4 课程维护说明<br>第2章 准备工作<br>开发前的准备工作以及第三方开发工具的选择</p><p>2-1 流程与开发前准备<br>2-2 新建小程序项目<br>2-3 。小程序开发工具介绍<br>2-4 第三方开发工具介绍<br>第3章 小程序的基础知识与新特性<br>讲解小程序的一些必须要掌握的基础知识，如文件类型、项目结构、配置文件等。部分之前老课程中没有涉及的重要新特性也会在本章节提及</p><p>3-1 小程序的4种文件类型<br>3-2 小程序的组织结构<br>3-3 新建第一个小程序页面<br>3-4 -1 消除错误提示<br>3-5 app.json配置之导航栏<br>3-6 app.json之background窗口<br>3-7 wxml与组件<br>第4章 flex布局<br>我们将在本章中详细学习flex布局的基础知识，为在项目中灵活应用flex布局打下坚实的基础</p><p>4-1 小程序代码编写规范<br>4-2 所谓布局<br>4-3 block、inline与inline-block<br>4-4 flex容器将消除item的块状特性<br>4-5 flex-direction的应用<br>4-6 reverse倒序排布<br>4-7 reverse效果揭秘<br>4-8 justify-content属性解析 一<br>4-9 justify-content属性解析 二<br>4-10 主轴与交叉轴(重要) 一<br>4-11 主轴与交叉轴（二）<br>4-12 baseline与stretch<br>4-13 flex-wrap与消除间距<br>第5章 小程序基础知识与初识小程序组件<br>本章我们将学习全局样式、相对/绝对路径、尺寸单位等小程序基础知识。同时，我们将初步介绍小程序自定义组件。</p><p>5-1 细节决定成败<br>5-2 组件概述<br>5-3 定义、引用与使用组件<br>5-4 相对路径与绝对路径<br>5-5 like组件实现<br>5-6 小程序尺寸单位与设计原则（重要）<br>5-7 小程序支持的css选择器远比文档中要多<br>5-8 苹方字体设置<br>5-9 page样式的巧妙应用<br>5-10 组件只能继承极少数全局样式<br>5-11 组件最好不要留有空白间距<br>5-12 固定宽度还是自适应？<br>5-13 组件事件与事件处理<br>第6章 组件数据、事件与属性<br>本章我们将深入学习组件的开放性与封闭性以及组件封装的原则</p><p>6-1 数据来源的三种途径<br>6-2 数据绑定<br>6-3 三元表达式与图片切换<br>6-4 组件的封闭性、开放性及粒度<br>6-5 组件的properties属性详解<br>6-6 let、var与组件事件应用<br>第7章 访问API数据与ES6在小程序中的应用<br>本章，我们将从一个简单wx.request开始，讲解同步与异步的区别，promise的意义，ES6中箭头函数、class、const、module、export与import在小程序中的巧妙应用。同时，我们也将初步探讨封装代码的必要性</p><p>7-1 看待组件的两种观点（重要）<br>7-2 Blink API介绍与测试API<br>7-3 生命周期函数<br>7-4 wx.request-4xx状态码并不会执行fail<br>7-5 访问API获取数据<br>7-6 同步、异步与回调函数<br>7-7 ES6箭头函数与this指代<br>7-8 正确理解Promise(选看）<br>7-9 ES6 const常量<br>7-10 ES6 Module export与import<br>7-11 HTTP类的封装与ES6 startsWith<br>7-12 分析问题的思维培养与练习<br>7-13 分析问题的思维培养与练习二<br>7-14 回调函数传递<br>7-15 通用错误异常处理（重要）<br>第8章 流行页面编码与组件的细节知识<br>本章，我们将逐步编写流行页面中剩余的电影组件、期刊组件、导航组件，并进一步的完善喜欢组件。同时，我们将在本章节进一步的讲解setData的真正意义、组件封装粒度、系统事件与自定义事件、properties和data的区别等重要的知识。本章内容非常丰富，加油吧。 …</p><p>8-1 什么是“剥夺函数return的能力”<br>8-2 组件属性赋值与页面渲染流程解析<br>8-3 setData的误区（重要）<br>8-4 movie组件的实现<br>8-5 再谈组件的粒度<br>8-6 自定义事件的激活与监听<br>8-7 喜欢还是不喜欢<br>8-8 组件的生命周期函数<br>8-9 组件的data与properties的“奇怪”现象<br>8-10 业务逻辑到底写组件里还是页面里<br>8-11 observer函数的应用<br>8-12 注意防范内存泄漏<br>8-13 千万不要在observer中修改自身属性值<br>8-14 epsoide组件与流行页面样式<br>第9章 Behavior行为与加入缓存系统优化流行页面<br>即使服务器返回数据的速度再快，我们依然需要在页面中加入缓存系统来优化用户体验。组件是一种复用的逻辑，但多个组件间的共同JS代码又改如何复用？使用Behaviors行为将解决这个问题。同时，我们也将谈谈Behavior和多继承的思想。…</p><p>9-1 navi组件与移动端触碰区域探讨<br>9-2 navi组件与flex宽度陷阱<br>9-3 禁用事件的技巧<br>9-4 music组件初步实现<br>9-5 初识组件的Behavior行为<br>9-6 behavior 继承与多继承的覆盖规则（重要）<br>9-7 初步实现期刊切换<br>9-8 是否是最新期刊的判断逻辑<br>9-9 使用Storage保存最新期刊号<br>9-10 onNext与函数重构技巧<br>第10章 新版Music组件、组件通信与wxss样式复用<br>本章，我们将进一步优化缓存带来的附加问题。缓存的使用绝对不仅仅是setStorage和getStorage这么简单，缓存的加入将带来一些新的问题，这些问题的处理细节体现了一个前端程序员的成熟度。同时，我们还将学习ES6扩展运算符和模板字符串在小程序中的应用、wxss样式的复用、让自定义组件支持hidden属性与组件通信。本章是业务…</p><p>10-1 谈谈缓存对于改善用户体验的作用<br>10-2 解决缓存带来的问题<br>10-3 ES6模板字符串和扩展运算符的应用<br>10-4 独立更新like组件状态<br>10-5 如何让自定义组件支持hidden？<br>10-6 @import在组件间复用样式<br>10-7 music组件样式<br>10-8 新版音乐播放对象<br>10-9 组件间通信<br>10-10 hidden不会触发组件的detached，但wxif会<br>10-11 完成音乐播放<br>10-12 用简洁的代码优化音乐播放<br>10-13 真实感受Component与Model的好处<br>第11章 Promise正确用法与函数签名设计技巧<br>目前来说，由于小程序占时不支持async与await，所以Promise是小程序处理异步的最佳解决方案。即使支持async，它也只是Promise的语法糖，所以Promise是必须要学习的基础。很多同学对于Promise的理解不够深刻，导致Promise使用不正确。本章我们将讲解Promise的正确使用方式，重构http.js，同时还将使用ES6对象解构、默认值等…</p><p>11-1 tabBar配置<br>11-2 airbnb编码规范<br>11-3 纯粹回调、Promise与async、await<br>11-4 Promise的本质与用法<br>11-5 Promise重构 一 参数列表设计原则与默认值<br>11-6 Promise重构 二 重构request<br>11-7 Promise重构 三 对象解构<br>11-8 Promise的正确用法<br>第12章 组件高级应用<br>本章我们将探讨组件的slot插槽和外部样式类。组件最难平衡的是内置默认样式和用户自定义样式的需求，我们将一起来探讨一个不错的解决方案。我们将看到，小程序其实不仅仅提供了属性、还提供了wxml的标签的传递与样式的传递。wxml的传递是通过插槽，样式的传递是通过externalClass…</p><p>12-1 图书组件<br>12-2 列表渲染<br>12-3 书籍首页布局<br>12-4 巧用flex布局简化CSS<br>12-5 wx：key的用法与意义<br>12-6 项目型组件与通用性组件<br>12-7 书籍详情页面三组数据加载<br>12-8 三种小程序编译模式<br>12-9 标签组件难点提示<br>12-10 标签布局<br>12-11 组件设计思想：slot插槽的使用<br>12-12 自定义组件样式探讨 一：hack方式<br>12-13 自定义样式探讨2：外部样式的概念<br>12-14 自定义组件样式3：外部样式的问题<br>12-15 自定义样式4：外部样式如何强制覆盖普通样式<br>12-16 外部样式类的使用技巧<br>第13章 小程序wxs的应用<br>wxs是微信为小程序定制的一套脚本语言，同JS类似，但又有很多不同。很多同学认为wxs没有什么用，但其实是很有用的。比如开源组件中就可以提供一套wxs编写的filter过滤器。本章，我们将来深入探讨一下wxs的应用场景。</p><p>13-1 分析换行符 不解析换行的原因<br>13-2 wxs的概念与应用1<br>13-3 wx的概念与应用2<br>13-4 wx的概念与应用3<br>13-5 在小程序中编写limit过滤器<br>13-6 短评功能分析<br>13-7 短评实现一<br>13-8 短评实现二<br>13-9 短评实现三：在wxml中编写wxs代码<br>13-10 短评实现四：mask组件<br>13-11 短评实现五：提交短评数据<br>13-12 短评实现六：支持input输入短评<br>13-13 短评实现七：细节处理<br>第14章 搜索与高阶组件<br>搜索基本上是任何一个产品都不会缺少的功能。但是一个好的搜索组件，细节是非常多的。本章，我们将完成历史搜索、热门搜索等诸多商业级严谨搜索功能。同时，我们也将提出“高阶组件的”概念，区别于普通组件，高阶组件更为复杂 …</p><p>14-1 并行请求与串行请求<br>14-2 Promise.all与Promise.race<br>14-3 高阶组件示例1：搜索组件<br>14-4 自定义组件的models目录探讨<br>14-5 数据结构队列的应用<br>14-6 队列测试<br>14-7 实现历史搜索<br>14-8 实现热门搜索<br>14-9 搜索实现1<br>14-10 搜索实现2<br>14-11 搜索实现3<br>14-12 搜索实现4：动态绑定input输入<br>第15章 代码重构与行为抽象<br>本章我们将重构搜索代码，将分页逻辑提取成一个“行为”。以后，当我们遇到任何一个需要使用分页逻辑的组件时都可以服用分页Behavior。此外，本章有大量的细节需要我们完善。比如如何对搜索加“锁”，如何判断是否还有更多数据等。 …</p><p>15-1 用随机字符串触发Oberver函数<br>15-2 加载更多数据的判断技巧<br>15-3 使用锁的概念解决重复加载数据的问题<br>15-4 是否还有更多数据的判断逻辑<br>15-5 组件行为逻辑抽象——分页行为<br>15-6 搜索代码重构——增强代码可阅读性<br>15-7 注意避免死锁<br>15-8 特别注意setData与直接赋值的区别<br>15-9 空搜索结果的处理<br>第16章 高级知识与应用<br>本章，我们将试着学习和应用一些比较抽象的知识。这些知识并不是必备的，但好的程序员必须学会这种思维和编码习惯。我们将在本章进一步优化和重构代码，学习新版微信授权机制、自定义小程序button组件、将内置的小程序API转换成Promise、复用整个Page等知识。…</p><p>16-1 将锁提取到分页行为中<br>16-2 open-data显示用户信息<br>16-3 新版微信授权机制<br>16-4 wx.getUserInfo需要用户先授权<br>16-5 通过opensetting判断用户是否授权<br>16-6 自定义button实现获取用户信息<br>16-7 为什么有open-data还需要getUserInfo？<br>16-8 自定义分享button<br>16-9 小程序之间的跳转<br>16-10 preview组件<br>16-11 简单聊一下小程序云开发的场景和意义<br>本课程已完结</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="gPrX7Uf5355" style="display:none">gPrX7Uf5355</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;//img.mukewang.com/szimg/5b4bfb7000019d2e10800600-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
-&lt;p&gt;纯正商业级应用-微信小程序开发实战&lt;br&gt;小程序的成功，让广大程序员早已不再纠结该不该学习小程序开发 ，但会纠结如何学习小程序开发，直到他们遇到了 “七月”老师，你可以自行看看七月老师其它课程的学员对他课程的真实评价，选择他的课，不需要纠结，更不需要犹豫&lt;br&gt;第1章 导学与申请appkey&lt;br&gt;如何更好的学习本课程？如何申请开发者key？如何调用和测试接口？&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="移动开发" scheme="https://www.jucaizhan.com/categories/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
-    
-    
-      <category term="实战" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%88%98/"/>
-    
-      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
-    
-      <category term="2018" scheme="https://www.jucaizhan.com/tags/2018/"/>
-    
-      <category term="移动开发" scheme="https://www.jucaizhan.com/tags/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
-    
-      <category term="小程序" scheme="https://www.jucaizhan.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>学习Scala 进击大数据Spark生态圈</title>
-    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/154_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E5%AD%A6%E4%B9%A0Scala%E8%BF%9B%E5%87%BB%E5%A4%A7%E6%95%B0%E6%8D%AESpark%E7%94%9F%E6%80%81%E5%9C%88%E3%80%8B_10%E8%AF%BE_2018/"/>
-    <id>https://www.jucaizhan.com/慕课网/154_慕课网_《学习Scala进击大数据Spark生态圈》_10课_2018/</id>
-    <published>2018-09-30T05:41:21.000Z</published>
-    <updated>2019-02-24T07:12:04.064Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://szimg.mukewang.com/5af17d9500011dc105400300-360-202.jpg" alt="image"></p><p>观看导学视频</p><p>学习Scala 进击大数据Spark生态圈<br>大数据如火如荼，如果你想深入学习大数据，Scala是你必学必会的内容，这将是你成为“高薪”程序员的起点，关于Scala的介绍、课程很多，但能做到如此聚焦生产真实应用的课程凤毛麟角，所以，你千万不能错过</p><p>第1章 初识Scala<br>了解Scala是什么,学习Scala的意义何在, Scala安装，快速入门，Scala与Java开发对比</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/215.html" target="_blank" rel="noopener">https://coding.imooc.com/class/215.html</a></blockquote><br><p>1-1 Scala导学<br>1-2 -课程目录<br>1-3 -Scala概述<br>1-4 -学习Scala的意义何在<br>1-5 -Scala安装<br>1-6 -Scala使用入门<br>1-7 -HelloWorld案例Java和Scala版本对比<br>第2章 Scala入门<br>掌握Scala变量与常量，数据类型，lazy的使用，Scala开发IDEA选择以及使用IDEA整合Maven搭建Scala应用程序开发环境</p><p>2-1 -课程目录<br>2-2 -val和var的区别<br>2-3 -Scala数据类型<br>2-4 -lazy在Scala中的使用<br>2-5 -Scala IDE介绍<br>2-6 -IDEA整合Maven构建Scala应用程序及IDEA使用注意事项<br>第3章 Scala函数<br>掌握函数在Scala中的定义以及使用的注意实现，条件以及循环表达式在Scala中的使用</p><p>3-1 -课程目录<br>3-2 -函数的定义和使用<br>3-3 -默认参数<br>3-4 -命名参数<br>3-5 -可变参数<br>3-6 -条件表达式<br>3-7 -循环表达式<br>第4章 Scala对象<br>这是Scala中的重中之重，务必要掌握，涉及到的内容有：类、构造器、继承、重写、抽象类、伴生类以及伴生对象、apply方式的使用、case class以及trait</p><p>4-1 -课程目录<br>4-2 -面向对象概述<br>4-3 -类的定义和使用<br>4-4 -主构造器和附属构造器<br>4-5 -继承<br>4-6 -重写<br>4-7 -抽象类<br>4-8 -伴生类和伴生对象<br>4-9 -apply方法<br>4-10 -case class<br>4-11 -Trait<br>第5章 Scala集合<br>掌握Scala中数组、List、Set、Map、Tuple、Option的使用</p><p>5-1 -课程目录<br>5-2 -定长数组<br>5-3 -变长数组<br>5-4 -List<br>5-5 -Set<br>5-6 -Map<br>5-7 -Option&amp;Some&amp;None<br>5-8 -Tuple<br>第6章 Scala模式匹配<br>掌握Scala中的模式匹配：基本、Array、类型、case class、Option的模式匹配以及Scala中异常处理</p><p>6-1 -课程目录<br>6-2 -最基础的模式匹配<br>6-3 -加条件进行匹配<br>6-4 -Array模式匹配<br>6-5 -List模式匹配<br>6-6 -类型匹配<br>6-7 -Scala异常处理<br>6-8 -case class模式匹配<br>6-9 -Some None模式匹配<br>第7章 Scala函数高级操作<br>掌握Scala中字符串的高级操作，匿名函数，偏函数，以及高阶函数的使用(重点)</p><p>7-1 -课程目录<br>7-2 -字符串高级操作<br>7-3 -匿名函数<br>7-4 -currying函数<br>7-5 -高阶函数<br>7-6 -偏函数<br>第8章 Scala隐式转换<br>这是Scala中的亮点所在，也是最难理解的部分</p><p>8-1 -课程概述<br>8-2 -隐式转换概述<br>8-3 -隐式转换实战<br>8-4 -隐式转换切面封装<br>8-5 -隐式参数<br>8-6 -隐式类<br>第9章 Scala操作外部数据<br>使用Scala读写文本文件、网络数据、MySQL数据以及XML文件</p><p>9-1 -课程目录<br>9-2 -Scala读取文件及网络数据<br>9-3 -Scala读取MySQL数据<br>9-4 -Scala读取XML文件<br>9-5 -Scala读取XML属性内容<br>第10章 项目实战<br>综合Scala前面的知识点，通过项目实战融汇贯通，并整合Spring Boot进行项目实战</p><p>10-1 -课程目录<br>10-2 -项目技术概述<br>10-3 -项目需求<br>10-4 -项目需求分析<br>10-5 -环境搭建之SpringBoot&amp;Java<br>10-6 -环境搭建之SpringBoot&amp;Scala<br>10-7 -环境搭建之SpringBoot&amp;SpringData<br>10-8 -数据库元数据管理业务逻辑层开发<br>10-9 -数据库元数据管理之Controller层开发<br>10-10 -数据库元数据管理代码重构<br>10-11 -表元数据管理之业务逻辑层开发<br>10-12 -表元数据管理之Controller层开发<br>10-13 -元数据管理系统扩展<br>本课程已完结</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="LaZQTC95305" style="display:none">LaZQTC95305</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://szimg.mukewang.com/5af17d9500011dc105400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
-&lt;p&gt;观看导学视频&lt;/p&gt;
-&lt;p&gt;学习Scala 进击大数据Spark生态圈&lt;br&gt;大数据如火如荼，如果你想深入学习大数据，Scala是你必学必会的内容，这将是你成为“高薪”程序员的起点，关于Scala的介绍、课程很多，但能做到如此聚焦生产真实应用的课程凤毛麟角，所以，你千万不能错过&lt;/p&gt;
-&lt;p&gt;第1章 初识Scala&lt;br&gt;了解Scala是什么,学习Scala的意义何在, Scala安装，快速入门，Scala与Java开发对比&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="云计算&amp;大数据" scheme="https://www.jucaizhan.com/categories/%E4%BA%91%E8%AE%A1%E7%AE%97-%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
-    
-    
-      <category term="云计算&amp;大数据" scheme="https://www.jucaizhan.com/tags/%E4%BA%91%E8%AE%A1%E7%AE%97-%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
-    
-      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
-    
-      <category term="2018" scheme="https://www.jucaizhan.com/tags/2018/"/>
-    
-      <category term="Scala" scheme="https://www.jucaizhan.com/tags/Scala/"/>
-    
-      <category term="Spark" scheme="https://www.jucaizhan.com/tags/Spark/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ES6+ 开发电商网站的账号体系 JS SDK</title>
-    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/153_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AES6+%E5%BC%80%E5%8F%91%E7%94%B5%E5%95%86%E7%BD%91%E7%AB%99%E7%9A%84%E8%B4%A6%E5%8F%B7%E4%BD%93%E7%B3%BBJSSDK%E3%80%8B_12%E8%AF%BE_2017/"/>
-    <id>https://www.jucaizhan.com/慕课网/153_慕课网_《ES6+开发电商网站的账号体系JSSDK》_12课_2017/</id>
-    <published>2018-09-30T05:40:21.000Z</published>
-    <updated>2019-02-24T07:12:04.064Z</updated>
-    
-    <content type="html"><![CDATA[<p>ES6+ 开发电商网站的账号体系 JS SDK<br>实战中贯穿ES6+ 语法，前端完全使用原生JS语法，不依赖框架，实现模块、组件、请求、视图渲染和事件绑定等，打造一个电商网站的账号体系SDK，提升自己的开发效率和代码可维护性。</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/152.html" target="_blank" rel="noopener">https://coding.imooc.com/class/152.html</a></blockquote><br><p>第1章 课程简介<br>本章主要对整个课程的内容进行简要介绍，包括前置知识简介、章节安排、代码效果展示等，会从大的方面对ES6+在实战中的意义进行介绍和比较，让你对课程有一个初步印象</p><p>1-1 课程导学<br>第2章 ES6+实战所需要的环境<br>本章主要介绍ES6+实战中必备的两个工具：Babel和webpack，以及工程化中脚手架工具的重要性和意义，介绍html-bundler这样一个脚手架工具（后面实战会用到）</p><p>2-1 ES6浏览器支持情况<br>2-2 webpack讲解与示例<br>2-3 Babel讲解与示例<br>2-4 html-bundler具体用法<br>2-5 环境准备<br>2-6 本章小结<br>第3章 需求分析与架构设计<br>本章讲解为什么要进行这样的设计，以及前端开发从需求分析、总体设计到模块设计再到代码编写的整个过程，进行思路的梳理，以及SDK常用开发套路的介绍</p><p>3-1 .需求分析<br>3-2 架构设计<br>3-3 业务模块demo<br>3-4 公共模块demo<br>第4章 最常用ES6语法讲解以及课程环境搭建<br>本章主要对后面用到最多的几个ES6+语法进行前置讲解，包括import和export，let和const，箭头函数等。使用html-bundler搭建课程环境，讲解一些webpack和babel一些最新的相关插件和配置</p><p>4-1 创建项目<br>4-2 真实环境安装小结<br>4-3 import &amp; export讲解1<br>4-4 import &amp; export讲解2<br>4-5 let&amp;const 讲解<br>4-6 箭头函数讲解<br>第5章 登录模块开发-骨架及渲染部分<br>本章开始进行登录模块开发，主要讲解模块骨架搭建和视图渲染部分，并在项目中讲解ES6+中的Object.assign， 模板字符串等语法。介绍消除浏览器自带自动填充的技巧</p><p>5-1 业务开始<br>5-2 Object.assign<br>5-3 export<br>5-4 模板字符串<br>5-5 基本模板和自动补全1<br>5-6 自动补全2<br>5-7 getID<br>5-8 渲染结束<br>第6章 登录模块开发-表单验证/事件/请求部分<br>本章主要讲解登录模块中的事件绑定/表单验证/向服务器请求数据/前端数据Mock等内容，结合项目讲解ES6+中的async和await, Array.from, Promise 等API，以及新版浏览器的fetch API。并且对async和await，Promise， fetch之间的关系及结合使用进行了讲解…</p><p>6-1 选取元素<br>6-2 import和export时的重命名<br>6-3 建好骨架<br>6-4 fetch, async&amp;await<br>6-5 promise讲解<br>6-6 await使用注意<br>6-7 表单验证<br>6-8 表单验证展示<br>6-9 登录结束<br>第7章 注册模块开发 - 手机号注册部分<br>本章主要讲解注册模块中的手机号注册，活人验证部分，讲解活人验证的原理和实现，结合项目讲解ES6+中的class、Symbol等语法点。</p><p>7-1 活人验证原理介绍和搭建骨架<br>7-2 第一步的模板<br>7-3 活人验证骨架搭建<br>7-4 symbol语法讲解1<br>7-5 symbol&amp;class语法讲解2<br>7-6 滑块界面渲染部分<br>7-7 验证滑块整体完成（1）<br>7-8 验证滑块整体完成（2）<br>7-9 调用验证滑块<br>7-10 完成第一步手机号提交<br>7-11 完成第二步手机号验证<br>第8章 注册模块开发 - 个人信息部分<br>本章主要讲解注册模块中的个人信息填写部分，包括表单验证、省市区三级联动插件等技术点，结合项目回顾之前讲到的ES6+中的class、Symbol、async/await等语法点。</p><p>8-1 开始<br>8-2 模板渲染<br>8-3 .字符串unicode支持讲解<br>8-4 .正则表达式unicode支持讲解<br>8-5 . 正则unicode在表单验证业务中的运用<br>8-6 . 搭建省市区三联插件框架1<br>8-7 . 搭建省市区三联插件2<br>8-8 . 完成省市区三联框架3<br>8-9 . 三联插件中新的语法点<br>8-10 . 完成注册用户信息流程<br>第9章 注册模块开发 - 支付方式绑定和整体串联部分<br>本章主要讲解注册模块中的支付方式绑定，将整个注册流程串起来并回顾注册流程中涉及的技术点。</p><p>9-1 绑定支持方式<br>9-2 绑定支付方式完成<br>9-3 如何在单页应用中使用SDK<br>9-4 如何在react中使用sdk<br>第10章 账号设置模块开发<br>本章主要讲解账号设置部分，包括收货地址管理、安全设置、个人资料编辑，对之前一些大的语法点进行巩固和复习，穿插一些小的记忆性API。</p><p>10-1 用户资料页设置01<br>10-2 用户资料页设置02<br>10-3 改造省市区插件<br>10-4 收货地址设置-模板<br>10-5 收货地址设置<br>10-6 收货地址管理-事件绑定01<br>10-7 收货地址管理-事件绑定02<br>10-8 安全设置页面<br>第11章 密码找回模块开发<br>本章主要讲解密码找回部分的开发，包括手机号找回和邮箱找回，对之前一些大的语法点进行巩固和复习，穿插一些小的记忆性API。</p><p>11-1 重置密码_1<br>11-2 重置密码_2<br>11-3 课程回顾<br>第12章 整体串联和总结<br>本章会讲解开发完成的SDK如何落地在下游业务上构成一个完整的流程，并对整个项目进行回顾与总结，包括项目中用到的ES6+语法点、SDK开发的套路、账号体系的前端业务等</p><p>12-1 课程总结(ES6+)<br>12-2 课程总结(开发流程与设计方法)<br>12-3 课程总结（真实环境搭建）<br>12-4 html-bundler介绍（1）<br>12-5 html-bundler介绍（2）<br>12-6 课程总结（语法应用一）<br>12-7 课程总结（语法应用二）<br>12-8 课程总结（语法应用三）<br>12-9 课程总结（语法应用四）<br>12-10 课程总结（SDK开发要点）<br>12-11 课程总结（账号体系开发要点）<br>本课程已完结</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="dvXhKWv5244" style="display:none">dvXhKWv5244</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;ES6+ 开发电商网站的账号体系 JS SDK&lt;br&gt;实战中贯穿ES6+ 语法，前端完全使用原生JS语法，不依赖框架，实现模块、组件、请求、视图渲染和事件绑定等，打造一个电商网站的账号体系SDK，提升自己的开发效率和代码可维护性。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="前端开发" scheme="https://www.jucaizhan.com/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
-    
-    
-      <category term="2017" scheme="https://www.jucaizhan.com/tags/2017/"/>
-    
-      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
-    
-      <category term="前端开发" scheme="https://www.jucaizhan.com/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
-    
-      <category term="ES6" scheme="https://www.jucaizhan.com/tags/ES6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>最容易上手的Vue 2.0入门实战教程</title>
-    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/152_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E6%9C%80%E5%AE%B9%E6%98%93%E4%B8%8A%E6%89%8B%E7%9A%84Vue2.0%E5%85%A5%E9%97%A8%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B%E3%80%8B_8%E8%AF%BE_2017/"/>
-    <id>https://www.jucaizhan.com/慕课网/152_慕课网_《最容易上手的Vue2.0入门实战教程》_8课_2017/</id>
-    <published>2018-09-30T05:38:21.000Z</published>
-    <updated>2019-02-24T07:12:04.063Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://szimg.mukewang.com/5aab7f270001909810800600-360-202.jpg" alt="image"></p><p>最容易上手的Vue 2.0入门实战教程<br>《Vue.js入门基础》讲师倾情推出的实战课程，使用Vue2.0版本，带你快速入门Vue2.0，完成从入门到实战的完美过渡，为之后使用Vue2.0做更高级的开发打下坚实的基础</p><p>从入门到实战全面讲解Vue2.0</p><ul><li>特别适合没有Vue基础的你<br>课程分为两个部分，首先，带领大家了解Vue.js，它是什么，能做什么，并学习Vue.js2.0的基本功能接口。然后，通过搭建一个demo性质的平台，学习Vue.js2.0在项目中的应用，主要内容涵盖如何使用脚手架初始化项目，如何布局整个项目目录，如何使用Vue指令，如何设计使用组件，如何使用vue路由，vue数据请求等等，是一门内容非常丰富全面的Vue.js课程</li></ul><p>由浅到深，从Vue基本概念讲起<br>概念、实例、组件、指令、选项，一直到模版渲染、事件绑定、计算属性等、再到内置动画、组件交互、路由等，逐一讲解</p><p>从首页到售卖页再到列表页逐一开发<br>其中售卖页的容量比较大，包含不同产品的子路由页面、选项、产品说明以及各种弹窗，通过实现这些，你会更好理解Vue各功能的综合运用</p><p>1-1 课程导学<br>1-2 项目介绍<br>1-3 Webpack4升级注意</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/chapter/91.html" target="_blank" rel="noopener">https://coding.imooc.com/class/chapter/91.html</a></blockquote><br><p>第1章 课程简介<br>讲解课程安排，面象人群，以及对课程的项目做了效果演示。</p><p>1-1 课程简介<br>1-2 vue2.0简介<br>第2章 Vue简介<br>对vue一些最基础的知识做了讲解：实例对象、vue组件以及vue的一些相关概念。</p><p>2-1 vue三个特点<br>2-2 Vue实例对象<br>2-3 Vue的组件<br>2-4 Vue的相关概念<br>第3章 功能接口（1）<br>对文本渲染v-html、v-text、列表渲染 v-for 数组，对象，子组件；列表数据的同步更新方法；vue标签属性和条件渲染；事件绑定-内置事件绑定、自定义事件绑定；表单事件绑定；计算属性和数据监听等进行了讲解。</p><p>3-1 文本渲染-v-html、v-text<br>3-2 列表渲染-v-for 数组，对象，子组件<br>3-3 列表数据的同步更新方法<br>3-4 vue标签属性和条件渲染<br>3-5 事件绑定-内置事件绑定、自定义事件绑定<br>3-6 事件绑定-表单事件绑定<br>3-7 计算属性和数据监听<br>第4章 功能接口（2）<br>对组件之间通信；过渡动画：css实现过渡动画； JS实现过渡动画；自定义指令；插件；单文件组件等进行了讲解。</p><p>4-1 组件之间的通信<br>4-2 组件之间的通信-动态属性传递<br>4-3 组件之间的通信-动态组件<br>4-4 过渡动画-css实现过渡（上）<br>4-5 过渡动画-css实现过渡（下）<br>4-6 过渡动画-js实现过渡<br>4-7 自定义指令<br>4-8 插件<br>4-9 单文件组件<br>第5章 环境搭建和常用插件<br>对vue-cli安装；ES6语法，vue-router，vuex状态管理进行了讲解。</p><p>5-1 vue-cli安装（上）<br>5-2 vue-cli安装（下）<br>5-3 vue-router（什么是前端路由）<br>5-4 vue-router（设置路由）<br>5-5 vue-router（路由参数）<br>5-6 vue-router（路由嵌套）<br>5-7 vue-router（命名的路由视图、路由重定向）<br>5-8 vue-router（使用过渡制作路由跳转动画）<br>5-9 vuex状态管理（原理）<br>5-10 vuex状态管理（实例）<br>第6章 项目实践-首页<br>实现项目框架搭建，首页：信息列表，vue-resource实现Ajax获取信息数据，express启动数据服务、幻灯片组件、登录等讲解。</p><p>6-1 项目框架搭建（layout、路由切换）<br>6-2 首页 - 信息列表 - 全部产品<br>6-3 首页 - 信息列表 - 最新消息<br>6-4 使用 axios 发送数据请求<br>6-5 使用 Mockjs 来模拟数据<br>6-6 首页 - 幻灯片组件（1）<br>6-7 首页 - 幻灯片组件（2）<br>6-8 首页 - 登录<br>6-9 首页 - 登录组件（1）<br>6-10 首页 - 登录组件（2）<br>第7章 项目实践-购买详情页、订单列表<br>对项目的添加路由，select选项组件，可多选项组件，数字组件，总价计算，选择择银行，订单列表做了详细的讲解。</p><p>7-1 购买详情页 - 添加路由（1）<br>7-2 购买详情页 - 添加路由（2）<br>7-3 购买详情页 - select选项组件<br>7-4 购买详情页 - 可多选项组件<br>7-5 购买详情页 - 数字组件<br>7-6 购买详情页 - 总价计算（1）<br>7-7 购买详情页 - 总价计算（2）<br>7-8 购买详情页 - 选择银行（1）<br>7-9 购买详情页 - 选择银行（2）<br>7-10 购买详情页 - 选择银行（3）<br>7-11 列表页 - 订单列表页面（1）<br>7-12 列表页 - 订单列表页面（2）<br>7-13 课程总结<br>第8章 课程扩展<br>讲解vuex在定单列表页面的应用。</p><p>8-1 select组件完善<br>8-2 vuex在项目中的应用（1）<br>8-3 vuex在项目中的应用（2）<br>8-4 vuex在项目中的应用（3）<br>本课程已完结</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="MsAdazW5217" style="display:none">MsAdazW5217</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://szimg.mukewang.com/5aab7f270001909810800600-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
-&lt;p&gt;最容易上手的Vue 2.0入门实战教程&lt;br&gt;《Vue.js入门基础》讲师倾情推出的实战课程，使用Vue2.0版本，带你快速入门Vue2.0，完成从入门到实战的完美过渡，为之后使用Vue2.0做更高级的开发打下坚实的基础&lt;/p&gt;
-&lt;p&gt;从入门到实战全面讲解Vue2.0&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;特别适合没有Vue基础的你&lt;br&gt;课程分为两个部分，首先，带领大家了解Vue.js，它是什么，能做什么，并学习Vue.js2.0的基本功能接口。然后，通过搭建一个demo性质的平台，学习Vue.js2.0在项目中的应用，主要内容涵盖如何使用脚手架初始化项目，如何布局整个项目目录，如何使用Vue指令，如何设计使用组件，如何使用vue路由，vue数据请求等等，是一门内容非常丰富全面的Vue.js课程&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;由浅到深，从Vue基本概念讲起&lt;br&gt;概念、实例、组件、指令、选项，一直到模版渲染、事件绑定、计算属性等、再到内置动画、组件交互、路由等，逐一讲解&lt;/p&gt;
-&lt;p&gt;从首页到售卖页再到列表页逐一开发&lt;br&gt;其中售卖页的容量比较大，包含不同产品的子路由页面、选项、产品说明以及各种弹窗，通过实现这些，你会更好理解Vue各功能的综合运用&lt;/p&gt;
-&lt;p&gt;1-1 课程导学&lt;br&gt;1-2 项目介绍&lt;br&gt;1-3 Webpack4升级注意&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="前端开发" scheme="https://www.jucaizhan.com/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
-    
-    
-      <category term="2017" scheme="https://www.jucaizhan.com/tags/2017/"/>
-    
-      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
-    
-      <category term="前端开发" scheme="https://www.jucaizhan.com/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
-    
-      <category term="Vue" scheme="https://www.jucaizhan.com/tags/Vue/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>组件化封装思想实战Android App</title>
-    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/151_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E7%BB%84%E4%BB%B6%E5%8C%96%E5%B0%81%E8%A3%85%E6%80%9D%E6%83%B3%E5%AE%9E%E6%88%98Android%20App%E3%80%8B_14%E8%AF%BE_2017/"/>
-    <id>https://www.jucaizhan.com/慕课网/151_慕课网_《组件化封装思想实战Android App》_14课_2017/</id>
-    <published>2018-09-30T05:37:21.000Z</published>
-    <updated>2019-02-24T07:12:04.063Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://szimg.mukewang.com/589c0e990001ac9505400300-360-202.jpg" alt="image"></p><p>组件化封装思想实战Android App<br>我们请了优酷大牛，带你以组件化的方式从0打造一个完整的Android App，你将学会综合运用各种Android技术开发热门功能，积累到完整的Android项目成型经验，开发的同时会封装出Android通用SDK，让你向更高级别的工程师迈进</p><p>开发一个完整项目, 视频广告实时推送App<br>做出好应用, 同时打造属于自己的SDK</p><p>从项目架构设计直至多渠道打包上线，以组件化开发的方式实现一个完整的视频实时推送APP，带你实现一个个具体功能的同时打造一套属于自己的SDK，让你掌握组件化开发思想、Android技术的综合运用及常用设计模式，学完这门课程在Android开发上，你将进入一个新的境界</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/84.html" target="_blank" rel="noopener">https://coding.imooc.com/class/84.html</a></blockquote><br><p>第1章 课程概述<br>通过本章让学生：1.了解本次项目实战主要有那些功能有，以及通过本次项目实战，学生可以掌握开发一个应用所需的全部知识。2.在课程安排上，我们主要以实际的开发顺序来讲解，保证学员能够所学即所得。</p><p>1-1 课程概述—项目演示及课程讲法收获<br>第2章 首页框架搭建<br>本章正式开始我们的项目开发，在开发项目的过程中穿插我们要讲的知识点，本节课我们主要来目的：1.搭建好我们的HomeActivity, 实现HomeActivity中Fragment的切换。2.创建首页所需要的所有Fragment(空的Fragment,功能对应模块填充)</p><p>2-1 首页框架—搭建铺垫<br>2-2 首页框架—框架搭建实战<br>2-3 首页框架—框架总结<br>第3章 App公共模块之网络请求组件<br>通过本节课的学习:1.我们要基于Okhttp封装一个通用的网络请求框架，前期先实现发送get和post请求，后面我们会继续扩展我们框架的功能，例如文件下载。2.利用我们的网络框架发送请求并获取响应 3.如何利用Charles调试接口。</p><p>3-1 网络请求组件—OkHttp简单使用<br>3-2 网络请求组件—封装思路讲解<br>3-3 网络请求组件—Request封装<br>3-4 网络请求组件—Client封装<br>3-5 网络请求组件—Response封装<br>3-6 网络请求组件—Charles简介<br>第4章 App公共模块之图片加载组件<br>本章我们要完成异步网络图片加载库universeImageLoader的讲解，通过本章内容的学习。我们在掌握universeImageLoader框架的前提下，对其进行二次封装，使之成为一个独立的功能模块，方便我们以后直接复用，而且在于业务逻辑隔离的情况下，我们也可以方便的对其进行替换。…</p><p>4-1 图片加载组件—异步图片加载概述<br>4-2 图片加载组件—图片加载API讲解<br>4-3 图片加载组件—封装思路讲解<br>4-4 图片加载组件—UIL组件封装铺垫<br>4-5 图片加载组件—UIL组件封装实战<br>4-6 图片加载组件—本章小结<br>第5章 首页列表开发与测试<br>通过本章学习，我们要掌握android中最常用的两个控件的深度使用ViewPager和ListView中如何嵌入复杂的布局。以及我们如何去合理的定义数据结构，使我们移动端使用起服务器的数据来更加的得心应手。</p><p>5-1 首页列表—开发概述<br>5-2 首页列表—首页列表数据请求<br>5-3 首页列表—上一小节回顾串讲<br>5-4 首页列表—单图Item初始化<br>5-5 首页列表—多图Item开发<br>5-6 首页列表—ViewPager列表项开发<br>5-7 首页列表—本章小结<br>第6章 App公共模块之二维码扫描组件<br>本章我们完成zxing扫码功能的集成。1.首先我们对zxing做一个基本的介绍 2.我们要对zxing整个工程做一个裁剪，以减少zxing包的大小及除去无用功能 3.将zxing集成到我们的实战项目中。 4.zxing核心类介绍。5.自定义扫码界面UI 6.处理扫码返回的结果数据。 通过本章的学习，我们不仅能够集成开源的二维码工程，而且…</p><p>6-1 二维码组件—扫码功能概述<br>6-2 二维码组件—zxing集成<br>6-3 二维码组件—自定义扫码界面<br>6-4 二维码组件—扫码功能完善<br>6-5 二维码组件—本章小结<br>第7章 视频播放SDK模块开发<br>本章是我们整个项目的核心，通过本章的学习，我们能学会：1.如何利用android最底层的类去自定义一个视频播放器。2.通过接口回调将视频器视频暴露到调用层。3.SDK封装思想的讲解，4.将我们的播放器封装为一个通用的SDK工具包。 5.在我们的实战项目中去调用我们的播放SDK，看是否方便使用。…</p><p>7-1 视频播放组件—视频SDK功能预览<br>7-2 视频播放组件—播放器封装讲解<br>7-3 视频播放组件—视频播放器接口功能描述<br>7-4 视频播放组件—实现视频播放器<br>7-5 视频播放组件—业务逻辑封装概述<br>7-6 视频播放组件—业务逻辑层封装实现-上<br>7-7 视频播放组件—业务逻辑层封装实现-下<br>7-8 视频播放组件—小屏到全屏功能开发-上<br>7-9 视频播放组件—小屏到全屏功能开发-下<br>7-10 视频播放组件—业务逻辑层回顾<br>7-11 视频播放组件—API层讲解及封装<br>7-12 视频播放组件—本章小结<br>第8章 首页MineFragment开发与测试<br>通过本章的学习，让学员掌握在实际开发中：1.我们是如何去管理用户信息的 2.局部广播的使用 3.SharedPreference在实际开发中的作用 4.如何利用已有数据生成二维码 5.版本更新功能如何实现</p><p>8-1 播放设置开发—MineFragment功能概述<br>8-2 播放设置开发—思路点拨<br>8-3 播放设置开发—视频播放设置流程<br>8-4 播放设置开发—SharedPreference封装<br>8-5 播放设置开发—视频播放设置功能开发<br>8-6 自动更新组件—更新功能讲解及开发<br>8-7 自动更新组件—更新组件串讲<br>8-8 用户信息管理—登陆及用户信息管理开发流程<br>8-9 用户信息管理—用户信息管理开发<br>8-10 自动更新组件—LocalBroadcastReceiver使用<br>8-11 用户信息管理—本章小结<br>第9章 浏览查看大图页面开发<br>通过本章学习，我们可以学会如何去使用PhotoView实现我们项目中，网上好多教程教如何去自定义类似PhotoView的教程，大家可以暂时忽略，因为即使教你如何自定义PhotoView的人，在实际开发中也是使用PhotoView的，所以我们要先学会如何去用，等我们用的很熟悉的时候，我们可以直接去研究PhotoView的源码，这是一种最高效的方…</p><p>9-1 浏览大图—功能预览<br>9-2 浏览大图—开发环境搭建<br>9-3 浏览大图—功能模块开发<br>9-4 浏览大图—本章小结<br>第10章 App公共模块之社交分享组件<br>本章主要为我们的App添加分享功能，通过对ShareSDK分享的实战，我们不仅能学习如何去使用它去完成我们最基本的分享工作 ，更可以将其封装为一个通用的分享组件，方便我们以后的复用。</p><p>10-1 社交分享组件—分享功能概述<br>10-2 社交分享组件—ShareSDK开发环境搭建<br>10-3 社交分享组件—分享API串讲<br>10-4 社交分享组件—分享组件封装思路<br>10-5 社交分享组件—ShareManager封装<br>10-6 社交分享组件—UI层封装<br>10-7 社交分享组件—本章小结<br>第11章 课程详情页面开发<br>本章主要来实现我们的课程详情页面的开发，通过本节课我们主要学习：1.学习利用mpchart去开发漂亮的图表。2.Activity的各种不同的启动模式。以及如何正确的决定使用那种启动模式。</p><p>11-1 列表详情—开发概述<br>11-2 列表详情—列表项开发<br>11-3 列表详情—页面功能开发<br>11-4 列表详情—Activity启动模式详解<br>11-5 列表详情—Activity启动模式实战<br>11-6 列表详情—本章小结<br>第12章 App公共模块之实时推送组件<br>通过本章的学习，我们要学习如何将极光推送或者其它第三方推送库集成到我们的项目中。并完成与目前市面上最主流App一致的推送跳转流程开发。让我们的项目与用户更多的互动起来。</p><p>12-1 推送组件—推送概述<br>12-2 推送组件—极光环境搭建<br>12-3 推送组件—JPushReceiver创建<br>12-4 推送组件—跳转流程分析上<br>12-5 推送组件—跳转流程实现上<br>12-6 推送组件—跳转流程分析下<br>12-7 推送组件—跳转流程实现下<br>12-8 推送组件—本章小结<br>第13章 项目适配android6.0权限系统<br>通过本章的学习，同学们可以学会如何将我们的应用无缝的适配到android6.0及以上系统，且不需要依赖任何第三方库。</p><p>13-1 动态权限—权限适配概述<br>13-2 动态权限—API讲解<br>13-3 动态权限—动手适配新权限机制<br>13-4 动态权限—本章小结<br>第14章 友盟多渠道打包及上线Apk<br>通过本章的学习，我们会最终打出我们要上线市场的对应的Apk文件并上传到对应的应用市场</p><p>14-1 多渠道打包—功能概述<br>14-2 多渠道打包—友盟SDK集成<br>14-3 多渠道打包—多渠道打包脚本上<br>14-4 多渠道打包—多渠道打包脚本下<br>14-5 多渠道打包—本章小结<br>第15章 项目流程回顾及优化<br>对本项目的配置注意事项，流程进行回顾，项目核心价值说明，个别细节优化等</p><p>15-1 课程总结—工程配置注意事项<br>15-2 课程总结—项目流程回顾<br>15-3 课程总结—核心价值<br>15-4 课程总结—不足和改进<br>本课程已完结</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="cCHGR7Q5152" style="display:none">cCHGR7Q5152</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://szimg.mukewang.com/589c0e990001ac9505400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
-&lt;p&gt;组件化封装思想实战Android App&lt;br&gt;我们请了优酷大牛，带你以组件化的方式从0打造一个完整的Android App，你将学会综合运用各种Android技术开发热门功能，积累到完整的Android项目成型经验，开发的同时会封装出Android通用SDK，让你向更高级别的工程师迈进&lt;/p&gt;
-&lt;p&gt;开发一个完整项目, 视频广告实时推送App&lt;br&gt;做出好应用, 同时打造属于自己的SDK&lt;/p&gt;
-&lt;p&gt;从项目架构设计直至多渠道打包上线，以组件化开发的方式实现一个完整的视频实时推送APP，带你实现一个个具体功能的同时打造一套属于自己的SDK，让你掌握组件化开发思想、Android技术的综合运用及常用设计模式，学完这门课程在Android开发上，你将进入一个新的境界&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="移动开发" scheme="https://www.jucaizhan.com/categories/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
-    
-    
-      <category term="实战" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%88%98/"/>
-    
-      <category term="2017" scheme="https://www.jucaizhan.com/tags/2017/"/>
-    
-      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
-    
-      <category term="移动开发" scheme="https://www.jucaizhan.com/tags/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
-    
-      <category term="Android" scheme="https://www.jucaizhan.com/tags/Android/"/>
     
   </entry>
   

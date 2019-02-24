@@ -1,3 +1,8 @@
+https://www.jucaizhan.com/大讲台/大讲台《企业级实战：Spark离线和实时电影推荐系统》2018/
+https://www.jucaizhan.com/大讲台/大讲台《Spark项目实战：爱奇艺用户行为实时分析系统》2017/
+https://www.jucaizhan.com/大讲台/大讲台《Spark企业级实战项目：道路交通实时流量监控项目》2017/
+https://www.jucaizhan.com/大讲台/大讲台《Spark企业级实战：知名手机厂商用户行为实时分析系统》2017/
+https://www.jucaizhan.com/小象学院/小象学院《大数据实时计算系统实践》2018/
 https://www.jucaizhan.com/51CTO学院/51CTO学院《【徐葳】Flink入门及实战》2018/
 https://www.jucaizhan.com/51CTO学院/51CTO学院《Flink从入门到上手企业开发》2018/
 https://www.jucaizhan.com/慕课网/045_慕课网_《基于Python玩转人工智能最火框架 TensorFlow应用实践》_8课_2017/
@@ -93,8 +98,3 @@ https://www.jucaizhan.com/51CTO学院/002_51CTO学院 _唐宇迪 _《深度学�
 https://www.jucaizhan.com/51CTO学院/001_51CTO_唐宇迪_《Tensorflow案例实战视频课程》_22课_2017/
 https://www.jucaizhan.com/千峰教育/001_千锋大数据_《Hive课程详解》_2017/
 https://www.jucaizhan.com/腾讯课堂/001_图灵学院_《Java大规模分布式跟踪监控系统班》_5课_2017/
-https://www.jucaizhan.com/极客时间/001_极客时间_《微服务架构核心20讲》_2018/
-https://www.jucaizhan.com/炼数成金/003_炼数成金_《深入玩转EXCEL》_10课_2017/
-https://www.jucaizhan.com/炼数成金/001_炼数成金_《JAVA极客特训》_5课_2018/
-https://www.jucaizhan.com/炼数成金/002_炼数成金_《大数据算法导论》_15课_2016/
-https://www.jucaizhan.com/炼数成金/004_炼数成金_《人工智能前沿系列之生成式对抗网络》_5课_2018/
