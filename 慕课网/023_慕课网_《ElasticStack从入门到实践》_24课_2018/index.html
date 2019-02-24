@@ -1,0 +1,81 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="description" content="ElasticStack从入门到实践"><meta name="keywords" content="云计算&amp;大数据,2017,慕课网,ElasticStack"><meta name="author" content="巨菜站,undefined"><meta name="copyright" content="巨菜站"><link rel="alternate" href="/atom.xml" title="巨菜站" type="application/atom+xml"><meta name="description" content="&lt;p&gt;&lt;img src=&quot;https://img.mukewang.com/szimg/5a7441e30001d4f805400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Elastic Stack从入门到实践&lt;br&gt;不管是想做大数据工程师还是数据分析师，本课都是很好的起点！掌握Elastic Stack的组成及原理应用，详解Elasticsearch、Kibana、Beats及Logstash 的原理与应用技巧，助你快速收集、处理和分析数据，以达成助力业务增长的目标！&lt;/p&gt;
+&lt;p&gt;第1章 课程概述&lt;br&gt;对课程整体进行介绍给出相关学习说明和建议&lt;/p&gt;
+&lt;p&gt;1-1 课程导学&lt;br&gt;1-2 说明和建议&lt;br&gt;第2章 Elasticsearch 篇之 入门&lt;br&gt;本章会对 Elasticsearch 篇进行一个总体的介绍，让大家对该篇每一章要讲解的内容有初步的了解。然后会讲解 Elasticsearch 中常见的术语、api，然后运行 Elasticsearch 并实际感受 api 的调用方式，为接下来的课程做好准备。&lt;/p&gt;"><title>ElasticStack从入门到实践 | 巨菜站_云计算&amp;大数据,2017,慕课网,ElasticStack</title><link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css?version=1.5.3"><link rel="dns-prefetch" href="https://cdn.staticfile.org"><link rel="dns-prefetch" href="https://cdn.bootcss.com"><link rel="dns-prefetch" href="https://creativecommons.org"><link rel="stylesheet" type="text/css" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script><script src="https://unpkg.com/blueimp-md5@latest/js/md5.min.js"></script><link rel="dns-prefetch" href="https://hm.baidu.com"><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3f2224e84fb41c8beaba0224b5142794";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();</script><link rel="dns-prefetch" href="https://www.google-analytics.com"><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-121920923-2', 'auto');
+ga('send', 'pageview');</script><script>(function(m, ei, q, i, a, j, s) {
+    m[i] = m[i] || function() {
+        (m[i].a = m[i].a || []).push(arguments)
+    };
+    j = ei.createElement(q),
+        s = ei.getElementsByTagName(q)[0];
+    j.async = true;
+    j.charset = 'UTF-8';
+    j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+    s.parentNode.insertBefore(j, s);
+})(window, document, 'script', '_MEIQIA');
+_MEIQIA('entId', 124369);</script><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  localSearch: {"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}"},"path":"search.xml"}
+} </script></head><body><canvas class="fireworks"></canvas><i class="fa fa-arrow-right" id="toggle-sidebar" aria-hidden="true"></i><div id="sidebar"><div class="toggle-sidebar-info text-center"><span data-toggle="切换文章详情">切换站点概览</span><hr></div><div class="sidebar-toc"><div class="sidebar-toc__title">目录</div><div class="sidebar-toc__progress"><span class="progress-notice">你已经读了</span><span class="progress-num">0</span><span class="progress-percentage">%</span><div class="sidebar-toc__progress-bar"></div></div><div class="sidebar-toc__content"></div></div><div class="author-info hide"><div class="author-info__avatar text-center"><img src="http://blog.fueson.top/avatar/me.jpg?imageMogr2/thumbnail/200x200&gt;/gravity/Center/crop/200x200/format/jpg/blur/1x0/quality/75|imageslim"></div><div class="author-info__name text-center">巨菜站</div><div class="author-info__description text-center">资源下载，百度资源，教育资源</div><hr><div class="author-info-articles"><a class="author-info-articles__archives article-meta" href="/archives"><span class="pull-left">文章</span><span class="pull-right">119</span></a><a class="author-info-articles__tags article-meta" href="/tags"><span class="pull-left">标签</span><span class="pull-right">157</span></a><a class="author-info-articles__categories article-meta" href="/categories"><span class="pull-left">分类</span><span class="pull-right">21</span></a></div></div><div class="unit"><div class="heart"><div class="heart-piece-0"></div><div class="heart-piece-1"></div><div class="heart-piece-2"></div><div class="heart-piece-3"></div><div class="heart-piece-4"></div><div class="heart-piece-5"></div><div class="heart-piece-6"></div><div class="heart-piece-7"></div><div class="heart-piece-8"></div></div><p class="anime-title"><a href="https://www.jucaizhan.com/" target="_blank">感谢访问本站 ^_^</a></p><div class="email-title"><i class="fa fa-telegram" style="margin-right: 14px"></i><a href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&amp;email=908934816@qq.com" target="_blank">失效连接提交</a></div></div></div><div id="content-outer"><div id="top-container" style="background-image: url(http://blog.fueson.top/bg/saber.jpg)"><div id="page-header"><span class="pull-left"> <a id="site-name" href="/">巨菜站</a></span><i class="fa fa-bars toggle-menu pull-right" aria-hidden="true"></i><span class="pull-right menus"><a class="site-page" href="/">主页</a><a class="site-page" href="/archives">文章总览</a><a class="site-page" href="/about">关于我们</a><a class="site-page" href="/categories">分类</a><a class="site-page" href="/tags">标签</a><a class="site-page" href="/gallery">个人相册</a></span></div><div id="post-info"><div id="post-title">ElasticStack从入门到实践</div><div id="post-meta"><time class="post-meta__date"><i class="fa fa-calendar" aria-hidden="true"></i> 2018-09-22</time><span class="post-meta__separator">|</span><i class="fa fa-inbox post-meta__icon" aria-hidden="true"></i><a class="post-meta__categories" href="/categories/云计算-大数据/">云计算&amp;大数据</a><div class="post-meta-wordcount"><span>字数总计: </span><span class="word-count">2,618</span><span class="post-meta__separator">|</span><span>阅读时长: 9 分钟</span></div></div></div></div><div class="layout" id="content-inner"><article id="post"><div id="post-content"><p><img src="https://img.mukewang.com/szimg/5a7441e30001d4f805400300-360-202.jpg" alt="image"></p>
+<p>Elastic Stack从入门到实践<br>不管是想做大数据工程师还是数据分析师，本课都是很好的起点！掌握Elastic Stack的组成及原理应用，详解Elasticsearch、Kibana、Beats及Logstash 的原理与应用技巧，助你快速收集、处理和分析数据，以达成助力业务增长的目标！</p>
+<p>第1章 课程概述<br>对课程整体进行介绍给出相关学习说明和建议</p>
+<p>1-1 课程导学<br>1-2 说明和建议<br>第2章 Elasticsearch 篇之 入门<br>本章会对 Elasticsearch 篇进行一个总体的介绍，让大家对该篇每一章要讲解的内容有初步的了解。然后会讲解 Elasticsearch 中常见的术语、api，然后运行 Elasticsearch 并实际感受 api 的调用方式，为接下来的课程做好准备。</p>
+<a id="more"></a>
+<blockquote class="blockquote-center"><br>请支持原版！课程官方链接：<a href="https://coding.imooc.com/class/181.html" target="_blank" rel="noopener">https://coding.imooc.com/class/181.html</a></blockquote><br>
+
+
+<p>2-1 -术语介绍<br>2-2 -Document介绍<br>2-3 -Index介绍<br>2-4 -restapi介绍<br>2-5 -index_api<br>2-6 -document_api<br>第3章 Elasticsearch 篇之倒排索引与分词<br>本章会讲解搜索引擎的基础倒排索引，让大家对倒排索引有一个直观的认识，掌握它的组成。然后为大家讲解分词的相关知识，介绍 es 内置的分词器，还会介绍中文分词的常见解决方案。</p>
+<p>3-1 -书的目录与索引<br>3-2 -正排与倒排索引简介<br>3-3 -倒排索引详解<br>3-4 -分词介绍<br>3-5 -analyze_api<br>3-6 -自带分词器<br>3-7 -中文分词<br>3-8 -自定义分词之CharacterFilter<br>3-9 -自定义分词之Tokenizer<br>3-10 -自定义分词之 TokenFilter<br>3-11 -自定义分词<br>3-12 -分词使用说明<br>3-13 -官方文档说明<br>第4章 Elasticsearch 篇之Mapping 设置<br>本章会讲解 Elasticsearch 中数据建模的基础–Mapping，即如何定义数据字段和类型。让大家熟悉 mapping 中常见的配置项，也会讲解 dynamic mapping 和 template 的相关知识。</p>
+<p>4-1 -mapping简介<br>4-2 -自定义 mapping<br>4-3 -mapping演示<br>4-4 -copy_to参数说明<br>4-5 -index参数说明<br>4-6 -index_options参数说明<br>4-7 -mapping文档说明<br>4-8 -数据类型<br>4-9 -dynamic-mapping简介<br>4-10 -dynamic日期与数字识别<br>4-11 -dynamic-template简介<br>4-12 -自定义mapping的建议<br>4-13 -索引模板.mp4<br>第5章 Elasticsearch 篇之Search API 介绍<br>本章会讲解搜索特性，详细讲解 Search API 的组成和分类，带领大家逐个了解、掌握 API 的使用方法和技巧。</p>
+<p>5-1 -SearchAPI概览<br>5-2 -URISearch详解与演示<br>5-3 -QueryDSL简介<br>5-4 -字段类查询简介及match-query<br>5-5 -相关性算分.mp4<br>5-6 -match-phrase-query_音频.mp4<br>5-7 -query-string-query<br>5-8 -simple-query-string-query<br>5-9 -term-terms-query<br>5-10 -range-query<br>5-11 -复合查询介绍及ConstantScore<br>5-12 -bool-query<br>5-13 -count-and-source-filtering<br>第6章 Elasticsearch 篇之分布式特性介绍<br>本章会讲解 Elasticsearch 集群是如何一步步搭建起来的，让大家了解不同节点类型的作用，shard 设计的意义以及文档是如何存储到 shard 上的，也会给大家介绍脑裂等问题。</p>
+<p>6-1 -分布式介绍及cerebro<br>6-2 -构建集群<br>6-3 -副本与分片<br>6-4 -两个问题<br>6-5 -集群状态<br>6-6 -故障转移.mp4<br>6-7 -文档分布式存储<br>6-8 -脑裂问题<br>6-9 -shard详解<br>第7章 Elasticsearch 篇之深入了解 Search 的运行机制<br>本章会深入讲解 Search 的运行机制，比如 Query 和 Fetch 阶段具体哪些工作，分片为相关性算分带来了哪些问题。另外还会讲解排序、分页与遍历的解决方案和相关问题。</p>
+<p>7-1 -Query-Then-Fetch<br>7-2 -相关性算分<br>7-3 -sorting-doc-values-fielddata<br>7-4 -分页与遍历-fromsize<br>7-5 -分页与遍历-scroll<br>7-6 分页与遍历-search_after<br>7-7 文档说明.mp4<br>第8章 Elasticsearch 篇之聚合分析入门<br>本章会介绍 Elasticsearch 聚合分析的功能，让大家了解其分类、组成，带领大家逐个了解、掌握每一个聚合 API 的使用方法和技巧，为后续 Kibana 使用打好基础。</p>
+<p>8-1 -聚合分析简介<br>8-2 -metric聚合分析<br>8-3 -bucket聚合分析<br>8-4 -bucket和metric聚合分析<br>8-5 -pipeline聚合分析<br>8-6 -作用范围<br>8-7 -排序<br>8-8 -原理与精准度问题<br>8-9 -文档说明<br>第9章 Elasticsearch 篇之数据建模<br>本章会介绍使用 Elasticsearch 中要注意的数据建模常见问题以及优化思路和方案，让大家可以根据自己的业务场景设置最合理的模型。</p>
+<p>9-1 -数据建模简介<br>9-2 -ES数据建模配置相关介绍<br>9-3 -ES数据建模实例.mp4<br>9-4 -Nested_Object<br>9-5 -Parent_Child<br>9-6 -nested_vs_parent_child<br>9-7 -reindex<br>9-8 其他建议<br>第10章 Elasticsearch 篇之集群调优建议<br>本章会介绍 Elasticsearch 集群在搭建、配置上的注意事项，也会讲解读写性能优化的方案和调优的方式。</p>
+<p>10-1 生产环境部署建议<br>10-2 写性能优化<br>10-3 读性能优化<br>10-4 如何设定shard数<br>10-5 xpack监控功能介绍<br>第11章 Logstash 篇之入门与运行机制<br>本章会介绍 Logstash 的作用、使用方法，让大家了解其组成和运行机制，带领大家实际操作 Logstash 来收集1个日志文件。</p>
+<p>11-1 入门及架构简介<br>11-2 -Life_of_an_Event<br>11-3 -queue简介<br>11-4 -线程简介<br>11-5 配置简介<br>11-6 多实例运行<br>11-7 pipeline配置简介<br>第12章 Logstash 篇之插件详解<br>本章会详细介绍 Input、Filter、Ouput 以及 Codec 插件 的作用和相关配置，让大家了解常见相关插件的使用场景和效果，以及如何合理选择各个插件来实现自己的业务需求。</p>
+<p>12-1 input插件详解及glob讲解<br>12-2 -codec插件详解<br>12-3 filter插件简介及date插件讲解<br>12-4 filter插件之grok简介（上）<br>12-5 filter插件之grok简介（下）<br>12-6 filter插件之dissect讲解<br>12-7 filter插件之mutate 讲解<br>12-8 filter插件之 json讲解<br>12-9 filter 插件之geoip和ruby 讲解<br>12-10 output插件简介<br>12-11 文档说明<br>第13章 Logstash 篇之实例分析<br>本章会以实例的形式为大家演示如何使用 Logstash 收集各种类型的数据，比如日志文件、数据库、tcp/udp 等。</p>
+<p>13-1 -Logstash实战建议<br>13-2 -实战之apacheLogs（上）<br>13-3 实战之apacheLogs（下）<br>13-4 实战之csv<br>13-5 监控运维建议<br>第14章 Beats 篇之Filebeat<br>本章会介绍 Beats 的作用和组成，然后为大家详细介绍 Filebeat 的功能和常见配置，同时会详细讲解如何使用 Module 模块来快速完成日志的收集到分析工作。</p>
+<p>14-1 beats简介<br>14-2 Filebeat_Demo<br>14-3 Filebeat 简介及流程介绍<br>14-4 Filebeat常见架构及ingest_node介绍<br>14-5 Filebeat_Module简介<br>第15章 Beats 篇之Metricbeat<br>本章会介绍 Metricbeat 的功能和使用技巧，让大家对 Metricbeat 的使用有一个直观的感受。</p>
+<p>15-1 -简介<br>15-2 -Module简介<br>15-3 -实战.mp4<br>第16章 Beats 篇之Packetbeat<br>本章会介绍 Packetbeat 的功能和使用技巧，带领大家用 Packetbeat 来收集网络数据并进行分析，让大家对 Packetbeat 有一个直观的感受。</p>
+<p>16-1 1-简介<br>16-2 2-实战<br>第17章 Beats 篇之其他 beat<br>本章会介绍其他众多beat的作用和应用场景，带领大家去发现社区提供的多种多样的beat,以满足日常业务开发的需求。</p>
+<p>17-1 1-Heartbeat<br>17-2 2-Community_beats<br>第18章 Kibana 篇之 入门与管理<br>本章会介绍 Kibana 的入门知识，让大家对 Kibana 有一个整体的了解，另外还会详细介绍Management 的功能，熟悉 Kibana 的配置。</p>
+<p>18-1 -配置与线上部署建议<br>18-2 -Index_Pattern_Objects_Settings使用<br>第19章 Kibana 篇之 数据探索 Discovery<br>本章会介绍 Kibana 的数据探索功能，让大家了解 Discovery 的功能和使用技巧。</p>
+<p>19-1 -导入数据<br>19-2 -Discover实战<br>第20章 Kibana 篇之 可视化分析<br>本章会介绍Kibana 的可视化分析功能，首先会带领大家逐个操作 Kibana 提供的每一个图表，并会介绍时序分析工具 Timelion，然后会介绍如何使用 Dashboard功能来整合图表后讲故事或者做报表，也会讲解 Dashboard 使用中要注意的问题和使用技巧。 …</p>
+<p>20-1 -可视化简介<br>20-2 -Basic_Charts_介绍<br>20-3 -Basic_Charts_其他说明<br>20-4 -Data图表介绍<br>20-5 -Map图表介绍<br>20-6 -Timelion介绍<br>20-7 -VisualBuilder介绍<br>20-8 -other图表介绍<br>20-9 -Dashboard介绍<br>第21章 实践篇 之搜索项目<br>本章会讲解一个搜索引擎相关的实践项目，带领大家通过编写少量的代码，快速基于 Elastic Stack 来构建一个具备常见搜索功能的系统，比如类似 Airbnb 的搜房系统、豆瓣电影等。</p>
+<p>21-1 -项目介绍<br>21-2 项目实战<br>第22章 实践篇 之日志分析项目<br>本章会根据慕课网的日志为大家展示如何使用 Elastic Stack 来快速分析日志数据，带领大家一步步完成数据收集、处理、存储到可视化分析的步骤，最终打造属于自己的 Dashboard。</p>
+<p>22-1 介绍和数据导入<br>22-2 -实战（上）<br>22-3 -实战（下）<br>第23章 实践篇 之数据分析项目<br>本章会为大家展示如何使用 Elastic Stack 来分析身边的数据，比如空气质量分析、订单数据分析等等，让大家通过本章的学习可以快速将 Elastic Stack 应用到实际生活中。</p>
+<p>23-1 项目简介<br>23-2 实战（上）<br>23-3 实战（下）<br>第24章 课程总结<br>本章会为大家总结本课程的内容，为大家再次梳理 Elastic Stack 的知识点，并为大家接下来的进阶学习提供一些建议和思路。</p>
+<p>24-1 课程总结<br>本课程已完结</p>
+<blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>
+
+<p><div id="jspay" sid="2J8falz1403" style="display:none">2J8falz1403</div></p>
+<script type="text/javascript" src="https://www.fageka.com/j.js"></script>
+<script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>
+</div></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">巨菜站</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://www.jucaizhan.com/慕课网/023_慕课网_《ElasticStack从入门到实践》_24课_2018/">https://www.jucaizhan.com/慕课网/023_慕课网_《ElasticStack从入门到实践》_24课_2018/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://www.jucaizhan.com" target="_blank">巨菜站</a>！</span></div></div><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/云计算-大数据/">云计算&amp;大数据</a><a class="post-meta__tags" href="/tags/2017/">2017</a><a class="post-meta__tags" href="/tags/慕课网/">慕课网</a><a class="post-meta__tags" href="/tags/ElasticStack/">ElasticStack</a></div><nav id="pagination"><div class="prev-post pull-left"><a href="/慕课网/024_慕课网《JavaSSM开发大众点评App后端》_9课_2017/"><i class="fa fa-chevron-left">  </i><span>Java SSM定制大众点评APP后台</span></a></div><div class="next-post pull-right"><a href="/慕课网/031_慕课网_《分布式事务实践_解决数据一致性》_2018/"><span>分布式事务实践_解决数据一致性</span><i class="fa fa-chevron-right"></i></a></div></nav><div id="gitalk-container"></div><script>var gitalk = new Gitalk({
+  clientID: '58c55a7244de19e196b7',
+  clientSecret: '36193ea6255115da581cda3f178fa9dcccfe7873',
+  repo: 'blog',
+  owner: 'longbaobao',
+  admin: 'longbaobao',
+  id: md5(decodeURI(location.pathname)),
+  distractionFreeMode: 'true',
+})
+gitalk.render('gitalk-container')</script></div></div><footer><div class="layout" id="footer"><div class="copyright">&copy;2018 - 2019 By 巨菜站</div><div class="icp"><a><span>冀ICP备16022574号-1</span></a></div><div class="busuanzi"><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_page_pv"><i class="fa fa-file-o"></i><span id="busuanzi_value_page_pv"></span><span></span></span></div></div></footer><i class="fa fa-arrow-up" id="go-up" aria-hidden="true"></i><script src="/js/third-party/anime.min.js"></script><script src="/js/third-party/jquery.min.js"></script><script src="/js/third-party/jquery.fancybox.min.js"></script><script src="/js/third-party/velocity.min.js"></script><script src="/js/third-party/velocity.ui.min.js"></script><script src="/js/utils.js?version=1.5.3"></script><script src="/js/fancybox.js?version=1.5.3"></script><script src="/js/sidebar.js?version=1.5.3"></script><script src="/js/copy.js?version=1.5.3"></script><script src="/js/fireworks.js?version=1.5.3"></script><script src="/js/transition.js?version=1.5.3"></script><script src="/js/scroll.js?version=1.5.3"></script><script src="/js/head.js?version=1.5.3"></script></body></html>

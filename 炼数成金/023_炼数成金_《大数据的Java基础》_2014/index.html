@@ -1,0 +1,60 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="description" content="大数据的Java基础"><meta name="keywords" content="云计算&amp;大数据,Java,炼数成金,2014"><meta name="author" content="巨菜站,undefined"><meta name="copyright" content="巨菜站"><link rel="alternate" href="/atom.xml" title="巨菜站" type="application/atom+xml"><meta name="description" content="&lt;p&gt;课程简介：&lt;/p&gt;
+&lt;p&gt;自1995年Java的第一个版本发布以来，通过Sun、IBM、Oracle等公司的不懈努力，Java已经从最初的在网页上搭建小应用（Applet）的一个类似于玩具性质的语言发展成为了服务器端处理、移动端开发的主流编程语言，而基于Java语言的各种应用框架、平台等也不断发展。比如Eclipse，已经由最初的IBM开发的一款Java集成开发环境变成了能够支持C/C++、Python、Scala、Go甚至是.NET进行开发的多面手。&lt;/p&gt;
+&lt;p&gt;与传统的编程语言，如C、C++相比，Java有更加光滑的学习曲线，使人能够更加容易上手，而比之微软平台的开发语言，如VB、MFC等，则有着跨平台运行的能力，尽管Java没有能够完全实现最初的一次编程、随处运行的口号，但是Java相比於其它较早的编程语言，仍然拥有极高的跨平台能力。而与此同时，基于Java的JVM，程序猿们能够获得对多种语言的支持，例如Python、Scala、Groovy、Clojure等等，这些基于JVM运行的语言，赋予了Java新的生命力。&lt;/p&gt;"><title>大数据的Java基础 | 巨菜站_云计算&amp;大数据,Java,炼数成金,2014</title><link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css?version=1.5.3"><link rel="dns-prefetch" href="https://cdn.staticfile.org"><link rel="dns-prefetch" href="https://cdn.bootcss.com"><link rel="dns-prefetch" href="https://creativecommons.org"><link rel="stylesheet" type="text/css" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script><script src="https://unpkg.com/blueimp-md5@latest/js/md5.min.js"></script><link rel="dns-prefetch" href="https://hm.baidu.com"><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3f2224e84fb41c8beaba0224b5142794";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();</script><link rel="dns-prefetch" href="https://www.google-analytics.com"><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-121920923-2', 'auto');
+ga('send', 'pageview');</script><script>(function(m, ei, q, i, a, j, s) {
+    m[i] = m[i] || function() {
+        (m[i].a = m[i].a || []).push(arguments)
+    };
+    j = ei.createElement(q),
+        s = ei.getElementsByTagName(q)[0];
+    j.async = true;
+    j.charset = 'UTF-8';
+    j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+    s.parentNode.insertBefore(j, s);
+})(window, document, 'script', '_MEIQIA');
+_MEIQIA('entId', 124369);</script><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  localSearch: {"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}"},"path":"search.xml"}
+} </script></head><body><canvas class="fireworks"></canvas><i class="fa fa-arrow-right" id="toggle-sidebar" aria-hidden="true"></i><div id="sidebar"><div class="toggle-sidebar-info text-center"><span data-toggle="切换文章详情">切换站点概览</span><hr></div><div class="sidebar-toc"><div class="sidebar-toc__title">目录</div><div class="sidebar-toc__progress"><span class="progress-notice">你已经读了</span><span class="progress-num">0</span><span class="progress-percentage">%</span><div class="sidebar-toc__progress-bar"></div></div><div class="sidebar-toc__content"></div></div><div class="author-info hide"><div class="author-info__avatar text-center"><img src="http://blog.fueson.top/avatar/me.jpg?imageMogr2/thumbnail/200x200&gt;/gravity/Center/crop/200x200/format/jpg/blur/1x0/quality/75|imageslim"></div><div class="author-info__name text-center">巨菜站</div><div class="author-info__description text-center">资源下载，百度资源，教育资源</div><hr><div class="author-info-articles"><a class="author-info-articles__archives article-meta" href="/archives"><span class="pull-left">文章</span><span class="pull-right">119</span></a><a class="author-info-articles__tags article-meta" href="/tags"><span class="pull-left">标签</span><span class="pull-right">157</span></a><a class="author-info-articles__categories article-meta" href="/categories"><span class="pull-left">分类</span><span class="pull-right">21</span></a></div></div><div class="unit"><div class="heart"><div class="heart-piece-0"></div><div class="heart-piece-1"></div><div class="heart-piece-2"></div><div class="heart-piece-3"></div><div class="heart-piece-4"></div><div class="heart-piece-5"></div><div class="heart-piece-6"></div><div class="heart-piece-7"></div><div class="heart-piece-8"></div></div><p class="anime-title"><a href="https://www.jucaizhan.com/" target="_blank">感谢访问本站 ^_^</a></p><div class="email-title"><i class="fa fa-telegram" style="margin-right: 14px"></i><a href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&amp;email=908934816@qq.com" target="_blank">失效连接提交</a></div></div></div><div id="content-outer"><div id="top-container" style="background-image: url(http://blog.fueson.top/bg/saber.jpg)"><div id="page-header"><span class="pull-left"> <a id="site-name" href="/">巨菜站</a></span><i class="fa fa-bars toggle-menu pull-right" aria-hidden="true"></i><span class="pull-right menus"><a class="site-page" href="/">主页</a><a class="site-page" href="/archives">文章总览</a><a class="site-page" href="/about">关于我们</a><a class="site-page" href="/categories">分类</a><a class="site-page" href="/tags">标签</a><a class="site-page" href="/gallery">个人相册</a></span></div><div id="post-info"><div id="post-title">大数据的Java基础</div><div id="post-meta"><time class="post-meta__date"><i class="fa fa-calendar" aria-hidden="true"></i> 2018-09-29</time><span class="post-meta__separator">|</span><i class="fa fa-inbox post-meta__icon" aria-hidden="true"></i><a class="post-meta__categories" href="/categories/云计算-大数据/">云计算&amp;大数据</a><div class="post-meta-wordcount"><span>字数总计: </span><span class="word-count">1,057</span><span class="post-meta__separator">|</span><span>阅读时长: 3 分钟</span></div></div></div></div><div class="layout" id="content-inner"><article id="post"><div id="post-content"><p>课程简介：</p>
+<p>自1995年Java的第一个版本发布以来，通过Sun、IBM、Oracle等公司的不懈努力，Java已经从最初的在网页上搭建小应用（Applet）的一个类似于玩具性质的语言发展成为了服务器端处理、移动端开发的主流编程语言，而基于Java语言的各种应用框架、平台等也不断发展。比如Eclipse，已经由最初的IBM开发的一款Java集成开发环境变成了能够支持C/C++、Python、Scala、Go甚至是.NET进行开发的多面手。</p>
+<p>与传统的编程语言，如C、C++相比，Java有更加光滑的学习曲线，使人能够更加容易上手，而比之微软平台的开发语言，如VB、MFC等，则有着跨平台运行的能力，尽管Java没有能够完全实现最初的一次编程、随处运行的口号，但是Java相比於其它较早的编程语言，仍然拥有极高的跨平台能力。而与此同时，基于Java的JVM，程序猿们能够获得对多种语言的支持，例如Python、Scala、Groovy、Clojure等等，这些基于JVM运行的语言，赋予了Java新的生命力。</p>
+<a id="more"></a>
+<blockquote class="blockquote-center"><br>请支持原版！课程官方链接：<a href="http://edu.dataguru.cn/article-4187-1.html" target="_blank" rel="noopener">http://edu.dataguru.cn/article-4187-1.html</a></blockquote><br>
+
+<p>与此同时，人们对数据的处理，也逐渐从关系型数据库、多维数据库逐渐转向了能够真正支持更加全面的数据分析的NoSQL数据库。而作为一款成熟且用户众多的开发语言，Java在一开始就在Hadoop等NoSQL数据库中得到了优先的支持。大数据分析相比於传统数据分析的优势，在于大数据分析的数据对象更加全面，范围更广，因此分析结果更加准确，因此大数据分析也成为了大量企业的核心业务内容。</p>
+<p>对于想用低成本实现云计算平台或海量数据分析平台的用户，Hadoop集群是推荐的对象。而Hadoop的开发，主要是基于Java进行的（也能够支持C++），因此学习Hadoop的一个首要条件，就是掌握Java语言编程。《大数据分析下的Java基础课》，正是为了帮助希望学习和掌握Hadoop，同时又没有编程基础的同好掌握使用Hadoop必备的Java基础，以及基本的Java编程能力。<br>课程内容：<br>第1课 JDK的安装配置，Java基本知识<br>第2课 语法基础——数据类型以及基本语法<br>第3课 Java OO的基本介绍，类、接口、方法以及访问控制<br>第4课 Java的集合类——数组、Set、List、Map、Queue<br>第5课 异常处理——Checked Exception、Unchecked Exception，如何通过异常信息捕获错误<br>第6课 Java的OO特性——类、对象、接口、封装、继承、多态<br>第7课 Java泛型介绍<br>第8课 Java的集合类详解<br>第9课 Java的垃圾回收以及多线程<br>第10课 Java的文件操作<br>第11课 序列化和反射<br>第12课 网络编程<br>第13课 Ant和Maven<br>第14课 Eclipse以及Hadoop编程入门</p>
+<p>授课时间：<br>课程预计2015年1月5日开课，预计16周左右完成课程。</p>
+<p>授课对象：<br>不具备Java编程基础，对Hadoop及其子系统有兴趣的IT人或学习者，希望能够通过本课程的学习掌握Java的基本知识，能够开始Hadoop的基本编程</p>
+<p>授课讲师：<br>陈轶宁，网名yining，ITPUB社区元老，超级版主，ITPUB Java等开发板块的开创者。曾任职IBM多伦多实验室IT架构师，现从事地理信息系统开发创业工作。</p>
+<p>收获预期：<br>能够独立完成JDK运行环境以及Eclipse的安装配置，使用Eclipse进行简单Java程序的开发及调试运行，可阅读第三方Java代码并了解程序内容，能够进行简单的Hadoop程序开发。</p>
+<blockquote>
+<p>链接：<a href="https://pan.baidu.com/s/1pn3TsMLIwzYzuIrgkb_S3w" target="_blank" rel="noopener">https://pan.baidu.com/s/1pn3TsMLIwzYzuIrgkb_S3w</a> 提取码：aixm</p>
+</blockquote>
+<blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>
+</div></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">巨菜站</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://www.jucaizhan.com/炼数成金/023_炼数成金_《大数据的Java基础》_2014/">https://www.jucaizhan.com/炼数成金/023_炼数成金_《大数据的Java基础》_2014/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://www.jucaizhan.com" target="_blank">巨菜站</a>！</span></div></div><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/云计算-大数据/">云计算&amp;大数据</a><a class="post-meta__tags" href="/tags/Java/">Java</a><a class="post-meta__tags" href="/tags/炼数成金/">炼数成金</a><a class="post-meta__tags" href="/tags/2014/">2014</a></div><nav id="pagination"><div class="prev-post pull-left"><a href="/炼数成金/024_炼数成金_《基于案例学习SQL优化》_2014/"><i class="fa fa-chevron-left">  </i><span>基于案例学习SQL优化</span></a></div><div class="next-post pull-right"><a href="/腾讯课堂/002_爱前端_《最受欢迎的react框架【爱前端】》_2017/"><span>最受欢迎的react框架【爱前端】</span><i class="fa fa-chevron-right"></i></a></div></nav><div id="gitalk-container"></div><script>var gitalk = new Gitalk({
+  clientID: '58c55a7244de19e196b7',
+  clientSecret: '36193ea6255115da581cda3f178fa9dcccfe7873',
+  repo: 'blog',
+  owner: 'longbaobao',
+  admin: 'longbaobao',
+  id: md5(decodeURI(location.pathname)),
+  distractionFreeMode: 'true',
+})
+gitalk.render('gitalk-container')</script></div></div><footer><div class="layout" id="footer"><div class="copyright">&copy;2018 - 2019 By 巨菜站</div><div class="icp"><a><span>冀ICP备16022574号-1</span></a></div><div class="busuanzi"><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_page_pv"><i class="fa fa-file-o"></i><span id="busuanzi_value_page_pv"></span><span></span></span></div></div></footer><i class="fa fa-arrow-up" id="go-up" aria-hidden="true"></i><script src="/js/third-party/anime.min.js"></script><script src="/js/third-party/jquery.min.js"></script><script src="/js/third-party/jquery.fancybox.min.js"></script><script src="/js/third-party/velocity.min.js"></script><script src="/js/third-party/velocity.ui.min.js"></script><script src="/js/utils.js?version=1.5.3"></script><script src="/js/fancybox.js?version=1.5.3"></script><script src="/js/sidebar.js?version=1.5.3"></script><script src="/js/copy.js?version=1.5.3"></script><script src="/js/fireworks.js?version=1.5.3"></script><script src="/js/transition.js?version=1.5.3"></script><script src="/js/scroll.js?version=1.5.3"></script><script src="/js/head.js?version=1.5.3"></script></body></html>

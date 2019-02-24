@@ -1,0 +1,65 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="description" content="Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲"><meta name="keywords" content="慕课网,2018,前端开发,Vue,Vue-Router,Vuex"><meta name="author" content="巨菜站,undefined"><meta name="copyright" content="巨菜站"><link rel="alternate" href="/atom.xml" title="巨菜站" type="application/atom+xml"><meta name="description" content="&lt;p&gt;&lt;img src=&quot;https://szimg.mukewang.com/5aab7f270001909810800600-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲&lt;br&gt;这是一门重技术讲解的课程，会把Vue的核心技术都深入细致地进行讲解，通过一个Todo应用深入讲解Vue应用开发，Vue+Webpack工作流搭建，Vue+Vue-Router+Vuex项目架构和Vue服务端渲染深度集成，以此给学员展示Vue应用开发中的各种问题和最适合的解决方案。&lt;br&gt;第1章 课程介绍&lt;br&gt;课程介绍，介绍课程的章节安排和学习本门课程的一些注意点。&lt;/p&gt;
+&lt;p&gt;1-1 课程导学&lt;br&gt;1-2 项目介绍&lt;br&gt;1-3 Webpack4升级注意&lt;/p&gt;"><title>Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲 | 巨菜站_慕课网,2018,前端开发,Vue,Vue-Router,Vuex</title><link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css?version=1.5.3"><link rel="dns-prefetch" href="https://cdn.staticfile.org"><link rel="dns-prefetch" href="https://cdn.bootcss.com"><link rel="dns-prefetch" href="https://creativecommons.org"><link rel="stylesheet" type="text/css" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script><script src="https://unpkg.com/blueimp-md5@latest/js/md5.min.js"></script><link rel="dns-prefetch" href="https://hm.baidu.com"><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3f2224e84fb41c8beaba0224b5142794";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();</script><link rel="dns-prefetch" href="https://www.google-analytics.com"><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-121920923-2', 'auto');
+ga('send', 'pageview');</script><script>(function(m, ei, q, i, a, j, s) {
+    m[i] = m[i] || function() {
+        (m[i].a = m[i].a || []).push(arguments)
+    };
+    j = ei.createElement(q),
+        s = ei.getElementsByTagName(q)[0];
+    j.async = true;
+    j.charset = 'UTF-8';
+    j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+    s.parentNode.insertBefore(j, s);
+})(window, document, 'script', '_MEIQIA');
+_MEIQIA('entId', 124369);</script><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  localSearch: {"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}"},"path":"search.xml"}
+} </script></head><body><canvas class="fireworks"></canvas><i class="fa fa-arrow-right" id="toggle-sidebar" aria-hidden="true"></i><div id="sidebar"><div class="toggle-sidebar-info text-center"><span data-toggle="切换文章详情">切换站点概览</span><hr></div><div class="sidebar-toc"><div class="sidebar-toc__title">目录</div><div class="sidebar-toc__progress"><span class="progress-notice">你已经读了</span><span class="progress-num">0</span><span class="progress-percentage">%</span><div class="sidebar-toc__progress-bar"></div></div><div class="sidebar-toc__content"></div></div><div class="author-info hide"><div class="author-info__avatar text-center"><img src="http://blog.fueson.top/avatar/me.jpg?imageMogr2/thumbnail/200x200&gt;/gravity/Center/crop/200x200/format/jpg/blur/1x0/quality/75|imageslim"></div><div class="author-info__name text-center">巨菜站</div><div class="author-info__description text-center">资源下载，百度资源，教育资源</div><hr><div class="author-info-articles"><a class="author-info-articles__archives article-meta" href="/archives"><span class="pull-left">文章</span><span class="pull-right">119</span></a><a class="author-info-articles__tags article-meta" href="/tags"><span class="pull-left">标签</span><span class="pull-right">157</span></a><a class="author-info-articles__categories article-meta" href="/categories"><span class="pull-left">分类</span><span class="pull-right">21</span></a></div></div><div class="unit"><div class="heart"><div class="heart-piece-0"></div><div class="heart-piece-1"></div><div class="heart-piece-2"></div><div class="heart-piece-3"></div><div class="heart-piece-4"></div><div class="heart-piece-5"></div><div class="heart-piece-6"></div><div class="heart-piece-7"></div><div class="heart-piece-8"></div></div><p class="anime-title"><a href="https://www.jucaizhan.com/" target="_blank">感谢访问本站 ^_^</a></p><div class="email-title"><i class="fa fa-telegram" style="margin-right: 14px"></i><a href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&amp;email=908934816@qq.com" target="_blank">失效连接提交</a></div></div></div><div id="content-outer"><div id="top-container" style="background-image: url(http://blog.fueson.top/bg/saber.jpg)"><div id="page-header"><span class="pull-left"> <a id="site-name" href="/">巨菜站</a></span><i class="fa fa-bars toggle-menu pull-right" aria-hidden="true"></i><span class="pull-right menus"><a class="site-page" href="/">主页</a><a class="site-page" href="/archives">文章总览</a><a class="site-page" href="/about">关于我们</a><a class="site-page" href="/categories">分类</a><a class="site-page" href="/tags">标签</a><a class="site-page" href="/gallery">个人相册</a></span></div><div id="post-info"><div id="post-title">Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲</div><div id="post-meta"><time class="post-meta__date"><i class="fa fa-calendar" aria-hidden="true"></i> 2018-09-29</time><span class="post-meta__separator">|</span><i class="fa fa-inbox post-meta__icon" aria-hidden="true"></i><a class="post-meta__categories" href="/categories/前端开发/">前端开发</a><div class="post-meta-wordcount"><span>字数总计: </span><span class="word-count">1,269</span><span class="post-meta__separator">|</span><span>阅读时长: 4 分钟</span></div></div></div></div><div class="layout" id="content-inner"><article id="post"><div id="post-content"><p><img src="https://szimg.mukewang.com/5aab7f270001909810800600-360-202.jpg" alt="image"></p>
+<p>Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲<br>这是一门重技术讲解的课程，会把Vue的核心技术都深入细致地进行讲解，通过一个Todo应用深入讲解Vue应用开发，Vue+Webpack工作流搭建，Vue+Vue-Router+Vuex项目架构和Vue服务端渲染深度集成，以此给学员展示Vue应用开发中的各种问题和最适合的解决方案。<br>第1章 课程介绍<br>课程介绍，介绍课程的章节安排和学习本门课程的一些注意点。</p>
+<p>1-1 课程导学<br>1-2 项目介绍<br>1-3 Webpack4升级注意</p>
+<a id="more"></a>
+<blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/196.html" target="_blank" rel="noopener">https://coding.imooc.com/class/196.html</a></blockquote><br>
+
+
+<p>第2章 Vue+Webpack的前端工程工作流搭建<br>详细讲解webpack的配置以及vue-loader，css-module等较为高级的内容如何进行配置。</p>
+<p>2-1 项目目录升级-一个正式项目的目录结构<br>2-2 vue-loader配置<br>2-3 css module配置<br>2-4 安装使用eslint和editorconfig以及precommit<br>2-5 Webpack4升级<br>第3章 Vue核心知识<br>从Vue的实例、生命周期、原生指令、数据绑定、特殊API和组件开发等角度详细分析Vue的方方面面。并且深入讲解Vue的组件开发，包括一些高级属性slot、自定义双向绑定、render function等。</p>
+<p>3-1 一点小准备-单独讲解vue核心内容的配置<br>3-2 Vue实例<br>3-3 Vue的生命周期方法<br>3-4 Vue的数据绑定<br>3-5 computed和watch使用场景和方法<br>3-6 Vue的原生指令<br>3-7 Vue的组件之组件的定义<br>3-8 Vue的组件之组件的继承.mp4<br>3-9 Vue的组件之自定义双向绑定<br>3-10 Vue的组件之高级属性<br>3-11 Vue的组件之render function<br>第4章 Vue-Router和Vuex<br>首先把Vue-Router和Vuex集成到项目开发当中。然后分别讲解Vue-Router和Vuex的详细使用方法和API，包括Router的配置，导航守卫，Vuex的配置，分模块等。并实现了Vuex Store的热更替功能。</p>
+<p>4-1 Vue-router之集成<br>4-2 Vue-router之配置<br>4-3 Vue-router之路由参数传递<br>4-4 Vue-router之导航守卫<br>4-5 Vuex之集成<br>4-6 Vuex之state和getters<br>4-7 Vuex之mutation和action<br>4-8 Vuex之模块<br>4-9 Vuex之其他一些API和配置<br>第5章 服务器渲染<br>在项目当中加入Node Server，同时集成服务端渲染。解决服务端渲染需要考虑的基础问题，包括开发时如何跟webpack-dev-server配合，title信息的处理，正式环境的服务端渲染使用等。</p>
+<p>5-1 开发时服务端渲染的配置和原理<br>5-2 使用koa实现node server<br>5-3 服务端渲染的entry配置<br>5-4 开发时服务端渲染静态资源路径处理<br>5-5 使用vue-meta处理元信息<br>5-6 生产环境服务端渲染<br>第6章 高级组件开发<br>通过两个高级组件：Notification和Tabs，讲解一些只有在高级组件开发当中才会用到的开发技巧。比如通过extend继承组件，通过一个js方法调用组件的显示，以及嵌套组件父组件显示子组件中的内容等。</p>
+<p>6-1 notification之基本组件实现<br>6-2 notification之通过方法调用<br>6-3 notification之优化<br>6-4 tabs组件之基本组件实现<br>6-5 tabs组件之选中状态和切换<br>6-6 tabs组件之在父组件中渲染子组件的slot<br>第7章 项目开发<br>首先开发服务端的API接口，然后进行前后端的接口联调，登录页面的实现，以及最后调整服务端渲染的代码，让服务端渲染的时候用到的数据可以在客户端重用。</p>
+<p>7-1 服务端api请求基础实现<br>7-2 数据API实现<br>7-3 后端登录接口实现以及session的使用.mp4<br>7-4 登录页面实现<br>7-5 联调第一个API<br>7-6 请求错误处理和登录接口联调<br>7-7 所有接口进行联调<br>7-8 在数据请求的时候使用全局loading<br>7-9 在服务端渲染时获取数据<br>7-10 前后端数据复用以及服务端用户认证<br>7-11 服务端渲染进行redirect操作<br>7-12 createRenderer的方式进行服务端渲染<br>7-13 正式环境打包以及异步模块打包优化<br>第8章 部署和总结<br>通过PM2在服务器上部署项目应用，并自动化把静态资源部署到七牛CDN上面。同时使用nginx配置让应用可以通过域名访问。最后总结课程内容。</p>
+<p>8-1 pm2使用以及服务器端部署<br>8-2 静态资源上传cdn<br>8-3 总结<br>本课程已完结</p>
+<blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>
+
+<p><div id="jspay" sid="04MnO0A1107" style="display:none">04MnO0A1107</div></p>
+<script type="text/javascript" src="https://www.fageka.com/j.js"></script>
+<script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>
+
+</div></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">巨菜站</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://www.jucaizhan.com/慕课网/035_慕课网_《Vue核心技术_Vue+Vue-Router+Vuex+SSR实战精讲_8课_2018/">https://www.jucaizhan.com/慕课网/035_慕课网_《Vue核心技术_Vue+Vue-Router+Vuex+SSR实战精讲_8课_2018/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://www.jucaizhan.com" target="_blank">巨菜站</a>！</span></div></div><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/慕课网/">慕课网</a><a class="post-meta__tags" href="/tags/2018/">2018</a><a class="post-meta__tags" href="/tags/前端开发/">前端开发</a><a class="post-meta__tags" href="/tags/Vue/">Vue</a><a class="post-meta__tags" href="/tags/Vue-Router/">Vue-Router</a><a class="post-meta__tags" href="/tags/Vuex/">Vuex</a></div><nav id="pagination"><div class="prev-post pull-left"><a href="/炼数成金/006_炼数成金_《深入浅出Spring》_2017/"><i class="fa fa-chevron-left">  </i><span>深入浅出Spring</span></a></div><div class="next-post pull-right"><a href="/慕课网/034_慕课网《SpringBoot2.0不容错过的新特性_WebFlux响应式编程》_6课_2018/"><span>SpringBoot2.0不容错过的新特性 WebFlux响应式编程</span><i class="fa fa-chevron-right"></i></a></div></nav><div id="gitalk-container"></div><script>var gitalk = new Gitalk({
+  clientID: '58c55a7244de19e196b7',
+  clientSecret: '36193ea6255115da581cda3f178fa9dcccfe7873',
+  repo: 'blog',
+  owner: 'longbaobao',
+  admin: 'longbaobao',
+  id: md5(decodeURI(location.pathname)),
+  distractionFreeMode: 'true',
+})
+gitalk.render('gitalk-container')</script></div></div><footer><div class="layout" id="footer"><div class="copyright">&copy;2018 - 2019 By 巨菜站</div><div class="icp"><a><span>冀ICP备16022574号-1</span></a></div><div class="busuanzi"><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_page_pv"><i class="fa fa-file-o"></i><span id="busuanzi_value_page_pv"></span><span></span></span></div></div></footer><i class="fa fa-arrow-up" id="go-up" aria-hidden="true"></i><script src="/js/third-party/anime.min.js"></script><script src="/js/third-party/jquery.min.js"></script><script src="/js/third-party/jquery.fancybox.min.js"></script><script src="/js/third-party/velocity.min.js"></script><script src="/js/third-party/velocity.ui.min.js"></script><script src="/js/utils.js?version=1.5.3"></script><script src="/js/fancybox.js?version=1.5.3"></script><script src="/js/sidebar.js?version=1.5.3"></script><script src="/js/copy.js?version=1.5.3"></script><script src="/js/fireworks.js?version=1.5.3"></script><script src="/js/transition.js?version=1.5.3"></script><script src="/js/scroll.js?version=1.5.3"></script><script src="/js/head.js?version=1.5.3"></script></body></html>

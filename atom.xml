@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>巨菜站</title>
+  
+  <subtitle>感谢光临本站,本站拥有IT各行各业视频资源上T.加入本站VIP可免费下载所有视频资源且本站资源均不加密! 请多指教 ^_^</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.jucaizhan.com/"/>
+  <updated>2019-02-24T08:20:36.813Z</updated>
+  <id>https://www.jucaizhan.com/</id>
+  
+  <author>
+    <name>巨菜站</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【徐葳】Flink入门及实战上下合集</title>
+    <link href="https://www.jucaizhan.com/51CTO%E5%AD%A6%E9%99%A2/51CTO%E5%AD%A6%E9%99%A2%E3%80%8A%E3%80%90%E5%BE%90%E8%91%B3%E3%80%91Flink%E5%85%A5%E9%97%A8%E5%8F%8A%E5%AE%9E%E6%88%98%E3%80%8B2018/"/>
+    <id>https://www.jucaizhan.com/51CTO学院/51CTO学院《【徐葳】Flink入门及实战》2018/</id>
+    <published>2019-02-24T06:34:13.000Z</published>
+    <updated>2019-02-24T08:20:36.813Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://s11.51cto.com/images/201706/07/e45e84d1500cbf2780e85bd5a74357e3.jpg" alt="image"></p><p>课程目标<br>《Flink入门及实战》课程主要讲述了Flink实时框架的基本操作使用以及案例实战开发。通过本课程的教学，使学生既能学习Flink的理论知识，也能掌握Flink的实战内容。为后期工作中的实时处理业务提供多一种技术选择。<br>适用人群<br>对大数据、实时计算感兴趣的同学，需要具备一定的编程基础(java\scala)。<br>课程简介<br>本套课程基于Flink最新版本V1.6.1</p><p>本套课程主要针对Flink课程进行讲解，学完以后可以帮助大家快速掌握数据实时计算技能。  </p><p>本次授课，考虑到大多数学员是java程序员，会基于java代码+scala代码讲解。<br><a id="more"></a></p><p><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://edu.51cto.com/course/15285.html" target="_blank" rel="noopener">http://edu.51cto.com/course/15285.html</a><br></blockquote><br>Flink进阶及实战(下)-课程正式上线：</p><p><a href="http://edu.51cto.com/course/15835.html" target="_blank" rel="noopener">http://edu.51cto.com/course/15835.html</a></p><p>Flink入门及实战(上)-课程安排 </p><p>1：Flink基本原理及应用场景分析</p><p>2：Flink vs Storm vs SparkStreaming</p><p>3：Flink案例开发需求分析</p><p>4：滑动窗口单词计数-java代码实现</p><p>5：滑动窗口单词计数-scala代码实现</p><p>6：batch批处理-java代码实现</p><p>7：batch批处理-scala代码实现</p><p>8：Flink streaming和Batch代码层面的使用区别</p><p>9：Flink local集群安装以及集群代码提交执行</p><p>10：Flink standalone集群安装部署</p><p>11：Flink on yarn的两种方式</p><p>12：Flink on yarn内部实现</p><p>13：Flink standalone集群HA配置</p><p>14：如何解决集群启动失败的问题</p><p>15：Flink on yarn集群HA配置</p><p>16：Flink scala shell代码调试</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 内容打赏后可见</span><br>      <span class="post-copyright-info"><a href="http://t.cn/EfMHScv " target="_blank" rel="noopener">打赏</a></span><br>    </div><br></div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://s11.51cto.com/images/201706/07/e45e84d1500cbf2780e85bd5a74357e3.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;课程目标&lt;br&gt;《Flink入门及实战》课程主要讲述了Flink实时框架的基本操作使用以及案例实战开发。通过本课程的教学，使学生既能学习Flink的理论知识，也能掌握Flink的实战内容。为后期工作中的实时处理业务提供多一种技术选择。&lt;br&gt;适用人群&lt;br&gt;对大数据、实时计算感兴趣的同学，需要具备一定的编程基础(java\scala)。&lt;br&gt;课程简介&lt;br&gt;本套课程基于Flink最新版本V1.6.1&lt;/p&gt;
+&lt;p&gt;本套课程主要针对Flink课程进行讲解，学完以后可以帮助大家快速掌握数据实时计算技能。  &lt;/p&gt;
+&lt;p&gt;本次授课，考虑到大多数学员是java程序员，会基于java代码+scala代码讲解。&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="大数据" scheme="https://www.jucaizhan.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="51CTO学院" scheme="https://www.jucaizhan.com/tags/51CTO%E5%AD%A6%E9%99%A2/"/>
+    
+      <category term="大数据" scheme="https://www.jucaizhan.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+      <category term="实时处理" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%97%B6%E5%A4%84%E7%90%86/"/>
+    
+      <category term="Flink" scheme="https://www.jucaizhan.com/tags/Flink/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flink从入门到上手企业开发</title>
+    <link href="https://www.jucaizhan.com/51CTO%E5%AD%A6%E9%99%A2/51CTO%E5%AD%A6%E9%99%A2%E3%80%8AFlink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E4%B8%8A%E6%89%8B%E4%BC%81%E4%B8%9A%E5%BC%80%E5%8F%91%E3%80%8B2018/"/>
+    <id>https://www.jucaizhan.com/51CTO学院/51CTO学院《Flink从入门到上手企业开发》2018/</id>
+    <published>2019-02-24T06:32:13.000Z</published>
+    <updated>2019-02-24T08:20:42.739Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://s11.51cto.com/images/201706/07/e45e84d1500cbf2780e85bd5a74357e3.jpg" alt="image"></p><p>课程目标<br>Apache顶级项目-Flink，新一代大数据处理引擎；本课程让带你学习Flink，从入门到上手企业开发。<br>适用人群<br>对大数据有所了解，有一定编程基础<br>课程简介<br>01.flink介绍<br>02.flink-无界数据集-有界数据集<br>03.flink-两种执行模型<br>04.flink-特点<br><a id="more"></a></p><p><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://edu.51cto.com/course/10121.html" target="_blank" rel="noopener">http://edu.51cto.com/course/10121.html</a><br></blockquote><br>05.flink-特点2<br>06.flink-流计算模型-有界数据集处理<br>07.flink-从下到上的架构层次说明<br>08.flink-datasource-flink-datasink结构<br>09.flink-总结<br>10.flink-体验<br>11.flink-体验-下载flink<br>12.flink-体验-解压flink<br>13.flink-体验-启动flink本地集群脚本-验证启动是否成功<br>14.flink-体验-启动webui查看flink状态<br>15.flink-编写java版wordcount程序-启动nc-运行程序<br>16.flink集群运行模式-从IDEA中导出jar包<br>17.flink集群运行模式-检查flink集群运行状况-传递jar到centos上<br>18.flink集群运行模式-启动centos上的nc服务器地址-端口指定9999<br>19.flink程序运行-执行结果查看-注意事项</p><style><p></style><p></p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 内容打赏后可见</span><br>      <span class="post-copyright-info"><a href="http://t.cn/EfMJqcG" target="_blank" rel="noopener">打赏</a></span><br>    </div><br></div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://s11.51cto.com/images/201706/07/e45e84d1500cbf2780e85bd5a74357e3.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;课程目标&lt;br&gt;Apache顶级项目-Flink，新一代大数据处理引擎；本课程让带你学习Flink，从入门到上手企业开发。&lt;br&gt;适用人群&lt;br&gt;对大数据有所了解，有一定编程基础&lt;br&gt;课程简介&lt;br&gt;01.flink介绍&lt;br&gt;02.flink-无界数据集-有界数据集&lt;br&gt;03.flink-两种执行模型&lt;br&gt;04.flink-特点&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="大数据" scheme="https://www.jucaizhan.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="51CTO学院" scheme="https://www.jucaizhan.com/tags/51CTO%E5%AD%A6%E9%99%A2/"/>
+    
+      <category term="大数据" scheme="https://www.jucaizhan.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+      <category term="实时处理" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%97%B6%E5%A4%84%E7%90%86/"/>
+    
+      <category term="Flink" scheme="https://www.jucaizhan.com/tags/Flink/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于Python玩转人工智能最火框架 TensorFlow应用实践</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/045_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E5%9F%BA%E4%BA%8EPython%E7%8E%A9%E8%BD%AC%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%9C%80%E7%81%AB%E6%A1%86%E6%9E%B6%20TensorFlow%E5%BA%94%E7%94%A8%E5%AE%9E%E8%B7%B5%E3%80%8B_8%E8%AF%BE_2017/"/>
+    <id>https://www.jucaizhan.com/慕课网/045_慕课网_《基于Python玩转人工智能最火框架 TensorFlow应用实践》_8课_2017/</id>
+    <published>2018-10-12T09:14:21.000Z</published>
+    <updated>2019-02-24T07:12:04.061Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="//szimg.mukewang.com/5a5ddeda000145b405400300-360-202.jpg" alt="image"></p><p>基于Python玩转人工智能最火框架 TensorFlow应用实践<br>全民人工智能时代，不甘心只做一个旁观者，那就现在开始，从人工智能最流行的框架TensorFlow学起，本课程将手把手带你掌握TensorFlow技术，遵循从基础到实践应用的完整过程，是你通向人工智能开发的首选！</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/176.html" target="_blank" rel="noopener">https://coding.imooc.com/class/176.html</a></blockquote><br><br>第1章 课程整体介绍<br>课程背景简介，项目成果演示，知识点和软件简介，让大家对接下来的学习心中有数<br><br>1-1 课程整体介绍及导学<br>第2章 人工智能基础知识<br>人工智能、神经网络、机器学习、深度学习、激活函数、过拟合、卷积神经网络、循环神经网络等知识的循序渐进讲解。培养大家对课程的兴趣，了解人工智能前景，对人工智能抱持正确态度<br><br>2-1 什么是人工智能<br>2-2 人工智能前景<br>2-3 人工智能需要的基本数学知识<br>2-4 人工智能简史<br>2-5 AI、机器学习和深度学习的关联<br>2-6 什么是机器学习<br>2-7 面对AI，我们应有的态度<br>2-8 什么是过拟合<br>2-9 什么是深度学习<br>第3章 TensorFlow简介和开发环境搭建<br>TensorFlow是什么，TensorFlow原理和前景，TensorFlow和其他框架的对比（例如 Theano，ScikitLearn，Keras，Caffe2，PyTorch等）。开发环境搭建，并提供讲师已经配置好开发环境的虚拟机镜像<br><br>3-1 什么是TensorFlow<br>3-2 TensorFlow和其他机器学习库的对比1<br>3-3 如何学习TensorFlow<br>3-4 TensorFlow前景<br>3-5 如何使用课程提供的虚拟机文件<br>3-6 安装VirtualBox<br>3-7 安装Ubuntu<br>3-8 配置Ubuntu系统<br>3-9 安装Python<br>3-10 安装TensorFlow（上）<br>3-11 安装TensorFLow（下）<br>3-12 安装Python类库<br>第4章 TensorFlow原理与进阶（代码实践）<br>TensorFlow核心概念，TensorFlow激励函数，TensorFlow构建神经网络，TensorFlow优化器，可视化利器TensorBoard，TensorFlow解决过拟合，TensorFlow实现卷积神经网络和循环神经网络等。通过生动图文原理解释和实例，循序渐进掌握TensorFlow<br><br>4-1 从HelloWorld开始<br>4-2 TensorFlow的编程模式<br>4-3 TensorFlow的基础结构<br>4-4 图和会话<br>4-5 Python常用库Numpy的使用<br>4-6 什么是Tensor（上）<br>4-7 什么是Tensor（下）<br>4-8 图和会话原理及案例（上）<br>4-9 图和会话原理及案例（下）<br>4-10 可视化利器TensorBoard（上）<br>4-11 可视化利器TensorBoard（下）<br>4-12 酷炫模拟游乐园PlayGround<br>4-13 常用Python库Matplotlib<br>4-14 综合小练习：梯度下降解决线性回归（上）<br>4-15 综合小练习：梯度下降解决线性回归（中）<br>4-16 综合小练习：梯度下降解决线性回归（下）<br>4-17 激活函数（上）<br>4-18 激活函数（下）<br>4-19 动手实现CNN卷积神经网络（一）<br>4-20 动手实现CNN卷积神经网络（二）<br>4-21 动手实现CNN卷积神经网络（三）<br>4-22 动手实现CNN卷积神经网络（四）<br>4-23 动手实现CNN卷积神经网络（五）<br>4-24 动手实现RNN-LSTM循环神经网络（一）：背景和知识点<br>4-25 动手实现RNN-LSTM循环神经网络（二）：编写实用方法(上)<br>4-26 动手实现RNN-LSTM循环神经网络（三）：编写实用方法(中)<br>4-27 动手实现RNN-LSTM循环神经网络（四）：编写实用方法(下)1<br>4-28 动手实现RNN-LSTM循环神经网络（四）：编写实用方法(下)2<br>4-29 动手实现RNN-LSTM循环神经网络（五）：编写神经网络模型(上)<br>4-30 动手实现RNN-LSTM循环神经网络（六）：编写神经网络模型(中)1<br>4-31 动手实现RNN-LSTM循环神经网络（六）：编写神经网络模型(中)2<br>4-32 动手实现RNN-LSTM循环神经网络（七）：编写神经网络模型(下)<br>4-33 动手实现RNN-LSTM循环神经网络（八）：编写训练方法(上)<br>4-34 动手实现RNN-LSTM循环神经网络（九）：编写训练方法(下)<br>4-35 动手实现RNN-LSTM循环神经网络（十）：编写测试方法<br>4-36 动手实现RNN-LSTM循环神经网络（十一）：实际训练和测试<br>第5章 案例一 会作曲的人工智能<br>结合RNN-LSTM开发能作出动听旋律的炫酷人工智能：背景和知识点简介，开发环境配置，原理讲解，代码实现，训练模型和测试<br><br>5-1 背景和知识点简介<br>5-2 音乐和数学的联系<br>5-3 什么是MIDI文件<br>5-4 配置开发环境<br>5-5 编写转换MIDI到MP3的方法<br>5-6 Python音乐库Music21的使用和测试方法<br>5-7 编写整个神经网络模型<br>5-8 编写从训练文件获取音符的方法<br>5-9 编写从预测数据来生成音乐的方法<br>5-10 编写训练神经网络的方法（一）<br>5-11 编写训练神经网络的方法（二）<br>5-12 编写训练神经网络的方法（三）<br>5-13 编写神经网络生成音乐的方法（一）<br>5-14 编写神经网络生成音乐的方法（二）<br>5-15 纯TensorFlow版的预告<br>第6章 案例二 会Photoshop的人工智能<br>结合DCGAN开发会PS的人工智能。从此P图不用愁，分分钟搞定N多图片的创建：背景和知识点简介，开发环境配置，原理讲解，代码实现，训练模型和测试<br><br>6-1 背景和知识点简介<br>6-2 配置开发环境<br>6-3 什么是GAN(生成对抗网络)<br>6-4 什么是DCGAN<br>6-5 编写DCGAN中的判别器模型（上）<br>6-6 编写DCGAN中的判别器模型（下）<br>6-7 编写DCGAN中的生成器模型<br>6-8 编写训练神经网络的方法（上）<br>6-9 编写训练神经网络的方法（下）<br>6-10 编写神经网络生成图片的方法<br>6-11 代码完成和测试模型<br>6-12 纯TensorFlow版的预告<br>第7章 案例三 会开3D赛车的人工智能<br>结合深度强化学习中的A3C实现会开3D赛车的人工智能，学会自动驾驶：背景和知识点简介，开发环境配置，原理讲解，代码实现，训练模型和测试<br><br>7-1 背景和知识点简介<br>7-2 强化学习的经典实验环境<br>7-3 配置开发环境（1）<br>7-4 配置开发环境（2）<br>7-5 什么是强化学习<br>7-6 什么是Q Learning<br>7-7 Q-Learning 实现机器人走迷宫：创建环境<br>7-8 Q-Learning 实现机器人走迷宫：决策算法（1）<br>7-9 Q-Learning 实现机器人走迷宫：决策算法（2）<br>7-10 Q-Learning 实现机器人走迷宫：游戏主程序<br>7-11 Deep Q Learning 实现迷宫游戏：决策算法（1）<br>7-12 Deep Q Learning 实现迷宫游戏：决策算法（2）<br>7-13 Deep Q Learning 实现迷宫游戏：决策算法（3）<br>7-14 Deep Q Learning 实现迷宫游戏：决策算法(4)和主程序<br>7-15 Policy Gradient 实现 Gym 游戏<br>7-16 A3C 实现 3D 赛车游戏：成果演示<br>7-17 A3C实现3D赛车游戏：讲解A3C和编写环境<br>7-18 A3C实现3D赛车游戏：编写A3C算法和主程序<br>第8章 知识点总结和课程延展<br>知识点总结，如何学习一门知识，如何深入人工智能和TensorFlow，如何学习数学和英语，TensorFlow还能做什么，等等。<br><br>8-1 总结陈词和补充<br>8-2 如何学好英语<br>8-3 如何学好数学<br>8-4 如何学习一门技术及课程知识点总结<br>8-5 深入AI和TensorFlow<br>本课程已完结<br><br><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="A0mB6XR1711" style="display:none">A0mB6XR1711</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;//szimg.mukewang.com/5a5ddeda000145b405400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;基于Python玩转人工智能最火框架 TensorFlow应用实践&lt;br&gt;全民人工智能时代，不甘心只做一个旁观者，那就现在开始，从人工智能最流行的框架TensorFlow学起，本课程将手把手带你掌握TensorFlow技术，遵循从基础到实践应用的完整过程，是你通向人工智能开发的首选！&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="人工智能" scheme="https://www.jucaizhan.com/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    
+      <category term="人工智能" scheme="https://www.jucaizhan.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+      <category term="Python" scheme="https://www.jucaizhan.com/tags/Python/"/>
+    
+      <category term="深度学习" scheme="https://www.jucaizhan.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="2018" scheme="https://www.jucaizhan.com/tags/2018/"/>
+    
+      <category term="TensorFlow" scheme="https://www.jucaizhan.com/tags/TensorFlow/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OpenCV+TensorFlow 入门人工智能图像处理</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/044_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AOpenCV+TensorFlow%20%E5%85%A5%E9%97%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E3%80%8B_9%E8%AF%BE_2018/"/>
+    <id>https://www.jucaizhan.com/慕课网/044_慕课网_《OpenCV+TensorFlow 入门人工智能图像处理》_9课_2018/</id>
+    <published>2018-10-12T09:13:21.000Z</published>
+    <updated>2019-02-24T07:12:04.060Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="//szimg.mukewang.com/5a9f4c2e00010ce205400300-360-202.jpg" alt="image"></p><p>OpenCV+TensorFlow 入门人工智能图像处理<br>AI的火爆程度可以说是“妇孺皆知”，无论是“美颜”还是AR识别，身边越来越多的AI元素出现在我们的生活中，让我们的生活更加丰富多彩。在这次课程中，我们就来通过丰富有趣的案例，来学习人工智能中的计算机视觉技术，迈上机器学习新台阶。</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链 <a href="https://coding.imooc.com/class/191.html" target="_blank" rel="noopener">https://coding.imooc.com/class/191.html</a></blockquote><br><br>第1章 课程导学<br>包括课程概述、课程安排、学习前提等方面的介绍，让同学们对计算机视觉有所理解<br><br>1-1 计算机视觉导学<br>第2章 计算机视觉入门<br>通过OpenCV以及TensorFlow两个方面介绍计算机入门的相关知识。OpenCV侧重点在于为大家补充图像处理的相关基础，如像素、文件封装格式、灰度等级、颜色通道等的概念。TensorFlow重点在于通过对常量、变量、矩阵等的介绍，学习并掌握TensorFlow的基本使用。…<br><br>2-1 本章介绍<br>2-2 Mac下一站式开发环境anaconda搭建<br>2-3 Windows下一站式开发环境anaconda搭建<br>2-4 测试案例helloWorld<br>2-5 案例1：图片的读取和展示<br>2-6 Opencv模块组织结构<br>2-7 案例2：图片写入<br>2-8 案例3：不同图片质量保存<br>2-9 像素操作基础<br>2-10 案例4：像素读取写入<br>2-11 tensorflow常量变量定义<br>2-12 tensorflow运算原理<br>2-13 常量变量四则运算<br>2-14 矩阵基础1<br>2-15 矩阵基础2<br>2-16 矩阵基础3<br>2-17 numpy模块使用<br>2-18 matplotlib模块的使用<br>2-19 小综合：人工神经网络逼近股票价格1<br>2-20 小综合：人工神经网络逼近股票价格2<br>2-21 小综合：人工神经网络逼近股票价格3<br>2-22 小综合：人工神经网络逼近股票价格4<br>第3章 计算机视觉加强之几何变换<br>本章节主要为大家介绍图像的几何变换。几何变换顾名思义就是对图片外形轮廓进行操作以适应不同的场景。如缩放、剪切、位移、镜像、旋转、仿射变换等。<br><br>3-1 本章介绍<br>3-2 图片缩放1<br>3-3 图片缩放2<br>3-4 图片缩放3<br>3-5 图片剪切<br>3-6 图片位移1<br>3-7 图片移位2<br>3-8 图片移位3<br>3-9 图片镜像<br>3-10 图片缩放<br>3-11 图片仿射变换<br>3-12 图片旋转<br>3-13 图片几何变换小结<br>第4章 计算机视觉加强之图像特效&amp;线段文字绘制<br>视频滤镜也是目前在计算机算法处理上比较火的一个方向之一，在本章节中将结合灰度、底板、马赛克、毛玻璃、边缘检测、油画效果等为大家介绍视频滤镜的使用<br><br>4-1 图像特效介绍<br>4-2 图像灰度处理1<br>4-3 图像灰度处理2<br>4-4 算法优化<br>4-5 颜色反转<br>4-6 马赛克<br>4-7 毛玻璃<br>4-8 图片融合<br>4-9 边缘检测1<br>4-10 边缘检测2<br>4-11 浮雕效果<br>4-12 颜色映射<br>4-13 油画特效<br>4-14 图像特效小结<br>4-15 线段绘制<br>4-16 矩形圆形任意多边形绘制<br>4-17 文字图片绘制<br>第5章 计算机视觉加强之图像美化<br>每个人都有一个爱美的心，在这个章节中大家可以通过磨皮美白、亮度增强、直方图均衡化、图像滤波等方法自己美化自己的照片。<br><br>5-1 美化效果章节介绍<br>5-2 彩色图片直方图<br>5-3 直方图均衡化<br>5-4 图片修补<br>5-5 灰度直方图源码<br>5-6 彩色直方图源码<br>5-7 灰度直方图均衡化<br>5-8 彩色直方图均衡化<br>5-9 亮度增强<br>5-10 磨皮美白<br>5-11 高斯均值滤波<br>5-12 中值滤波<br>5-13 图像美化章节小结<br>第6章 计算机视觉加强之机器学习<br>本章节将结合haar+adaboost以及hog+svm分别实现人脸识别、卡通小狮子识别。将为大家介绍一个从训练到识别一个完整的机器学习案例。<br><br>6-1 机器学习章节介绍<br>6-2 视频分解图片<br>6-3 图片合成视频<br>6-4 Haar特征1<br>6-5 Haar特征2<br>6-6 Haar特征3<br>6-7 adaboost分类器1<br>6-8 adaboost分类器2<br>6-9 Haar+adaboost人脸识别<br>6-10 SVM支持向量机1<br>6-11 SVM支持向量机2<br>6-12 SVM小结<br>6-13 Hog特征1<br>6-14 Hog特征2<br>6-15 Hog特征3<br>6-16 Hog特征4<br>6-17 Hog小结<br>6-18 Hog_SVM小狮子识别1<br>6-19 Hog_SVM小狮子识别2<br>6-20 Hog_SVM小狮子识别3<br>6-21 Hog_SVM小狮子识别4<br>6-22 Hog_SVM小狮子识别5<br>6-23 机器学习小结<br>第7章 手写数字识别<br>通过knn、cnn两种方式，并结合每种方法的矩阵维度变化，深层次的讲解手写数字识别案例，讲述不一样的案例。<br><br>7-1 章节介绍<br>7-2 样本介绍<br>7-3 knn数字识别1<br>7-4 knn数字识别2<br>7-5 knn数字识别3<br>7-6 knn数字识别4<br>7-7 knn数字识别5<br>7-8 knn数字识别6<br>7-9 knn数字识别7<br>7-10 knn数字识别8<br>7-11 knn数字识别9<br>7-12 knn数字识别10<br>7-13 cnn实现手写数字识别1<br>7-14 cnn实现手写数字识别2<br>7-15 cnn实现手写数字识别3<br>7-16 cnn实现手写数字识别4<br>7-17 cnn实现手写数字识别5<br>7-18 cnn实现手写数字识别6<br>7-19 数字识别小结<br>第8章 “刷脸”识别<br>在第六章的基础上，通过识别某个具体的人脸来达到“刷脸”的效果。该案例架构包含样本收集+图像预处理+神经网络训练识别。可以说是一个从样本到训练的完整项目。<br><br>8-1 章节介绍<br>8-2 最简单的图片爬虫<br>8-3 ffmpeg初识<br>8-4 OpenCV预处理<br>8-5 神经网络训练识别1<br>8-6 神经网络训练识别2<br>8-7 神经网络训练识别3<br>8-8 神经网络训练识别4<br>8-9 本章小结<br>第9章 课程总结<br>对课程进行整体的回顾与总结<br><br>9-1 课程总结<br>本课程已完结<br><br><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="ZKdqMUP1637" style="display:none">ZKdqMUP1637</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;//szimg.mukewang.com/5a9f4c2e00010ce205400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;OpenCV+TensorFlow 入门人工智能图像处理&lt;br&gt;AI的火爆程度可以说是“妇孺皆知”，无论是“美颜”还是AR识别，身边越来越多的AI元素出现在我们的生活中，让我们的生活更加丰富多彩。在这次课程中，我们就来通过丰富有趣的案例，来学习人工智能中的计算机视觉技术，迈上机器学习新台阶。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="数据分析" scheme="https://www.jucaizhan.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+      <category term="数据分析" scheme="https://www.jucaizhan.com/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+      <category term="Python" scheme="https://www.jucaizhan.com/tags/Python/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="2018" scheme="https://www.jucaizhan.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker+Kubernetes(k8s)微服务容器化实践</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/043_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8ADocker+Kubernetes(k8s)%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%B9%E5%99%A8%E5%8C%96%E5%AE%9E%E8%B7%B5%E3%80%8B_9%E8%AF%BE_2018/"/>
+    <id>https://www.jucaizhan.com/慕课网/043_慕课网_《Docker+Kubernetes(k8s)微服务容器化实践》_9课_2018/</id>
+    <published>2018-10-12T09:12:21.000Z</published>
+    <updated>2019-02-24T07:12:04.060Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="//szimg.mukewang.com/5ab3a1240001e67910800600-360-202.jpg" alt="image"></p><p>Docker+Kubernetes(k8s)微服务容器化实践<br>从整体上把握微服务，体会服务Docker化，理解服务编排，以及主流的服务编排框架——Kubernetes，了解它的架构，知道它的运作原理，知道如何安装、使用及如何部署微服务</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/chapter/198.html" target="_blank" rel="noopener">https://coding.imooc.com/class/chapter/198.html</a></blockquote><br><br>第1章 初识微服务<br>微服务的入门，我们从传统的单体架构入手，看看在什么样的环境和需求下一步步走到微服务的，然后再具体了解一下什么才是微服务，让大家对微服务的概念有深入的理解。然后我们一起画一个微服务的架构图，再从架构上去分析微服务架构的优势和不足。 …<br><br>1-1 微服务-导学<br>1-2 软件架构的进化<br>1-3 什么是微服务<br>1-4 画出微服务架构图<br>1-5 微服务架构的优势和不足<br>第2章 微服务带来的问题及解决方案分析<br>通过传统服务与微服务对比的方式去学习，如果使用微服务架构会遇到什么问题，这些问题在业内都有什么解决方案。之后我们插了一段SpringBoot和SpringCloud的内容，主要目的是让大家搞清楚它们跟微服务的关系，跟docker的关系，以及跟服务编排的关系。…<br><br>2-1 微服务架构带来的问题<br>2-2 微服务间如何通讯<br>2-3 服务发现、部署更新和扩容<br>2-4 springboot&amp;springcloud（上）<br>2-5 springboot&amp;springcloud（下）<br>第3章 微服务开发<br>我们首先假定一个业务场景，分析一下微服务的划分、每个微服务完成什么功能、它们之间的依赖关系以及它们之间如何通讯。然后从0开始，一行不落的开发完整的服务。服务的开发过程我们会用到SpringBoot，用到Dubbo，用到Thrift，用到API网关Zuul。 …<br><br>3-1 微服务业务分析<br>3-2 Thirft安装和验证<br>3-3 Python开发信息服务<br>3-4 开发用户服务（上）<br>3-5 开发用户服务（下）<br>3-6 开发用户EdgeService_A<br>3-7 开发用户EdgeService_B<br>3-8 开发用户EdgeService_C<br>3-9 开发用户EdgeService_D<br>3-10 dubbo入门操练(上)<br>3-11 dubbo入门操练(下)<br>3-12 开发课程服务<br>3-13 开发课程EdgeService<br>3-14 APIGatewayZuul<br>第4章 服务编排前奏<br>为服务编排做准备，首先我们把所有微服务进行docker化，然后用原生的docker-compose把它们都运行在容器中，并且保证它们之间在容器中也可以正常通讯。最后我们搭建一个私有仓库，用于存放我们的镜像，使用的是业内主流的 - harbor。 …<br><br>4-1 服务docker化（上）<br>4-2 服务docker化（下）<br>4-3 docker下的服务通讯（上）<br>4-4 docker下的服务通讯（下）<br>4-5 镜像仓库<br>4-6 三大平台扬帆起航<br>第5章 服务编排-Mesos<br>我们从概念到架构设计到调度策略逐步去了解Mesos，然后画出我们要搭建的Mesos集群架构图，之后参照架构图我们一步一步搭建好整个集群环境，最后调整我们的微服务，把他们部署在Mesos集群中。<br><br>5-1 了解Mesos<br>5-2 画出Mesos集群架构图<br>5-3 集群环境搭建_A<br>5-4 集群环境搭建_B<br>5-5 集群环境搭建_C<br>5-6 调整微服务适应Mesos<br>5-7 微服务部署_A<br>5-8 微服务部署_B<br>5-9 微服务部署_C<br>第6章 服务编排-DockerSwarm<br>学习的过程跟Mesos类似，也是先从概念入手，了解Swarm的架构设计，了解它的服务发现，服务编排，然后搭建Swarm集群环境，之后调整我们的微服务适应于Swarm，最后把他们部署在Swarm集群中。<br><br>6-1 了解Swarm<br>6-2 集群环境搭建（上）<br>6-3 集群环境搭建（下）<br>6-4 调整微服务及服务配置<br>6-5 微服务部署<br>第7章 服务编排-Kubernetes<br>Kubernetes学习的整体的思路也是从概念到集群搭建最后到微服务部署。但由于它在服务编排领域的领导地位和它的高门槛。我们将它剥离成三部分，核心部分、kube-proxy&amp;kube-dns、认证授权。采用循序渐进的方式逐步渗透，不但可以让大家更容易入门，也会对它有更深刻的理解。 …<br><br>7-1 了解kubernetes（上）<br>7-2 了解kubernetes（下）<br>7-3 环境搭建前奏<br>7-4 预先准备环境<br>7-5 基础集群部署（上）<br>7-6 基础集群部署（下）<br>7-7 小试牛刀<br>7-8 kube-proxy和kube-dns<br>7-9 理解认证、授权<br>7-10 为集群添加认证授权（上）<br>7-11 为集群添加认证授权（下）<br>7-12 再试牛刀<br>7-13 部署我们的微服务<br>第8章 CICD和DevOps<br>首先从实践的角度看看为什么要有CICD和DevOps，然后从本质上了解CICD和DevOps的概念。接着分析我们要做的CICD的流程是什么样子的。最后我们搭建Gitlab，Jenkins环境，再结合镜像仓库和Kubernetes集群，构建一个从代码提交到服务更新完全自动化的流程。 …<br><br>8-1 了解CICD和DevOps<br>8-2 准备GitLab和Jenkins<br>8-3 CICD实践（上）<br>8-4 CICD实践（下）<br>第9章 课程总结<br>对前面所学内容的总结。<br><br>9-1 -课程总结<br>本课程已完结<br><br><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="kpf8VHU1602" style="display:none">kpf8VHU1602</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;//szimg.mukewang.com/5ab3a1240001e67910800600-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Docker+Kubernetes(k8s)微服务容器化实践&lt;br&gt;从整体上把握微服务，体会服务Docker化，理解服务编排，以及主流的服务编排框架——Kubernetes，了解它的架构，知道它的运作原理，知道如何安装、使用及如何部署微服务&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="云计算&amp;大数据" scheme="https://www.jucaizhan.com/categories/%E4%BA%91%E8%AE%A1%E7%AE%97-%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="云计算&amp;大数据" scheme="https://www.jucaizhan.com/tags/%E4%BA%91%E8%AE%A1%E7%AE%97-%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="2018" scheme="https://www.jucaizhan.com/tags/2018/"/>
+    
+      <category term="Docker" scheme="https://www.jucaizhan.com/tags/Docker/"/>
+    
+      <category term="DevOps" scheme="https://www.jucaizhan.com/tags/DevOps/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>系统学习Docker 践行DevOps理念</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/042_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0Docker%20%E8%B7%B5%E8%A1%8CDevOps%E7%90%86%E5%BF%B5%E3%80%8B_12%E8%AF%BE_2018/"/>
+    <id>https://www.jucaizhan.com/慕课网/042_慕课网_《系统学习Docker 践行DevOps理念》_12课_2018/</id>
+    <published>2018-10-12T09:10:21.000Z</published>
+    <updated>2019-02-24T07:12:04.059Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="//szimg.mukewang.com/5a9614850001bc3405400300-360-202.jpg" alt="image"></p><p>系统学习Docker 践行DevOps理念<br>Docker代表的容器技术是近两年的大热技术，和人工智能、区块链等热点不同，容器技术的门槛并不高，每一个开发、测试、运维人员都能在日常工作中掌握和使用，是当今IT从业人员的必备技能之一。本课程会带大家系统学习什么是容器，如何创建容器、管理容器；学习容器技术的各个细节（网络/存储/服务编排/监控），学习如何通过容器进行CI/CD持续集成，持续部署。学习Docker，让你成为更加优秀的IT工程师</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/189.html" target="_blank" rel="noopener">https://coding.imooc.com/class/189.html</a></blockquote><br><br>第1章 容器技术和Docker简介<br>容器技术和Docker的简单介绍，课程源码的获取和实验环境搭建的说明<br><br>1-1 Docker导学<br>1-2 容器技术概述<br>1-3 Docker魅力初体验<br>1-4 课程源码获取和注意事项<br>第2章 Docker环境的各种搭建方法<br>本章详细讲解了Docker实验环境的各种搭建方法，在不同的操作系统，如windows，Mac，Linux上搭建，在不同的平台，如主机和云平台上搭建，用不同的工具，如shell，docker-machine，vagrant去搭建。<br><br>2-1 Docker安装简介<br>2-2 在MAC系统上安装Docker<br>2-3 在Windows系统上安装Docker<br>2-4 Vagrant&amp;VirtualBox for Mac<br>2-5 Vagrant&amp;VirtualBox for Windows<br>2-6 在CentOS上安装Docker<br>2-7 Docker Machine的本地使用<br>2-8 Docker Machine在阿里云上的使用<br>2-9 Docker Machine在亚马逊AWS云上的使用<br>2-10 Docker Playground<br>2-11 本章总结<br>第3章 Docker的镜像和容器<br>本章主要讲解Docker技术里最为基础的两大概念：镜像和容器。镜像的 获取方式：从registry拉取，从Dockerfile构建；容器的基本操作：创建，启动，停止删除。<br><br>3-1 Docker架构和底层技术简介<br>3-2 Docker Image概述<br>3-3 DIY一个Base Image<br>3-4 初识Container<br>3-5 构建自己的Docker镜像<br>3-6 Dockerfile语法梳理及最佳实践<br>3-7 RUN vs CMD vs Entrypoint<br>3-8 镜像的发布<br>3-9 Dockerfile实战<br>3-10 容器的操作<br>3-11 Dockerfile实战(2)<br>3-12 容器的资源限制<br>第4章 Docker的网络<br>这一章会从Linux的network namespace开始，通过详细讲解Docker的内置网络host和bridge是怎么使用的，来给大家展示不同容器之间网络的隔离和互访是如何实现的。当然好包括一个高级话题：Docker的多机通信和Overlay网络介绍<br><br>4-1 本章概述和实验环境介绍<br>4-2 网络基础回顾<br>4-3 Linux网络命名空间<br>4-4 Docker bridge0详解<br>4-5 容器之间的link<br>4-6 容器的端口映射<br>4-7 容器网络之host和none<br>4-8 多容器复杂应用的部署演示<br>4-9 Overlay和Underlay的通俗解释<br>4-10 Docker Overlay网络和etcd实现多机容器通信<br>第5章 Docker的持久化存储和数据共享<br>数据库容器的数据如何才能不会丢失？本章会给大家讲解Docker的持久化存储技术。Docker的数据共享技术能极大提高开发人员的开发效率，边写代码，边看运行结果。<br><br>5-1 本章介绍<br>5-2 本章实验环境介绍<br>5-3 数据持久化之Data Volume<br>5-4 数据持久化之Bind Mouting<br>5-5 开发者利器-Docker+Bind Mout<br>第6章 Docker Compose多容器部署<br>如何快速部署和管理一个具有多容器的应用？本章会介绍docker Compose这个强大的工具，包括其安装和基本使用，以及快速实现应用的水平扩展和负载均衡。<br><br>6-1 根据前面所学部署一个wordpress<br>6-2 Docker Compose到底是什么<br>6-3 Docker Compose的安装和基本使用<br>6-4 水平扩展和负载均衡<br>6-5 部署一个复杂的投票应用<br>第7章 容器编排Docker Swarm<br>想在生产环境中使用Docker？那你肯定离不开容器编排技术，本章会介绍Docker内置的容器编排工具Docker Swarm，包括Swarm的基本架构介绍，集群搭建，服务的创建，维护和水平扩展，服务的内部和外部访问，Secret的管理和使用。<br><br>7-1 容器编排Swarm介绍<br>7-2 创建一个三节点的swarm集群<br>7-3 Service的创建维护和水平扩展<br>7-4 在swarm集群里通过service部署wordpress<br>7-5 集群服务间通信之Routing Mesh<br>7-6 Routing Mesh之Ingress负载均衡<br>7-7 Docker Stack部署Wordpress<br>7-8 作业解答之部署投票应用<br>7-9 Docker Secret管理和使用<br>7-10 Docker Secret在Stack中的使用<br>7-11 Service更新<br>第8章 DevOps初体验——Docker Cloud和Docker企业版<br>本章介绍Docker的两个收费产品，一个是Docker Cloud，一个是Docker企业版。包括Docker Cloud的使用，CI/CD DevOps体验，Docker企业版的本地安装和阿里元安装，Docker企业版UCP和DTR的基本使用。<br><br>8-1 谈钱不伤感情-Docker的收费模式<br>8-2 Docker Cloud简介<br>8-3 Docker Cloud之自动build Docker image<br>8-4 Docker Cloud之持续集成和持续部署<br>8-5 Docker企业版的在线免费体验<br>8-6 Docker企业版本地安装之UCP<br>8-7 Docker企业版本地安装之DTR<br>8-8 Docker企业版UCP的基本使用演示<br>8-9 体验阿里云的容器服务<br>8-10 在阿里云上安装Docker企业版.mp4<br>8-11 Docker企业版DTR的基本使用演示<br>第9章 容器编排Kubernetes<br>本章介绍容器编排领域的领头羊Kubernetes。包括Kubernetes架构介绍，集群的本地搭建和Tectonic在亚马逊AWS上的搭建方式，Kubernetes的重要概念：Replication Controller， Deployment，Service介绍和操作演示，横向扩展，负载均衡等。<br><br>9-1 Kubenetes简介<br>9-2 Minikube快速搭建K8S单节点环境<br>9-3 K8S最小调度单位Pod<br>9-4 ReplicaSet和ReplicationController<br>9-5 Deployment_.mp4<br>9-6 使用Tectonic在本地搭建多节点K8S集群<br>9-7 k8s基础网络Cluster Network<br>9-8 Service简介和演示<br>9-9 NodePort类型Service以及Label的简单实用_音频.mp4<br>9-10 准备工作——使用kops在亚马逊AWS上搭建k8s集群<br>9-11 使用kops在亚马逊AWS上搭建k8s集群.mp4<br>9-12 LoadBlancer类型Service以及AWS的DNS服务配置<br>9-13 在亚马逊k8s集群上部署wordpress<br>第10章 容器的的运维和监控<br>本章主要面向运维人员，一起看一下对于部署的应用，如何通过Docker自带的命令和第三方的工具监控应用是否正常运行，比如Docker stat，Prometheus，Cadvisor， ELK等。<br><br>10-1 容器的基本监控<br>10-2 k8s集群运行资源监控——Heapster+Grafana+InfluxDB<br>10-3 根据资源占用自动横向伸缩<br>10-4 k8s集群Log的采集和展示——ELK+Fluentd<br>10-5 k8s集群监控方案Prometheus<br>第11章 Docker+DevOps实战——过程和工具<br>本章秉承DevOps的思想，给大家完整的演示DevOps的一种实现方案，其中涉及到GitLab版本管理，Docker-Compose本地测试，GitLab CI持续集成，持续部署，AWS，Kubernetes生产环境等工具和组件。通过一个实际示例项目和大家一起看一下，从需求提出，到生产环境更新的完整DevOps过程。…<br><br>11-1 本章简介<br>11-2 搭建GitLab服务器<br>11-3 搭建GitLab CI服务器和Pipeline演示<br>11-4 基于真实Python项目的CI演示<br>11-5 简单Java项目的CI演示<br>11-6 使用Python项目演示的CICD流程<br>11-7 CI实现版本自动发布<br>11-8 本章总结和如何继续学习<br>第12章 课程总结<br>对前面章节进行简单的总结<br><br>12-1 不是总结的总结<br>本课程已完结<br><br><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="GHIPoeE1530" style="display:none">GHIPoeE1530</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;//szimg.mukewang.com/5a9614850001bc3405400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;系统学习Docker 践行DevOps理念&lt;br&gt;Docker代表的容器技术是近两年的大热技术，和人工智能、区块链等热点不同，容器技术的门槛并不高，每一个开发、测试、运维人员都能在日常工作中掌握和使用，是当今IT从业人员的必备技能之一。本课程会带大家系统学习什么是容器，如何创建容器、管理容器；学习容器技术的各个细节（网络/存储/服务编排/监控），学习如何通过容器进行CI/CD持续集成，持续部署。学习Docker，让你成为更加优秀的IT工程师&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="云计算&amp;大数据" scheme="https://www.jucaizhan.com/categories/%E4%BA%91%E8%AE%A1%E7%AE%97-%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="云计算&amp;大数据" scheme="https://www.jucaizhan.com/tags/%E4%BA%91%E8%AE%A1%E7%AE%97-%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="2018" scheme="https://www.jucaizhan.com/tags/2018/"/>
+    
+      <category term="Docker" scheme="https://www.jucaizhan.com/tags/Docker/"/>
+    
+      <category term="DevOps" scheme="https://www.jucaizhan.com/tags/DevOps/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker环境下的前后端分离项目部署与运维</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/041_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8ADocker%E7%8E%AF%E5%A2%83%E4%B8%8B%E7%9A%84%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2%E4%B8%8E%E8%BF%90%E7%BB%B4%E3%80%8B_9%E8%AF%BE_2018/"/>
+    <id>https://www.jucaizhan.com/慕课网/041_慕课网_《Docker环境下的前后端分离项目部署与运维》_9课_2018/</id>
+    <published>2018-10-12T08:57:21.000Z</published>
+    <updated>2019-02-24T07:12:04.059Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="//szimg.mukewang.com/5aff82e90001d29e05400300-360-202.jpg" alt="image"></p><p>Docker环境下的前后端分离项目部署与运维<br>本课程把一个真实企业级前后端分离项目部署在Linux环境中，利用Docker虚拟机的容器技术，采用分布式集群部署，将项目转换成为高性能、高负载、高可用的部署方案。包括Docker集群、MySQL集群、Redis集群、负载均衡、双机热备等等。</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/219.html" target="_blank" rel="noopener">https://coding.imooc.com/class/219.html</a></blockquote><br><p>第1章 课程介绍<br>展示前后端分离项目部署的成果，介绍学习本门课程需要的硬件环境和软件环境，并利用VMware虚拟机安装CentOS，搭建Docker部署环境。</p><p>1-1 课程介绍<br>1-2 项目演示<br>1-3 开发环境要求（上）<br>1-4 开发环境要求（下）<br>第2章 人人开源前后端分离项目下载与配置<br>本章以renren-fast开源项目为部署案例，详细讲解了这个项目的前端部分和后端部分的安装和配置，在Windows平台上运行调试该项目。</p><p>2-1 前后端分离框架介绍<br>2-2 后端项目下载与配置<br>2-3 前台项目的下载与配置<br>第3章 Linux基础知识强化<br>本章内容是巩固和复习Linux系统基础知识，重点讲解Linux系统中的目录结构和常用指令，以及防火墙等。为在Linux环境中部署前后端分离项目扫清基础知识障碍。而且还会讲解Docker虚拟机的安装。</p><p>3-1 Linux系统构成和基本操作（上）<br>3-2 Linux系统构成和基本操作（下）<br>3-3 防火墙管理<br>3-4 Docker虚拟机（上）<br>3-5 Docker虚拟机（下）<br>第4章 搭建MySQL集群<br>大型项目的持久层都会选择数据库集群，本门课程选择的是MySQL领域中最成熟可靠的PXC（Percona XtraDB Cluster）集群方案。在本章节，我们会学习在Docker容器中划分网段，创建PXC容器和组建5节点的PXC集群。</p><p>4-1 MySQL集群方案介绍<br>4-2 创建MySQL集群<br>4-3 数据库负载均衡<br>4-4 负载均衡的高可用方案（上）<br>4-5 负载均衡的高可用方案（下）<br>4-6 热备份数据<br>第5章 搭建Redis集群<br>Redis高速缓存可以减少数据库IO的压力，在秒杀商品、抢红包等业务中频繁用到。这一章我们要学习的是为renren-fast项目搭建6节点的RedisCluster集群。</p><p>5-1 Redis高速缓存介绍<br>5-2 Redis主从同步<br>5-3 配置RedisCluster集群<br>第6章 部署前后端分离项目<br>除了MySQL和Redis要使用集群外，业务的节点的部署也要使用集群方案，才能保证高性能、高负载和高可用。这一章我们将学习打包前端VUE项目和后端SpringBoot项目，以集群的方式部署在Docker容器内。</p><p>6-1 后端项目后端项目部署与负载均衡<br>6-2 后端项目双机热备负载均衡<br>6-3 前端项目后端项目部署与负载均衡<br>6-4 前端项目双机热备负载均衡<br>第7章 课后作业<br>俗话说“鸡蛋不要放在同一个篮子里”，所以要对本地部署方案改造成跨主机的运营平台。我们将创建四个Linux主机，利用Swarm技术组建Docker集群。通过Swarm的共享网络，组建起多主机多容器分布式部署的运营平台。</p><p>7-1 课后作业（上）<br>7-2 课后作业（中）<br>7-3 课后作业（下）<br>第8章 云平台部署前后端分离<br>本课程的案例既可以部署在本地，也可以部署在云平台，本章我们将比较阿里云、腾讯云、百度云的特点，以阿里云为例，介绍云主机的购买和使用，以及在阿里云ECS主机上部署本课程的相关程序。</p><p>8-1 云端部署<br>第9章 课程总结<br>回顾renren-fast案例的部署架构</p><p>9-1 课程总结<br>本课程已完结</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="slFOcoT1503" style="display:none">slFOcoT1503</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;//szimg.mukewang.com/5aff82e90001d29e05400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Docker环境下的前后端分离项目部署与运维&lt;br&gt;本课程把一个真实企业级前后端分离项目部署在Linux环境中，利用Docker虚拟机的容器技术，采用分布式集群部署，将项目转换成为高性能、高负载、高可用的部署方案。包括Docker集群、MySQL集群、Redis集群、负载均衡、双机热备等等。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="数据分析" scheme="https://www.jucaizhan.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+      <category term="云计算&amp;大数据" scheme="https://www.jucaizhan.com/tags/%E4%BA%91%E8%AE%A1%E7%AE%97-%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="2018" scheme="https://www.jucaizhan.com/tags/2018/"/>
+    
+      <category term="Docker" scheme="https://www.jucaizhan.com/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python3数据分析与挖掘建模实战</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/039_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8APython3%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E6%8C%96%E6%8E%98%E5%BB%BA%E6%A8%A1%E5%AE%9E%E6%88%98%E3%80%8B_8%E8%AF%BE_2017/"/>
+    <id>https://www.jucaizhan.com/慕课网/039_慕课网_《Python3数据分析与挖掘建模实战》_8课_2017/</id>
+    <published>2018-10-11T09:57:21.000Z</published>
+    <updated>2019-02-24T07:12:04.058Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="//szimg.mukewang.com/5a8150100001424f05400300-360-202.jpg" alt="image"></p><p>Python3数据分析与挖掘建模实战<br>数据分析与挖掘行业火爆，人才稀缺。本课程基于Python3全程以真实案例驱动，带你科学系统地学习数据分析与挖掘建模领域的科学思维、必会知识、常用工具、完整流程以及老师多年的经验技巧。让你轻松转行，快速胜任数据分析师岗位，逆袭成为数据掘金时代的抢手人才!</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://coding.imooc.com/class/185.html" target="_blank" rel="noopener">http://coding.imooc.com/class/185.html</a></blockquote><br><br>第1章 课程介绍【赠送相关电子书+随堂代码】<br>本章首先介绍本课程是什么，有什么特色，能学习到什么，内容如何安排，需要什么基础，是否适合学习这门课程等。然后对数据分析进行概述，让大家对数据分析的含义和作用有一个整体的认知，让大家对自己接下来要做的事情，有一个基本的概念与了解。…<br><br>1-1 课程导学<br>1-2 数据分析概述<br>第2章 数据获取<br>数据从哪里来？怎么来？这一章，我们会介绍数据获取的一般手段。主要包括数据仓库、抓取、资料填写、日志、埋点、计算等手段。同时，我们也会介绍几个常用的数据网站，供大家参考与学习。<br><br>2-1 数据仓库<br>2-2 监测与抓取<br>2-3 填写、埋点、日志、计算<br>2-4 数据学习网站<br>第3章 单因子探索分析与数据可视化<br>有了数据，如何上手？这一章，我们会介绍探索分析的一部分—单因子探索分析和可视化的内容。我们会以基础的统计理论知识为切入点，学习异常值分析、对比分析、结构分析、分布分析。同时，引入接下来几章都会用到的案例-HR人力资源分析表，并用理论与可视化的方法，完成对此表的初步分析。…<br><br>3-1 数据案例介绍<br>3-2 集中趋势,离中趋势<br>3-3 数据分布–偏态与峰度<br>3-4 抽样理论<br>3-5 编码实现（基于python2.7）<br>3-6 数据分类<br>3-7 异常值分析<br>3-8 对比分析<br>3-9 结构分析<br>3-10 分布分析<br>3-11 Satisfaction Level的分析<br>3-12 LastEvaluation的分析<br>3-13 NumberProject的分析<br>3-14 AverageMonthlyHours的分析<br>3-15 TimeSpendCompany的分析<br>3-16 WorkAccident的分析<br>3-17 Left的分析<br>3-18 PromotionLast5Years的分析<br>3-19 Salary的分析<br>3-20 Department的分析<br>3-21 简单对比分析操作<br>3-22 可视化-柱状图<br>3-23 可视化-直方图<br>3-24 可视化-箱线图<br>3-25 可视化-折线图<br>3-26 可视化-饼图<br>3-27 本章小结<br>第4章 多因子探索分析<br>上了手，然后呢？这一章，我们介绍探索分析的另一部分—多因子复合探索分析。我们同样以基础的统计知识为切入点，学习多因子间互相影响与配合的分析方法，如交叉分析、分组分析、相关分析、成分分析等。同时，以HR人力资源分析表为例，进行进一步的探索。…<br><br>4-1 假设检验<br>4-2 卡方检验<br>4-3 方差检验<br>4-4 相关系数<br>4-5 线性回归<br>4-6 主成分分析<br>4-7 编码实现<br>4-8 交叉分析方法与实现<br>4-9 分组分析方法与实现<br>4-10 相关分析与实现<br>4-11 因子分析与实现<br>4-12 本章小结<br>第5章 预处理理论<br>数据已了解，用起来！不着急，先加工。这一章，我们会介绍特征工程的主要内容，重点会介绍数据清洗和数据特征预处理的主要内容，包括数据清洗、特征获取、特征处理（内含对指化、归一化、标准化等）、特征降维、特征衍生。预处理的好坏，直接影响着接下来模型的效果。…<br><br>5-1 特征工程概述<br>5-2 数据样本采集<br>5-3 异常值处理<br>5-4 标注<br>5-5 特征选择<br>5-6 特征变换-对指化<br>5-7 特征变换-离散化<br>5-8 特征变换-归一化与标准化<br>5-9 特征变换-数值化<br>5-10 特征变换-正规化<br>5-11 特征降维-LDA<br>5-12 特征衍生<br>5-13 HR表的特征预处理-1<br>5-14 HR表的特征预处理-2<br>5-15 本章小结<br>第6章 挖掘建模<br>把数据用起来！这一章，我们会介绍数据挖掘与建模的主要内容。主要包含五类模型的建立与实践，分别为：分类模型（KNN、朴素贝叶斯、决策树、SVM、集成方法、GBDT……），回归模型与回归思想分类（线性回归、逻辑斯特回归【也叫罗吉回归，逻辑回归。音译区别】、神经网络、回归树），聚类模型（K-means、DBSCAN、层次聚类、…<br><br>6-1 机器学习与数据建模<br>6-2 训练集、验证集、测试集<br>6-3 分类-KNN<br>6-4 分类-朴素贝叶斯<br>6-5 分类-决策树<br>6-6 分类-支持向量机<br>6-7 分类-集成-随机森林<br>6-8 分类-集成-Adaboost<br>6-9 回归-线性回归<br>6-10 回归-分类-逻辑回归<br>6-11 回归-分类-人工神经网络-1<br>6-12 回归-分类-人工神经网络-2<br>6-13 回归-回归树与提升树<br>6-14 聚类-Kmeans-1<br>6-15 聚类-Kmeans-2<br>6-16 聚类-DBSCAN<br>6-17 聚类-层次聚类<br>6-18 聚类-图分裂<br>6-19 关联-关联规则-1<br>6-20 关联-关联规则-2<br>6-21 半监督-标签传播算法<br>6-22 本章小结<br>第7章 模型评估<br>哪个模型好？上一章，我们学习了很多模型，一个数据集，可能用多种模型都可以进行建模，那么哪种模型好，就需要有些指标化的东西帮我们决策。这一章，我们会介绍使用混淆矩阵和相应的指标、ROC曲线与AUC值来评估分类模型；用MAE、MSE、R2来评估回归模型；用RMS、轮廓系数来评估聚类模型。…<br><br>7-1 分类评估-混淆矩阵<br>7-2 分类评估-ROC、AUC、提升图与KS图<br>7-3 回归评估<br>7-4 非监督评估<br>第8章 总结与展望<br>这一章，我们将回顾本课程的全部内容，并从多个角度，重新看待我们的数据分析工作。最后，我们会了解到，学习了这门课程以后，还可以在哪些方面进行发展。<br><br>8-1 课程回顾与多角度看数据分析<br>8-2 大数据与学习这门课后还能干什么？.mp4<br>本课程已完结<br><br><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="p91kkTZ2248" style="display:none">p91kkTZ2248</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;//szimg.mukewang.com/5a8150100001424f05400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Python3数据分析与挖掘建模实战&lt;br&gt;数据分析与挖掘行业火爆，人才稀缺。本课程基于Python3全程以真实案例驱动，带你科学系统地学习数据分析与挖掘建模领域的科学思维、必会知识、常用工具、完整流程以及老师多年的经验技巧。让你轻松转行，快速胜任数据分析师岗位，逆袭成为数据掘金时代的抢手人才!&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="数据分析" scheme="https://www.jucaizhan.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+      <category term="数据分析" scheme="https://www.jucaizhan.com/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+      <category term="Python" scheme="https://www.jucaizhan.com/tags/Python/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="2018" scheme="https://www.jucaizhan.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java读源码之Netty深入剖析</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/037_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AJava%E8%AF%BB%E6%BA%90%E7%A0%81%E4%B9%8BNetty%E6%B7%B1%E5%85%A5%E5%89%96%E6%9E%90%E3%80%8B_13%E8%AF%BE_2018/"/>
+    <id>https://www.jucaizhan.com/慕课网/037_慕课网_《Java读源码之Netty深入剖析》_13课_2018/</id>
+    <published>2018-10-11T08:57:21.000Z</published>
+    <updated>2019-02-24T07:12:04.058Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="//szimg.mukewang.com/5b165c2b0001e24a05400300-360-202.jpg" alt="image"></p><p>Java读源码之Netty深入剖析<br>Netty的横空出世让Java开发者眼前一亮，数据流处理、应用程序开启、处理协议编码等工作因为Netty都变得更加简单，也正因如此，掌握Netty也成为了抢手Java开发的必备素质。本次课程从Socket例子入手，一步步深入探究Netty源码，剖析代码背后的原理，解决面试中遇到的Netty问题，彻底掌握Netty。</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://coding.imooc.com/class/230.html" target="_blank" rel="noopener">http://coding.imooc.com/class/230.html</a></blockquote><br><br>第1章 课程介绍<br>介绍本课程需要的前提知识和内容概要<br><br>1-1 Netty深入剖析<br>第2章 Netty基本组件<br>使用一个简单的socket例子概括Netty里面的基本组件，包括NioEventLoop，Channel，ByteBuf，Pipeline，ChannelHandler<br><br>2-1 一个简单的socket例子<br>2-2 Netty对于socket的抽象<br>2-3 Netty组件简单介绍<br>第3章 Netty服务端启动<br>分析服务端启动流程，包括服务端Channel的创建，初始化，以及注册到selector<br><br>3-1 服务端启动demo<br>3-2 服务端Channel的创建<br>3-3 服务端Channel的初始化<br>3-4 注册selector<br>3-5 服务端口的绑定<br>3-6 服务端启动总结<br>第4章 NioEventLoop<br>分析Netty reactor线程处理过程，包括事件监听，事件处理，常规任务处理和定时任务处理<br><br>4-1 NioEventLoop概述<br>4-2 NioEventLoop创建概述<br>4-3 ThreadPerTaskThread<br>4-4 创建NioEventLoop线程<br>4-5 创建线程选择器<br>4-6 NioEventLoop的启动<br>4-7 NioEventLoop执行概述<br>4-8 检测IO事件<br>4-9 处理IO事件<br>4-10 -reactor线程任务的执行<br>4-11 -NioEventLoop总结<br>第5章 新连接接入<br>分析新连接接入以及绑定reactor线程，绑定到selector的过程<br><br>5-1 新连接接入概述<br>5-2 新连接检测<br>5-3 NioSocketChannel的创建<br>5-4 Channel的分类<br>5-5 新连接NioEventLoop的分配和selector注册<br>5-6 NioSocketChannel读事件的注册<br>5-7 新连接接入总结<br>第6章 pipeline<br>分析pipeline的创建，初始化，添加和删除ChannelHandler，事件传播机制，异常传播机制<br><br>6-1 pipeline概述<br>6-2 pipeline初始化<br>6-3 添加ChannelHandler<br>6-4 删除ChannelHandler<br>6-5 inBound事件的传播<br>6-6 outBound事件的传播<br>6-7 异常的传播<br>6-8 pipeline总结.mp4<br>第7章 ByteBuf<br>详细分析ByteBuf种类，如何减少多线程内存分配竞争，不同大小内存是如何分配的<br><br>7-1 内存分配概述<br>7-2 ByteBuf结构以及重要api<br>7-3 ByteBuf分类<br>7-4 内存分配器ByteBufAllocator分析<br>7-5 UnPooledByteBufAllocator分析<br>7-6 PooledByteBufAllocator概述<br>7-7 directArena分配direct内存的流程<br>7-8 内存规格的介绍<br>7-9 缓存数据结构<br>7-10 命中缓存的分配流程<br>7-11 arena、chunk、page、subpage概念<br>7-12 page 级别内存分配<br>7-13 subpage 级别的内存分配<br>7-14 ByteBuf的回收<br>7-15 总结<br>第8章 Netty解码<br>详细分析Netty解码原理，解码器抽象，以及几种常见的解码器<br><br>8-1 Netty解码概述<br>8-2 抽象解码器ByteToMessageDecoder<br>8-3 基于固定长度解码器分析<br>8-4 行解码器分析<br>8-5 基于分隔符解码器分析<br>8-6 基于长度域解码器参数分析<br>8-7 基于长度域解码器分析<br>8-8 解码器总结<br>第9章 Netty编码及writeAndFlush()<br>writeAndFlush传播流程，编码器抽象，writeAndFlush详细流程<br><br>9-1 Netty编码概述<br>9-2 writeAndFlush()抽象步骤<br>9-3 抽象编码器MessageToByteEncoder<br>9-4 写buffer队列<br>9-5 刷新buffer队列<br>9-6 总结<br>第10章 Netty性能优化工具类解析<br>详细分析Netty里面最高频使用的两个性能优化类FastThreadLocal以及轻量级对象池Recycler<br><br>10-1 性能优化工具类概述<br>10-2 FastThreadLocal的使用<br>10-3 FastThreadLocal的创建和get()实现<br>10-4 FastThreadLocal的set实现<br>10-5 Recycler的使用<br>10-6 Recycler的创建<br>10-7 从Recycler中获取对象<br>10-8 同线程回收对象<br>10-9 异线程回收对象<br>10-10 异线程收割对象<br>10-11 性能优化工具类总结<br>第11章 Netty设计模式应用<br>分析各类常见设计模式以及在Netty中的应用<br><br>11-1 单例模式在Netty里面的应用<br>11-2 策略模式在Netty里面的应用<br>11-3 装饰者模式在Netty里面的应用<br>11-4 观察者模式在Netty里面的应用<br>11-5 迭代器模式在Netty里面的应用<br>11-6 责任链模式在Netty里面的应用<br>第12章 Netty高性能并发调优<br>系统层面单机如何支持百万连接，如何提升应用层面性能<br><br>12-1 性能调优概述<br>12-2 单机百万连接模拟与瓶颈<br>12-3 单机百万连接调优过程<br>12-4 Netty应用级别性能瓶颈<br>12-5 Netty应用级别性能调优过程<br>第13章 课程总结<br>对本课程做一个回顾总结<br><br>13-1 课程回顾和总结<br>本课程已完结<br><br><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="oAqQAha2152" style="display:none">oAqQAha2152</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;//szimg.mukewang.com/5b165c2b0001e24a05400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Java读源码之Netty深入剖析&lt;br&gt;Netty的横空出世让Java开发者眼前一亮，数据流处理、应用程序开启、处理协议编码等工作因为Netty都变得更加简单，也正因如此，掌握Netty也成为了抢手Java开发的必备素质。本次课程从Socket例子入手，一步步深入探究Netty源码，剖析代码背后的原理，解决面试中遇到的Netty问题，彻底掌握Netty。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="后端开发" scheme="https://www.jucaizhan.com/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="Python" scheme="https://www.jucaizhan.com/tags/Python/"/>
+    
+      <category term="后端开发" scheme="https://www.jucaizhan.com/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="2018" scheme="https://www.jucaizhan.com/tags/2018/"/>
+    
+      <category term="Flask" scheme="https://www.jucaizhan.com/tags/Flask/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python3数据科学入门与实战</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/038_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8APython3%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98%E3%80%8B_8%E8%AF%BE_2018/"/>
+    <id>https://www.jucaizhan.com/慕课网/038_慕课网_《Python3数据科学入门与实战》_8课_2018/</id>
+    <published>2018-10-11T08:57:21.000Z</published>
+    <updated>2019-02-24T07:12:04.058Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="//szimg.mukewang.com/5a097bde00019ed605400300-360-202.jpg" alt="image"></p><p>Python3数据科学入门与实战<br>这是一个数据驱动的时代，想要从事机器学习、人工智能、数据挖掘等前沿技术，都离不开数据跟踪，本课程通过Numpy、Pandas进行数据科学计算，通过Seaborn、 Matplotlib进行数据图形化展示；从实战角度出发，让你在数据科学领域迈出重要的一步，开启Data Science职业之旅！<br>掌握数据处理、分析、展示的能力，开启Data Science职业之旅</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://coding.imooc.com/class/156.html" target="_blank" rel="noopener">http://coding.imooc.com/class/156.html</a></blockquote><br><br>第1章 课程介绍<br>介绍本课程需要的前提知识和内容概要<br><br>第1章 实验环境的搭建<br>本章将主要介绍Anaconda和Jupyter Notebook。包括如何在windows，Mac，linux等平台上安装Anaconda，以及Jupyter Notebook的基本启动使用方法。<br><br>1-1 导学视频<br>1-2 Anaconda和Jupyter notebook介绍<br>1-3 Anaconda在Mac上的安装演示<br>1-4 Anaconda在windows上安装演示<br>1-5 Anaconda在Linux上的安装演示<br>1-6 Jupyter-notebook的使用演示<br>第2章 Numpy入门<br>本章将介绍Python数据科学领域里最基础的一个库——Numpy，回顾矩阵运算基础，介绍最重要的数据结构Array以及如何通过Numpy进行数组和矩阵运算。<br><br>2-1 数据科学领域5个常用Python库<br>2-2 数学基础回顾之矩阵运算<br>2-3 Array的创建及访问<br>2-4 数组与矩阵运算<br>2-5 Array的input和output<br>第3章 Pandas入门<br>本章将介绍Python数据科学领域用于数据分析最重要的一个库——Pandas。将从pandas里最重要的两种数据结构Series和DataFrame开始，介绍其创建和基本操作，通过实际操作理解Series和DataFrame的关系。<br><br>3-1 Pandas Series<br>3-2 Pandas DataFrame<br>3-3 深入理解Series和Dataframe<br>3-4 Pandas-Dataframe-IO操作<br>3-5 DataFrame的Selecting和indexing<br>3-6 Series和Dataframe的Reindexing<br>3-7 谈一谈NaN<br>3-8 多级Index<br>3-9 Mapping和Replace<br>第4章 Pandas玩转数据<br>本章是Pandas的进阶。我们会使用Pandas进行高级的数据分析操作，包括如何去做数据清洗、预处理和排序等数学计算，数据的分箱技术，分组技术，聚合技术，以及透视表等。<br><br>4-1 DataFrame的简单数学计算<br>4-2 Series和DataFrame的排序<br>4-3 重命名Dataframe的index<br>4-4 DataFrame的merge操作<br>4-5 Concatenate和Combine<br>4-6 通过apply进行数据预处理<br>4-7 通过去重进行数据清洗<br>4-8 时间序列操作基础<br>4-9 时间序列数据的采样和画图<br>4-10 数据分箱技术Binning<br>4-11 数据分组技术GroupBy<br>4-12 数据聚合技术Aggregation<br>4-13 透视表<br>4-14 分组和透视功能实战<br>4-15 Streaming DataFrame<br>第5章 绘图和可视化之Matplotlib<br>数据的可视化是数据分析领域里非常重要的内容。本章会学习Matplotlib的基本使用，包括如何对Pandas里的Series和DataFrame绘图， 以及图形样式和显示模式的设置等内容。<br><br>5-1 Matplotlib介绍<br>5-2 matplotlib简单绘图之plot<br>5-3 matplotlib简单绘图之subplot<br>5-4 Pandas绘图之Series<br>5-5 Pandas绘图之DataFrame<br>5-6 直方图和密度图<br>第6章 绘图和可视化之Seaborn<br>Seaborn是对Matplotlib的进一步封装，其强大的调色功能和内置的多种多样的绘图模式，使之成为当下最流行的数据科学绘图工具。本章将介绍Seaborn的基本使用，以及和matplotlib的功能对比。<br><br>6-1 seaborn介绍<br>6-2 seaborn实现直方图和密度图<br>6-3 seaborn实现柱状图和热力图<br>6-4 seaborn图形显示效果的设置<br>6-5 seaborn强大的调色功能<br>第7章 数据分析项目实战<br>通过前六章的学习，我们基本上掌握了数据分析领域里主要工具的使用，本章将通过一个股票市场的分析实战项目，和大家一起用学过的知识去分析数据，进而得到有用的信息。<br><br>7-1 实战准备<br>7-2 股票市场分析实战之数据获取<br>7-3 股票市场分析实战之历史趋势分析<br>7-4 股票市场分析实战之风险分析<br>第8章 课程总结<br>本章的总结不是对前面8章内容的汇总，而是给大家指明了一条继续学习和锻炼的道路。希望大家坚持练习，早日修成正果。<br><br>8-1 总结<br>本课程已完结<br><br><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="WkeA9Hk2217" style="display:none">WkeA9Hk2217</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;//szimg.mukewang.com/5a097bde00019ed605400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Python3数据科学入门与实战&lt;br&gt;这是一个数据驱动的时代，想要从事机器学习、人工智能、数据挖掘等前沿技术，都离不开数据跟踪，本课程通过Numpy、Pandas进行数据科学计算，通过Seaborn、 Matplotlib进行数据图形化展示；从实战角度出发，让你在数据科学领域迈出重要的一步，开启Data Science职业之旅！&lt;br&gt;掌握数据处理、分析、展示的能力，开启Data Science职业之旅&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="数据分析" scheme="https://www.jucaizhan.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+      <category term="数据分析" scheme="https://www.jucaizhan.com/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+      <category term="Python" scheme="https://www.jucaizhan.com/tags/Python/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="2018" scheme="https://www.jucaizhan.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python Flask构建可扩展的RESTful API</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/036_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8APython-Flask%E6%9E%84%E5%BB%BA%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84RESTful-API%E3%80%8B_9%E8%AF%BE_2018/"/>
+    <id>https://www.jucaizhan.com/慕课网/036_慕课网_《Python-Flask构建可扩展的RESTful-API》_9课_2018/</id>
+    <published>2018-10-11T08:55:21.000Z</published>
+    <updated>2019-02-24T07:12:04.057Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="//szimg.mukewang.com/5b061fe30001db4505400300-360-202.jpg" alt="image"></p><p>Python Flask构建可扩展的RESTful API<br>前后端分离大势所趋，本课程将构建一套优秀的RESTful API，可以适配小程序、App 、wap 、web前端页面，除此之外，课程扩展了Flask框架机制，培养编程思维，随心所欲玩转Flask。优秀完整的RESTful API框架，你也可以实现。还等什么，来试试吧！</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://coding.imooc.com/class/220.html" target="_blank" rel="noopener">http://coding.imooc.com/class/220.html</a></blockquote><br><p>第1章 随便聊聊<br>聊聊Flask与Django，聊聊代码的创造性</p><p>1-1 Flask VS Django<br>1-2 课程更新维护说明<br>第2章 起步与红图<br>本章我们初始化项目，探讨与研究Flask的默认层级结构。当我们遇到层级结构不合理时，我们将模仿蓝图自己定义一个“红图”来扩展Flask层级体系</p><p>2-1 环境、开发工具与flask1.0<br>2-2 初始化项目<br>2-3 新建入口文件<br>2-4 蓝图分离视图函数的缺陷<br>2-5 打开思维，创建自己的Redprint——红图<br>2-6 实现Redprint<br>2-7 优化Redprint<br>第3章 REST基本特征<br>本章我们将探讨REST的基本特征，并结合实际情况给出REST的适用范围与优劣势</p><p>3-1 REST的最基本特征（可选观看）<br>3-2 为什么标准REST不适合内部开发（可选观看）<br>第4章 自定义异常对象<br>异常处理其实是一个非常严肃而又麻烦的事情，这直接涉及到前端如何对用户做出响应。本章我们将重写HTTPException并建立全局异常处理机制，统一处理框架内的异常，向前端返回统一而标准的异常信息，简化前端的开发流程</p><p>4-1 关于“用户”的思考<br>4-2 构建Client验证器<br>4-3 处理不同客户端注册的方案<br>4-4 创建User模型<br>4-5 完成客户端注册<br>4-6 生成用户数据<br>4-7 自定义异常对象<br>4-8 浅谈异常返回的标准与重要性<br>4-9 自定义APIException<br>第5章 理解WTForms并灵活改造她<br>WTForms其实是非常强大的验证插件。但很多同学对WTForms的理解仅仅停留在“验证表单”上。那WTForms可以用来做API的参数验证码？完全可以，但这需要你灵活的使用它，对它做出一些“改变”</p><p>5-1 重写WTForms 一<br>5-2 重写WTForms 二<br>5-3 可以接受定义的复杂，但不能接受调用的复杂<br>5-4 已知异常与未知异常<br>5-5 全局异常处理<br>第6章 Token与HTTPBasic验证 —— 用令牌来管理用户<br>在我的TP5课程里，我们使用令牌的方式是服务器缓存的方式。那么在Python Flask中我们换一种令牌的发放方式。我们将用户的信息加密后作为令牌返回到客户端，客户端在访问服务器API时必须以HTTP Basic的方式携带令牌，我们再读取令牌信息后，将用户信息存入到g变量中，共业务代码全局使用…</p><p>6-1 Token概述<br>6-2 获取Token令牌<br>6-3 Token的用处<br>6-4 @auth拦截器执行流程<br>6-5 HTTPBasicAuth基本原理<br>6-6 以BasicAuth的方式发送Token<br>6-7 验证Token<br>6-8 重写first_or_404与get_or_404<br>第7章 模型对象的序列化<br>最适合Python JSON序列化的是dict字典类型，每一种语言都有其对应的数据结构用来对应JSON对象，比如在PHP中是它的数组数据结构。而Python是用字典来对应JSON的。如果我们想直接序列化一个对象或者模型对象，那么最笨的办法是把对象的属性读取出来，然后组装成一个字典再序列化。这实在是太麻烦了。本章节我们将深入了解JSO…</p><p>7-1 鸡汤？<br>7-2 理解序列化时的default函数<br>7-3 不完美的对象转字典<br>7-4 深入理解dict的机制<br>7-5 一个元素的元组要特别注意<br>7-6 序列化SQLAlchemy模型<br>7-7 完善序列化<br>7-8 ViewModel对于API有意义吗<br>第8章 权限控制<br>我看过太多同学编写的API在互联网上疯狂的裸奔了。殊不知这太危险了。API必须提供分层保护机制，根据不同用户的种类来限制其可以访问的API，从而保护接口。比如管理员可以访问哪些接口，普通用户可以访问哪些接口，小程序可以访问哪些，APP又能够访问哪些？灵活而强大的可配置Scope，可以帮助你事半功倍…</p><p>8-1 删除模型注意事项<br>8-2 g变量中读取uid防止超权<br>8-3 生成超级管理员账号<br>8-4 不太好的权限管理方案<br>8-5 比较好的权限管理方案<br>8-6 实现Scope权限管理 一<br>8-7 globals()实现“反射”<br>8-8 实现Scope权限管理 二<br>8-9 Scope优化一 支持权限相加<br>8-10 Scope优化 二 支持权限链式相加<br>8-11 Scope优化 三 所有子类支持相加<br>8-12 Scope优化 四 运算符重载<br>8-13 Scope 优化 探讨模块级别的Scope<br>8-14 Scope优化 实现模块级别的Scope<br>8-15 Scope优化 七 支持排除<br>第9章 实现部分鱼书小程序功能<br>理论必须结合实践，我们提供一个简单的鱼书小程序，编写他的业务接口，并用小程序来进行API的检验</p><p>9-1 小程序演示API调用效果<br>9-2 模糊搜索书籍<br>9-3 再谈严格型REST的缺陷<br>9-4 实现hide方法<br>9-5 @orm.reconstructor 解决模型对象实例化问题<br>9-6 重构hide与append<br>9-7 赠送礼物接口<br>9-8 实现获取令牌信息接口<br>本课程已完结</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="AA4FRl82113" style="display:none">AA4FRl82113</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;//szimg.mukewang.com/5b061fe30001db4505400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Python Flask构建可扩展的RESTful API&lt;br&gt;前后端分离大势所趋，本课程将构建一套优秀的RESTful API，可以适配小程序、App 、wap 、web前端页面，除此之外，课程扩展了Flask框架机制，培养编程思维，随心所欲玩转Flask。优秀完整的RESTful API框架，你也可以实现。还等什么，来试试吧！&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="后端开发" scheme="https://www.jucaizhan.com/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="Python" scheme="https://www.jucaizhan.com/tags/Python/"/>
+    
+      <category term="后端开发" scheme="https://www.jucaizhan.com/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="2018" scheme="https://www.jucaizhan.com/tags/2018/"/>
+    
+      <category term="Flask" scheme="https://www.jucaizhan.com/tags/Flask/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>跨平台混编框架 MUI 仿豆瓣电影 APP</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/147_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%B7%B7%E7%BC%96%E6%A1%86%E6%9E%B6-MUI-%E4%BB%BF%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-APP%E3%80%8B_10%E8%AF%BE_2017/"/>
+    <id>https://www.jucaizhan.com/慕课网/147_慕课网_《跨平台混编框架-MUI-仿豆瓣电影-APP》_10课_2017/</id>
+    <published>2018-10-10T08:59:21.000Z</published>
+    <updated>2019-02-24T07:12:04.061Z</updated>
+    
+    <content type="html"><![CDATA[<p>跨平台混编框架 MUI 仿豆瓣电影 APP<br>MUI框架已成为当下混合APP应用开发的首选，是移动端开发者的福音，更是前端工程师快速转型APP开发的最佳捷径！正是因为它最接近原生APP体验的高性能，实现一套代码多平台运行，开发更加简易、大大减少了开发成本和维护成本，让开发者感受到它的功能超强！</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/165.html" target="_blank" rel="noopener">https://coding.imooc.com/class/165.html</a></blockquote><br><br>第1章 课程介绍<br>MUI概念描述；MUI应用场景与价值；课程规划概述；项目结构概述；课程注意事项；<br><br>1-1 MUI实战豆瓣APP-整体介绍<br>第2章 MUI基础知识概述<br>MUI基础控件介绍；MUI事件和请求；官方文档查阅技巧；简单演示控件使用和代码块的使用；<br><br>2-1 MUI基础知识概述<br>第3章 项目概述及框架搭建<br>项目概述；项目主界面搭建；制作主页Tab，模板调整<br><br>3-1 制作主页Tab<br>3-2 模版调整实现<br>3-3 基于HBuilder 8.9.1.201712121728 版本的Tab生成示例<br>第4章 电影列表功能实战<br>主界面的影视列表功能编写及讲解；常用功能刷新和分页详解；搜索框实现，热映列表布局，获取热映列表接口数据，使用Vue进行数据绑定，下拉刷新上拉加载，预加载电影详情页<br><br>4-1 搜索框实现<br>4-2 热映列表布局<br>4-3 获取热映列表接口数据<br>4-4 使用Vue进行数据绑定<br>4-5 下拉刷新上拉加载<br>4-6 预加载电影详情页<br>第5章 电影详情功能实战<br>影视详情界面及其衍生界面：电影详情页面跳转和数据传递，以及布局实现，电影详情获取接口数据。演员详情页面跳转和数据传递，以及布局实现，演员详情获取接口数据<br><br>5-1 电影详情页面跳转和数据传递<br>5-2 电影详情页面布局实现（上）<br>5-3 电影详情页面布局实现（下）<br>5-4 电影详情获取接口数据1<br>5-5 电影详情获取接口数据2<br>5-6 演员详情页面跳转和数据传递<br>5-7 演员详情页面布局实现（上）<br>5-8 演员详情页面布局实现（下）<br>5-9 演员详情获取接口数据<br>第6章 电影榜单功能实战<br>榜单列表：顶部banner实现，Top250、北美票房榜入口添加，即将上映列表布局，即将上映列表获取接口数据，Top250页面顶部选项卡实现，以及列表布局实现，获取接口数据，北美票房榜页面列表布局实现，获取接口数据<br><br>6-1 顶部banner实现<br>6-2 Top250、北美票房榜入口添加<br>6-3 即将上映列表布局<br>6-4 即将上映列表获取接口数据<br>6-5 Top250页面顶部选项卡实现<br>6-6 Top250页面列表布局实现<br>6-7 Top250页面获取接口数据<br>6-8 北美票房榜页面列表布局实现<br>6-9 北美票房榜页面获取接口数据<br>第7章 电影搜索功能实战<br>搜索功能：搜索页面布局实现，搜索历史记录实现，搜索结果页实现<br><br>7-1 搜索页面布局实现<br>7-2 搜索历史记录实现<br>7-3 搜索结果页<br>第8章 设置界面功能实战<br>通用设置和应用介绍：设置页面布局实现，清除缓存实现，关于我们<br><br>8-1 设置页面布局实现<br>8-2 清除缓存实现<br>8-3 关于我们<br>第9章 打包上线部署实战<br>Android、iOS两个主流移动端平台，打包上线部署该项目APP<br><br>9-1 打包上线部署（上）<br>9-2 打包上线部署（下）<br>第10章 课程回顾与总结<br>课程技术回顾和难点整理；总结；<br><br>10-1 课程回顾与总结<br>本课程已完结<br><br><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="EkTslb95224" style="display:none">EkTslb95224</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;跨平台混编框架 MUI 仿豆瓣电影 APP&lt;br&gt;MUI框架已成为当下混合APP应用开发的首选，是移动端开发者的福音，更是前端工程师快速转型APP开发的最佳捷径！正是因为它最接近原生APP体验的高性能，实现一套代码多平台运行，开发更加简易、大大减少了开发成本和维护成本，让开发者感受到它的功能超强！&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="移动开发" scheme="https://www.jucaizhan.com/categories/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="实战" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%88%98/"/>
+    
+      <category term="2017" scheme="https://www.jucaizhan.com/tags/2017/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="移动开发" scheme="https://www.jucaizhan.com/tags/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="MUI" scheme="https://www.jucaizhan.com/tags/MUI/"/>
+    
+      <category term="仿豆瓣电影" scheme="https://www.jucaizhan.com/tags/%E4%BB%BF%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring带前后端开发完整电商平台</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/148_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8ASpring%E5%B8%A6%E5%89%8D%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%8C%E6%95%B4%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E3%80%8B_14%E8%AF%BE_2017/"/>
+    <id>https://www.jucaizhan.com/慕课网/148_慕课网_《Spring带前后端开发完整电商平台》_14课_2017/</id>
+    <published>2018-10-10T08:55:21.000Z</published>
+    <updated>2019-02-24T07:12:04.062Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="//szimg.mukewang.com/57bd5ec80001b0c405400300-360-202.jpg" alt="image"></p><p>Java Spring带前后端开发完整电商平台<br>采用强大的Spring技术栈，构建完整的前后台团购网站，助你解决代码冗余、开发效率低、代码可扩展性差、框架使用不够灵活等一系列问题，全面提升你的编程能力。<br><a id="more"></a></p><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/93.html" target="_blank" rel="noopener">https://coding.imooc.com/class/93.html</a></blockquote><br><p>第1章 课程整体介绍<br>详细介绍了课程主要内容、背景，并对项目整体流程进行了简要说明，同时对整体需求进行了分析与规划。本章还有详细的项目演示，包括前后台全部功能，看了演示后对整体功能会有一个整体的认识，对于学习后续课程有很大帮助，也能在学习的过程中有的放矢，结合自己的实际情况确定学习的重点。…</p><p>1-1 功能技术点，讲法收获，项目演示<br>第2章 项目整体设计方案<br>本章主要从技术角度介绍了常用的技术选型的原则以及在技术选型中会遇到哪些陷阱，在此基础上阐述了什么才是恰当的架构设计、我们如果做恰当的架构设计。接下来介绍了项目的整体表结构设计与整体功能介绍，使我们能够对整体结构有一个清晰明了的掌握。…</p><p>2-1 需求分析+技术选型+架构设计<br>2-2 数据表结构设计<br>2-3 补充敲表sql语句及表内容介绍<br>第3章 工程搭建及组件划分<br>本章介绍了如何从零创建我们的工程以及用到了哪些技术工具（比如IDEA、Lombok、Maven等）以及这些工具特性的简要介绍，接下来介绍了工程的划分、技术组件构成以及包结构，通过本章的学习能够对整个工程的物理结构有清晰、明确的认识。 …</p><p>3-1 IDE介绍和工程划分<br>3-2 工程创建和插件安装<br>3-3 技术组件概述及功能包划分<br>3-4 IDEA如何运行导入的Web项目及ImageServer问题<br>第4章 首页及公共技术点<br>本章围绕网站首页、商品分类两大功能展开，在介绍页面及功能的同时，也讲述了构成两大功能的技术点及技术用法，包括模板引擎Freemarker、网站整体的布局方案（Sitemesh）、SpringMVC等构成的基础功能，尤其详细的介绍了我们特有的在MVC结构中起到重要作用的Helper机制，Helper是在实践中总结出来的一套设计方案，介绍它的目…</p><p>4-1 首页及公共技术点导入<br>4-2 首页介绍及商品分类代码<br>4-3 首页商品代码实现<br>4-4 Freemarker与宏<br>4-5 首页功能java代码介绍<br>4-6 网站布局方案<br>4-7 SpringMVC扩展<br>4-8 Helper设计<br>4-9 公共基础功能<br>4-10 首页公共技术点回顾<br>第5章 缓存和DAO实现<br>本章以Redis为例介绍了两种操作缓存的方式Operator和Util，并对比了异同，同样也以MyBatis为基础介绍了两种数据库操作的封装方式，前一种基于基类封装为项目使用的方式，也是基于MyBatis用的比较多的一种；后一种则是思路的扩展，适用于自定义ORM的情况，对于MyBatis的封装也可使用。…</p><p>5-1 缓存和DAO导入<br>5-2 关于缓存-CacheOperator介绍<br>5-3 关于缓存-CacheUtil实现<br>5-4 Redis客户端工具RDM<br>5-5 DAO操作（一）<br>5-6 DAO操作（二）<br>5-7 扩展-DAO的另一种实现方案（一）<br>5-8 扩展-DAO的另一种实现方案（二）<br>第6章 注册登陆及用户地区识别<br>本站主要围绕用户权限展开，涉及登陆、URL访问鉴权及用户状态保存，项目中网站权限的实现，适合集群情况，因为用户状态通过Cookie保存，每次请求从Cookie中解析出用户信息，同时介绍了如何根据识别用户所在地区的一种使用方法。…</p><p>6-1 注册登陆及地区识别导入<br>6-2 确定用户城市及状态<br>6-3 网站用户登陆<br>6-4 网站用户访问鉴权<br>第7章 网站商品分类及详情<br>本章主要介绍网站商品分类及详情页的实现，涉及到Freemarker的使用、循环判断等内容，同时简单对比了前后台分页的不同方案。</p><p>7-1 商品分类及详情导入<br>7-2 商品分类功能<br>7-3 网站分页功能<br>7-4 商品详情页数据展现代码<br>7-5 商品详情页操作代码<br>7-6 详情页代码讲解<br>7-7 前后台分页不同方案<br>7-8 商品分类及详情回顾<br>第8章 购物车及下单支付实现拓展<br>本章以购物流程为中心进行展开，内容涉结算入口、购物车、结算页面以及下单、支付（含支付宝支付简单集成及可扩展支付方案的设计与实现）。关于可扩展支付方案，它是一种类似问题的通用设计方案，可用用于相同或者类似问题的场景。这种方案重在理解，理解后才能灵活应用。…</p><p>8-1 购物车及下单支付导入<br>8-2 购物流程之页面支付演示<br>8-3 购物流程之购物车基本功能实现<br>8-4 购物流程之进入结算页功能实现<br>8-5 购物流程之支付宝初步集成-上<br>8-6 购物流程之支付宝初步集成-下<br>8-7 购物流程之下单功能实现<br>8-8 可扩展支付方案设计<br>8-9 可扩展支付方案实现（一）<br>8-10 可扩展支付方案实现（二）<br>8-11 可扩展支付方案完成后检查代码与演示<br>8-12 购物车及下单支付回顾<br>第9章 网站个人中心及其它<br>介绍了网站公用的JS，个人中心的基本功能，同时给出了基于数据库的站内垂直搜索实现，最后回顾了网站整体功能。在公用JS中，我们以JQuery为基础，针对我们的具体使用情况进行了封装和整合。</p><p>9-1 网站个人中心及其它导入<br>9-2 网站公用JS<br>9-3 网站个人中心功能及代码介绍（一）<br>9-4 网站个人中心功能及代码介绍（二）<br>9-5 网站搜索<br>9-6 回顾网站前台整体<br>第10章 管理后台概述<br>本章主要介绍了管理后台分页、页面操作、布局等基础功能，同时介绍了Freemarker宏文件searche.ftl与后端公共js（仍然是以JQuery为基础），在管理后台的表格中，我们扩展了EasyUI的DetailView组件，实现了我们表格每行数据下有一行按钮的功能。…</p><p>10-1 管理后台基础技术导入<br>10-2 管理后台分页查询<br>10-3 search.ftl与js公共操作<br>10-4 管理后台布局<br>10-5 easyUI之detailView<br>第11章 按钮生成机制-Router设计与实现<br>本章主要介绍了一种一种为页面Grid每一行在服务端生成操作按钮的技术方案，我们称之为Router，这种方案能够针对每行数据的不同生成不同状态的按钮，以达到方便用户快捷操作的目的。同样的，这种方案也适合应用在解决相同或者类似的问题中。…</p><p>11-1 按钮生成机制导入<br>11-2 Router背景及设计方案<br>11-3 Router按钮生成（一）<br>11-4 Router按钮生成（二）<br>11-5 Router按钮生成（三）<br>11-6 Router执行过程（一）<br>11-7 Router执行过程（二）<br>11-8 AOP的两种方式与RouterJS<br>第12章 后台商品及订单操作<br>本章主要介绍管理后台商品操作（含图片上传）、订单操作的基本功能，包含了对代码的讲解、分析。</p><p>12-1 商品及订单管理导入<br>12-2 新建修改商品之Controller<br>12-3 新建商品之Service（一）<br>12-4 新建商品之Service（二）<br>12-5 修改商品之Service及新建修改整体功能<br>12-6 后台订单操作<br>第13章 后台图片处理<br>本章介绍了以GraphicsMagick为基础的图片裁剪功能，通过一个完整的设计及代码实现，给出了一套切实可用的图片处理技术解决方案。这套图片处理解决方案，将可配置的点（如裁剪后图片尺寸、图片位置等）均放到了配置文件中，同时在页面展现借助前面章节中介绍到的Helper机制。…</p><p>13-1 图片处理导入<br>13-2 图片处理原理及设计<br>13-3 ImageConfig&amp;GraphicsTools（一）<br>13-4 ImageConfig&amp;GraphicsTools（二）<br>13-5 ImageUtil（一）<br>13-6 ImageUtil（二）<br>第14章 管理后台其它及回顾<br>本章介绍了管理后台的其它功能，包括开团提醒定时任务的实现、后台用户权限（RBAC，简单介绍，详细内容可参考慕课网介绍RBAC权限的课程），最后回顾了整个网站管理后台的整体功能。并且简单回顾整门课程的技术，并结合个人的经验教训分享了一些工作中的心得体会，希望能够共勉、共同探讨、共同进步。…</p><p>14-1 定时提醒及安全权限导入.mp4<br>14-2 开团提醒<br>14-3 后台用户&amp;权限<br>14-4 管理后台整体回顾.mp4<br>14-5 尾声与总结回顾.mp4<br>本课程已完结</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="w8XRsPp5247" style="display:none">w8XRsPp5247</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;//szimg.mukewang.com/57bd5ec80001b0c405400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Java Spring带前后端开发完整电商平台&lt;br&gt;采用强大的Spring技术栈，构建完整的前后台团购网站，助你解决代码冗余、开发效率低、代码可扩展性差、框架使用不够灵活等一系列问题，全面提升你的编程能力。&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="后端开发" scheme="https://www.jucaizhan.com/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="实战" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%88%98/"/>
+    
+      <category term="后端开发" scheme="https://www.jucaizhan.com/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="2017" scheme="https://www.jucaizhan.com/tags/2017/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="Spring" scheme="https://www.jucaizhan.com/tags/Spring/"/>
+    
+      <category term="电商平台" scheme="https://www.jucaizhan.com/tags/%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>贯穿全栈React Native开发App</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/149_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E8%B4%AF%E7%A9%BF%E5%85%A8%E6%A0%88React-Native%E5%BC%80%E5%8F%91App%E3%80%8B_11%E8%AF%BE_2017/"/>
+    <id>https://www.jucaizhan.com/慕课网/149_慕课网_《贯穿全栈React-Native开发App》_11课_2017/</id>
+    <published>2018-10-10T08:50:21.000Z</published>
+    <updated>2019-02-24T07:12:04.062Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="//szimg.mukewang.com/57bd5ec80001b0c405400300-360-202.jpg" alt="image"></p><p>贯穿全栈React Native开发APP<br>32小时干货讲解，涵盖前沿技术React Native，以全栈角度学习前端到后端，学会它，一个人也能开发出一款产品。<br>开发一款给狗狗配音的APP<br>零距离参与真实项目，理清APP应用开发每一步场景</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/56.html" target="_blank" rel="noopener">https://coding.imooc.com/class/56.html</a></blockquote><br><p>第1章 课程预热<br>React 与 React Native的区别，为什么学习 React Native。</p><p>1-1 React 与 React Native<br>1-2 为何选择 React Native<br>1-3 RN 适合你么<br>第2章 初识 React Native<br>快速搭建一个 React Native，了解 RN 的项目代码结构。</p><p>2-1 本地环境搭建<br>2-2 忍不住尝尝鲜<br>2-3 了解 RN 项目代码结构<br>第3章 RN 入门知识学习<br>学习React 的组件概念，ES5/ES6 两种组件形态，父子组件通信以及组件生命周期。</p><p>3-1 如何选择 RN 版本<br>3-2 React 的组件生命周期<br>3-3 父子组件撕逼大战<br>3-4 ES6 与 ES5 两种组件形态<br>第4章 升级 React Native 重要补录<br>这一章节是讲师针对课程上线以来，学生的常见问答，讲师做了一些总结补充视频。</p><p>4-1 升级 React Native 之重要补录 1-一期答疑总结<br>4-2 升级 React Native 之重要补录 2-Run 起来课程源代码<br>4-3 升级 React Native 之重要补录 3-暴力升级到 0.36 新手必看（上）<br>4-4 升级 React Native 之重要补录 3-暴力升级到 0.36 新手必看（下）<br>4-5 升级 React Native 之重要补录 4-课程进阶拥抱 ES6 新手必看（上）<br>4-6 升级 React Native 之重要补录 4-课程进阶拥抱 ES6 新手必看（下）<br>第5章 项目初始准备<br>作为实战编程的上手篇，需要又快又猛的串联起来前后端，首先评审课程要实现的 App 视觉效果，形成项目推进的思路，制定 App 开发计划，然后搭建项目原型框架，开发 App 首页视图结构，同时利用 Rap 服务来模拟无后台的 HTTP API 接口，以及 Mockjs 加工生成伪数据。…</p><p>5-1 狗狗说 App 功能介绍<br>5-2 TabBarIOS 开启 App 首页（1）<br>5-3 TabBarIOS 开启 App 首页（2）<br>5-4 App流程结构及开发计划<br>5-5 飞速创建后台和 Mock 假数据（1）<br>5-6 飞速创建后台和 Mock 假数据（2）<br>第6章 开发视频配音页面<br>开发 App 的核心业务功能 – 视频配音页面，学习在 RN 中选取本地的视频文件，上传到七牛，控制录音过程，上传录音到云空间，同时在后台了解如何在 Koa 中抽象中间件，以及利用 Mongoose来建立各种对应的视频，音频数据模型，存储视频和音频并且封装回调的请求为 Promise ，通过各种异步的过程来检查，最终合并…</p><p>6-1 视频列表页挖坑开发（1）<br>6-2 视频列表页挖坑开发（2）<br>6-3 RN 的异步请求与封装<br>6-4 列表页上滑预加载和下拉刷新效果（1）<br>6-5 列表页上滑预加载和下拉刷新效果（2）<br>6-6 iOS 屏幕尺寸及分辨率知识点解析<br>6-7 列表页点赞功能<br>6-8 RN 导航器 Navigator 的用法<br>6-9 详情页视频播放控制<br>6-10 详情页视频播放控制loading-进度条-重播功能<br>6-11 详情页视频播放控制–暂停、播放控制<br>6-12 详情页视频播放控制–容错处理、返回导航<br>6-13 详情页视频信息补全<br>6-14 获取视频评论列表（1）<br>6-15 获取视频评论列表（2）<br>6-16 RN 里面提交评论表单（1）<br>6-17 RN 里面提交评论表单（2）<br>第7章 RN 知识进阶串讲<br>以第五章为基础，来拔高技能点升级技能树，学习 Flexbox 的各种布局知识，批量了解 RN 的30 多个组件的功能和基本使用方式，演示如何使用 RN 的异步存储模块，并且了解如何甄选生态圈里面的第三方组件，最终研究下如何把本地的 RN 项目安装到手机里面运行。…</p><p>7-1 React 与 MVC<br>7-2 RN 的 30+组件<br>7-3 Flexbox 弹性布局的魔法属性（1）<br>7-4 Flexbox 弹性布局的魔法属性（2）<br>7-5 如何甄选第三方组件<br>7-6 RN 的 AsyncStorage 异步存储<br>7-7 如何在手机上安装演示 RN 原型项目<br>第8章 App 内注册登录<br>精讲在 RN 里面实现注册登录页面，如何发出注册请求，以验证码的方式实现登录过程，如何管理应用中的登录状态；</p><p>8-1 伪造 Rap 注册登录接口<br>8-2 实现注册登录页面1（输入验证码）<br>8-3 实现注册登录页面2（倒记时）<br>8-4 本地管理应用登录状态<br>第9章 用户账户页面<br>精讲在 RN 里面调用本地的相机以及选取相册的照片，构建 FormData 来 XHR 异步上传图片，监控图片上传进度，以及用户的基本资料的编辑和保存，以及用户的退出登录功能。</p><p>9-1 头像展示与相册选取（1）<br>9-2 头像展示与相册选取（2）<br>9-3 头像展示与相册选取（3）<br>9-4 XHR 异步上传图片到 cloudinary 图床（1）<br>9-5 XHR 异步上传图片到 cloudinary 图床（2）<br>9-6 饼状图显示图片上传进度（1）<br>9-7 饼状图显示图片上传进度（2）<br>9-8 编辑和保存用户资料（1）<br>9-9 编辑和保存用户资料（2）<br>第10章 用 Koa 开发本地 API 后台<br>基于前八章构建的 App 原型，首先安装 MongoDB 数据库，利用 Koa 框架搭建 Nodejs 后台项目，配置接入 MongoDB 数据库，为 App 提供各种 API 接口，比如在后台发送短信验证码，同时了解使用 DHC 插件快速验证接口正确性，最后在后台实现图床的签名，异步返会给 App 作为票据上传到 Cloudinary 或者 七…</p><p>10-1 本地安装 Mongodb 数据库<br>10-2 搭建 Koa 初始项目架构<br>10-3 Koa 中配置使用 Mongodb 数据库（1）<br>10-4 Koa 中配置使用 Mongodb 数据库（2）<br>10-5 用螺丝帽在 Koa 中发送短信（1）<br>10-6 用螺丝帽在 Koa 中发送短信（2）<br>10-7 用 DHC 插件快速测试本地 API 服务<br>10-8 服务器端实现图床签名接口<br>10-9 用七牛上传图片资源（1）<br>10-10 用七牛上传图片资源（2）<br>第11章 开发视频配音页面<br>开发 App 的核心业务功能 – 视频配音页面，学习在 RN 中选取本地的视频文件，上传到七牛，控制录音过程，上传录音到云空间，同时在后台了解如何在 Koa 中抽象中间件，以及利用 Mongoose来 建立各种对应的视频，音频数据模型，存储视频和音频并且封装回调的请求为 Promise ，通过各种异步的过程来检查，最终…</p><p>11-1 视频选择器与视频预览（1）<br>11-2 视频选择器与视频预览（2）<br>11-3 用七牛上传视频资源（1）<br>11-4 用七牛上传视频资源（2）<br>11-5 服务器端存储视频信息（1）<br>11-6 服务器端存储视频信息（2）<br>11-7 控制录音倒计时<br>11-8 实现视频录音功能（1）<br>11-9 实现视频录音功能（2）<br>11-10 上传音频到云空间（1）<br>11-11 上传音频到云空间（2）<br>11-12 服务器端存储音频数据<br>11-13 合并音频视频并同步封面图到七牛（1）<br>11-14 合并音频视频并同步封面图到七牛（2）<br>11-15 发布整个视频音频创意（1）<br>11-16 发布整个视频音频创意（2）<br>11-17 服务器端保存视频创意<br>11-18 视频列表页对接后台数据<br>11-19 完善评论和点赞后台<br>第12章 App 上线准备工作<br>在 App 初步开发结束后，各种上线前的准备工作，比如制作导出不同尺寸的应用图标，启动画面，介绍 App 的轮播图，以及打包编译和导出用来内测的安装程序；</p><p>12-1 制作导出 App 各尺寸图标<br>12-2 配置启动过渡画面和 App 名字<br>12-3 为 App 开发轮播图功能<br>12-4 打包 App 安装文件并借助蒲公英分发测试<br>12-5 利用蒲公英做 BUG 探索测试<br>第13章 二期课程–初识 Redux 框架<br>初识 Redux 框架，React 蛋疼的数据通信，理解 Redux 的工作原理和基本用法。</p><p>13-1 先了解下 Immutable Data<br>13-2 React 蛋疼的数据通信<br>13-3 理解 Redux 的工作原理和基本用法<br>第14章 二期课程–React Native 升级到 0.42.3<br>获取 1 期源码进行升级降级。</p><p>14-1 获取 1 期源码进行升级降级<br>14-2 依赖模块升级与 Link<br>14-3 重新划分项目目录结构<br>14-4 利用 Redux 组装 store<br>14-5 重构主控页面引入 connect 连接组件<br>14-6 dispatch 异步请求控制 App 加载次序<br>14-7 引入 React Navigation 解决导航及嵌套路由跳转<br>14-8 抽象列表页容器组件重构数据流<br>14-9 完善列表页功能成功运行 Redux 集成效果<br>14-10 重构详情页进行代码减肥<br>14-11 抽象主要页面的容器组件<br>14-12 实现评论与详情页的跳转和数据更新<br>14-13 重新配置注册登录的数据状态同步<br>14-14 抽离信息提示组件状态到全局完善评论<br>14-15 抽象升级配音页面及导航容器<br>14-16 重新组织账户页面<br>14-17 升级账户更新页同步新数据<br>第15章 二期课程–兼容开发 Android App<br>兼容开发 Android App</p><p>15-1 配置 Android 本地开发环境<br>15-2 第一次尝试运行 Android RN 项目<br>15-3 兼容 Android 平台样式<br>15-4 兼容 Android 录制功能<br>本课程已完结</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="s2Gy1A35316" style="display:none">s2Gy1A35316</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;//szimg.mukewang.com/57bd5ec80001b0c405400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;贯穿全栈React Native开发APP&lt;br&gt;32小时干货讲解，涵盖前沿技术React Native，以全栈角度学习前端到后端，学会它，一个人也能开发出一款产品。&lt;br&gt;开发一款给狗狗配音的APP&lt;br&gt;零距离参与真实项目，理清APP应用开发每一步场景&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="移动开发" scheme="https://www.jucaizhan.com/categories/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="实战" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%88%98/"/>
+    
+      <category term="2017" scheme="https://www.jucaizhan.com/tags/2017/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="React" scheme="https://www.jucaizhan.com/tags/React/"/>
+    
+      <category term="移动开发" scheme="https://www.jucaizhan.com/tags/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="React Native" scheme="https://www.jucaizhan.com/tags/React-Native/"/>
+    
+      <category term="APP开发" scheme="https://www.jucaizhan.com/tags/APP%E5%BC%80%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>React Native技术精讲与高质量上线APP开发</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/156_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AReact_Native%E6%8A%80%E6%9C%AF%E7%B2%BE%E8%AE%B2%E4%B8%8E%E9%AB%98%E8%B4%A8%E9%87%8F%E4%B8%8A%E7%BA%BFAPP%E5%BC%80%E5%8F%91%E3%80%8B_2017/"/>
+    <id>https://www.jucaizhan.com/慕课网/156_慕课网_《React_Native技术精讲与高质量上线APP开发》_2017/</id>
+    <published>2018-10-10T08:44:21.000Z</published>
+    <updated>2019-02-24T07:12:04.065Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="//szimg.mukewang.com/5adfe05e00012ecd05400300-360-202.jpg" alt="image"></p><p>React Native技术精讲与高质量上线APP开发<br>【多栈技术更有竞争力】本课程将手把手带你用RN技术开发、优化、直到最后发布上线一款完整的跨平台APP；让你拥有一次真正参与上线项目开发的历程，同时全面掌握React Native技术，使你的技术能力和项目经验都得到前所未有的提升！</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/89.html" target="_blank" rel="noopener">https://coding.imooc.com/class/89.html</a></blockquote><br><p>第1章 开发准备（学前需要RN语法基础，想学RN混合开发的同学可以直接看第十五，十六章）<br>（一定要先看本章第一节）,想学RN混合开发的同学可以直接看第十五，十六章，本章首先会对项目需求进行分析，然后对项目效果进行演示，让大家知道我们将要开发一款怎样的APP，接着，会制定一个项目开发计划，让大家明白我们将以怎样的方式开发这款APP，然后，会对这款APP做一个技术上的分解，让大家知道开发这款APP需要用到…</p><p>1-1 课程学习指南（一定要最先看）<br>1-2 项目介绍与开发计划<br>1-3 项目技术分解<br>1-4 项目结构介绍<br>1-5 项目底部导航菜单开发<br>1-6 Navigator的基本使用及页面间数据传递实现<br>1-7 自定义组件NavigationBar-1<br>1-8 自定义组件NavigationBar-2<br>1-9 自定义组件NavigationBar-3<br>第2章 适配RN 0.55全新导航器react-navigation精讲<br>（如果是新手，先基于0.40版本并从第四章开始学习）本章节会对react-navigation、StackNavigator、TabNavigator、DrawerNavigator做个全面的剖析和讲解，并结合案例讲解react-navigation的使用，让你学习到从react-navigation doc中获取不到的实用经验与技巧；…</p><p>2-1 react-navigation讲解<br>2-2 StackNavigator精讲-1<br>2-3 StackNavigator精讲-2<br>2-4 StackNavigator精讲-3<br>2-5 StackNavigator精讲-4<br>2-6 TabNavigator精讲-1<br>2-7 TabNavigator精讲-2<br>2-8 TabNavigator精讲-3<br>2-9 DrawerNavigator精讲-1<br>2-10 DrawerNavigator精讲-2<br>第3章 适配RN 0.55最新高性能列表组件精讲<br>（如果是新手，先基于0.40版本并从第四章开始学习）本章节主要除了讲解<code>FlatList</code>,<code>SectionList</code>,<code>VirtualizedList</code>与<code>SwipeableFlatList</code>的使用技巧之外，同时会结合<code>ListView</code>对<code>FlatList</code>的特性与原理做出分析讲解，并结合课程案例带着大家从ListView到FlatList一步步走进高性能的列表。…</p><p>3-1 高性能列表组件FlatList、VirtualizedList精讲-1<br>3-2 高性能列表组件FlatList、VirtualizedList精讲-2<br>3-3 高性能列表组件FlatList、VirtualizedList精讲-3<br>3-4 高性能列表组件FlatList、VirtualizedList精讲-4<br>3-5 高性能列表组件SwipeableFlatList精讲<br>3-6 高性能列表组件SectionList详解-1<br>3-7 高性能列表组件SectionList详解-2<br>第4章 项目基础功能开发（ListView、下拉刷新、上拉加载更多、APP启动引导流程）<br>本章首先会对开发一款App最常用的组件ListView及RefreshControl进行讲解；接着会讲解React Native 的 Fecth API的使用与轻量级封装,让你能够学习并掌握React Native的网络编程技术；最后会介绍App的启动引导流程，让你掌握一款App从启动到进入首页的来龙去脉。…</p><p>4-1 ListView列表、下拉刷新、上拉加载的基本使用<br>4-2 网络编程利器-Fetch的基本使用<br>4-3 网络编程利器-Fetch的轻量级封装<br>4-4 项目启动引导流程实现<br>第5章 Popular(最热）模块开发（AsyncStorage数据库技术、离线缓存）<br>本章主要讲解如何设计与实现Popular(最热)模块；首先对Popular的数据模块进行封装，然后讲解AsyncStorage技术，让你学会在React Native中如何进行数据存储；接着讲解如何加载json数据，如何实现自定义订阅标签，标签排序，标签删除等功能，如何实现Popular模块离线缓存功能,让你掌握离线缓存原理以及实现方案；最后讲解Web…</p><p>5-1 Popular(最热)模块的数据层设计<br>5-2 Popular(最热)模块的列表页面实现-1<br>5-3 Popular(最热)模块的列表页面实现-2<br>5-4 Popular(最热)模块的列表页面实现-3<br>5-5 AsyncStorage异步数据存储技术解析<br>5-6 Popular(最热)模块的自定义标签功能实现-1<br>5-7 Popular(最热)模块的自定义标签功能实现-2<br>5-8 Popular(最热)模块的自定义标签功能实现-3<br>5-9 Popular(最热)模块的自定义标签功能实现-4<br>5-10 Popular(最热)模块的标签排序功能实现-1<br>5-11 Popular(最热)模块的标签排序功能实现-2<br>5-12 Popular(最热)模块的标签移除功能实现<br>5-13 Popular(最热)模块的离线缓存功能实现<br>5-14 WebView控件实现简单浏览器<br>5-15 Popular(最热)模块的详情页功能实现<br>第6章 Trending(趋势)模块开发（代码优化技巧、高复用代码设计）<br>本章主要讲解如何设计与实现Trending(趋势)模块；首先会讲解如何从<a href="https://github.com/trending上获取数据，并把数据解析并封装成对象，并优化代码，将上述过程封装成一个可复用的Trending数据模块；接着会讲解在React" target="_blank" rel="noopener">https://github.com/trending上获取数据，并把数据解析并封装成对象，并优化代码，将上述过程封装成一个可复用的Trending数据模块；接着会讲解在React</a> Native中如何实现一个Pop弹出菜单；最后，我会教大家如何复用Popular(最热)模块的代码来实现一个自定义…</p><p>6-1 Trending(趋势)模块的数据接口实现原理及使用详解<br>6-2 Trending(趋势)模块的数据层设计<br>6-3 Trending(趋势)模块的列表页面实现<br>6-4 Pop弹窗功能实现<br>6-5 Trending(趋势)模块的自定义语言功能实现<br>6-6 Trending(趋势)模块的自定义语言排序功能实现<br>第7章 Favorite(收藏)模块开发（数据DAO层设计技巧，数据状态实时更新）<br>本章主要讲解如何设计与实现Favorite(收藏)模块；首先会讲解如何为Popular与Trending模块添加收藏功能（包括收藏与取消收藏），接着将这一过程封装成一个可复用的FavoriteDao模块，以方便其它模块调用；然后会讲解如何将收藏的项目加载并显示出来，如何实时更新收藏状态；最后会为收藏列表实现详情页。…</p><p>7-1 为Popular(最热)模块的列表页添加收藏功能-1<br>7-2 为Popular(最热)模块的列表页添加收藏功能-2<br>7-3 Favorite(收藏)模块的收藏状态数据DAO层设计<br>7-4 Favarite(收藏)模块的数据收藏状态实时更新<br>7-5 为Trending(趋势)模块的列表页添加收藏功能<br>7-6 为Popular(最热)与Trending(趋势)模块的详情页添加收藏的功能<br>7-7 Favorite(收藏)模块列表页面基本实现与用户所收藏的项目数据获取<br>7-8 Favorite(收藏)模块列表页面具体实现-1<br>7-9 Favorite(收藏)模块列表页面具体实现-2<br>第8章 My(我的)模块开发（代码提取技巧，组合模式应用技巧，数据异步刷新与动态添加）<br>本章主要讲解如何设计与实现My(我的)模块；首先会讲解如何构建我的页面；然后讲解如何构建关于页面与关于作者页面，在这里会对关于页面与关于作者页面的公共代码进行提取，通过这一节你会学到如何用组合的方式来复用代码的技巧，以及它与通过继承方式复用代码的优缺点；另外，通过这一章你也能学习到如何自定义扩展列表，如…</p><p>8-1 My(我的)模块分组列表页面实现-1<br>8-2 My(我的)模块分组列表页面实现-2<br>8-3 My(我的)模块分组列表页面实现-3<br>8-4 My(我的)模块项目介绍页面简单实现（parallar-scroll-view）-1<br>8-5 My(我的)模块项目介绍页面简单实现（parallar-scroll-view）-2<br>8-6 My(我的)模块项目介绍页面复用代码提取技巧<br>8-7 My(我的)模块意见反馈，项目官网展示功能实现<br>8-8 My(我的)模块项目介绍数据请求工具开发（RepositoryUtil）-1<br>8-9 My(我的)模块项目介绍数据请求工具开发（RepositoryUtil）-2<br>8-10 My(我的)模块项目介绍数据展示-1<br>8-11 My(我的)模块项目介绍数据展示-2<br>8-12 My(我的)模块关于作者页面实现(自定义可扩展列表)-1<br>8-13 My(我的)模块关于作者页面实现-2<br>第9章 Search(搜索)模块开发（动态关键字，可取消异步任务设计）<br>本章主要讲解如何设计与实现搜索模块；首先会讲解如何实现一个带搜索的NavBar，以及输入框TextInput的使用与扩展；然后会讲解如何显示搜索进度条，以及如何显示搜索的数据，如何动态显示和隐藏底部按钮；然后，会讲解首页如何动态显示搜索模块添加的关键字，以及对“广播事件”的更进一步应用； 最后，为了实现取消搜索的…</p><p>9-1 带搜索的NavBar实现-1<br>9-2 带搜索的NavBar实现-2<br>9-3 搜索数据显示与onFavorite()方法的提取-1<br>9-4 搜索数据显示与onFavorite()方法的提取-2<br>9-5 为Search（搜索）模块添加进度条与底部按钮-1<br>9-6 为Search（搜索）模块添加进度条与底部按钮-2<br>9-7 添加返回首页数据刷新功能<br>9-8 为Promise插上翅膀之可取消的异步任务<br>第10章 MoreMenu(更多菜单)模块开发（封装可配置菜单组件，RN版本升级踩坑）<br>本章主要讲解如何设计与实现更多菜单；首先会讲解如何封装一个可配置的更多菜单组件，以及可配置菜单的应用；然后，你也会学到传递组件的另外一种方式，即通过传递函数的方式来代替直接传递组件。最后这一章大家也可以学到如何对React Native的版本进行升级。…</p><p>10-1 可配置菜单的实现-1<br>10-2 可配置菜单的实现-2<br>10-3 可配置菜单的实现-3<br>10-4 ReactNative版本升级踩坑（0.39-to-0.40）<br>第11章 高级功能开发（多彩主题、数据统计、社会化分享、第三方登录，热更新等）<br>本章会教大家一些React Native开发的高级技能；首先是如何为APP自定义实现一个多彩主题；然后是如何通过构建 React Native原生模块，来实现一些更高级的功能，比如多线程，图片处理等；接下来会教大家如何在React Native应用中集成统计功能，分享功能以及第三方登录功能等；然后，会讲解APP启动白屏问题产生的原因以及…</p><p>11-1 构建自定义多彩主题页面<br>11-2 应用自定义多彩主题页面-1<br>11-3 应用自定义多彩主题页面-2<br>11-4 实现自定义多彩主题变换<br>11-5 React Native原生模块的封装(Android)<br>11-6 React Native原生模块的封装(iOS)<br>11-7 React Native集成统计功能<br>11-8 React Native 分享与第三方登录模块开发(Android)-分享模块开发<br>11-9 React Native分享与第三方登录模块开发(Android)-分享模块的应用<br>11-10 React Native 分享与第三方登录模块开发(iOS)<br>11-11 React Native启动白屏问题原因及解决方案(Android)<br>11-12 React Native启动白屏问题原因及解决方案(iOS)<br>11-13 如何适配Android和iOS双平台<br>11-14 CodePush 热更新-集成CodePush(Android)<br>11-15 CodePush 热更新-集成CodePush(iOS)<br>11-16 CodePush 热更新-应用CodePush(Android)<br>11-17 CodePush 热更新-应用CodePush(iOS)<br>第12章 项目发布前的优化、打包与上线Android和IOS APP、学习资料<br>本章会教大家对项目进行发布前的优化；然后教大家学习如何打包发布一款React Native Android应用与React Native iOS应用。带大家走完项目开发的最后流程，最后对课程进行整体的总结与回顾。</p><p>12-1 项目发布前的优化(Android)<br>12-2 项目发布前的优化(iOS)<br>12-3 项目打包发布Android应用<br>12-4 项目打包发布iOS应用<br>12-5 课程总结<br>第13章 适配RN 0.55最新版对项目与组件升级与适配<br>React Native的升级与适配一直是困扰开发者的一个痛点，本章节将讲解最新版React Native的升级与适配的经验与技巧，同时会对比不同升级方式的优缺点，并会对React Native过去一年中的重要更新做个总结，并且给出适配建议。另外本章节也会对最新版React Native的API做个讲解，同时会带着大家通过将课程真实案例来做API、…</p><p>13-1 最新版React Native 的升级与适配<br>13-2 升级第三方组件,适配PropTypes,ViewPropTypes<br>13-3 使用react-navigation搭建项目导航框架-1<br>13-4 使用react-navigation搭建项目导航框架-2<br>13-5 使用react-navigation搭建项目导航框架-3<br>13-6 使用react-navigation搭建项目导航框架-4<br>13-7 基于modal的全屏弹框封装-1<br>13-8 基于modal的全屏弹框封装-2<br>13-9 基于modal的全屏弹框封装-3<br>13-10 FlatList实战应用(从ListView到FlatList的适配)<br>13-11 React 16.3,React 17适配指南与BackHandler应用-1<br>13-12 React 16.3,React 17适配指南与BackHandler应用-2<br>13-13 React 16.3,React 17适配指南与BackHandler应用-3<br>13-14 React 16.3,React 17适配指南与BackHandler应用-4<br>第14章 适配RN 0.55全面屏适配指南</p><ul><li>1.全屏幕特点，及存在的问题；- 2.iPhone X适配；- 3.Android全面屏适配；- 4.react-navigation在全面屏上的应用；- 5.自定义容器组件封装；- 描述：本章节主要讲解全屏幕的适配与优化，并对全面屏的特点及存在的问题做出分析，同时教大家如何适配iPhone X，三星S8等全面屏手机。另外，会讲解react-navigation在…</li></ul><p>14-1 React Native 全屏幕适配指南.mp4<br>14-2 React Native 适配iOS全面屏iPhone X-1<br>14-3 React Native 适配iOS全面屏iPhone X-2<br>14-4 React Native 升级适配Android与适配Android全面屏<br>第15章 【拓展知识】React Native与Android 混合开发讲解<br>React Native与Android 进行混合开发是比较流行的一种开发模式，但它的技术难度远高于纯React Native开发，导致很多开发者都无从下手，本章节将通过理论+实践的方式将React Native混合开发的应用场景，流程，需要掌握的技术，以及一些经验技巧传授给大家。…</p><p>15-1 React Native 混合开发实战(Android篇)-1<br>15-2 React Native 混合开发实战(Android篇)-2<br>15-3 React Native 混合开发实战(Android篇)-3<br>15-4 React Native 混合开发实战(Android篇)-4<br>15-5 React Native 混合开发实战(Android篇)-5<br>15-6 React Native 混合开发实战(Android篇)-6<br>第16章 【拓展知识】React Native与IOS App混合开发讲解<br>React Native与IOS App进行混合开发是比较流行的一种开发模式，但它的技术难度远高于纯React Native开发，导致很多开发者都无从下手，本章节将通过理论+实践的方式将React Native混合开发的应用场景，流程，需要掌握的技术，以及一些经验技巧传授给大家。…</p><p>16-1 React Native 混合开发实战(iOS篇)-1<br>16-2 React Native 混合开发实战(iOS篇)-2<br>16-3 React Native 混合开发实战(iOS篇)-3<br>本课程已完结</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="NvLENUu5418" style="display:none">NvLENUu5418</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;//szimg.mukewang.com/5adfe05e00012ecd05400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;React Native技术精讲与高质量上线APP开发&lt;br&gt;【多栈技术更有竞争力】本课程将手把手带你用RN技术开发、优化、直到最后发布上线一款完整的跨平台APP；让你拥有一次真正参与上线项目开发的历程，同时全面掌握React Native技术，使你的技术能力和项目经验都得到前所未有的提升！&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="移动开发" scheme="https://www.jucaizhan.com/categories/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="实战" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%88%98/"/>
+    
+      <category term="2017" scheme="https://www.jucaizhan.com/tags/2017/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="React" scheme="https://www.jucaizhan.com/tags/React/"/>
+    
+      <category term="移动开发" scheme="https://www.jucaizhan.com/tags/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="React Native" scheme="https://www.jucaizhan.com/tags/React-Native/"/>
+    
+      <category term="APP开发" scheme="https://www.jucaizhan.com/tags/APP%E5%BC%80%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>纯正商业级应用-微信小程序开发实战</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/155_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E7%BA%AF%E6%AD%A3%E5%95%86%E4%B8%9A%E7%BA%A7%E5%BA%94%E7%94%A8-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E3%80%8B_2018/"/>
+    <id>https://www.jucaizhan.com/慕课网/155_慕课网_《纯正商业级应用-微信小程序开发实战》_2018/</id>
+    <published>2018-10-10T08:41:21.000Z</published>
+    <updated>2019-02-24T07:12:04.065Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="//img.mukewang.com/szimg/5b4bfb7000019d2e10800600-360-202.jpg" alt="image"></p><p>纯正商业级应用-微信小程序开发实战<br>小程序的成功，让广大程序员早已不再纠结该不该学习小程序开发 ，但会纠结如何学习小程序开发，直到他们遇到了 “七月”老师，你可以自行看看七月老师其它课程的学员对他课程的真实评价，选择他的课，不需要纠结，更不需要犹豫<br>第1章 导学与申请appkey<br>如何更好的学习本课程？如何申请开发者key？如何调用和测试接口？</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/251.html" target="_blank" rel="noopener">https://coding.imooc.com/class/251.html</a></blockquote><br><p>1-1 微信小程序商业级实战-课程导学。<br>1-2 优先自己开发<br>1-3 appkey的申请<br>1-4 课程维护说明<br>第2章 准备工作<br>开发前的准备工作以及第三方开发工具的选择</p><p>2-1 流程与开发前准备<br>2-2 新建小程序项目<br>2-3 。小程序开发工具介绍<br>2-4 第三方开发工具介绍<br>第3章 小程序的基础知识与新特性<br>讲解小程序的一些必须要掌握的基础知识，如文件类型、项目结构、配置文件等。部分之前老课程中没有涉及的重要新特性也会在本章节提及</p><p>3-1 小程序的4种文件类型<br>3-2 小程序的组织结构<br>3-3 新建第一个小程序页面<br>3-4 -1 消除错误提示<br>3-5 app.json配置之导航栏<br>3-6 app.json之background窗口<br>3-7 wxml与组件<br>第4章 flex布局<br>我们将在本章中详细学习flex布局的基础知识，为在项目中灵活应用flex布局打下坚实的基础</p><p>4-1 小程序代码编写规范<br>4-2 所谓布局<br>4-3 block、inline与inline-block<br>4-4 flex容器将消除item的块状特性<br>4-5 flex-direction的应用<br>4-6 reverse倒序排布<br>4-7 reverse效果揭秘<br>4-8 justify-content属性解析 一<br>4-9 justify-content属性解析 二<br>4-10 主轴与交叉轴(重要) 一<br>4-11 主轴与交叉轴（二）<br>4-12 baseline与stretch<br>4-13 flex-wrap与消除间距<br>第5章 小程序基础知识与初识小程序组件<br>本章我们将学习全局样式、相对/绝对路径、尺寸单位等小程序基础知识。同时，我们将初步介绍小程序自定义组件。</p><p>5-1 细节决定成败<br>5-2 组件概述<br>5-3 定义、引用与使用组件<br>5-4 相对路径与绝对路径<br>5-5 like组件实现<br>5-6 小程序尺寸单位与设计原则（重要）<br>5-7 小程序支持的css选择器远比文档中要多<br>5-8 苹方字体设置<br>5-9 page样式的巧妙应用<br>5-10 组件只能继承极少数全局样式<br>5-11 组件最好不要留有空白间距<br>5-12 固定宽度还是自适应？<br>5-13 组件事件与事件处理<br>第6章 组件数据、事件与属性<br>本章我们将深入学习组件的开放性与封闭性以及组件封装的原则</p><p>6-1 数据来源的三种途径<br>6-2 数据绑定<br>6-3 三元表达式与图片切换<br>6-4 组件的封闭性、开放性及粒度<br>6-5 组件的properties属性详解<br>6-6 let、var与组件事件应用<br>第7章 访问API数据与ES6在小程序中的应用<br>本章，我们将从一个简单wx.request开始，讲解同步与异步的区别，promise的意义，ES6中箭头函数、class、const、module、export与import在小程序中的巧妙应用。同时，我们也将初步探讨封装代码的必要性</p><p>7-1 看待组件的两种观点（重要）<br>7-2 Blink API介绍与测试API<br>7-3 生命周期函数<br>7-4 wx.request-4xx状态码并不会执行fail<br>7-5 访问API获取数据<br>7-6 同步、异步与回调函数<br>7-7 ES6箭头函数与this指代<br>7-8 正确理解Promise(选看）<br>7-9 ES6 const常量<br>7-10 ES6 Module export与import<br>7-11 HTTP类的封装与ES6 startsWith<br>7-12 分析问题的思维培养与练习<br>7-13 分析问题的思维培养与练习二<br>7-14 回调函数传递<br>7-15 通用错误异常处理（重要）<br>第8章 流行页面编码与组件的细节知识<br>本章，我们将逐步编写流行页面中剩余的电影组件、期刊组件、导航组件，并进一步的完善喜欢组件。同时，我们将在本章节进一步的讲解setData的真正意义、组件封装粒度、系统事件与自定义事件、properties和data的区别等重要的知识。本章内容非常丰富，加油吧。 …</p><p>8-1 什么是“剥夺函数return的能力”<br>8-2 组件属性赋值与页面渲染流程解析<br>8-3 setData的误区（重要）<br>8-4 movie组件的实现<br>8-5 再谈组件的粒度<br>8-6 自定义事件的激活与监听<br>8-7 喜欢还是不喜欢<br>8-8 组件的生命周期函数<br>8-9 组件的data与properties的“奇怪”现象<br>8-10 业务逻辑到底写组件里还是页面里<br>8-11 observer函数的应用<br>8-12 注意防范内存泄漏<br>8-13 千万不要在observer中修改自身属性值<br>8-14 epsoide组件与流行页面样式<br>第9章 Behavior行为与加入缓存系统优化流行页面<br>即使服务器返回数据的速度再快，我们依然需要在页面中加入缓存系统来优化用户体验。组件是一种复用的逻辑，但多个组件间的共同JS代码又改如何复用？使用Behaviors行为将解决这个问题。同时，我们也将谈谈Behavior和多继承的思想。…</p><p>9-1 navi组件与移动端触碰区域探讨<br>9-2 navi组件与flex宽度陷阱<br>9-3 禁用事件的技巧<br>9-4 music组件初步实现<br>9-5 初识组件的Behavior行为<br>9-6 behavior 继承与多继承的覆盖规则（重要）<br>9-7 初步实现期刊切换<br>9-8 是否是最新期刊的判断逻辑<br>9-9 使用Storage保存最新期刊号<br>9-10 onNext与函数重构技巧<br>第10章 新版Music组件、组件通信与wxss样式复用<br>本章，我们将进一步优化缓存带来的附加问题。缓存的使用绝对不仅仅是setStorage和getStorage这么简单，缓存的加入将带来一些新的问题，这些问题的处理细节体现了一个前端程序员的成熟度。同时，我们还将学习ES6扩展运算符和模板字符串在小程序中的应用、wxss样式的复用、让自定义组件支持hidden属性与组件通信。本章是业务…</p><p>10-1 谈谈缓存对于改善用户体验的作用<br>10-2 解决缓存带来的问题<br>10-3 ES6模板字符串和扩展运算符的应用<br>10-4 独立更新like组件状态<br>10-5 如何让自定义组件支持hidden？<br>10-6 @import在组件间复用样式<br>10-7 music组件样式<br>10-8 新版音乐播放对象<br>10-9 组件间通信<br>10-10 hidden不会触发组件的detached，但wxif会<br>10-11 完成音乐播放<br>10-12 用简洁的代码优化音乐播放<br>10-13 真实感受Component与Model的好处<br>第11章 Promise正确用法与函数签名设计技巧<br>目前来说，由于小程序占时不支持async与await，所以Promise是小程序处理异步的最佳解决方案。即使支持async，它也只是Promise的语法糖，所以Promise是必须要学习的基础。很多同学对于Promise的理解不够深刻，导致Promise使用不正确。本章我们将讲解Promise的正确使用方式，重构http.js，同时还将使用ES6对象解构、默认值等…</p><p>11-1 tabBar配置<br>11-2 airbnb编码规范<br>11-3 纯粹回调、Promise与async、await<br>11-4 Promise的本质与用法<br>11-5 Promise重构 一 参数列表设计原则与默认值<br>11-6 Promise重构 二 重构request<br>11-7 Promise重构 三 对象解构<br>11-8 Promise的正确用法<br>第12章 组件高级应用<br>本章我们将探讨组件的slot插槽和外部样式类。组件最难平衡的是内置默认样式和用户自定义样式的需求，我们将一起来探讨一个不错的解决方案。我们将看到，小程序其实不仅仅提供了属性、还提供了wxml的标签的传递与样式的传递。wxml的传递是通过插槽，样式的传递是通过externalClass…</p><p>12-1 图书组件<br>12-2 列表渲染<br>12-3 书籍首页布局<br>12-4 巧用flex布局简化CSS<br>12-5 wx：key的用法与意义<br>12-6 项目型组件与通用性组件<br>12-7 书籍详情页面三组数据加载<br>12-8 三种小程序编译模式<br>12-9 标签组件难点提示<br>12-10 标签布局<br>12-11 组件设计思想：slot插槽的使用<br>12-12 自定义组件样式探讨 一：hack方式<br>12-13 自定义样式探讨2：外部样式的概念<br>12-14 自定义组件样式3：外部样式的问题<br>12-15 自定义样式4：外部样式如何强制覆盖普通样式<br>12-16 外部样式类的使用技巧<br>第13章 小程序wxs的应用<br>wxs是微信为小程序定制的一套脚本语言，同JS类似，但又有很多不同。很多同学认为wxs没有什么用，但其实是很有用的。比如开源组件中就可以提供一套wxs编写的filter过滤器。本章，我们将来深入探讨一下wxs的应用场景。</p><p>13-1 分析换行符 不解析换行的原因<br>13-2 wxs的概念与应用1<br>13-3 wx的概念与应用2<br>13-4 wx的概念与应用3<br>13-5 在小程序中编写limit过滤器<br>13-6 短评功能分析<br>13-7 短评实现一<br>13-8 短评实现二<br>13-9 短评实现三：在wxml中编写wxs代码<br>13-10 短评实现四：mask组件<br>13-11 短评实现五：提交短评数据<br>13-12 短评实现六：支持input输入短评<br>13-13 短评实现七：细节处理<br>第14章 搜索与高阶组件<br>搜索基本上是任何一个产品都不会缺少的功能。但是一个好的搜索组件，细节是非常多的。本章，我们将完成历史搜索、热门搜索等诸多商业级严谨搜索功能。同时，我们也将提出“高阶组件的”概念，区别于普通组件，高阶组件更为复杂 …</p><p>14-1 并行请求与串行请求<br>14-2 Promise.all与Promise.race<br>14-3 高阶组件示例1：搜索组件<br>14-4 自定义组件的models目录探讨<br>14-5 数据结构队列的应用<br>14-6 队列测试<br>14-7 实现历史搜索<br>14-8 实现热门搜索<br>14-9 搜索实现1<br>14-10 搜索实现2<br>14-11 搜索实现3<br>14-12 搜索实现4：动态绑定input输入<br>第15章 代码重构与行为抽象<br>本章我们将重构搜索代码，将分页逻辑提取成一个“行为”。以后，当我们遇到任何一个需要使用分页逻辑的组件时都可以服用分页Behavior。此外，本章有大量的细节需要我们完善。比如如何对搜索加“锁”，如何判断是否还有更多数据等。 …</p><p>15-1 用随机字符串触发Oberver函数<br>15-2 加载更多数据的判断技巧<br>15-3 使用锁的概念解决重复加载数据的问题<br>15-4 是否还有更多数据的判断逻辑<br>15-5 组件行为逻辑抽象——分页行为<br>15-6 搜索代码重构——增强代码可阅读性<br>15-7 注意避免死锁<br>15-8 特别注意setData与直接赋值的区别<br>15-9 空搜索结果的处理<br>第16章 高级知识与应用<br>本章，我们将试着学习和应用一些比较抽象的知识。这些知识并不是必备的，但好的程序员必须学会这种思维和编码习惯。我们将在本章进一步优化和重构代码，学习新版微信授权机制、自定义小程序button组件、将内置的小程序API转换成Promise、复用整个Page等知识。…</p><p>16-1 将锁提取到分页行为中<br>16-2 open-data显示用户信息<br>16-3 新版微信授权机制<br>16-4 wx.getUserInfo需要用户先授权<br>16-5 通过opensetting判断用户是否授权<br>16-6 自定义button实现获取用户信息<br>16-7 为什么有open-data还需要getUserInfo？<br>16-8 自定义分享button<br>16-9 小程序之间的跳转<br>16-10 preview组件<br>16-11 简单聊一下小程序云开发的场景和意义<br>本课程已完结</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="gPrX7Uf5355" style="display:none">gPrX7Uf5355</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;//img.mukewang.com/szimg/5b4bfb7000019d2e10800600-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;纯正商业级应用-微信小程序开发实战&lt;br&gt;小程序的成功，让广大程序员早已不再纠结该不该学习小程序开发 ，但会纠结如何学习小程序开发，直到他们遇到了 “七月”老师，你可以自行看看七月老师其它课程的学员对他课程的真实评价，选择他的课，不需要纠结，更不需要犹豫&lt;br&gt;第1章 导学与申请appkey&lt;br&gt;如何更好的学习本课程？如何申请开发者key？如何调用和测试接口？&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="移动开发" scheme="https://www.jucaizhan.com/categories/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="实战" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%88%98/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="2018" scheme="https://www.jucaizhan.com/tags/2018/"/>
+    
+      <category term="移动开发" scheme="https://www.jucaizhan.com/tags/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="小程序" scheme="https://www.jucaizhan.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习Scala 进击大数据Spark生态圈</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/154_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E5%AD%A6%E4%B9%A0Scala%E8%BF%9B%E5%87%BB%E5%A4%A7%E6%95%B0%E6%8D%AESpark%E7%94%9F%E6%80%81%E5%9C%88%E3%80%8B_10%E8%AF%BE_2018/"/>
+    <id>https://www.jucaizhan.com/慕课网/154_慕课网_《学习Scala进击大数据Spark生态圈》_10课_2018/</id>
+    <published>2018-09-30T05:41:21.000Z</published>
+    <updated>2019-02-24T07:12:04.064Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://szimg.mukewang.com/5af17d9500011dc105400300-360-202.jpg" alt="image"></p><p>观看导学视频</p><p>学习Scala 进击大数据Spark生态圈<br>大数据如火如荼，如果你想深入学习大数据，Scala是你必学必会的内容，这将是你成为“高薪”程序员的起点，关于Scala的介绍、课程很多，但能做到如此聚焦生产真实应用的课程凤毛麟角，所以，你千万不能错过</p><p>第1章 初识Scala<br>了解Scala是什么,学习Scala的意义何在, Scala安装，快速入门，Scala与Java开发对比</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/215.html" target="_blank" rel="noopener">https://coding.imooc.com/class/215.html</a></blockquote><br><p>1-1 Scala导学<br>1-2 -课程目录<br>1-3 -Scala概述<br>1-4 -学习Scala的意义何在<br>1-5 -Scala安装<br>1-6 -Scala使用入门<br>1-7 -HelloWorld案例Java和Scala版本对比<br>第2章 Scala入门<br>掌握Scala变量与常量，数据类型，lazy的使用，Scala开发IDEA选择以及使用IDEA整合Maven搭建Scala应用程序开发环境</p><p>2-1 -课程目录<br>2-2 -val和var的区别<br>2-3 -Scala数据类型<br>2-4 -lazy在Scala中的使用<br>2-5 -Scala IDE介绍<br>2-6 -IDEA整合Maven构建Scala应用程序及IDEA使用注意事项<br>第3章 Scala函数<br>掌握函数在Scala中的定义以及使用的注意实现，条件以及循环表达式在Scala中的使用</p><p>3-1 -课程目录<br>3-2 -函数的定义和使用<br>3-3 -默认参数<br>3-4 -命名参数<br>3-5 -可变参数<br>3-6 -条件表达式<br>3-7 -循环表达式<br>第4章 Scala对象<br>这是Scala中的重中之重，务必要掌握，涉及到的内容有：类、构造器、继承、重写、抽象类、伴生类以及伴生对象、apply方式的使用、case class以及trait</p><p>4-1 -课程目录<br>4-2 -面向对象概述<br>4-3 -类的定义和使用<br>4-4 -主构造器和附属构造器<br>4-5 -继承<br>4-6 -重写<br>4-7 -抽象类<br>4-8 -伴生类和伴生对象<br>4-9 -apply方法<br>4-10 -case class<br>4-11 -Trait<br>第5章 Scala集合<br>掌握Scala中数组、List、Set、Map、Tuple、Option的使用</p><p>5-1 -课程目录<br>5-2 -定长数组<br>5-3 -变长数组<br>5-4 -List<br>5-5 -Set<br>5-6 -Map<br>5-7 -Option&amp;Some&amp;None<br>5-8 -Tuple<br>第6章 Scala模式匹配<br>掌握Scala中的模式匹配：基本、Array、类型、case class、Option的模式匹配以及Scala中异常处理</p><p>6-1 -课程目录<br>6-2 -最基础的模式匹配<br>6-3 -加条件进行匹配<br>6-4 -Array模式匹配<br>6-5 -List模式匹配<br>6-6 -类型匹配<br>6-7 -Scala异常处理<br>6-8 -case class模式匹配<br>6-9 -Some None模式匹配<br>第7章 Scala函数高级操作<br>掌握Scala中字符串的高级操作，匿名函数，偏函数，以及高阶函数的使用(重点)</p><p>7-1 -课程目录<br>7-2 -字符串高级操作<br>7-3 -匿名函数<br>7-4 -currying函数<br>7-5 -高阶函数<br>7-6 -偏函数<br>第8章 Scala隐式转换<br>这是Scala中的亮点所在，也是最难理解的部分</p><p>8-1 -课程概述<br>8-2 -隐式转换概述<br>8-3 -隐式转换实战<br>8-4 -隐式转换切面封装<br>8-5 -隐式参数<br>8-6 -隐式类<br>第9章 Scala操作外部数据<br>使用Scala读写文本文件、网络数据、MySQL数据以及XML文件</p><p>9-1 -课程目录<br>9-2 -Scala读取文件及网络数据<br>9-3 -Scala读取MySQL数据<br>9-4 -Scala读取XML文件<br>9-5 -Scala读取XML属性内容<br>第10章 项目实战<br>综合Scala前面的知识点，通过项目实战融汇贯通，并整合Spring Boot进行项目实战</p><p>10-1 -课程目录<br>10-2 -项目技术概述<br>10-3 -项目需求<br>10-4 -项目需求分析<br>10-5 -环境搭建之SpringBoot&amp;Java<br>10-6 -环境搭建之SpringBoot&amp;Scala<br>10-7 -环境搭建之SpringBoot&amp;SpringData<br>10-8 -数据库元数据管理业务逻辑层开发<br>10-9 -数据库元数据管理之Controller层开发<br>10-10 -数据库元数据管理代码重构<br>10-11 -表元数据管理之业务逻辑层开发<br>10-12 -表元数据管理之Controller层开发<br>10-13 -元数据管理系统扩展<br>本课程已完结</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="LaZQTC95305" style="display:none">LaZQTC95305</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://szimg.mukewang.com/5af17d9500011dc105400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;观看导学视频&lt;/p&gt;
+&lt;p&gt;学习Scala 进击大数据Spark生态圈&lt;br&gt;大数据如火如荼，如果你想深入学习大数据，Scala是你必学必会的内容，这将是你成为“高薪”程序员的起点，关于Scala的介绍、课程很多，但能做到如此聚焦生产真实应用的课程凤毛麟角，所以，你千万不能错过&lt;/p&gt;
+&lt;p&gt;第1章 初识Scala&lt;br&gt;了解Scala是什么,学习Scala的意义何在, Scala安装，快速入门，Scala与Java开发对比&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="云计算&amp;大数据" scheme="https://www.jucaizhan.com/categories/%E4%BA%91%E8%AE%A1%E7%AE%97-%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="云计算&amp;大数据" scheme="https://www.jucaizhan.com/tags/%E4%BA%91%E8%AE%A1%E7%AE%97-%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="2018" scheme="https://www.jucaizhan.com/tags/2018/"/>
+    
+      <category term="Scala" scheme="https://www.jucaizhan.com/tags/Scala/"/>
+    
+      <category term="Spark" scheme="https://www.jucaizhan.com/tags/Spark/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ES6+ 开发电商网站的账号体系 JS SDK</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/153_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AES6+%E5%BC%80%E5%8F%91%E7%94%B5%E5%95%86%E7%BD%91%E7%AB%99%E7%9A%84%E8%B4%A6%E5%8F%B7%E4%BD%93%E7%B3%BBJSSDK%E3%80%8B_12%E8%AF%BE_2017/"/>
+    <id>https://www.jucaizhan.com/慕课网/153_慕课网_《ES6+开发电商网站的账号体系JSSDK》_12课_2017/</id>
+    <published>2018-09-30T05:40:21.000Z</published>
+    <updated>2019-02-24T07:12:04.064Z</updated>
+    
+    <content type="html"><![CDATA[<p>ES6+ 开发电商网站的账号体系 JS SDK<br>实战中贯穿ES6+ 语法，前端完全使用原生JS语法，不依赖框架，实现模块、组件、请求、视图渲染和事件绑定等，打造一个电商网站的账号体系SDK，提升自己的开发效率和代码可维护性。</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/152.html" target="_blank" rel="noopener">https://coding.imooc.com/class/152.html</a></blockquote><br><p>第1章 课程简介<br>本章主要对整个课程的内容进行简要介绍，包括前置知识简介、章节安排、代码效果展示等，会从大的方面对ES6+在实战中的意义进行介绍和比较，让你对课程有一个初步印象</p><p>1-1 课程导学<br>第2章 ES6+实战所需要的环境<br>本章主要介绍ES6+实战中必备的两个工具：Babel和webpack，以及工程化中脚手架工具的重要性和意义，介绍html-bundler这样一个脚手架工具（后面实战会用到）</p><p>2-1 ES6浏览器支持情况<br>2-2 webpack讲解与示例<br>2-3 Babel讲解与示例<br>2-4 html-bundler具体用法<br>2-5 环境准备<br>2-6 本章小结<br>第3章 需求分析与架构设计<br>本章讲解为什么要进行这样的设计，以及前端开发从需求分析、总体设计到模块设计再到代码编写的整个过程，进行思路的梳理，以及SDK常用开发套路的介绍</p><p>3-1 .需求分析<br>3-2 架构设计<br>3-3 业务模块demo<br>3-4 公共模块demo<br>第4章 最常用ES6语法讲解以及课程环境搭建<br>本章主要对后面用到最多的几个ES6+语法进行前置讲解，包括import和export，let和const，箭头函数等。使用html-bundler搭建课程环境，讲解一些webpack和babel一些最新的相关插件和配置</p><p>4-1 创建项目<br>4-2 真实环境安装小结<br>4-3 import &amp; export讲解1<br>4-4 import &amp; export讲解2<br>4-5 let&amp;const 讲解<br>4-6 箭头函数讲解<br>第5章 登录模块开发-骨架及渲染部分<br>本章开始进行登录模块开发，主要讲解模块骨架搭建和视图渲染部分，并在项目中讲解ES6+中的Object.assign， 模板字符串等语法。介绍消除浏览器自带自动填充的技巧</p><p>5-1 业务开始<br>5-2 Object.assign<br>5-3 export<br>5-4 模板字符串<br>5-5 基本模板和自动补全1<br>5-6 自动补全2<br>5-7 getID<br>5-8 渲染结束<br>第6章 登录模块开发-表单验证/事件/请求部分<br>本章主要讲解登录模块中的事件绑定/表单验证/向服务器请求数据/前端数据Mock等内容，结合项目讲解ES6+中的async和await, Array.from, Promise 等API，以及新版浏览器的fetch API。并且对async和await，Promise， fetch之间的关系及结合使用进行了讲解…</p><p>6-1 选取元素<br>6-2 import和export时的重命名<br>6-3 建好骨架<br>6-4 fetch, async&amp;await<br>6-5 promise讲解<br>6-6 await使用注意<br>6-7 表单验证<br>6-8 表单验证展示<br>6-9 登录结束<br>第7章 注册模块开发 - 手机号注册部分<br>本章主要讲解注册模块中的手机号注册，活人验证部分，讲解活人验证的原理和实现，结合项目讲解ES6+中的class、Symbol等语法点。</p><p>7-1 活人验证原理介绍和搭建骨架<br>7-2 第一步的模板<br>7-3 活人验证骨架搭建<br>7-4 symbol语法讲解1<br>7-5 symbol&amp;class语法讲解2<br>7-6 滑块界面渲染部分<br>7-7 验证滑块整体完成（1）<br>7-8 验证滑块整体完成（2）<br>7-9 调用验证滑块<br>7-10 完成第一步手机号提交<br>7-11 完成第二步手机号验证<br>第8章 注册模块开发 - 个人信息部分<br>本章主要讲解注册模块中的个人信息填写部分，包括表单验证、省市区三级联动插件等技术点，结合项目回顾之前讲到的ES6+中的class、Symbol、async/await等语法点。</p><p>8-1 开始<br>8-2 模板渲染<br>8-3 .字符串unicode支持讲解<br>8-4 .正则表达式unicode支持讲解<br>8-5 . 正则unicode在表单验证业务中的运用<br>8-6 . 搭建省市区三联插件框架1<br>8-7 . 搭建省市区三联插件2<br>8-8 . 完成省市区三联框架3<br>8-9 . 三联插件中新的语法点<br>8-10 . 完成注册用户信息流程<br>第9章 注册模块开发 - 支付方式绑定和整体串联部分<br>本章主要讲解注册模块中的支付方式绑定，将整个注册流程串起来并回顾注册流程中涉及的技术点。</p><p>9-1 绑定支持方式<br>9-2 绑定支付方式完成<br>9-3 如何在单页应用中使用SDK<br>9-4 如何在react中使用sdk<br>第10章 账号设置模块开发<br>本章主要讲解账号设置部分，包括收货地址管理、安全设置、个人资料编辑，对之前一些大的语法点进行巩固和复习，穿插一些小的记忆性API。</p><p>10-1 用户资料页设置01<br>10-2 用户资料页设置02<br>10-3 改造省市区插件<br>10-4 收货地址设置-模板<br>10-5 收货地址设置<br>10-6 收货地址管理-事件绑定01<br>10-7 收货地址管理-事件绑定02<br>10-8 安全设置页面<br>第11章 密码找回模块开发<br>本章主要讲解密码找回部分的开发，包括手机号找回和邮箱找回，对之前一些大的语法点进行巩固和复习，穿插一些小的记忆性API。</p><p>11-1 重置密码_1<br>11-2 重置密码_2<br>11-3 课程回顾<br>第12章 整体串联和总结<br>本章会讲解开发完成的SDK如何落地在下游业务上构成一个完整的流程，并对整个项目进行回顾与总结，包括项目中用到的ES6+语法点、SDK开发的套路、账号体系的前端业务等</p><p>12-1 课程总结(ES6+)<br>12-2 课程总结(开发流程与设计方法)<br>12-3 课程总结（真实环境搭建）<br>12-4 html-bundler介绍（1）<br>12-5 html-bundler介绍（2）<br>12-6 课程总结（语法应用一）<br>12-7 课程总结（语法应用二）<br>12-8 课程总结（语法应用三）<br>12-9 课程总结（语法应用四）<br>12-10 课程总结（SDK开发要点）<br>12-11 课程总结（账号体系开发要点）<br>本课程已完结</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="dvXhKWv5244" style="display:none">dvXhKWv5244</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;ES6+ 开发电商网站的账号体系 JS SDK&lt;br&gt;实战中贯穿ES6+ 语法，前端完全使用原生JS语法，不依赖框架，实现模块、组件、请求、视图渲染和事件绑定等，打造一个电商网站的账号体系SDK，提升自己的开发效率和代码可维护性。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="前端开发" scheme="https://www.jucaizhan.com/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="2017" scheme="https://www.jucaizhan.com/tags/2017/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="前端开发" scheme="https://www.jucaizhan.com/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="ES6" scheme="https://www.jucaizhan.com/tags/ES6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>最容易上手的Vue 2.0入门实战教程</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/152_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E6%9C%80%E5%AE%B9%E6%98%93%E4%B8%8A%E6%89%8B%E7%9A%84Vue2.0%E5%85%A5%E9%97%A8%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B%E3%80%8B_8%E8%AF%BE_2017/"/>
+    <id>https://www.jucaizhan.com/慕课网/152_慕课网_《最容易上手的Vue2.0入门实战教程》_8课_2017/</id>
+    <published>2018-09-30T05:38:21.000Z</published>
+    <updated>2019-02-24T07:12:04.063Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://szimg.mukewang.com/5aab7f270001909810800600-360-202.jpg" alt="image"></p><p>最容易上手的Vue 2.0入门实战教程<br>《Vue.js入门基础》讲师倾情推出的实战课程，使用Vue2.0版本，带你快速入门Vue2.0，完成从入门到实战的完美过渡，为之后使用Vue2.0做更高级的开发打下坚实的基础</p><p>从入门到实战全面讲解Vue2.0</p><ul><li>特别适合没有Vue基础的你<br>课程分为两个部分，首先，带领大家了解Vue.js，它是什么，能做什么，并学习Vue.js2.0的基本功能接口。然后，通过搭建一个demo性质的平台，学习Vue.js2.0在项目中的应用，主要内容涵盖如何使用脚手架初始化项目，如何布局整个项目目录，如何使用Vue指令，如何设计使用组件，如何使用vue路由，vue数据请求等等，是一门内容非常丰富全面的Vue.js课程</li></ul><p>由浅到深，从Vue基本概念讲起<br>概念、实例、组件、指令、选项，一直到模版渲染、事件绑定、计算属性等、再到内置动画、组件交互、路由等，逐一讲解</p><p>从首页到售卖页再到列表页逐一开发<br>其中售卖页的容量比较大，包含不同产品的子路由页面、选项、产品说明以及各种弹窗，通过实现这些，你会更好理解Vue各功能的综合运用</p><p>1-1 课程导学<br>1-2 项目介绍<br>1-3 Webpack4升级注意</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/chapter/91.html" target="_blank" rel="noopener">https://coding.imooc.com/class/chapter/91.html</a></blockquote><br><p>第1章 课程简介<br>讲解课程安排，面象人群，以及对课程的项目做了效果演示。</p><p>1-1 课程简介<br>1-2 vue2.0简介<br>第2章 Vue简介<br>对vue一些最基础的知识做了讲解：实例对象、vue组件以及vue的一些相关概念。</p><p>2-1 vue三个特点<br>2-2 Vue实例对象<br>2-3 Vue的组件<br>2-4 Vue的相关概念<br>第3章 功能接口（1）<br>对文本渲染v-html、v-text、列表渲染 v-for 数组，对象，子组件；列表数据的同步更新方法；vue标签属性和条件渲染；事件绑定-内置事件绑定、自定义事件绑定；表单事件绑定；计算属性和数据监听等进行了讲解。</p><p>3-1 文本渲染-v-html、v-text<br>3-2 列表渲染-v-for 数组，对象，子组件<br>3-3 列表数据的同步更新方法<br>3-4 vue标签属性和条件渲染<br>3-5 事件绑定-内置事件绑定、自定义事件绑定<br>3-6 事件绑定-表单事件绑定<br>3-7 计算属性和数据监听<br>第4章 功能接口（2）<br>对组件之间通信；过渡动画：css实现过渡动画； JS实现过渡动画；自定义指令；插件；单文件组件等进行了讲解。</p><p>4-1 组件之间的通信<br>4-2 组件之间的通信-动态属性传递<br>4-3 组件之间的通信-动态组件<br>4-4 过渡动画-css实现过渡（上）<br>4-5 过渡动画-css实现过渡（下）<br>4-6 过渡动画-js实现过渡<br>4-7 自定义指令<br>4-8 插件<br>4-9 单文件组件<br>第5章 环境搭建和常用插件<br>对vue-cli安装；ES6语法，vue-router，vuex状态管理进行了讲解。</p><p>5-1 vue-cli安装（上）<br>5-2 vue-cli安装（下）<br>5-3 vue-router（什么是前端路由）<br>5-4 vue-router（设置路由）<br>5-5 vue-router（路由参数）<br>5-6 vue-router（路由嵌套）<br>5-7 vue-router（命名的路由视图、路由重定向）<br>5-8 vue-router（使用过渡制作路由跳转动画）<br>5-9 vuex状态管理（原理）<br>5-10 vuex状态管理（实例）<br>第6章 项目实践-首页<br>实现项目框架搭建，首页：信息列表，vue-resource实现Ajax获取信息数据，express启动数据服务、幻灯片组件、登录等讲解。</p><p>6-1 项目框架搭建（layout、路由切换）<br>6-2 首页 - 信息列表 - 全部产品<br>6-3 首页 - 信息列表 - 最新消息<br>6-4 使用 axios 发送数据请求<br>6-5 使用 Mockjs 来模拟数据<br>6-6 首页 - 幻灯片组件（1）<br>6-7 首页 - 幻灯片组件（2）<br>6-8 首页 - 登录<br>6-9 首页 - 登录组件（1）<br>6-10 首页 - 登录组件（2）<br>第7章 项目实践-购买详情页、订单列表<br>对项目的添加路由，select选项组件，可多选项组件，数字组件，总价计算，选择择银行，订单列表做了详细的讲解。</p><p>7-1 购买详情页 - 添加路由（1）<br>7-2 购买详情页 - 添加路由（2）<br>7-3 购买详情页 - select选项组件<br>7-4 购买详情页 - 可多选项组件<br>7-5 购买详情页 - 数字组件<br>7-6 购买详情页 - 总价计算（1）<br>7-7 购买详情页 - 总价计算（2）<br>7-8 购买详情页 - 选择银行（1）<br>7-9 购买详情页 - 选择银行（2）<br>7-10 购买详情页 - 选择银行（3）<br>7-11 列表页 - 订单列表页面（1）<br>7-12 列表页 - 订单列表页面（2）<br>7-13 课程总结<br>第8章 课程扩展<br>讲解vuex在定单列表页面的应用。</p><p>8-1 select组件完善<br>8-2 vuex在项目中的应用（1）<br>8-3 vuex在项目中的应用（2）<br>8-4 vuex在项目中的应用（3）<br>本课程已完结</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="MsAdazW5217" style="display:none">MsAdazW5217</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://szimg.mukewang.com/5aab7f270001909810800600-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;最容易上手的Vue 2.0入门实战教程&lt;br&gt;《Vue.js入门基础》讲师倾情推出的实战课程，使用Vue2.0版本，带你快速入门Vue2.0，完成从入门到实战的完美过渡，为之后使用Vue2.0做更高级的开发打下坚实的基础&lt;/p&gt;
+&lt;p&gt;从入门到实战全面讲解Vue2.0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;特别适合没有Vue基础的你&lt;br&gt;课程分为两个部分，首先，带领大家了解Vue.js，它是什么，能做什么，并学习Vue.js2.0的基本功能接口。然后，通过搭建一个demo性质的平台，学习Vue.js2.0在项目中的应用，主要内容涵盖如何使用脚手架初始化项目，如何布局整个项目目录，如何使用Vue指令，如何设计使用组件，如何使用vue路由，vue数据请求等等，是一门内容非常丰富全面的Vue.js课程&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;由浅到深，从Vue基本概念讲起&lt;br&gt;概念、实例、组件、指令、选项，一直到模版渲染、事件绑定、计算属性等、再到内置动画、组件交互、路由等，逐一讲解&lt;/p&gt;
+&lt;p&gt;从首页到售卖页再到列表页逐一开发&lt;br&gt;其中售卖页的容量比较大，包含不同产品的子路由页面、选项、产品说明以及各种弹窗，通过实现这些，你会更好理解Vue各功能的综合运用&lt;/p&gt;
+&lt;p&gt;1-1 课程导学&lt;br&gt;1-2 项目介绍&lt;br&gt;1-3 Webpack4升级注意&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="前端开发" scheme="https://www.jucaizhan.com/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="2017" scheme="https://www.jucaizhan.com/tags/2017/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="前端开发" scheme="https://www.jucaizhan.com/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="Vue" scheme="https://www.jucaizhan.com/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>组件化封装思想实战Android App</title>
+    <link href="https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/151_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E7%BB%84%E4%BB%B6%E5%8C%96%E5%B0%81%E8%A3%85%E6%80%9D%E6%83%B3%E5%AE%9E%E6%88%98Android%20App%E3%80%8B_14%E8%AF%BE_2017/"/>
+    <id>https://www.jucaizhan.com/慕课网/151_慕课网_《组件化封装思想实战Android App》_14课_2017/</id>
+    <published>2018-09-30T05:37:21.000Z</published>
+    <updated>2019-02-24T07:12:04.063Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://szimg.mukewang.com/589c0e990001ac9505400300-360-202.jpg" alt="image"></p><p>组件化封装思想实战Android App<br>我们请了优酷大牛，带你以组件化的方式从0打造一个完整的Android App，你将学会综合运用各种Android技术开发热门功能，积累到完整的Android项目成型经验，开发的同时会封装出Android通用SDK，让你向更高级别的工程师迈进</p><p>开发一个完整项目, 视频广告实时推送App<br>做出好应用, 同时打造属于自己的SDK</p><p>从项目架构设计直至多渠道打包上线，以组件化开发的方式实现一个完整的视频实时推送APP，带你实现一个个具体功能的同时打造一套属于自己的SDK，让你掌握组件化开发思想、Android技术的综合运用及常用设计模式，学完这门课程在Android开发上，你将进入一个新的境界</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/84.html" target="_blank" rel="noopener">https://coding.imooc.com/class/84.html</a></blockquote><br><p>第1章 课程概述<br>通过本章让学生：1.了解本次项目实战主要有那些功能有，以及通过本次项目实战，学生可以掌握开发一个应用所需的全部知识。2.在课程安排上，我们主要以实际的开发顺序来讲解，保证学员能够所学即所得。</p><p>1-1 课程概述—项目演示及课程讲法收获<br>第2章 首页框架搭建<br>本章正式开始我们的项目开发，在开发项目的过程中穿插我们要讲的知识点，本节课我们主要来目的：1.搭建好我们的HomeActivity, 实现HomeActivity中Fragment的切换。2.创建首页所需要的所有Fragment(空的Fragment,功能对应模块填充)</p><p>2-1 首页框架—搭建铺垫<br>2-2 首页框架—框架搭建实战<br>2-3 首页框架—框架总结<br>第3章 App公共模块之网络请求组件<br>通过本节课的学习:1.我们要基于Okhttp封装一个通用的网络请求框架，前期先实现发送get和post请求，后面我们会继续扩展我们框架的功能，例如文件下载。2.利用我们的网络框架发送请求并获取响应 3.如何利用Charles调试接口。</p><p>3-1 网络请求组件—OkHttp简单使用<br>3-2 网络请求组件—封装思路讲解<br>3-3 网络请求组件—Request封装<br>3-4 网络请求组件—Client封装<br>3-5 网络请求组件—Response封装<br>3-6 网络请求组件—Charles简介<br>第4章 App公共模块之图片加载组件<br>本章我们要完成异步网络图片加载库universeImageLoader的讲解，通过本章内容的学习。我们在掌握universeImageLoader框架的前提下，对其进行二次封装，使之成为一个独立的功能模块，方便我们以后直接复用，而且在于业务逻辑隔离的情况下，我们也可以方便的对其进行替换。…</p><p>4-1 图片加载组件—异步图片加载概述<br>4-2 图片加载组件—图片加载API讲解<br>4-3 图片加载组件—封装思路讲解<br>4-4 图片加载组件—UIL组件封装铺垫<br>4-5 图片加载组件—UIL组件封装实战<br>4-6 图片加载组件—本章小结<br>第5章 首页列表开发与测试<br>通过本章学习，我们要掌握android中最常用的两个控件的深度使用ViewPager和ListView中如何嵌入复杂的布局。以及我们如何去合理的定义数据结构，使我们移动端使用起服务器的数据来更加的得心应手。</p><p>5-1 首页列表—开发概述<br>5-2 首页列表—首页列表数据请求<br>5-3 首页列表—上一小节回顾串讲<br>5-4 首页列表—单图Item初始化<br>5-5 首页列表—多图Item开发<br>5-6 首页列表—ViewPager列表项开发<br>5-7 首页列表—本章小结<br>第6章 App公共模块之二维码扫描组件<br>本章我们完成zxing扫码功能的集成。1.首先我们对zxing做一个基本的介绍 2.我们要对zxing整个工程做一个裁剪，以减少zxing包的大小及除去无用功能 3.将zxing集成到我们的实战项目中。 4.zxing核心类介绍。5.自定义扫码界面UI 6.处理扫码返回的结果数据。 通过本章的学习，我们不仅能够集成开源的二维码工程，而且…</p><p>6-1 二维码组件—扫码功能概述<br>6-2 二维码组件—zxing集成<br>6-3 二维码组件—自定义扫码界面<br>6-4 二维码组件—扫码功能完善<br>6-5 二维码组件—本章小结<br>第7章 视频播放SDK模块开发<br>本章是我们整个项目的核心，通过本章的学习，我们能学会：1.如何利用android最底层的类去自定义一个视频播放器。2.通过接口回调将视频器视频暴露到调用层。3.SDK封装思想的讲解，4.将我们的播放器封装为一个通用的SDK工具包。 5.在我们的实战项目中去调用我们的播放SDK，看是否方便使用。…</p><p>7-1 视频播放组件—视频SDK功能预览<br>7-2 视频播放组件—播放器封装讲解<br>7-3 视频播放组件—视频播放器接口功能描述<br>7-4 视频播放组件—实现视频播放器<br>7-5 视频播放组件—业务逻辑封装概述<br>7-6 视频播放组件—业务逻辑层封装实现-上<br>7-7 视频播放组件—业务逻辑层封装实现-下<br>7-8 视频播放组件—小屏到全屏功能开发-上<br>7-9 视频播放组件—小屏到全屏功能开发-下<br>7-10 视频播放组件—业务逻辑层回顾<br>7-11 视频播放组件—API层讲解及封装<br>7-12 视频播放组件—本章小结<br>第8章 首页MineFragment开发与测试<br>通过本章的学习，让学员掌握在实际开发中：1.我们是如何去管理用户信息的 2.局部广播的使用 3.SharedPreference在实际开发中的作用 4.如何利用已有数据生成二维码 5.版本更新功能如何实现</p><p>8-1 播放设置开发—MineFragment功能概述<br>8-2 播放设置开发—思路点拨<br>8-3 播放设置开发—视频播放设置流程<br>8-4 播放设置开发—SharedPreference封装<br>8-5 播放设置开发—视频播放设置功能开发<br>8-6 自动更新组件—更新功能讲解及开发<br>8-7 自动更新组件—更新组件串讲<br>8-8 用户信息管理—登陆及用户信息管理开发流程<br>8-9 用户信息管理—用户信息管理开发<br>8-10 自动更新组件—LocalBroadcastReceiver使用<br>8-11 用户信息管理—本章小结<br>第9章 浏览查看大图页面开发<br>通过本章学习，我们可以学会如何去使用PhotoView实现我们项目中，网上好多教程教如何去自定义类似PhotoView的教程，大家可以暂时忽略，因为即使教你如何自定义PhotoView的人，在实际开发中也是使用PhotoView的，所以我们要先学会如何去用，等我们用的很熟悉的时候，我们可以直接去研究PhotoView的源码，这是一种最高效的方…</p><p>9-1 浏览大图—功能预览<br>9-2 浏览大图—开发环境搭建<br>9-3 浏览大图—功能模块开发<br>9-4 浏览大图—本章小结<br>第10章 App公共模块之社交分享组件<br>本章主要为我们的App添加分享功能，通过对ShareSDK分享的实战，我们不仅能学习如何去使用它去完成我们最基本的分享工作 ，更可以将其封装为一个通用的分享组件，方便我们以后的复用。</p><p>10-1 社交分享组件—分享功能概述<br>10-2 社交分享组件—ShareSDK开发环境搭建<br>10-3 社交分享组件—分享API串讲<br>10-4 社交分享组件—分享组件封装思路<br>10-5 社交分享组件—ShareManager封装<br>10-6 社交分享组件—UI层封装<br>10-7 社交分享组件—本章小结<br>第11章 课程详情页面开发<br>本章主要来实现我们的课程详情页面的开发，通过本节课我们主要学习：1.学习利用mpchart去开发漂亮的图表。2.Activity的各种不同的启动模式。以及如何正确的决定使用那种启动模式。</p><p>11-1 列表详情—开发概述<br>11-2 列表详情—列表项开发<br>11-3 列表详情—页面功能开发<br>11-4 列表详情—Activity启动模式详解<br>11-5 列表详情—Activity启动模式实战<br>11-6 列表详情—本章小结<br>第12章 App公共模块之实时推送组件<br>通过本章的学习，我们要学习如何将极光推送或者其它第三方推送库集成到我们的项目中。并完成与目前市面上最主流App一致的推送跳转流程开发。让我们的项目与用户更多的互动起来。</p><p>12-1 推送组件—推送概述<br>12-2 推送组件—极光环境搭建<br>12-3 推送组件—JPushReceiver创建<br>12-4 推送组件—跳转流程分析上<br>12-5 推送组件—跳转流程实现上<br>12-6 推送组件—跳转流程分析下<br>12-7 推送组件—跳转流程实现下<br>12-8 推送组件—本章小结<br>第13章 项目适配android6.0权限系统<br>通过本章的学习，同学们可以学会如何将我们的应用无缝的适配到android6.0及以上系统，且不需要依赖任何第三方库。</p><p>13-1 动态权限—权限适配概述<br>13-2 动态权限—API讲解<br>13-3 动态权限—动手适配新权限机制<br>13-4 动态权限—本章小结<br>第14章 友盟多渠道打包及上线Apk<br>通过本章的学习，我们会最终打出我们要上线市场的对应的Apk文件并上传到对应的应用市场</p><p>14-1 多渠道打包—功能概述<br>14-2 多渠道打包—友盟SDK集成<br>14-3 多渠道打包—多渠道打包脚本上<br>14-4 多渠道打包—多渠道打包脚本下<br>14-5 多渠道打包—本章小结<br>第15章 项目流程回顾及优化<br>对本项目的配置注意事项，流程进行回顾，项目核心价值说明，个别细节优化等</p><p>15-1 课程总结—工程配置注意事项<br>15-2 课程总结—项目流程回顾<br>15-3 课程总结—核心价值<br>15-4 课程总结—不足和改进<br>本课程已完结</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="cCHGR7Q5152" style="display:none">cCHGR7Q5152</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://szimg.mukewang.com/589c0e990001ac9505400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;组件化封装思想实战Android App&lt;br&gt;我们请了优酷大牛，带你以组件化的方式从0打造一个完整的Android App，你将学会综合运用各种Android技术开发热门功能，积累到完整的Android项目成型经验，开发的同时会封装出Android通用SDK，让你向更高级别的工程师迈进&lt;/p&gt;
+&lt;p&gt;开发一个完整项目, 视频广告实时推送App&lt;br&gt;做出好应用, 同时打造属于自己的SDK&lt;/p&gt;
+&lt;p&gt;从项目架构设计直至多渠道打包上线，以组件化开发的方式实现一个完整的视频实时推送APP，带你实现一个个具体功能的同时打造一套属于自己的SDK，让你掌握组件化开发思想、Android技术的综合运用及常用设计模式，学完这门课程在Android开发上，你将进入一个新的境界&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="移动开发" scheme="https://www.jucaizhan.com/categories/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="实战" scheme="https://www.jucaizhan.com/tags/%E5%AE%9E%E6%88%98/"/>
+    
+      <category term="2017" scheme="https://www.jucaizhan.com/tags/2017/"/>
+    
+      <category term="慕课网" scheme="https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/"/>
+    
+      <category term="移动开发" scheme="https://www.jucaizhan.com/tags/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="Android" scheme="https://www.jucaizhan.com/tags/Android/"/>
+    
+  </entry>
+  
+</feed>

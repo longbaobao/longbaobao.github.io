@@ -1,0 +1,68 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="description" content="大型电商分布式系统实践"><meta name="keywords" content="实战,分布式,架构设计,炼数成金,2014"><meta name="author" content="巨菜站,undefined"><meta name="copyright" content="巨菜站"><link rel="alternate" href="/atom.xml" title="巨菜站" type="application/atom+xml"><meta name="description" content="&lt;p&gt;在大型网站架构的演变过程中，集中式的架构设计出于系统的可扩展性、可维护性以及成本等多方面的因素考虑，逐渐被放弃，转而采用分布式的架构设计。分布式架构的核心思想是采用大量廉价的PC server，构建一个低成本、高可用、高可扩展、高吞吐的集群系统，以支撑海量的用户访问和数据存储，理论上具备无限的扩展能力。分布式系统的设计，是一门复杂的学问，它涉及到包括通信协议、远程调用，服务治理，系统安全、存储、搜索、监控、稳定性保障、性能优化、数据分析、数据挖掘等方方面面，而本课程将为大家一一进行介绍。&lt;/p&gt;"><title>大型电商分布式系统实践 | 巨菜站_实战,分布式,架构设计,炼数成金,2014</title><link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css?version=1.5.3"><link rel="dns-prefetch" href="https://cdn.staticfile.org"><link rel="dns-prefetch" href="https://cdn.bootcss.com"><link rel="dns-prefetch" href="https://creativecommons.org"><link rel="stylesheet" type="text/css" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script><script src="https://unpkg.com/blueimp-md5@latest/js/md5.min.js"></script><link rel="dns-prefetch" href="https://hm.baidu.com"><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3f2224e84fb41c8beaba0224b5142794";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();</script><link rel="dns-prefetch" href="https://www.google-analytics.com"><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-121920923-2', 'auto');
+ga('send', 'pageview');</script><script>(function(m, ei, q, i, a, j, s) {
+    m[i] = m[i] || function() {
+        (m[i].a = m[i].a || []).push(arguments)
+    };
+    j = ei.createElement(q),
+        s = ei.getElementsByTagName(q)[0];
+    j.async = true;
+    j.charset = 'UTF-8';
+    j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+    s.parentNode.insertBefore(j, s);
+})(window, document, 'script', '_MEIQIA');
+_MEIQIA('entId', 124369);</script><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  localSearch: {"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}"},"path":"search.xml"}
+} </script></head><body><canvas class="fireworks"></canvas><i class="fa fa-arrow-right" id="toggle-sidebar" aria-hidden="true"></i><div id="sidebar"><div class="toggle-sidebar-info text-center"><span data-toggle="切换文章详情">切换站点概览</span><hr></div><div class="sidebar-toc"><div class="sidebar-toc__title">目录</div><div class="sidebar-toc__progress"><span class="progress-notice">你已经读了</span><span class="progress-num">0</span><span class="progress-percentage">%</span><div class="sidebar-toc__progress-bar"></div></div><div class="sidebar-toc__content"></div></div><div class="author-info hide"><div class="author-info__avatar text-center"><img src="http://blog.fueson.top/avatar/me.jpg?imageMogr2/thumbnail/200x200&gt;/gravity/Center/crop/200x200/format/jpg/blur/1x0/quality/75|imageslim"></div><div class="author-info__name text-center">巨菜站</div><div class="author-info__description text-center">资源下载，百度资源，教育资源</div><hr><div class="author-info-articles"><a class="author-info-articles__archives article-meta" href="/archives"><span class="pull-left">文章</span><span class="pull-right">119</span></a><a class="author-info-articles__tags article-meta" href="/tags"><span class="pull-left">标签</span><span class="pull-right">157</span></a><a class="author-info-articles__categories article-meta" href="/categories"><span class="pull-left">分类</span><span class="pull-right">21</span></a></div></div><div class="unit"><div class="heart"><div class="heart-piece-0"></div><div class="heart-piece-1"></div><div class="heart-piece-2"></div><div class="heart-piece-3"></div><div class="heart-piece-4"></div><div class="heart-piece-5"></div><div class="heart-piece-6"></div><div class="heart-piece-7"></div><div class="heart-piece-8"></div></div><p class="anime-title"><a href="https://www.jucaizhan.com/" target="_blank">感谢访问本站 ^_^</a></p><div class="email-title"><i class="fa fa-telegram" style="margin-right: 14px"></i><a href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&amp;email=908934816@qq.com" target="_blank">失效连接提交</a></div></div></div><div id="content-outer"><div id="top-container" style="background-image: url(http://blog.fueson.top/bg/saber.jpg)"><div id="page-header"><span class="pull-left"> <a id="site-name" href="/">巨菜站</a></span><i class="fa fa-bars toggle-menu pull-right" aria-hidden="true"></i><span class="pull-right menus"><a class="site-page" href="/">主页</a><a class="site-page" href="/archives">文章总览</a><a class="site-page" href="/about">关于我们</a><a class="site-page" href="/categories">分类</a><a class="site-page" href="/tags">标签</a><a class="site-page" href="/gallery">个人相册</a></span></div><div id="post-info"><div id="post-title">大型电商分布式系统实践</div><div id="post-meta"><time class="post-meta__date"><i class="fa fa-calendar" aria-hidden="true"></i> 2018-09-29</time><div class="post-meta-wordcount"><span>字数总计: </span><span class="word-count">2,055</span><span class="post-meta__separator">|</span><span>阅读时长: 6 分钟</span></div></div></div></div><div class="layout" id="content-inner"><article id="post"><div id="post-content"><p>在大型网站架构的演变过程中，集中式的架构设计出于系统的可扩展性、可维护性以及成本等多方面的因素考虑，逐渐被放弃，转而采用分布式的架构设计。分布式架构的核心思想是采用大量廉价的PC server，构建一个低成本、高可用、高可扩展、高吞吐的集群系统，以支撑海量的用户访问和数据存储，理论上具备无限的扩展能力。分布式系统的设计，是一门复杂的学问，它涉及到包括通信协议、远程调用，服务治理，系统安全、存储、搜索、监控、稳定性保障、性能优化、数据分析、数据挖掘等方方面面，而本课程将为大家一一进行介绍。</p>
+<a id="more"></a>
+<blockquote class="blockquote-center"><br>请支持原版！课程官方链接：<a href="http://edu.dataguru.cn/article-4559-1.html" target="_blank" rel="noopener">http://edu.dataguru.cn/article-4559-1.html</a></blockquote><br>
+
+<p>课程大纲：<br>第一课<br>大型分布式系统概述<br>集中式、垂直式、分布式应用架构的变迁思路<br>SOA体系架构，服务化的演变<br>SOA的基础–rpc远程调用<br>–rpc与通信协议<br>–对象序列化方式的选择<br>–异构系统还是同构系统<br>–远程调用的实现方式，基于http协议的远程调用，基于tcp协议的远程调用</p>
+<p>第二课<br>服务的路由和负载均衡<br>–为什么需要服务治理<br>–服务的负载均衡，复杂环境下负载均衡所面临的问题(负载不均、多机房)<br>–负载均衡算法及其扩展<br>–如何动态配置路由规则<br>–服务上线下线的动态感知<br>–客户端容灾方案的实现<br>–如何使用zookeeper实现服务路由和负载均衡<br>SOA架构所面临的问题</p>
+<p>第三课<br>构建安全的分布式网站<br>常见的web攻击手段，xss、crsf、SQL注入攻击、DDos攻击等等<br>面对攻击，应该如何防御，具体的防御手段<br>如何架构安全的网站，保障通信的安全<br>常用的安全算法的使用场景<1><br>–校验数据是否被篡改，数字摘要<br>–加密传输内容，对称加密算法<br>–校验消息发送和接收方身份，非对称加密算法</1></p>
+<p>第四课<br>构建安全的分布式网站<br>常用的安全算法的使用场景<2><br>数字签名及其使用场景<br>数字证书及其使用场景<br>为什么需要认证<br>–签名认证的原理和实现<br>–摘要认证的原理和实现<br>为什么需要https协议，https协议能够带来什么<br>–https协议的原理解析<br>–使用tomcat部署https web<br>平台厂商所面临的问题及开放平台的出现<br>oauth协议解决了什么问题及oauth协议的适用场景</2></p>
+<p>第五课<br>分布式系统基础设施之缓存<br>–缓存的使用场景<br>–数据一致性的保障<br>–缓存的负载均衡问题，雪崩效应的产生<br>–如何解决缓存的负载均衡问题<br>–缓存的强依赖及可靠性的解决<br>–memcache的介绍及使用<br>分布式系统基础设施之持久化存储<br>–IOE太贵，无法扩展，mysql+pc server节约成本<br>–pc server的承载有限，业务拆分的实施，mysql复制策略<br>–读的压力过大，读写分离<br>–单表数据量太大，则分表<br>–写入压力太大，则分库</p>
+<p>第六课<br>分布式系统基础设施之持久化存储<br>–为提升性能，mysql的取舍<br>–海量数据，高并发写入，该HBase上场了<br>–hbase的api，row key的设计<br>–什么场景不适合使用hbase<br>–小而美的Redis，多种数据类型，快速存取<br>–redis数据类型的介绍，使用案例<br>分布式系统基础设施之消息系统<br>–消息系统的使用场景，为什么要使用消息系统<br>–消息发送的两种模式，p2p和订阅<br>–消息发送的一致性和可靠性，最终一致性解决方案<br>–消息投递的顺序问题的产生及消息内容的去重</p>
+<p>第七课<br>分布式系统基础设施之垂直化搜索引擎<br>垂直化搜索的使用场景<br>基于lucene的搜索引擎的基本原理<br>–构建索引<br>–索引更新与查询<br>–结果排序<br>–高亮<br>–中文分词<br>–索引优化<br>搜索引擎的扩展性<br>使用搜索引擎所面临的问题</p>
+<p>第八课<br>保障分布式系统的稳定性<br>在线日志分析及常用命令<br>在线日志分析的技巧，sed、awk、shell的及使用<br>如何查看服务器当前的状态，服务器的监控指标解析<br>–load、cup利用率<br>–磁盘剩余空间<br>–网络traffic<br>–磁盘IO<br>–内存使用<br>–qps、rt<br>jvm gc对稳定性和性能的影响<br>如何分析jvm产生的gc日志</p>
+<p>第九课<br>保障分布式系统的稳定性<br>集群监控及流量控制<br>–服务器的心跳检测实现方法<br>–大流量到来前，服务器的容量评估及应用水位的检测<br>–如何对流量进行控制<br>–服务稳定性的实现方案: 依赖管理&amp;服务分级&amp;优雅降级&amp;开关&amp;应急预案<br>高并发系统与普通系统的区别<br>–原子操作解决了什么问题<br>–jvm原子操作实现的原理(包含jvm源代码解析)</p>
+<p>第十课<br>保障分布式系统的稳定性<br>如何设计高并发系统<br>–Java的多线程同步及锁的机制<br>–分布式条件下数据一致性及系统可扩展性的保障<br>–高并发条件下减库存的案例<br>性能优化–找出系统的性能瓶颈<br>–找出前端的性能问题<br>–监测网页的响应时间<br>–监测java方法的响应时间</p>
+<p>第十一课<br>性能优化–找出系统的性能瓶颈<br>–java应用程序gc日志的分析<br>–影响mysql数据库性能的因素<br>为什么要进行性能测试<br>性能测试的方法和工具<br>–apache ab<br>–apache jmeter<br>–load runner<br>性能环境和真实环境的差异<br>如何进行性能优化<br>–前端性能优化的实施<br>–java程序性能优化的实施</p>
+<p>第十二课<br>如何进行性能优化<br>–数据压缩带来性能的提升，不同算法效率的比较<br>–使用缓存提升性能<br>–mysql数据库查询优化<br>–java应用程序gc优化<br>–使用新硬件提升性能<br>java应用常用的故障排查工具<br>–jps&amp;jmap&amp;jinfo&amp;jstack<br>–mat<br>–VisualVM<br>–java应用典型问题</p>
+<p>第十三课<br>数据分析对于大型分布式网站的意义<br>分布式文件系统<br>离线数据分析，mapreduce、hive<br>实时数据分析，Storm<br>离线数据同步，Apache sqoop<br>实时数据同步，mysql的实现方案<br>数据报表能提供什么，报表系统的实现思路</p>
+<p>授课时间：<br>课程将于2016年12月14日开课，预计课程持续15周时间。</p>
+<p>授课对象：<br>希望从事互联网分布式网站应用开发的相关行业工作的开发人员及在校学生</p>
+<p>课程必备：<br>熟悉java语言，了解Linux系统，熟悉linux各种命令的使用</p>
+<p>讲师简介：<br>某大型电商网站资深研发工程师，在网站分布式环境下耳濡目染，参与了众多业务系统的开发和架构设计工作，在分布式系统架构设计、高并发系统设计、系统稳定性保障等领域积累了较为丰富的实践经验，著有《大型分布式网站架构设计与实践》一书，曾在程序员上发表过《漫谈基于http协议的SOA架构》，《浅析HTTP平台的安全稳定性架构》两篇文章，对基于HTTP协议的SOA架构有深入研究，在系统稳定性保障方面有较为丰富的实践经验。</p>
+<blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>
+
+<p><div id="jspay" sid="7mrmUtY2956" style="display:none">7mrmUtY2956</div></p>
+<script type="text/javascript" src="https://www.fageka.com/j.js"></script>
+<script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>
+</div></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">巨菜站</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://www.jucaizhan.com/炼数成金/026_炼数成金_《大型电商分布式系统实践》_2014/">https://www.jucaizhan.com/炼数成金/026_炼数成金_《大型电商分布式系统实践》_2014/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://www.jucaizhan.com" target="_blank">巨菜站</a>！</span></div></div><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/实战/">实战</a><a class="post-meta__tags" href="/tags/分布式/">分布式</a><a class="post-meta__tags" href="/tags/架构设计/">架构设计</a><a class="post-meta__tags" href="/tags/炼数成金/">炼数成金</a><a class="post-meta__tags" href="/tags/2014/">2014</a></div><nav id="pagination"><div class="prev-post pull-left"><a href="/炼数成金/025_炼数成金_《基于案例学习数据挖掘》_2014/"><i class="fa fa-chevron-left">  </i><span>基于案例学习数据挖掘</span></a></div><div class="next-post pull-right"><a href="/炼数成金/027_炼数成金_《Spark大数据平台》_2014/"><span>Spark大数据平台</span><i class="fa fa-chevron-right"></i></a></div></nav><div id="gitalk-container"></div><script>var gitalk = new Gitalk({
+  clientID: '58c55a7244de19e196b7',
+  clientSecret: '36193ea6255115da581cda3f178fa9dcccfe7873',
+  repo: 'blog',
+  owner: 'longbaobao',
+  admin: 'longbaobao',
+  id: md5(decodeURI(location.pathname)),
+  distractionFreeMode: 'true',
+})
+gitalk.render('gitalk-container')</script></div></div><footer><div class="layout" id="footer"><div class="copyright">&copy;2018 - 2019 By 巨菜站</div><div class="icp"><a><span>冀ICP备16022574号-1</span></a></div><div class="busuanzi"><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_page_pv"><i class="fa fa-file-o"></i><span id="busuanzi_value_page_pv"></span><span></span></span></div></div></footer><i class="fa fa-arrow-up" id="go-up" aria-hidden="true"></i><script src="/js/third-party/anime.min.js"></script><script src="/js/third-party/jquery.min.js"></script><script src="/js/third-party/jquery.fancybox.min.js"></script><script src="/js/third-party/velocity.min.js"></script><script src="/js/third-party/velocity.ui.min.js"></script><script src="/js/utils.js?version=1.5.3"></script><script src="/js/fancybox.js?version=1.5.3"></script><script src="/js/sidebar.js?version=1.5.3"></script><script src="/js/copy.js?version=1.5.3"></script><script src="/js/fireworks.js?version=1.5.3"></script><script src="/js/transition.js?version=1.5.3"></script><script src="/js/scroll.js?version=1.5.3"></script><script src="/js/head.js?version=1.5.3"></script></body></html>

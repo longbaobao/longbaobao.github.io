@@ -1,0 +1,66 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="description" content="分布式事务实践_解决数据一致性"><meta name="keywords" content="后端开发,Java,慕课网,2018,分布式,分布式事务"><meta name="author" content="巨菜站,undefined"><meta name="copyright" content="巨菜站"><link rel="alternate" href="/atom.xml" title="巨菜站" type="application/atom+xml"><meta name="description" content="&lt;p&gt;&lt;img src=&quot;http://szimg.mukewang.com/5b2a29d50001bf4605400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;分布式事务实践 解决数据一致性&lt;br&gt;基于微服务架构的分布式系统应用越来越多，而分布式系统下的事务，一直没有一个简单统一的实现方案。本课程从本地事务出发，介绍了分布式系统和Spring cloud框架及其使用，以及分布式事务的几种实现模式。课程中还提供了大量的实例，让同学们在实战过程中，掌握分布式事务实现方式与思路。&lt;/p&gt;
+&lt;p&gt;第1章 课程介绍&lt;br&gt;介绍该课程的内容、学习成果、实例，还有学习所需的前提知识。&lt;/p&gt;
+&lt;p&gt;1-1 导学-分布式事务实践&lt;br&gt;第2章 事务原则与实现&lt;br&gt;介绍了事务的四大原则，并通过实例介绍数据库实现事务的方法，以及使用JDBC实现事务的方法。&lt;/p&gt;"><title>分布式事务实践_解决数据一致性 | 巨菜站_后端开发,Java,慕课网,2018,分布式,分布式事务</title><link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css?version=1.5.3"><link rel="dns-prefetch" href="https://cdn.staticfile.org"><link rel="dns-prefetch" href="https://cdn.bootcss.com"><link rel="dns-prefetch" href="https://creativecommons.org"><link rel="stylesheet" type="text/css" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script><script src="https://unpkg.com/blueimp-md5@latest/js/md5.min.js"></script><link rel="dns-prefetch" href="https://hm.baidu.com"><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3f2224e84fb41c8beaba0224b5142794";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();</script><link rel="dns-prefetch" href="https://www.google-analytics.com"><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-121920923-2', 'auto');
+ga('send', 'pageview');</script><script>(function(m, ei, q, i, a, j, s) {
+    m[i] = m[i] || function() {
+        (m[i].a = m[i].a || []).push(arguments)
+    };
+    j = ei.createElement(q),
+        s = ei.getElementsByTagName(q)[0];
+    j.async = true;
+    j.charset = 'UTF-8';
+    j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+    s.parentNode.insertBefore(j, s);
+})(window, document, 'script', '_MEIQIA');
+_MEIQIA('entId', 124369);</script><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  localSearch: {"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}"},"path":"search.xml"}
+} </script></head><body><canvas class="fireworks"></canvas><i class="fa fa-arrow-right" id="toggle-sidebar" aria-hidden="true"></i><div id="sidebar"><div class="toggle-sidebar-info text-center"><span data-toggle="切换文章详情">切换站点概览</span><hr></div><div class="sidebar-toc"><div class="sidebar-toc__title">目录</div><div class="sidebar-toc__progress"><span class="progress-notice">你已经读了</span><span class="progress-num">0</span><span class="progress-percentage">%</span><div class="sidebar-toc__progress-bar"></div></div><div class="sidebar-toc__content"></div></div><div class="author-info hide"><div class="author-info__avatar text-center"><img src="http://blog.fueson.top/avatar/me.jpg?imageMogr2/thumbnail/200x200&gt;/gravity/Center/crop/200x200/format/jpg/blur/1x0/quality/75|imageslim"></div><div class="author-info__name text-center">巨菜站</div><div class="author-info__description text-center">资源下载，百度资源，教育资源</div><hr><div class="author-info-articles"><a class="author-info-articles__archives article-meta" href="/archives"><span class="pull-left">文章</span><span class="pull-right">119</span></a><a class="author-info-articles__tags article-meta" href="/tags"><span class="pull-left">标签</span><span class="pull-right">157</span></a><a class="author-info-articles__categories article-meta" href="/categories"><span class="pull-left">分类</span><span class="pull-right">21</span></a></div></div><div class="unit"><div class="heart"><div class="heart-piece-0"></div><div class="heart-piece-1"></div><div class="heart-piece-2"></div><div class="heart-piece-3"></div><div class="heart-piece-4"></div><div class="heart-piece-5"></div><div class="heart-piece-6"></div><div class="heart-piece-7"></div><div class="heart-piece-8"></div></div><p class="anime-title"><a href="https://www.jucaizhan.com/" target="_blank">感谢访问本站 ^_^</a></p><div class="email-title"><i class="fa fa-telegram" style="margin-right: 14px"></i><a href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&amp;email=908934816@qq.com" target="_blank">失效连接提交</a></div></div></div><div id="content-outer"><div id="top-container" style="background-image: url(http://blog.fueson.top/bg/saber.jpg)"><div id="page-header"><span class="pull-left"> <a id="site-name" href="/">巨菜站</a></span><i class="fa fa-bars toggle-menu pull-right" aria-hidden="true"></i><span class="pull-right menus"><a class="site-page" href="/">主页</a><a class="site-page" href="/archives">文章总览</a><a class="site-page" href="/about">关于我们</a><a class="site-page" href="/categories">分类</a><a class="site-page" href="/tags">标签</a><a class="site-page" href="/gallery">个人相册</a></span></div><div id="post-info"><div id="post-title">分布式事务实践_解决数据一致性</div><div id="post-meta"><time class="post-meta__date"><i class="fa fa-calendar" aria-hidden="true"></i> 2018-09-21</time><span class="post-meta__separator">|</span><i class="fa fa-inbox post-meta__icon" aria-hidden="true"></i><a class="post-meta__categories" href="/categories/后端开发/">后端开发</a><div class="post-meta-wordcount"><span>字数总计: </span><span class="word-count">1,513</span><span class="post-meta__separator">|</span><span>阅读时长: 5 分钟</span></div></div></div></div><div class="layout" id="content-inner"><article id="post"><div id="post-content"><p><img src="http://szimg.mukewang.com/5b2a29d50001bf4605400300-360-202.jpg" alt="image"></p>
+<p>分布式事务实践 解决数据一致性<br>基于微服务架构的分布式系统应用越来越多，而分布式系统下的事务，一直没有一个简单统一的实现方案。本课程从本地事务出发，介绍了分布式系统和Spring cloud框架及其使用，以及分布式事务的几种实现模式。课程中还提供了大量的实例，让同学们在实战过程中，掌握分布式事务实现方式与思路。</p>
+<p>第1章 课程介绍<br>介绍该课程的内容、学习成果、实例，还有学习所需的前提知识。</p>
+<p>1-1 导学-分布式事务实践<br>第2章 事务原则与实现<br>介绍了事务的四大原则，并通过实例介绍数据库实现事务的方法，以及使用JDBC实现事务的方法。</p>
+<a id="more"></a>
+<blockquote class="blockquote-center"><br>请支持原版！课程官方链接：<a href="http://coding.imooc.com/class/237.html" target="_blank" rel="noopener">http://coding.imooc.com/class/237.html</a></blockquote><br>
+
+<p>2-1 事务原则与实现：事务<br>2-2 事务原则与实现：SQL事务<br>2-3 事务原则与实现：JDBC事务（上）<br>2-4 事务原则与实现：JDBC事务（下）<br>第3章 使用Docker搭建环境<br>介绍了Docker的使用，通过Docker将课程环境搭建起来，方便那些不了解这些技术的同学之后的学习。</p>
+<p>3-1 docker简介与mysql安装-1<br>3-2 docker简介与mysql安装-2<br>3-3 SpringBoot基础<br>第4章 Spring事务机制<br>介绍了Spring的事务机制、事物抽象、内部事务和外部事物，以及常用的几种事务管理的实现，包括DataSource、JPA、JMS、JTA都通过实例进行说明。还有XA以及两阶段提交，并通过实例演示了使用JTA，通过两阶段提交，实现多数据源的事务实现。…</p>
+<p>4-1 Spring事务机制<em>基本接口<br>4-2 Spring事务机制</em>实现<br>4-3 Jpa事务实例<br>4-4 Jms事务原理<br>4-5 Jms-session事务实例<br>4-6 Jms-spring事务实例<br>4-7 外部事务与JTA<br>4-8 JTA单数据源事务实例<br>4-9 JTA多数据源事务实例<br>第5章 分布式系统<br>介绍了分布式系统的定义、实现原则和几种形式，详细介绍了微服务架构的分布式系统，并使用Spring Cloud框架演示了一个完整的微服务系统的实现过程。</p>
+<p>5-1 CAP原则和BASE理论简介<br>5-2 分布式系统综述<br>5-3 SpringCloud微服务架构<br>5-4 实现registry<br>5-5 实现proxy<br>5-6 user服务<br>5-7 order服务<br>5-8 添加hystrix<br>5-9 使用feign<br>5-10 优化服务间调用<br>第6章 分布式事务实现，模式和技术<br>介绍分布式事务的定义、原则和实现原则，介绍使用Spring框架实现分布式事务的几种方式，包括使用JTA、Spring事务同步、链式事务等，并通过实战介绍其实现。除此以外还介绍了一些分布式事务相关的技术，如幂等性、全局一致性ID、分布式对象等。…</p>
+<p>6-1 分布式事务介绍<br>6-2 spring分布式事务实现<em>使用JTA<br>6-3 spring分布式事务实现</em>不使用JTA<br>6-4 实例1-DB-DB<br>6-5 实例1-DB-DB.链式事务管理器<br>6-6 实例2-JPA-DB.链式事务管理器<br>6-7 实例3-JMS-DB.最大努力一次提交<br>6-8 分布式事务实现模式与技术<br>6-9 全局一致性ID和分布式对象_<br>第7章 分布式事务实现：消息驱动模式<br>详细介绍3种分布式事务实现的模式中的消息驱动模式并通过完整实例演示了消息驱动模式下，实现微服务系统的分布式事务的完整过程。</p>
+<p>7-1 分布式事务实现：消息驱动模式<br>7-2 消息驱动模式实例：设计<br>7-3 消息驱动模式实例：创建ticket服务<br>7-4 消息驱动模式实例：实现基本ticket功能<br>7-5 消息驱动模式实例：锁票1<br>7-6 消息驱动模式实例：锁票2<br>7-7 按消息流程实现业务<br>7-8 支付过程<br>7-9 票转移<br>7-10 错误处理：锁票失败<br>7-11 错误处理：扣费失败<br>7-12 并发时的错误处理<br>第8章 分布式事务实现：Event Sourcing模式<br>详细介绍了分布式事务实现的模式中的Event Sourcing模式，并通过完整实例演示了Event Sourcing模式下，实现微服务系统的分布式事务的完整过程。</p>
+<p>8-1 事件溯源模式介绍<br>8-2 事件溯源模式与Axon框架-1<br>8-3 事件溯源模式与Axon框架-2<br>8-4 使用Axon框架的设计过程介绍<br>8-5 Axon框架-实例（上）<br>8-6 Axon框架-实例（下）<br>8-7 Saga模式和Axon Saga<br>8-8 聚合命令事件（上）<br>8-9 聚合命令事件（下）<br>8-10 实现saga<br>8-11 实现query<br>8-12 处理超时<br>8-13 并发测试<br>8-14 cloud-axon实例：分布式处理介绍<br>8-15 事件设计<br>8-16 事件与队列设计<br>8-17 实现User服务<br>8-18 实现Ticket服务<br>8-19 实现Order服务<br>8-20 实现读写分离<br>8-21 测试与并发<br>8-22 事件溯源模式与Axon框架总结<br>第9章 TCC模式和微服务架构的设计模式<br>本章介绍TCC模式，也对微服务系统的几种设计模式，以及这些模式下分布式事务的实现模式进行了介绍。</p>
+<p>9-1 TCC模式介绍<br>9-2 微服务架构的设计模式<br>第10章 课程总结<br>课程总结</p>
+<p>10-1 分布式事务实现-总结<br>本课程已完结</p>
+<blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>
+
+<p><div id="jspay" sid="gZb3YyE2635" style="display:none">gZb3YyE2635</div></p>
+<script type="text/javascript" src="https://www.fageka.com/j.js"></script>
+<script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>
+</div></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">巨菜站</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://www.jucaizhan.com/慕课网/031_慕课网_《分布式事务实践_解决数据一致性》_2018/">https://www.jucaizhan.com/慕课网/031_慕课网_《分布式事务实践_解决数据一致性》_2018/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://www.jucaizhan.com" target="_blank">巨菜站</a>！</span></div></div><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/后端开发/">后端开发</a><a class="post-meta__tags" href="/tags/Java/">Java</a><a class="post-meta__tags" href="/tags/慕课网/">慕课网</a><a class="post-meta__tags" href="/tags/2018/">2018</a><a class="post-meta__tags" href="/tags/分布式/">分布式</a><a class="post-meta__tags" href="/tags/分布式事务/">分布式事务</a></div><nav id="pagination"><div class="prev-post pull-left"><a href="/慕课网/023_慕课网_《ElasticStack从入门到实践》_24课_2018/"><i class="fa fa-chevron-left">  </i><span>ElasticStack从入门到实践</span></a></div><div class="next-post pull-right"><a href="/慕课网/021_慕课网_《Java并发编程与高并发解决方案》_19课_2018/"><span>Java并发编程入门与高并发面试</span><i class="fa fa-chevron-right"></i></a></div></nav><div id="gitalk-container"></div><script>var gitalk = new Gitalk({
+  clientID: '58c55a7244de19e196b7',
+  clientSecret: '36193ea6255115da581cda3f178fa9dcccfe7873',
+  repo: 'blog',
+  owner: 'longbaobao',
+  admin: 'longbaobao',
+  id: md5(decodeURI(location.pathname)),
+  distractionFreeMode: 'true',
+})
+gitalk.render('gitalk-container')</script></div></div><footer><div class="layout" id="footer"><div class="copyright">&copy;2018 - 2019 By 巨菜站</div><div class="icp"><a><span>冀ICP备16022574号-1</span></a></div><div class="busuanzi"><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_page_pv"><i class="fa fa-file-o"></i><span id="busuanzi_value_page_pv"></span><span></span></span></div></div></footer><i class="fa fa-arrow-up" id="go-up" aria-hidden="true"></i><script src="/js/third-party/anime.min.js"></script><script src="/js/third-party/jquery.min.js"></script><script src="/js/third-party/jquery.fancybox.min.js"></script><script src="/js/third-party/velocity.min.js"></script><script src="/js/third-party/velocity.ui.min.js"></script><script src="/js/utils.js?version=1.5.3"></script><script src="/js/fancybox.js?version=1.5.3"></script><script src="/js/sidebar.js?version=1.5.3"></script><script src="/js/copy.js?version=1.5.3"></script><script src="/js/fireworks.js?version=1.5.3"></script><script src="/js/transition.js?version=1.5.3"></script><script src="/js/scroll.js?version=1.5.3"></script><script src="/js/head.js?version=1.5.3"></script></body></html>

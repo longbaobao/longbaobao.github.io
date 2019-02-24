@@ -1,0 +1,76 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="description" content="基于案例学习SQL优化"><meta name="keywords" content="炼数成金,2014,数据库,MySQL,SQL优化"><meta name="author" content="巨菜站,undefined"><meta name="copyright" content="巨菜站"><link rel="alternate" href="/atom.xml" title="巨菜站" type="application/atom+xml"><meta name="description" content="&lt;p&gt;课程简介：&lt;/p&gt;
+&lt;p&gt;当今这个时代，你可以很方便的通过官方文档、搜索引擎学习到各种SQL优化的相关技术。甚至可以说，没有什么IT技术知识是你通过网络获取不到的。可惜的是，知识点终归还只是一个”点”字，不是”线”更没有形成”面”。也许很多人已经体会到自己在经历相关学习后仍遭遇到不少尴尬：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. 你根据业务理解和所学SQL开发知识，编写出一条SQL，却发现这条SQL最终成了生产系统的性能杀手!终于有一天，你让这条SQL快了，不过你却让系统慢了。
+2. 你学习了具体某些知识点的原理（比如体系架构、索引结构等），却不明白这个原理对我们具体的工作有何帮助（比如无法根据索引知识快速定位、解决各种常见的SQL性能瓶颈)。
+3. 你知道应用某些优化SQL性能的技巧（比如压缩、并行、分区）的命令，却不明白哪些场合下不能使用它们（无法准确把握业务场景，你执行的脚本将极可能带来一场性能灾难!）。
+4. 你无法将你所学的SQL知识由点到线，由线到面的贯穿起来。因此最终你无法解决工作中出现的综合问题（怎么快速定位问题？如何抓住主要矛盾？)。
+总之，解决问题靠的是&amp;quot;面&amp;quot;，需要依赖清晰的思路、良好的方法和正确的意识，更需要依赖平时工作中不断总结所形成的丰富经验。而这些是很难直接从知识文档中获取的!当然，随着你在工作中不懈的努力钻研与归纳总结，在经历各种风雨后，你会成长起来的!只是这对于大多数人来说，时间及失败成本太昂贵，本课程是基于案例的SQL优化课程，不仅可以让你留下极其深刻的印象，让你避免犯同样错误，让你也成为案例中的英雄，更能缩短你自己摸爬滚打的时间!
+老师不能保证这个课程一定能让你成为一个SQL优化高手，但是却可以让你在短时间内成为一个&amp;quot;有故事的人&amp;quot;;可以让你在将来工作中对自己充满信心;可以让你今后解决问题有章可循;可以让你明白只要脚踏实地，其实SQL优化并不神秘;可以让你今后的自我学习中学会总结!老师能保证的，就是这些!为此本课程精心准备了各种案例、描绘了各种场景、构造了各种脚本、勾画了各幅知识脑图。希望老师呕心沥血的付出，能得到大家的珍惜，谢谢大家!
+让我们一起，在这高速发展的时代，在这些精心准备的案例中，使大家的SQL优化学习少走弯路,快速成长。让我们一起加油，收获，不止SQL优化!
+&lt;/code&gt;&lt;/pre&gt;"><title>基于案例学习SQL优化 | 巨菜站_炼数成金,2014,数据库,MySQL,SQL优化</title><link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css?version=1.5.3"><link rel="dns-prefetch" href="https://cdn.staticfile.org"><link rel="dns-prefetch" href="https://cdn.bootcss.com"><link rel="dns-prefetch" href="https://creativecommons.org"><link rel="stylesheet" type="text/css" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script><script src="https://unpkg.com/blueimp-md5@latest/js/md5.min.js"></script><link rel="dns-prefetch" href="https://hm.baidu.com"><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3f2224e84fb41c8beaba0224b5142794";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();</script><link rel="dns-prefetch" href="https://www.google-analytics.com"><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-121920923-2', 'auto');
+ga('send', 'pageview');</script><script>(function(m, ei, q, i, a, j, s) {
+    m[i] = m[i] || function() {
+        (m[i].a = m[i].a || []).push(arguments)
+    };
+    j = ei.createElement(q),
+        s = ei.getElementsByTagName(q)[0];
+    j.async = true;
+    j.charset = 'UTF-8';
+    j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+    s.parentNode.insertBefore(j, s);
+})(window, document, 'script', '_MEIQIA');
+_MEIQIA('entId', 124369);</script><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  localSearch: {"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}"},"path":"search.xml"}
+} </script></head><body><canvas class="fireworks"></canvas><i class="fa fa-arrow-right" id="toggle-sidebar" aria-hidden="true"></i><div id="sidebar"><div class="toggle-sidebar-info text-center"><span data-toggle="切换文章详情">切换站点概览</span><hr></div><div class="sidebar-toc"><div class="sidebar-toc__title">目录</div><div class="sidebar-toc__progress"><span class="progress-notice">你已经读了</span><span class="progress-num">0</span><span class="progress-percentage">%</span><div class="sidebar-toc__progress-bar"></div></div><div class="sidebar-toc__content"></div></div><div class="author-info hide"><div class="author-info__avatar text-center"><img src="http://blog.fueson.top/avatar/me.jpg?imageMogr2/thumbnail/200x200&gt;/gravity/Center/crop/200x200/format/jpg/blur/1x0/quality/75|imageslim"></div><div class="author-info__name text-center">巨菜站</div><div class="author-info__description text-center">资源下载，百度资源，教育资源</div><hr><div class="author-info-articles"><a class="author-info-articles__archives article-meta" href="/archives"><span class="pull-left">文章</span><span class="pull-right">119</span></a><a class="author-info-articles__tags article-meta" href="/tags"><span class="pull-left">标签</span><span class="pull-right">157</span></a><a class="author-info-articles__categories article-meta" href="/categories"><span class="pull-left">分类</span><span class="pull-right">21</span></a></div></div><div class="unit"><div class="heart"><div class="heart-piece-0"></div><div class="heart-piece-1"></div><div class="heart-piece-2"></div><div class="heart-piece-3"></div><div class="heart-piece-4"></div><div class="heart-piece-5"></div><div class="heart-piece-6"></div><div class="heart-piece-7"></div><div class="heart-piece-8"></div></div><p class="anime-title"><a href="https://www.jucaizhan.com/" target="_blank">感谢访问本站 ^_^</a></p><div class="email-title"><i class="fa fa-telegram" style="margin-right: 14px"></i><a href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&amp;email=908934816@qq.com" target="_blank">失效连接提交</a></div></div></div><div id="content-outer"><div id="top-container" style="background-image: url(http://blog.fueson.top/bg/saber.jpg)"><div id="page-header"><span class="pull-left"> <a id="site-name" href="/">巨菜站</a></span><i class="fa fa-bars toggle-menu pull-right" aria-hidden="true"></i><span class="pull-right menus"><a class="site-page" href="/">主页</a><a class="site-page" href="/archives">文章总览</a><a class="site-page" href="/about">关于我们</a><a class="site-page" href="/categories">分类</a><a class="site-page" href="/tags">标签</a><a class="site-page" href="/gallery">个人相册</a></span></div><div id="post-info"><div id="post-title">基于案例学习SQL优化</div><div id="post-meta"><time class="post-meta__date"><i class="fa fa-calendar" aria-hidden="true"></i> 2018-09-29</time><span class="post-meta__separator">|</span><i class="fa fa-inbox post-meta__icon" aria-hidden="true"></i><a class="post-meta__categories" href="/categories/数据库/">数据库</a><div class="post-meta-wordcount"><span>字数总计: </span><span class="word-count">1,527</span><span class="post-meta__separator">|</span><span>阅读时长: 5 分钟</span></div></div></div></div><div class="layout" id="content-inner"><article id="post"><div id="post-content"><p>课程简介：</p>
+<p>当今这个时代，你可以很方便的通过官方文档、搜索引擎学习到各种SQL优化的相关技术。甚至可以说，没有什么IT技术知识是你通过网络获取不到的。可惜的是，知识点终归还只是一个”点”字，不是”线”更没有形成”面”。也许很多人已经体会到自己在经历相关学习后仍遭遇到不少尴尬：</p>
+<pre><code>1. 你根据业务理解和所学SQL开发知识，编写出一条SQL，却发现这条SQL最终成了生产系统的性能杀手!终于有一天，你让这条SQL快了，不过你却让系统慢了。
+2. 你学习了具体某些知识点的原理（比如体系架构、索引结构等），却不明白这个原理对我们具体的工作有何帮助（比如无法根据索引知识快速定位、解决各种常见的SQL性能瓶颈)。
+3. 你知道应用某些优化SQL性能的技巧（比如压缩、并行、分区）的命令，却不明白哪些场合下不能使用它们（无法准确把握业务场景，你执行的脚本将极可能带来一场性能灾难!）。
+4. 你无法将你所学的SQL知识由点到线，由线到面的贯穿起来。因此最终你无法解决工作中出现的综合问题（怎么快速定位问题？如何抓住主要矛盾？)。
+总之，解决问题靠的是&quot;面&quot;，需要依赖清晰的思路、良好的方法和正确的意识，更需要依赖平时工作中不断总结所形成的丰富经验。而这些是很难直接从知识文档中获取的!当然，随着你在工作中不懈的努力钻研与归纳总结，在经历各种风雨后，你会成长起来的!只是这对于大多数人来说，时间及失败成本太昂贵，本课程是基于案例的SQL优化课程，不仅可以让你留下极其深刻的印象，让你避免犯同样错误，让你也成为案例中的英雄，更能缩短你自己摸爬滚打的时间!
+老师不能保证这个课程一定能让你成为一个SQL优化高手，但是却可以让你在短时间内成为一个&quot;有故事的人&quot;;可以让你在将来工作中对自己充满信心;可以让你今后解决问题有章可循;可以让你明白只要脚踏实地，其实SQL优化并不神秘;可以让你今后的自我学习中学会总结!老师能保证的，就是这些!为此本课程精心准备了各种案例、描绘了各种场景、构造了各种脚本、勾画了各幅知识脑图。希望老师呕心沥血的付出，能得到大家的珍惜，谢谢大家!
+让我们一起，在这高速发展的时代，在这些精心准备的案例中，使大家的SQL优化学习少走弯路,快速成长。让我们一起加油，收获，不止SQL优化!
+</code></pre><a id="more"></a>
+<blockquote class="blockquote-center"><br>请支持原版！课程官方链接：<a href="http://edu.dataguru.cn/article-3574-1.html" target="_blank" rel="noopener">http://edu.dataguru.cn/article-3574-1.html</a></blockquote><br>
+
+
+<p>《基于案例学习SQL优化》课程大纲<br> 0.课程综述<br>第1课  从案例中推导SQL调优的总体思路与误区            </p>
+<p>1.基础知识<br>1.1 体系知识<br>第2课  从案例中分析体系结构如何左右SQL性能<br>第3课  从案例中体验逻辑结构如何影响SQL优化<br>第4课  从案例中探寻表设计对SQL调优的重要性<br>第5课  从案例中明白索引是如何让SQL运行飞快<br>第6课  从案例中体会函数及位图索引与SQL调优<br>第7课  从案例中洞察表连接与SQL调优之间关系       </p>
+<p>1.2 SQL知识<br>第8课  从案例中收获SQL改写优化的思路与技巧<br>第9课  从案例中研究该如何应对哭笑不得的SQL</p>
+<p>1.3 工具知识<br>第10课  从案例中理解SQL执行计划好坏与关注点<br>第11课  从案例中弄清如何正确选择SQL性能工具<br>2.场景选择<br>第12课  从案例中感受SQL优化有最合适而无较好<br>3.需求把握<br>第13课  从案例中彻悟把握需求是SQL优化大利器<br>4.延伸扩展<br>第14课  从案例中总结出SQL调优要具备哪些意识<br>5.课程总结<br>第15课  从以上所有案例中理出完整SQL调优思路</p>
+<p>授课时间：<br>本期课程将于3月30日开课，课程预计持续时间大约为17周。</p>
+<p>授课对象：<br>本课程在传授SQL优化知识的同时灌输意识和方法论、用案例剖析的方式深入浅出的进行授课，课程容易理解又比较实用，此外还准备了大量可自我测试的脚本。由于案例本身很生动会给学员留下深刻印象，且学员自己又可试验脚本来体会和感受，所以学习难度得以大幅下降。只要具有一定的SQL基础知识，能编写简单的SQL者即可完全可以听懂。</p>
+<p>预期收获：<br>对Oracle数据库的SQL优化有更深刻理解，能得心应手地解决实际中遇到的SQL性能问题，不会再有无从入手的感觉！</p>
+<p>授课讲师：<br>梁敬彬，ITPUB版主及ITPUB社区专家，福富软件数据库专家，著有《收获，不止Oracle》等畅销数据库技术书籍（本书上市仅2个月不到即完成了3次印刷，合计13000本,在IT书销售中非常出色）。</p>
+<blockquote>
+<p>链接：<a href="https://pan.baidu.com/s/1rdMYKQJK_JeRIVHNz1d18w" target="_blank" rel="noopener">https://pan.baidu.com/s/1rdMYKQJK_JeRIVHNz1d18w</a> 提取码：eaqt</p>
+</blockquote>
+<blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>
+</div></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">巨菜站</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://www.jucaizhan.com/炼数成金/024_炼数成金_《基于案例学习SQL优化》_2014/">https://www.jucaizhan.com/炼数成金/024_炼数成金_《基于案例学习SQL优化》_2014/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://www.jucaizhan.com" target="_blank">巨菜站</a>！</span></div></div><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/炼数成金/">炼数成金</a><a class="post-meta__tags" href="/tags/2014/">2014</a><a class="post-meta__tags" href="/tags/数据库/">数据库</a><a class="post-meta__tags" href="/tags/MySQL/">MySQL</a><a class="post-meta__tags" href="/tags/SQL优化/">SQL优化</a></div><nav id="pagination"><div class="prev-post pull-left"><a href="/炼数成金/028_炼数成金《大数据的矩阵计算基础》_2014/"><i class="fa fa-chevron-left">  </i><span>大数据的矩阵计算基础</span></a></div><div class="next-post pull-right"><a href="/炼数成金/023_炼数成金_《大数据的Java基础》_2014/"><span>大数据的Java基础</span><i class="fa fa-chevron-right"></i></a></div></nav><div id="gitalk-container"></div><script>var gitalk = new Gitalk({
+  clientID: '58c55a7244de19e196b7',
+  clientSecret: '36193ea6255115da581cda3f178fa9dcccfe7873',
+  repo: 'blog',
+  owner: 'longbaobao',
+  admin: 'longbaobao',
+  id: md5(decodeURI(location.pathname)),
+  distractionFreeMode: 'true',
+})
+gitalk.render('gitalk-container')</script></div></div><footer><div class="layout" id="footer"><div class="copyright">&copy;2018 - 2019 By 巨菜站</div><div class="icp"><a><span>冀ICP备16022574号-1</span></a></div><div class="busuanzi"><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_page_pv"><i class="fa fa-file-o"></i><span id="busuanzi_value_page_pv"></span><span></span></span></div></div></footer><i class="fa fa-arrow-up" id="go-up" aria-hidden="true"></i><script src="/js/third-party/anime.min.js"></script><script src="/js/third-party/jquery.min.js"></script><script src="/js/third-party/jquery.fancybox.min.js"></script><script src="/js/third-party/velocity.min.js"></script><script src="/js/third-party/velocity.ui.min.js"></script><script src="/js/utils.js?version=1.5.3"></script><script src="/js/fancybox.js?version=1.5.3"></script><script src="/js/sidebar.js?version=1.5.3"></script><script src="/js/copy.js?version=1.5.3"></script><script src="/js/fireworks.js?version=1.5.3"></script><script src="/js/transition.js?version=1.5.3"></script><script src="/js/scroll.js?version=1.5.3"></script><script src="/js/head.js?version=1.5.3"></script></body></html>
