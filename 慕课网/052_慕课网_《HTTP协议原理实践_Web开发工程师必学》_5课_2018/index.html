@@ -1,0 +1,56 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="description" content="HTTP协议原理+实践 Web开发工程师必学"><meta name="keywords" content="后端开发,慕课网,2018,HTTP协议原理"><meta name="author" content="巨菜站,undefined"><meta name="copyright" content="巨菜站"><link rel="alternate" href="/atom.xml" title="巨菜站" type="application/atom+xml"><meta name="description" content="&lt;p&gt;&lt;img src=&quot;//szimg.mukewang.com/5b0cb5df00016e5405400300-360-202.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;HTTP协议原理+实践 Web开发工程师必学&lt;br&gt;掌握HTTP协议是Web开发最基础的一环，然而很多同学对于HTTP协议基本不了解，或者只了解其中狭小的一部分，导致很多同学无法快速成长，陷入重复coding的地狱。这次课程会从原理到实践，用完整的例子展示HTTP协议的各个环节，让这些同学突破困境，快速成长。&lt;/p&gt;"><title>HTTP协议原理+实践 Web开发工程师必学 | 巨菜站_后端开发,慕课网,2018,HTTP协议原理</title><link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css?version=1.5.3"><link rel="dns-prefetch" href="https://cdn.staticfile.org"><link rel="dns-prefetch" href="https://cdn.bootcss.com"><link rel="dns-prefetch" href="https://creativecommons.org"><link rel="stylesheet" type="text/css" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script><script src="https://unpkg.com/blueimp-md5@latest/js/md5.min.js"></script><link rel="dns-prefetch" href="https://hm.baidu.com"><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3f2224e84fb41c8beaba0224b5142794";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();</script><link rel="dns-prefetch" href="https://www.google-analytics.com"><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-121920923-2', 'auto');
+ga('send', 'pageview');</script><script>(function(m, ei, q, i, a, j, s) {
+    m[i] = m[i] || function() {
+        (m[i].a = m[i].a || []).push(arguments)
+    };
+    j = ei.createElement(q),
+        s = ei.getElementsByTagName(q)[0];
+    j.async = true;
+    j.charset = 'UTF-8';
+    j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+    s.parentNode.insertBefore(j, s);
+})(window, document, 'script', '_MEIQIA');
+_MEIQIA('entId', 124369);</script><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  localSearch: {"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}"},"path":"search.xml"}
+} </script></head><body><canvas class="fireworks"></canvas><i class="fa fa-arrow-right" id="toggle-sidebar" aria-hidden="true"></i><div id="sidebar"><div class="toggle-sidebar-info text-center"><span data-toggle="切换文章详情">切换站点概览</span><hr></div><div class="sidebar-toc"><div class="sidebar-toc__title">目录</div><div class="sidebar-toc__progress"><span class="progress-notice">你已经读了</span><span class="progress-num">0</span><span class="progress-percentage">%</span><div class="sidebar-toc__progress-bar"></div></div><div class="sidebar-toc__content"></div></div><div class="author-info hide"><div class="author-info__avatar text-center"><img src="http://blog.fueson.top/avatar/me.jpg?imageMogr2/thumbnail/200x200&gt;/gravity/Center/crop/200x200/format/jpg/blur/1x0/quality/75|imageslim"></div><div class="author-info__name text-center">巨菜站</div><div class="author-info__description text-center">资源下载，百度资源，教育资源</div><hr><div class="author-info-articles"><a class="author-info-articles__archives article-meta" href="/archives"><span class="pull-left">文章</span><span class="pull-right">166</span></a><a class="author-info-articles__tags article-meta" href="/tags"><span class="pull-left">标签</span><span class="pull-right">208</span></a><a class="author-info-articles__categories article-meta" href="/categories"><span class="pull-left">分类</span><span class="pull-right">38</span></a></div></div><div class="unit"><div class="heart"><div class="heart-piece-0"></div><div class="heart-piece-1"></div><div class="heart-piece-2"></div><div class="heart-piece-3"></div><div class="heart-piece-4"></div><div class="heart-piece-5"></div><div class="heart-piece-6"></div><div class="heart-piece-7"></div><div class="heart-piece-8"></div></div><p class="anime-title"><a href="https://www.jucaizhan.com/" target="_blank">感谢访问本站 ^_^</a></p><div class="email-title"><i class="fa fa-telegram" style="margin-right: 14px"></i><a href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&amp;email=908934816@qq.com" target="_blank">失效连接提交</a></div></div></div><div id="content-outer"><div id="top-container" style="background-image: url(http://blog.fueson.top/bg/saber.jpg)"><div id="page-header"><span class="pull-left"> <a id="site-name" href="/">巨菜站</a></span><i class="fa fa-bars toggle-menu pull-right" aria-hidden="true"></i><span class="pull-right menus"><a class="site-page" href="/">主页</a><a class="site-page" href="/archives">文章总览</a><a class="site-page" href="/about">关于我们</a><a class="site-page" href="/categories">分类</a><a class="site-page" href="/tags">标签</a><a class="site-page" href="/gallery">个人相册</a></span></div><div id="post-info"><div id="post-title">HTTP协议原理+实践 Web开发工程师必学</div><div id="post-meta"><time class="post-meta__date"><i class="fa fa-calendar" aria-hidden="true"></i> 2019-02-25</time><span class="post-meta__separator">|</span><i class="fa fa-inbox post-meta__icon" aria-hidden="true"></i><a class="post-meta__categories" href="/categories/后端开发/">后端开发</a><div class="post-meta-wordcount"><span>字数总计: </span><span class="word-count">789</span><span class="post-meta__separator">|</span><span>阅读时长: 3 分钟</span></div></div></div></div><div class="layout" id="content-inner"><article id="post"><div id="post-content"><p><img src="//szimg.mukewang.com/5b0cb5df00016e5405400300-360-202.jpg" alt="image"></p>
+<p>HTTP协议原理+实践 Web开发工程师必学<br>掌握HTTP协议是Web开发最基础的一环，然而很多同学对于HTTP协议基本不了解，或者只了解其中狭小的一部分，导致很多同学无法快速成长，陷入重复coding的地狱。这次课程会从原理到实践，用完整的例子展示HTTP协议的各个环节，让这些同学突破困境，快速成长。</p>
+<a id="more"></a>
+<blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="https://coding.imooc.com/class/225.html" target="_blank" rel="noopener">https://coding.imooc.com/class/225.html</a></blockquote><br>
+
+<p>第1章 课程导学<br>对课程整体进行介绍，并且说明HTTP协议的重要性，以及学习的必要性。</p>
+<p>1-1 导学<br>1-2 内容介绍<br>第2章 HTTP协议基础及发展历史<br>本章主要介绍什么是HTTP协议，HTTP协议的发展历史，以及HTTP协议的底层–网络分层协议。在本章中你将学习到HTTP协议的基础内容，并理解为什么会产生HTTP协议，以及他的优劣势。</p>
+<p>2-1 5层网络模型介绍<br>2-2 HTTP协议的发展历史<br>2-3 HTTP的三次握手<br>2-4 URI-URL和URN<br>2-5 HTTP报文格式<br>2-6 创建一个最简单的web服务<br>第3章 HTTP各种特性总览<br>本章主要讲解HTTP协议中各种头信息的作用，包括但不限于最重要的几个部分：缓存、cookie、CORS跨域、长连接等，课程中会配合实际的例子展示这些HTTP头是如何发挥作用的，并且解决了什么问题。</p>
+<p>3-1 认识HTTP客户端<br>3-2 CORS跨域请求的限制与解决<br>3-3 CORS跨域限制以及预请求验证<br>3-4 缓存头Cache-Control的含义和使用<br>3-5 缓存验证Last-Modified和Etag的使用<br>3-6 cookie和session<br>3-7 HTTP长连接<br>3-8 数据协商<br>3-9 Redirect<br>3-10 CSP<br>第4章 Nginx代理以及面向未来的HTTP<br>本章主要实战Nginx配置各种面向未来的HTTP服务，首先会介绍Nginx的安装和基本配置，其次是配置Nginx的缓存功能来展示给大家看代理缓存相较于客户端缓存的好处。最后这章中我们还讲解来HTTPS协议以及HTTP2，他们各是什么，有什么优点。…</p>
+<p>4-1 Nginx安装和基础代理配置<br>4-2 Nginx代理配置和代理缓存的用处<br>4-3 HTTPS解析<br>4-4 使用Nginx部署HTTPS服务<br>4-5 HTTP2的优势和Nginx配置HTTP2的简单使用<br>第5章 课程总结<br>对课程整体再进行一个回顾</p>
+<p>5-1 课程总结<br>本课程已完结</p>
+<div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>      <span style="color: red;display: block;text-align: center;"><strong>内容打赏后可见</strong></span><br>      <span style="color:red;display: block;text-align: center;font-size: 20px;"><a href="http://t.cn/EfoZHq1" target="_blank" rel="noopener">打赏</a></span><br>    </div><br></div>
+
+</div></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">巨菜站</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://www.jucaizhan.com/慕课网/052_慕课网_《HTTP协议原理实践_Web开发工程师必学》_5课_2018/">https://www.jucaizhan.com/慕课网/052_慕课网_《HTTP协议原理实践_Web开发工程师必学》_5课_2018/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://www.jucaizhan.com" target="_blank">巨菜站</a>！</span></div></div><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/后端开发/">后端开发</a><a class="post-meta__tags" href="/tags/慕课网/">慕课网</a><a class="post-meta__tags" href="/tags/2018/">2018</a><a class="post-meta__tags" href="/tags/HTTP协议原理/">HTTP协议原理</a></div><nav id="pagination"><div class="prev-post pull-left"><a href="/慕课网/053_慕课网_《全网首发mpvue课程小程序全栈开发》_12课_2018/"><i class="fa fa-chevron-left">  </i><span>全网首发mpvue课程小程序全栈开发</span></a></div><div class="next-post pull-right"><a href="/慕课网/051_慕课网_《揭秘一线互联网企业前端JavaScript高级面试》_9课_2018/"><span>揭秘一线互联网企业 前端JavaScript高级面试</span><i class="fa fa-chevron-right"></i></a></div></nav><div id="gitalk-container"></div><script>var gitalk = new Gitalk({
+  clientID: '58c55a7244de19e196b7',
+  clientSecret: '36193ea6255115da581cda3f178fa9dcccfe7873',
+  repo: 'blog',
+  owner: 'longbaobao',
+  admin: 'longbaobao',
+  id: md5(decodeURI(location.pathname)),
+  distractionFreeMode: 'true',
+})
+gitalk.render('gitalk-container')</script></div></div><footer><div class="layout" id="footer"><div class="copyright">&copy;2018 - 2019 By 巨菜站</div><div class="icp"><a><span>冀ICP备16022574号-1</span></a></div><div class="busuanzi"><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_page_pv"><i class="fa fa-file-o"></i><span id="busuanzi_value_page_pv"></span><span></span></span></div></div></footer><i class="fa fa-arrow-up" id="go-up" aria-hidden="true"></i><script src="/js/third-party/anime.min.js"></script><script src="/js/third-party/jquery.min.js"></script><script src="/js/third-party/jquery.fancybox.min.js"></script><script src="/js/third-party/velocity.min.js"></script><script src="/js/third-party/velocity.ui.min.js"></script><script src="/js/utils.js?version=1.5.3"></script><script src="/js/fancybox.js?version=1.5.3"></script><script src="/js/sidebar.js?version=1.5.3"></script><script src="/js/copy.js?version=1.5.3"></script><script src="/js/fireworks.js?version=1.5.3"></script><script src="/js/transition.js?version=1.5.3"></script><script src="/js/scroll.js?version=1.5.3"></script><script src="/js/head.js?version=1.5.3"></script></body></html>
