@@ -1,3 +1,7 @@
+https://www.jucaizhan.com/腾讯课堂/腾讯课堂《Java架构班之BATJ企业面试课》2019/
+https://www.jucaizhan.com/2019-07-01/柠檬班《JMeter性能测试》2019/
+https://www.jucaizhan.com/2019-07-01/易锦教育《安卓逆向第4期》2019/
+https://www.jucaizhan.com/2019-07-01/小迪安全《2018小迪渗透专题培训》2019/
 https://www.jucaizhan.com/千峰教育/千锋教育《Java微服务架构(SpringBoot+SpringCloud)（156集）》2019/
 https://www.jucaizhan.com/网易云课堂/网易云课堂《跟简七学理财》2018/
 https://www.jucaizhan.com/腾讯课堂/撩课学院《零基础入门学习Web开发》2019/
@@ -29,10 +33,10 @@ https://www.jucaizhan.com/2019-06-29/宁浩网node.js视频/
 https://www.jucaizhan.com/2019-06-29/大数据协作框架/
 https://www.jucaizhan.com/2019-06-29/尚硅谷Android项目之_硅谷商城新/
 https://www.jucaizhan.com/2019-06-29/prometheus企业监控系统视频 (下) /
-https://www.jucaizhan.com/2019-06-29/prometheus企业监控/
 https://www.jucaizhan.com/2019-06-29/prometheus企业监控系统视频 (上)/
-https://www.jucaizhan.com/2019-06-29/用微信小程序工具轻松设计制作WebApp/
+https://www.jucaizhan.com/2019-06-29/prometheus企业监控/
 https://www.jucaizhan.com/2019-06-29/深度学习与PyTorch入门实战/
+https://www.jucaizhan.com/2019-06-29/用微信小程序工具轻松设计制作WebApp/
 https://www.jucaizhan.com/2019-06-29/产品经理视频课程/
 https://www.jucaizhan.com/2019-06-29/分布式数据库HBase/
 https://www.jucaizhan.com/2019-06-29/董老师Python教学视频/
@@ -40,8 +44,8 @@ https://www.jucaizhan.com/2019-06-29/Storm流计算之项目篇/
 https://www.jucaizhan.com/2019-06-29/基于Springboot的Thymeleaf精讲/
 https://www.jucaizhan.com/2019-06-29/Spark从入门到精通/
 https://www.jucaizhan.com/2019-06-29/Storm流计算从入门到精通之技术篇/
-https://www.jucaizhan.com/2019-06-29/大数据分析实战视频/
 https://www.jucaizhan.com/2019-06-29/大数据仓库Hive/
+https://www.jucaizhan.com/2019-06-29/大数据分析实战视频/
 https://www.jucaizhan.com/2019-06-29/尚学堂GO语言全套课程/
 https://www.jucaizhan.com/2019-06-29/美感培养，数据可视化专题强化/
 https://www.jucaizhan.com/2019-06-29/2019最新python全栈21期/
@@ -87,14 +91,10 @@ https://www.jucaizhan.com/慕课网/043_慕课网_《Docker+Kubernetes(k8s)微�
 https://www.jucaizhan.com/慕课网/042_慕课网_《系统学习Docker 践行DevOps理念》_12课_2018/
 https://www.jucaizhan.com/慕课网/041_慕课网_《Docker环境下的前后端分离项目部署与运维》_9课_2018/
 https://www.jucaizhan.com/慕课网/039_慕课网_《Python3数据分析与挖掘建模实战》_8课_2017/
-https://www.jucaizhan.com/慕课网/038_慕课网_《Python3数据科学入门与实战》_8课_2018/
 https://www.jucaizhan.com/慕课网/037_慕课网_《Java读源码之Netty深入剖析》_13课_2018/
+https://www.jucaizhan.com/慕课网/038_慕课网_《Python3数据科学入门与实战》_8课_2018/
 https://www.jucaizhan.com/慕课网/036_慕课网_《Python-Flask构建可扩展的RESTful-API》_9课_2018/
 https://www.jucaizhan.com/慕课网/147_慕课网_《跨平台混编框架-MUI-仿豆瓣电影-APP》_10课_2017/
 https://www.jucaizhan.com/慕课网/148_慕课网_《Spring带前后端开发完整电商平台》_14课_2017/
 https://www.jucaizhan.com/慕课网/149_慕课网_《贯穿全栈React-Native开发App》_11课_2017/
 https://www.jucaizhan.com/慕课网/156_慕课网_《React_Native技术精讲与高质量上线APP开发》_2017/
-https://www.jucaizhan.com/慕课网/155_慕课网_《纯正商业级应用-微信小程序开发实战》_2018/
-https://www.jucaizhan.com/慕课网/154_慕课网_《学习Scala进击大数据Spark生态圈》_10课_2018/
-https://www.jucaizhan.com/慕课网/153_慕课网_《ES6+开发电商网站的账号体系JSSDK》_12课_2017/
-https://www.jucaizhan.com/慕课网/152_慕课网_《最容易上手的Vue2.0入门实战教程》_8课_2017/

@@ -3,6 +3,90 @@
   
     
     <entry>
+      <title>腾讯课堂《Java架构班之BATJ企业面试课》2019</title>
+      <link href="/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82%E3%80%8AJava%E6%9E%B6%E6%9E%84%E7%8F%AD%E4%B9%8BBATJ%E4%BC%81%E4%B8%9A%E9%9D%A2%E8%AF%95%E8%AF%BE%E3%80%8B2019/"/>
+      <url>/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82%E3%80%8AJava%E6%9E%B6%E6%9E%84%E7%8F%AD%E4%B9%8BBATJ%E4%BC%81%E4%B8%9A%E9%9D%A2%E8%AF%95%E8%AF%BE%E3%80%8B2019/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>1、怎样封装让batj企业面试官眼前一亮的简历.mp4<br>2、hashmap底层执行原理.mp4<br>3、hashtable和concurrenthashmap如何实现线程安全？.mp4<br>4、jvm的内存布局和垃圾回收机制.mp4<br>5、类加载机制和双亲委派模型.mp4<br>6、阐述事务的隔离级别和传播属性.mp4<br>7、高并发下，如何做到安全的修改同一行数据.mp4<br>8、a服务调用b服务多接口，响应时间最短方案.mp4<br>9、a系统给b系统转100块钱，如何实现.mp4<br><a id="more"></a><br>10.动态代理的几种实现方式及优缺点.mp4<br>11、多线程下读概率远远大于写概率，如何解决并发问题？.mp4<br>12、按线程池内部机制，当提交新任务时需要考虑写什么？.mp4<br>13、transation标签.mp4<br>14、spring的ioc容器初始化流程.mp4<br>15、springboot启动机制.mp4<br>16、redis高性能的原因大概可以讲一些.mp4<br>17、你是怎么控制缓存的更新.mp4<br>18、浅谈http和https有什么区别.mp4<br>19、cookie与session机制.mp4<br>20、什么是一致性hash算法.mp4<br>21、mq有可能发生重复消费，如何解决？.mp4<br>22、如何做限流策略，令牌桶和漏斗算法的使用场景.mp4</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/17n5EfxlvuZmM2cNmGbSJvw" target="_blank" rel="noopener">https://pan.baidu.com/s/17n5EfxlvuZmM2cNmGbSJvw</a><br>提取码：0wu2<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 后端研发攻城狮-Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> 腾讯课堂 </tag>
+            
+            <tag> 架构师 </tag>
+            
+            <tag> 后端研发攻城狮 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title></title>
+      <link href="/2019-07-01/%E6%9F%A0%E6%AA%AC%E7%8F%AD%E3%80%8AJMeter%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E3%80%8B2019/"/>
+      <url>/2019-07-01/%E6%9F%A0%E6%AA%AC%E7%8F%AD%E3%80%8AJMeter%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E3%80%8B2019/</url>
+      <content type="html"><![CDATA[<hr><p>layout: 测试研发攻城狮<br>title: 柠檬班《JMeter性能测试》2019<br>date: 2019-07-01 21:03:13<br>tags:</p><ul><li>性能测试</li><li>JMeter</li><li>测试研发攻城狮<br>categories:</li><li>测试研发攻城狮<br>keywords: 柠檬班《JMeter性能测试》2019</li></ul><hr><p>『课程目录』:<br>1：Jmeter之安装以及环境变量配置<br>2：Jmeter之HTTP request详解<br>3：Jmeter之http response详解<br>4：Jmeter之http请求常见状态码<br>5：Jmeter工作界面的学习使用<br>6：Jmeter如何发起一个get请求<br>7：Jmeter之发送post请求<br>8：Jmeter之请求参数的类型<br><a id="more"></a><br>9：Jmeter之http请求默认值<br>10：Jmeter之察看结果树<br>11：Jmeter察看结果树之CSS_jQuery_Tester使用<br>12：Jmeter察看结果树之HTML使用<br>13：Jmeter察看结果树之JSON使用<br>14：Jmeter察看结果树之Document使用<br>15：Jmeter察看结果树之Regexp_Tester使用<br>16：Jmeter察看结果树之XPath Tester使用<br>17：Jmeter配置元件之HTTP信息头管理器使用<br>18：Jmeter断言之响应断言<br>19：Jmeter断言之XPath Assertion<br>20：Jmeter结合fiddler查看结果</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1dhwyRMzJcFBwLydP0nyzLA" target="_blank" rel="noopener">https://pan.baidu.com/s/1dhwyRMzJcFBwLydP0nyzLA</a><br>提取码：p2mq<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>易锦教育《安卓逆向第4期》2019</title>
+      <link href="/2019-07-01/%E6%98%93%E9%94%A6%E6%95%99%E8%82%B2%E3%80%8A%E5%AE%89%E5%8D%93%E9%80%86%E5%90%91%E7%AC%AC4%E6%9C%9F%E3%80%8B2019/"/>
+      <url>/2019-07-01/%E6%98%93%E9%94%A6%E6%95%99%E8%82%B2%E3%80%8A%E5%AE%89%E5%8D%93%E9%80%86%E5%90%91%E7%AC%AC4%E6%9C%9F%E3%80%8B2019/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>『课程目录』:<br>(1) 教学内容规划.rar<br>(2) 知识梳理.rar<br>(3) 常用工具安装.rar<br>(4) adb命令与Linux常用命令.rar<br>(5) 登录逻辑分析.rar<br>(6) 分析ELF可执行程序.rar<br>(7) 调式ELF可执行程序.rar<br>(8) ARM汇编与寄存器.rar<br>(9) ARM反汇编速成.rar<br>(10) ARM指令机器码.rar<br>(11) 常用ARM指令集.rar<br>(12) 反编译ELF文件与ObjDump.rar<br>(13) ELF文件解析与readelf.rar<br>(14) ELF文件解析与010Editor.rar<br>(15) 深入分析ELF文件结构.rar<br>(16) IDA静态分析.rar<br>(17) IDA动态调式.rar<br>(18) 简易计算器实现及分析.rar<br>(19) 字符串加密与解密.rar<br>(20) 冒泡排序算法分析.rar<br>(21) 关键android_server文件检测.rar<br>(22) IDA调试端口检测.rar<br>(23) ELF可执行程序加载so库.rar<br>(24) 分析一款App程序.rar<br>(25) 了解Android操行系统.rar<br>(26) DEX解析与dexDump.rar<br>(27) DEX解析与010Editor.rar<br>(29) Androidkiller动态调试smali代码插件.rar<br>(30) Log注入实现免注册.rar<br>(31) AS+smalidea调式smali代码.rar<br>(32) 如何定位关键代码.rar<br>(33) 去除java层签名验证.rar<br>(34) 去除广告和弹窗.rar<br>(35) 强拆切水果内购.rar<br>(36) 了解AndroidNDK.rar<br>(37) 静态注册.rar<br><a id="more"></a><br>(38) 动态注册.rar<br>(39) SO加载分析.rar<br>(40) App保护策略.rar<br>(46) Hook签名验证函数.rar<br>(51) 介绍CydiaSubstrate框架.rar<br>(52) Java层Hook：篡改系统文字颜色.rar<br>(53) Java层Hook：修改方法返回值绕过登录.rar<br>(54) Java层Hook：篡改游戏金币.rar<br>(55) Java层Hook：篡改主机名和端口号.rar<br>(56) Native层Hook.rar<br>(57) ADBI框架.rar<br>(58) ELFARMHOOK框架.rar<br>(59) 内存抠取Dex文件.rar<br>(60) 过反调试技巧.rar<br>(61) C++游戏逆向.rar<br>(62) 动态调试2048纯算法游戏.rar<br>(63) Zygote+Hook使2048游戏秒过关.rar<br>(64) 如何进行手游辅助开发.rar<br>(65) 介绍市面上的外挂是什么.rar<br>(66) 定制化版本的辅助如何开发.rar<br>(67) 主流的游戏分类玩法分析.rar<br>(68) 游戏引擎系统开发的相关理论知识.rar<br>(69) 游戏开发引擎介绍.rar<br>(70) 游戏安全漏洞剖析.rar<br>(71) 游戏漏洞风险性分析.rar<br>(72) 什么是ptrace函数？.rar<br>(73) ptrace超级注入.rar<br>(75) ELF文件注入详解.rar<br>(76) 异常Hook详解.rar<br>(77) inline hook的详解.rar<br>(78) 导入表hook详解.rar<br>(79) 内存模块信息获取.rar<br>(80) 篡改游戏内容.rar<br>(81) 注入式篡改逻辑代码.rar<br>(82) 注入式篡改逻辑代码.rar<br>(83) 分析圈圈外挂实现原理.rar<br>(84) 常见反调试与反-反调试.rar<br>(85) 过模拟器检测.rar<br>(86） 神龙猎手：修改游戏资源文件.rar<br>(87) 星河战神：Unity3D游戏逆向.rar<br>(88) 诸神之剑：修改DLL文件实现内购.rar<br>(89) 星河：修改DLL文件实现无敌、秒杀.rar</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1Vzjd8IqFTf7b15COtMlKeg" target="_blank" rel="noopener">https://pan.baidu.com/s/1Vzjd8IqFTf7b15COtMlKeg</a><br>提取码：0e3b<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 移动研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Android </tag>
+            
+            <tag> 逆向工程 </tag>
+            
+            <tag> 移动研发 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>小迪安全《2018小迪渗透专题培训》2019</title>
+      <link href="/2019-07-01/%E5%B0%8F%E8%BF%AA%E5%AE%89%E5%85%A8%E3%80%8A2018%E5%B0%8F%E8%BF%AA%E6%B8%97%E9%80%8F%E4%B8%93%E9%A2%98%E5%9F%B9%E8%AE%AD%E3%80%8B2019/"/>
+      <url>/2019-07-01/%E5%B0%8F%E8%BF%AA%E5%AE%89%E5%85%A8%E3%80%8A2018%E5%B0%8F%E8%BF%AA%E6%B8%97%E9%80%8F%E4%B8%93%E9%A2%98%E5%9F%B9%E8%AE%AD%E3%80%8B2019/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>├─kali渗透篇<br>│      001-KALI介绍及安装讲解<br>│      003-局域网DNS劫持技术实践<br>│      004-Kali信息收集篇-信息收集技术<br>│      005-Kali信息收集篇-WEB渗透技术（上）<br>│      006-Kali信息收集篇-Nmap高级脚本扫描<br>│      007-Getpass及Hash传递渗透入侵<br>│<br>├─sql注入篇<br>│      001-SQL注入原理及拓展<br>│      002-MYSQL常见注入流程<br>│      003-高权限文件操作注入<br>│      004-MYSQL防护函数及设置注入<br>│      005-高权限跨库注入<br>│      006-请求方式提交及验证注入<br>│      007-请求方式HTTP头注入<br>│      008-参数类型注入<br>│      009-参数加解密注入<br>│      010-盲注攻击-基于时间延迟注入（上）<br>│      011-盲注攻击-基于时间延迟注入（中）<br>│      012-Mysql_insert四种注入<br>│      013-Mysql_update四种注入<br>│      014-Mysql_delete,limit注入<br>│<br><a id="more"></a><br>├─waf突破篇<br>│      001-WAF常见产品及防护讲解<br>│      002-基于安全狗相关防护研究<br>│      003-基于安全狗注入绕过研究<br>│      004-基于安全狗上传绕过研究<br>│      005-基于安全狗扫描绕过研究<br>│      006-基于安全狗后门免杀研究<br>│<br>├─xss跨站篇<br>│      001-XSS漏洞原理及分类讲解<br>│      002-关于XSS漏洞查找及常规利用讲解<br>│      003-关于XSS利用工具使用讲解<br>│      004-Cookie维持权限应用<br>│      005-基于xss的Webshell箱子的攻击实例<br>│<br>├─代码审计篇<br>│      001-初识代码审计<br>│      002-关于sql注入漏洞常规挖掘分析<br>│      003-关于上传漏洞常规挖掘分析(上)<br>│      004-实例某cms注入漏洞挖掘<br>│<br>├─信息探针篇<br>│      001-网站四大套件信息探针<br>│      002-网站程序及CDN识别<br>│      003-关于绕过CDN技术研究<br>│      004-关于端口及目录站点渗透<br>│      005-分域名及手机站点探针分析<br>│      006-目标后台探测<br>│      007-物理路径探测<br>│      008-目标文件目录探测<br>│      009-目标网站弱点功能探测<br>│      010-针对管理员的信息收集及意义<br>│<br>├─其他漏洞篇<br>│      001-漏洞之文件本地包含研究<br>│      002-漏洞之文件远程包含研究<br>│      003-漏洞之目录遍历研究<br>│      004-漏洞之代码执行研究<br>│      005-漏洞之命令执行研究<br>│      006-漏洞之CSRF攻击研究<br>│      007-漏洞之SSRF攻击研究(上)<br>│      008-变量覆盖导致注入讲解<br>│      009-文件下载漏洞实例分析<br>│      010-逻辑越权漏洞讲解及演示(上)<br>│      011-SSRF漏洞应用攻击模拟演示<br>│      012-WEB逻辑漏洞越权（中）<br>│      013-XML&amp;XXE漏洞注入利用方式(上)<br>│      014-XML&amp;XXE漏洞注入利用方式(下)<br>│<br>├─其他补充篇<br>│      001-旁注C段技术分析<br>│      002-关于网站后台查找研究<br>│      003-关于网站漏洞查找研究<br>│      004-PHP.INI安全设置与web安全<br>│      005-黑盒测试模版建站渗透<br>│      006-IIS安全设置与WEB安全防护<br>│<br>├─内网渗透篇<br>│      001-内网渗透常见知识讲解<br>│      002-内网渗透之端口渗透研究<br>│      003-arp欺骗技术分析<br>│      004-arp欺骗实现计算机网站访问截取<br>│      006-1键抓鸡135端口渗透实例(部分)<br>│      007-135端口攻防战<br>│<br>├─基础入门篇<br>│      001-基于网站常规渗透思路讲解<br>│      002-基于ASP环境搭建讲解<br>│      003-基于HTTP数据包学习讲解<br>│      004-google搜索基本符号的意义<br>│      005-site搜索语法的意义<br>│      006-inurl搜索语法及意义<br>│      007-intitle搜索语法及意义<br>│      008-cache缓存搜索<br>│      009-google hack的拓展玩法<br>│<br>├─安全工具篇<br>│      1.利用burp爆破一句话<br>│      2.后台信息泄露助力爆破<br>│      3.后台爆破之突破验证码<br>│      4.Burp爆破之Sniper模式<br>│      5.Burp爆破之Battering ram模式<br>│      6.Burp爆破之Pitchfork模式<br>│      7.Burp爆破之Cluster bomb模式<br>│      Burp爆破之Battering ram模式<br>│      Burp爆破之Cluster bomb模式<br>│      Burp爆破之Pitchfork模式<br>│      Burp爆破之Sniper模式<br>│      利用burp爆破一句话<br>│      后台信息泄露助力爆破<br>│      后台爆破之突破验证码<br>│<br>├─文件上传篇<br>│      001-文件上传格式及解析讲解<br>│      002-文件上传相关验证及突破原理<br>│      003-如何利用截断上传<br>│      004-文件上传MIME验证突破<br>│      005-关于编辑器上传漏洞的利用<br>│      006-.htaccess文件上传漏洞<br>│      007-常规文件上传漏洞验证及拓展<br>│      008-文件解析漏洞详解（上）<br>│      009-文件解析漏洞利用实例（下）<br>│      010-eweb遍历fck_exp利用<br>│<br>├─漏洞利用篇<br>│      001-如何利用IISPUT漏洞获取权限<br>│      002-如何利用HFS漏洞获取权限<br>│      003-IIS短文件漏洞利用讲解<br>│      004-SVN源码泄漏漏洞利用<br>│      005-apache-isapi漏洞利用<br>│      007-MS系统漏洞利用渗透案例<br>│      008-openftpd软件服务漏洞利用案例<br>│      Apache 2.2.14-exp.zip<br>│<br>├─移动渗透篇<br>│      001-移动渗透技术要求及分类<br>│      002-实例某网站移动渗透分析<br>│<br>└─系统提权篇<br>        001-常见网站服务器提权认识<br>        002-溢出漏洞提权命令说明<br>        003-溢出漏洞提权漏洞实例<br>        004-系统提权后续控制分析<br>        005-远程端口难题及远控使用<br>        006-内网端口转发实现登录<br>        007-远控木马突破内网服务器</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1j_0Vnu6TsZn2x1lKYxBw7w" target="_blank" rel="noopener">https://pan.baidu.com/s/1j_0Vnu6TsZn2x1lKYxBw7w</a><br>提取码：kigs<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 运维研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> web渗透 </tag>
+            
+            <tag> 安全 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>千锋教育《Java微服务架构(SpringBoot+SpringCloud)（156集）》2019</title>
       <link href="/%E5%8D%83%E5%B3%B0%E6%95%99%E8%82%B2/%E5%8D%83%E9%94%8B%E6%95%99%E8%82%B2%E3%80%8AJava%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84(SpringBoot+SpringCloud)%EF%BC%88156%E9%9B%86%EF%BC%89%E3%80%8B2019/"/>
       <url>/%E5%8D%83%E5%B3%B0%E6%95%99%E8%82%B2/%E5%8D%83%E9%94%8B%E6%95%99%E8%82%B2%E3%80%8AJava%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84(SpringBoot+SpringCloud)%EF%BC%88156%E9%9B%86%EF%BC%89%E3%80%8B2019/</url>
@@ -19,9 +103,9 @@
             
             <tag> Java </tag>
             
-            <tag> 千峰教育 </tag>
-            
             <tag> 后端研发 </tag>
+            
+            <tag> 千峰教育 </tag>
             
             <tag> 微服务 </tag>
             
@@ -131,9 +215,9 @@
       
         <tags>
             
-            <tag> 腾讯课堂 </tag>
-            
             <tag> 实战 </tag>
+            
+            <tag> 腾讯课堂 </tag>
             
             <tag> 分布式 </tag>
             
@@ -166,11 +250,11 @@
             
             <tag> Hive </tag>
             
+            <tag> 千峰教育 </tag>
+            
             <tag> 数仓 </tag>
             
             <tag> Hadoop </tag>
-            
-            <tag> 千峰教育 </tag>
             
         </tags>
       
@@ -239,13 +323,13 @@
       
         <tags>
             
+            <tag> Java </tag>
+            
             <tag> 综合 </tag>
             
             <tag> 网易云课堂 </tag>
             
             <tag> 网易云课堂.微专业 </tag>
-            
-            <tag> Java </tag>
             
         </tags>
       
@@ -320,11 +404,11 @@
       
         <tags>
             
+            <tag> 爬虫 </tag>
+            
             <tag> 腾讯课堂 </tag>
             
             <tag> 优品课堂 </tag>
-            
-            <tag> 爬虫 </tag>
             
             <tag> Python </tag>
             
@@ -397,9 +481,9 @@
       
         <tags>
             
-            <tag> 综合 </tag>
-            
             <tag> 运维 </tag>
+            
+            <tag> 综合 </tag>
             
             <tag> Linux </tag>
             
@@ -424,11 +508,11 @@
       
         <tags>
             
-            <tag> 千锋教育 </tag>
-            
             <tag> Go </tag>
             
             <tag> 综合 </tag>
+            
+            <tag> 千锋教育 </tag>
             
         </tags>
       
@@ -591,9 +675,9 @@
       
         <tags>
             
-            <tag> 综合 </tag>
-            
             <tag> 运维 </tag>
+            
+            <tag> 综合 </tag>
             
             <tag> Linux </tag>
             
@@ -811,36 +895,9 @@
       
         <tags>
             
-            <tag> 运维 </tag>
-            
             <tag> Java </tag>
             
-            <tag> 应用监控 </tag>
-            
-            <tag> prometheus </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
-      <title>prometheus企业监控</title>
-      <link href="/2019-06-29/prometheus%E4%BC%81%E4%B8%9A%E7%9B%91%E6%8E%A7/"/>
-      <url>/2019-06-29/prometheus%E4%BC%81%E4%B8%9A%E7%9B%91%E6%8E%A7/</url>
-      <content type="html"><![CDATA[<p>『课程目录』:<br>01.监控介绍.mp4<br>02.prometheus的组件介绍.mp4<br>03.prometheus数据及安全模型介绍.mp4<br>04.prometheus在centos7上安装.mp4<br>05.prometheus在docker容器中运行.mp4<br>06.使用Node-exporter监控节点.mp4<br>07.使用容器cAdvisor监控节点.mp4<br>08.label标签的配置使用.mp4<br>09.监控cpu利用率.mp4<br>10.监控内存使用率.mp4<br>11.监控磁盘空间及预算磁盘饱满时间.mp4<br>12.监控服务状态.mp4<br>13.通过文本获取metric.mp4<br>14.通过记录规则持久查询.mp4<br>15.通过grafana监控metric.mp4<br>16.基于文件目标发现.mp4<br><a id="more"></a><br>17.基于DNS服务的目标发现.mp4<br>18.AlertManager介绍.mp4<br>19.AlertMangeager安装配置及设置邮件报警.mp4<br>20.添加磁盘和节点告警.mp4<br>21.添加prometheus和systemd服务.mp4<br>22.AlertManager路由配置.mp4<br>23.AlertManager静默配置.mp4<br>24.prometheus和alertmanager高可用.mp4<br>25.alaertmanager集群配置.mp4<br>26.prometheus集群配置.mp4<br>27.远端探测介绍.mp4<br>28.black_exporter配置使用.mp4<br>29.PushGateway推送网关介绍.mp4<br>30.PushGateway配置.mp4<br>31.prometheus在k8s安装环境介绍.mp4<br>32.Node_exporter在k8s上的部署.mp4<br>33.prometheus在k8s上部署.mp4<br>34.Grafana在k8s行的部署.mp4<br>35.解决Grafana中CPU不显示数据问题.mp4<br>36.AlertManager在k8s上的部署.mp4</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/13YOT_6DXCeMvlcazn1S17w" target="_blank" rel="noopener">https://pan.baidu.com/s/13YOT_6DXCeMvlcazn1S17w</a><br>提取码：j7th<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
-      
-      <categories>
-          
-          <category> 运维研发攻城狮 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
             <tag> 运维 </tag>
-            
-            <tag> Java </tag>
             
             <tag> 应用监控 </tag>
             
@@ -865,9 +922,9 @@
       
         <tags>
             
-            <tag> 运维 </tag>
-            
             <tag> Java </tag>
+            
+            <tag> 运维 </tag>
             
             <tag> 应用监控 </tag>
             
@@ -878,23 +935,27 @@
     </entry>
     
     <entry>
-      <title>用微信小程序工具轻松设计制作WebApp</title>
-      <link href="/2019-06-29/%E7%94%A8%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%B7%A5%E5%85%B7%E8%BD%BB%E6%9D%BE%E8%AE%BE%E8%AE%A1%E5%88%B6%E4%BD%9CWebApp/"/>
-      <url>/2019-06-29/%E7%94%A8%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%B7%A5%E5%85%B7%E8%BD%BB%E6%9D%BE%E8%AE%BE%E8%AE%A1%E5%88%B6%E4%BD%9CWebApp/</url>
-      <content type="html"><![CDATA[<p>『课程目录』:<br>用微信小程序工具轻松设计制作WebApp-六弦居01.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居02.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居03.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居04.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居05.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居06.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居07.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居08.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居09.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居10.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居11.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居12.mp4<br><a id="more"></a></p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1YNxA1a-Rprh8YhOrHZMNSw" target="_blank" rel="noopener">https://pan.baidu.com/s/1YNxA1a-Rprh8YhOrHZMNSw</a><br>提取码：av95<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      <title>prometheus企业监控</title>
+      <link href="/2019-06-29/prometheus%E4%BC%81%E4%B8%9A%E7%9B%91%E6%8E%A7/"/>
+      <url>/2019-06-29/prometheus%E4%BC%81%E4%B8%9A%E7%9B%91%E6%8E%A7/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>01.监控介绍.mp4<br>02.prometheus的组件介绍.mp4<br>03.prometheus数据及安全模型介绍.mp4<br>04.prometheus在centos7上安装.mp4<br>05.prometheus在docker容器中运行.mp4<br>06.使用Node-exporter监控节点.mp4<br>07.使用容器cAdvisor监控节点.mp4<br>08.label标签的配置使用.mp4<br>09.监控cpu利用率.mp4<br>10.监控内存使用率.mp4<br>11.监控磁盘空间及预算磁盘饱满时间.mp4<br>12.监控服务状态.mp4<br>13.通过文本获取metric.mp4<br>14.通过记录规则持久查询.mp4<br>15.通过grafana监控metric.mp4<br>16.基于文件目标发现.mp4<br><a id="more"></a><br>17.基于DNS服务的目标发现.mp4<br>18.AlertManager介绍.mp4<br>19.AlertMangeager安装配置及设置邮件报警.mp4<br>20.添加磁盘和节点告警.mp4<br>21.添加prometheus和systemd服务.mp4<br>22.AlertManager路由配置.mp4<br>23.AlertManager静默配置.mp4<br>24.prometheus和alertmanager高可用.mp4<br>25.alaertmanager集群配置.mp4<br>26.prometheus集群配置.mp4<br>27.远端探测介绍.mp4<br>28.black_exporter配置使用.mp4<br>29.PushGateway推送网关介绍.mp4<br>30.PushGateway配置.mp4<br>31.prometheus在k8s安装环境介绍.mp4<br>32.Node_exporter在k8s上的部署.mp4<br>33.prometheus在k8s上部署.mp4<br>34.Grafana在k8s行的部署.mp4<br>35.解决Grafana中CPU不显示数据问题.mp4<br>36.AlertManager在k8s上的部署.mp4</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/13YOT_6DXCeMvlcazn1S17w" target="_blank" rel="noopener">https://pan.baidu.com/s/13YOT_6DXCeMvlcazn1S17w</a><br>提取码：j7th<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
       
       <categories>
           
-          <category> 大前端研发攻城狮 </category>
+          <category> 运维研发攻城狮 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 微信小程序 </tag>
+            <tag> Java </tag>
             
-            <tag> WebApp </tag>
+            <tag> 运维 </tag>
+            
+            <tag> 应用监控 </tag>
+            
+            <tag> prometheus </tag>
             
         </tags>
       
@@ -924,6 +985,29 @@
     </entry>
     
     <entry>
+      <title>用微信小程序工具轻松设计制作WebApp</title>
+      <link href="/2019-06-29/%E7%94%A8%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%B7%A5%E5%85%B7%E8%BD%BB%E6%9D%BE%E8%AE%BE%E8%AE%A1%E5%88%B6%E4%BD%9CWebApp/"/>
+      <url>/2019-06-29/%E7%94%A8%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%B7%A5%E5%85%B7%E8%BD%BB%E6%9D%BE%E8%AE%BE%E8%AE%A1%E5%88%B6%E4%BD%9CWebApp/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>用微信小程序工具轻松设计制作WebApp-六弦居01.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居02.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居03.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居04.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居05.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居06.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居07.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居08.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居09.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居10.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居11.mp4<br>用微信小程序工具轻松设计制作WebApp-六弦居12.mp4<br><a id="more"></a></p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1YNxA1a-Rprh8YhOrHZMNSw" target="_blank" rel="noopener">https://pan.baidu.com/s/1YNxA1a-Rprh8YhOrHZMNSw</a><br>提取码：av95<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 大前端研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 微信小程序 </tag>
+            
+            <tag> WebApp </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>产品经理视频课程</title>
       <link href="/2019-06-29/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B/"/>
       <url>/2019-06-29/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B/</url>
@@ -938,9 +1022,9 @@
       
         <tags>
             
-            <tag> 综合 </tag>
-            
             <tag> 产品经理 </tag>
+            
+            <tag> 综合 </tag>
             
         </tags>
       
@@ -1059,9 +1143,9 @@
       
         <tags>
             
-            <tag> 综合 </tag>
-            
             <tag> 大数据 </tag>
+            
+            <tag> 综合 </tag>
             
             <tag> Spark </tag>
             
@@ -1093,31 +1177,6 @@
     </entry>
     
     <entry>
-      <title>大数据分析实战视频</title>
-      <link href="/2019-06-29/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AE%9E%E6%88%98%E8%A7%86%E9%A2%91/"/>
-      <url>/2019-06-29/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AE%9E%E6%88%98%E8%A7%86%E9%A2%91/</url>
-      <content type="html"><![CDATA[<p>『课程目录』:<br>01、数据分析–数据分析定义和数据分析作用<br>02、数据分析–数据分析方法论<br>03、数据分析–数据分析基本步骤<br>04、数据分析–数据分析行业前景&amp;职业要求<br>05、数据分析–科技发展挑战–分布式系统<br>06、数据分析–科技发展挑战–海量数据处理<br>07、数据分析–大数据时代–什么是大数据<br><a id="more"></a><br>08、数据分析–大数据时代–大数据分析<br>09、数据分析–大数据分析系统–概念&amp;分类（实时、离线）<br>10、网站流量日志自定义采集系统–原理分析<br>11、网站流量日志自定义采集系统–确定收集信息<br>12、网站流量日志自定义采集系统–确定埋点代码<br>13、网站流量日志自定义采集系统–前端数据收集脚本<br>14、网站流量日志自定义采集系统–后端脚本<br>15、网站流量日志自定义采集系统–日志格式&amp;日志切分<br>16、网站流量日志自定义采集系统–系统环境部署<br>17、网站流量日志自定义采集系统–采集实现–方案一：基本功能<br>18、网站流量日志自定义采集系统–采集实现–方案二：点击事件<br>19、网站流量日志自定义采集系统–采集实现</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1uPVrOfRouCQ0vuQ1DIss0w" target="_blank" rel="noopener">https://pan.baidu.com/s/1uPVrOfRouCQ0vuQ1DIss0w</a><br>提取码：jrxi<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
-      
-      <categories>
-          
-          <category> 数据分析攻城狮 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 数据分析 </tag>
-            
-            <tag> Python数据分析 </tag>
-            
-            <tag> 实战 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
       <title>大数据仓库Hive</title>
       <link href="/2019-06-29/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93Hive/"/>
       <url>/2019-06-29/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93Hive/</url>
@@ -1137,6 +1196,31 @@
             <tag> 数据仓库 </tag>
             
             <tag> Hive </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>大数据分析实战视频</title>
+      <link href="/2019-06-29/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AE%9E%E6%88%98%E8%A7%86%E9%A2%91/"/>
+      <url>/2019-06-29/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AE%9E%E6%88%98%E8%A7%86%E9%A2%91/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>01、数据分析–数据分析定义和数据分析作用<br>02、数据分析–数据分析方法论<br>03、数据分析–数据分析基本步骤<br>04、数据分析–数据分析行业前景&amp;职业要求<br>05、数据分析–科技发展挑战–分布式系统<br>06、数据分析–科技发展挑战–海量数据处理<br>07、数据分析–大数据时代–什么是大数据<br><a id="more"></a><br>08、数据分析–大数据时代–大数据分析<br>09、数据分析–大数据分析系统–概念&amp;分类（实时、离线）<br>10、网站流量日志自定义采集系统–原理分析<br>11、网站流量日志自定义采集系统–确定收集信息<br>12、网站流量日志自定义采集系统–确定埋点代码<br>13、网站流量日志自定义采集系统–前端数据收集脚本<br>14、网站流量日志自定义采集系统–后端脚本<br>15、网站流量日志自定义采集系统–日志格式&amp;日志切分<br>16、网站流量日志自定义采集系统–系统环境部署<br>17、网站流量日志自定义采集系统–采集实现–方案一：基本功能<br>18、网站流量日志自定义采集系统–采集实现–方案二：点击事件<br>19、网站流量日志自定义采集系统–采集实现</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1uPVrOfRouCQ0vuQ1DIss0w" target="_blank" rel="noopener">https://pan.baidu.com/s/1uPVrOfRouCQ0vuQ1DIss0w</a><br>提取码：jrxi<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 数据分析攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数据分析 </tag>
+            
+            <tag> Python数据分析 </tag>
+            
+            <tag> 实战 </tag>
             
         </tags>
       
@@ -1280,11 +1364,11 @@
             
             <tag> Java </tag>
             
-            <tag> 千峰教育 </tag>
-            
             <tag> 容灾 </tag>
             
             <tag> 后端研发 </tag>
+            
+            <tag> 千峰教育 </tag>
             
         </tags>
       
@@ -1489,11 +1573,11 @@
       
         <tags>
             
-            <tag> PHP </tag>
+            <tag> ElasticSearch </tag>
             
             <tag> 实战 </tag>
             
-            <tag> ElasticSearch </tag>
+            <tag> PHP </tag>
             
             <tag> 后端开发 </tag>
             
@@ -1524,9 +1608,9 @@
       
         <tags>
             
-            <tag> PHP </tag>
-            
             <tag> 实战 </tag>
+            
+            <tag> PHP </tag>
             
             <tag> 后端开发 </tag>
             
@@ -1723,9 +1807,9 @@
       
         <tags>
             
-            <tag> 综合 </tag>
-            
             <tag> Java </tag>
+            
+            <tag> 综合 </tag>
             
             <tag> 实战 </tag>
             
@@ -1959,15 +2043,15 @@
             
             <tag> 后端开发 </tag>
             
+            <tag> 微服务 </tag>
+            
+            <tag> Spring Cloud </tag>
+            
             <tag> 慕课网 </tag>
             
             <tag> 2018 </tag>
             
             <tag> 分布式 </tag>
-            
-            <tag> 微服务 </tag>
-            
-            <tag> Spring Cloud </tag>
             
         </tags>
       
@@ -1990,15 +2074,15 @@
             
             <tag> 后端开发 </tag>
             
+            <tag> 微服务 </tag>
+            
+            <tag> Spring Cloud </tag>
+            
             <tag> 慕课网 </tag>
             
             <tag> 2018 </tag>
             
             <tag> 分布式 </tag>
-            
-            <tag> 微服务 </tag>
-            
-            <tag> Spring Cloud </tag>
             
         </tags>
       
@@ -2021,6 +2105,8 @@
             
             <tag> 后端开发 </tag>
             
+            <tag> 微服务 </tag>
+            
             <tag> 慕课网 </tag>
             
             <tag> 2018 </tag>
@@ -2030,8 +2116,6 @@
             <tag> ZooKeeper </tag>
             
             <tag> Dubbo </tag>
-            
-            <tag> 微服务 </tag>
             
         </tags>
       
@@ -2432,33 +2516,6 @@
     </entry>
     
     <entry>
-      <title>Python3数据科学入门与实战</title>
-      <link href="/%E6%85%95%E8%AF%BE%E7%BD%91/038_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8APython3%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98%E3%80%8B_8%E8%AF%BE_2018/"/>
-      <url>/%E6%85%95%E8%AF%BE%E7%BD%91/038_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8APython3%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98%E3%80%8B_8%E8%AF%BE_2018/</url>
-      <content type="html"><![CDATA[<p><img src="//szimg.mukewang.com/5a097bde00019ed605400300-360-202.jpg" alt="image"></p><p>Python3数据科学入门与实战<br>这是一个数据驱动的时代，想要从事机器学习、人工智能、数据挖掘等前沿技术，都离不开数据跟踪，本课程通过Numpy、Pandas进行数据科学计算，通过Seaborn、 Matplotlib进行数据图形化展示；从实战角度出发，让你在数据科学领域迈出重要的一步，开启Data Science职业之旅！<br>掌握数据处理、分析、展示的能力，开启Data Science职业之旅</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://coding.imooc.com/class/156.html" target="_blank" rel="noopener">http://coding.imooc.com/class/156.html</a></blockquote><br><br>第1章 课程介绍<br>介绍本课程需要的前提知识和内容概要<br><br>第1章 实验环境的搭建<br>本章将主要介绍Anaconda和Jupyter Notebook。包括如何在windows，Mac，linux等平台上安装Anaconda，以及Jupyter Notebook的基本启动使用方法。<br><br>1-1 导学视频<br>1-2 Anaconda和Jupyter notebook介绍<br>1-3 Anaconda在Mac上的安装演示<br>1-4 Anaconda在windows上安装演示<br>1-5 Anaconda在Linux上的安装演示<br>1-6 Jupyter-notebook的使用演示<br>第2章 Numpy入门<br>本章将介绍Python数据科学领域里最基础的一个库——Numpy，回顾矩阵运算基础，介绍最重要的数据结构Array以及如何通过Numpy进行数组和矩阵运算。<br><br>2-1 数据科学领域5个常用Python库<br>2-2 数学基础回顾之矩阵运算<br>2-3 Array的创建及访问<br>2-4 数组与矩阵运算<br>2-5 Array的input和output<br>第3章 Pandas入门<br>本章将介绍Python数据科学领域用于数据分析最重要的一个库——Pandas。将从pandas里最重要的两种数据结构Series和DataFrame开始，介绍其创建和基本操作，通过实际操作理解Series和DataFrame的关系。<br><br>3-1 Pandas Series<br>3-2 Pandas DataFrame<br>3-3 深入理解Series和Dataframe<br>3-4 Pandas-Dataframe-IO操作<br>3-5 DataFrame的Selecting和indexing<br>3-6 Series和Dataframe的Reindexing<br>3-7 谈一谈NaN<br>3-8 多级Index<br>3-9 Mapping和Replace<br>第4章 Pandas玩转数据<br>本章是Pandas的进阶。我们会使用Pandas进行高级的数据分析操作，包括如何去做数据清洗、预处理和排序等数学计算，数据的分箱技术，分组技术，聚合技术，以及透视表等。<br><br>4-1 DataFrame的简单数学计算<br>4-2 Series和DataFrame的排序<br>4-3 重命名Dataframe的index<br>4-4 DataFrame的merge操作<br>4-5 Concatenate和Combine<br>4-6 通过apply进行数据预处理<br>4-7 通过去重进行数据清洗<br>4-8 时间序列操作基础<br>4-9 时间序列数据的采样和画图<br>4-10 数据分箱技术Binning<br>4-11 数据分组技术GroupBy<br>4-12 数据聚合技术Aggregation<br>4-13 透视表<br>4-14 分组和透视功能实战<br>4-15 Streaming DataFrame<br>第5章 绘图和可视化之Matplotlib<br>数据的可视化是数据分析领域里非常重要的内容。本章会学习Matplotlib的基本使用，包括如何对Pandas里的Series和DataFrame绘图， 以及图形样式和显示模式的设置等内容。<br><br>5-1 Matplotlib介绍<br>5-2 matplotlib简单绘图之plot<br>5-3 matplotlib简单绘图之subplot<br>5-4 Pandas绘图之Series<br>5-5 Pandas绘图之DataFrame<br>5-6 直方图和密度图<br>第6章 绘图和可视化之Seaborn<br>Seaborn是对Matplotlib的进一步封装，其强大的调色功能和内置的多种多样的绘图模式，使之成为当下最流行的数据科学绘图工具。本章将介绍Seaborn的基本使用，以及和matplotlib的功能对比。<br><br>6-1 seaborn介绍<br>6-2 seaborn实现直方图和密度图<br>6-3 seaborn实现柱状图和热力图<br>6-4 seaborn图形显示效果的设置<br>6-5 seaborn强大的调色功能<br>第7章 数据分析项目实战<br>通过前六章的学习，我们基本上掌握了数据分析领域里主要工具的使用，本章将通过一个股票市场的分析实战项目，和大家一起用学过的知识去分析数据，进而得到有用的信息。<br><br>7-1 实战准备<br>7-2 股票市场分析实战之数据获取<br>7-3 股票市场分析实战之历史趋势分析<br>7-4 股票市场分析实战之风险分析<br>第8章 课程总结<br>本章的总结不是对前面8章内容的汇总，而是给大家指明了一条继续学习和锻炼的道路。希望大家坚持练习，早日修成正果。<br><br>8-1 总结<br>本课程已完结<br><br><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="WkeA9Hk2217" style="display:none">WkeA9Hk2217</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
-      
-      <categories>
-          
-          <category> 数据分析 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 数据分析 </tag>
-            
-            <tag> Python </tag>
-            
-            <tag> 慕课网 </tag>
-            
-            <tag> 2018 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
       <title>Java读源码之Netty深入剖析</title>
       <link href="/%E6%85%95%E8%AF%BE%E7%BD%91/037_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AJava%E8%AF%BB%E6%BA%90%E7%A0%81%E4%B9%8BNetty%E6%B7%B1%E5%85%A5%E5%89%96%E6%9E%90%E3%80%8B_13%E8%AF%BE_2018/"/>
       <url>/%E6%85%95%E8%AF%BE%E7%BD%91/037_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AJava%E8%AF%BB%E6%BA%90%E7%A0%81%E4%B9%8BNetty%E6%B7%B1%E5%85%A5%E5%89%96%E6%9E%90%E3%80%8B_13%E8%AF%BE_2018/</url>
@@ -2482,6 +2539,33 @@
             <tag> 2018 </tag>
             
             <tag> Flask </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>Python3数据科学入门与实战</title>
+      <link href="/%E6%85%95%E8%AF%BE%E7%BD%91/038_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8APython3%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98%E3%80%8B_8%E8%AF%BE_2018/"/>
+      <url>/%E6%85%95%E8%AF%BE%E7%BD%91/038_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8APython3%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98%E3%80%8B_8%E8%AF%BE_2018/</url>
+      <content type="html"><![CDATA[<p><img src="//szimg.mukewang.com/5a097bde00019ed605400300-360-202.jpg" alt="image"></p><p>Python3数据科学入门与实战<br>这是一个数据驱动的时代，想要从事机器学习、人工智能、数据挖掘等前沿技术，都离不开数据跟踪，本课程通过Numpy、Pandas进行数据科学计算，通过Seaborn、 Matplotlib进行数据图形化展示；从实战角度出发，让你在数据科学领域迈出重要的一步，开启Data Science职业之旅！<br>掌握数据处理、分析、展示的能力，开启Data Science职业之旅</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://coding.imooc.com/class/156.html" target="_blank" rel="noopener">http://coding.imooc.com/class/156.html</a></blockquote><br><br>第1章 课程介绍<br>介绍本课程需要的前提知识和内容概要<br><br>第1章 实验环境的搭建<br>本章将主要介绍Anaconda和Jupyter Notebook。包括如何在windows，Mac，linux等平台上安装Anaconda，以及Jupyter Notebook的基本启动使用方法。<br><br>1-1 导学视频<br>1-2 Anaconda和Jupyter notebook介绍<br>1-3 Anaconda在Mac上的安装演示<br>1-4 Anaconda在windows上安装演示<br>1-5 Anaconda在Linux上的安装演示<br>1-6 Jupyter-notebook的使用演示<br>第2章 Numpy入门<br>本章将介绍Python数据科学领域里最基础的一个库——Numpy，回顾矩阵运算基础，介绍最重要的数据结构Array以及如何通过Numpy进行数组和矩阵运算。<br><br>2-1 数据科学领域5个常用Python库<br>2-2 数学基础回顾之矩阵运算<br>2-3 Array的创建及访问<br>2-4 数组与矩阵运算<br>2-5 Array的input和output<br>第3章 Pandas入门<br>本章将介绍Python数据科学领域用于数据分析最重要的一个库——Pandas。将从pandas里最重要的两种数据结构Series和DataFrame开始，介绍其创建和基本操作，通过实际操作理解Series和DataFrame的关系。<br><br>3-1 Pandas Series<br>3-2 Pandas DataFrame<br>3-3 深入理解Series和Dataframe<br>3-4 Pandas-Dataframe-IO操作<br>3-5 DataFrame的Selecting和indexing<br>3-6 Series和Dataframe的Reindexing<br>3-7 谈一谈NaN<br>3-8 多级Index<br>3-9 Mapping和Replace<br>第4章 Pandas玩转数据<br>本章是Pandas的进阶。我们会使用Pandas进行高级的数据分析操作，包括如何去做数据清洗、预处理和排序等数学计算，数据的分箱技术，分组技术，聚合技术，以及透视表等。<br><br>4-1 DataFrame的简单数学计算<br>4-2 Series和DataFrame的排序<br>4-3 重命名Dataframe的index<br>4-4 DataFrame的merge操作<br>4-5 Concatenate和Combine<br>4-6 通过apply进行数据预处理<br>4-7 通过去重进行数据清洗<br>4-8 时间序列操作基础<br>4-9 时间序列数据的采样和画图<br>4-10 数据分箱技术Binning<br>4-11 数据分组技术GroupBy<br>4-12 数据聚合技术Aggregation<br>4-13 透视表<br>4-14 分组和透视功能实战<br>4-15 Streaming DataFrame<br>第5章 绘图和可视化之Matplotlib<br>数据的可视化是数据分析领域里非常重要的内容。本章会学习Matplotlib的基本使用，包括如何对Pandas里的Series和DataFrame绘图， 以及图形样式和显示模式的设置等内容。<br><br>5-1 Matplotlib介绍<br>5-2 matplotlib简单绘图之plot<br>5-3 matplotlib简单绘图之subplot<br>5-4 Pandas绘图之Series<br>5-5 Pandas绘图之DataFrame<br>5-6 直方图和密度图<br>第6章 绘图和可视化之Seaborn<br>Seaborn是对Matplotlib的进一步封装，其强大的调色功能和内置的多种多样的绘图模式，使之成为当下最流行的数据科学绘图工具。本章将介绍Seaborn的基本使用，以及和matplotlib的功能对比。<br><br>6-1 seaborn介绍<br>6-2 seaborn实现直方图和密度图<br>6-3 seaborn实现柱状图和热力图<br>6-4 seaborn图形显示效果的设置<br>6-5 seaborn强大的调色功能<br>第7章 数据分析项目实战<br>通过前六章的学习，我们基本上掌握了数据分析领域里主要工具的使用，本章将通过一个股票市场的分析实战项目，和大家一起用学过的知识去分析数据，进而得到有用的信息。<br><br>7-1 实战准备<br>7-2 股票市场分析实战之数据获取<br>7-3 股票市场分析实战之历史趋势分析<br>7-4 股票市场分析实战之风险分析<br>第8章 课程总结<br>本章的总结不是对前面8章内容的汇总，而是给大家指明了一条继续学习和锻炼的道路。希望大家坚持练习，早日修成正果。<br><br>8-1 总结<br>本课程已完结<br><br><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="WkeA9Hk2217" style="display:none">WkeA9Hk2217</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+      
+      <categories>
+          
+          <category> 数据分析 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数据分析 </tag>
+            
+            <tag> Python </tag>
+            
+            <tag> 慕课网 </tag>
+            
+            <tag> 2018 </tag>
             
         </tags>
       
@@ -2568,9 +2652,9 @@
             
             <tag> 2017 </tag>
             
-            <tag> 慕课网 </tag>
-            
             <tag> Spring </tag>
+            
+            <tag> 慕课网 </tag>
             
             <tag> 电商平台 </tag>
             
@@ -2597,9 +2681,9 @@
             
             <tag> 移动开发 </tag>
             
-            <tag> 2017 </tag>
-            
             <tag> React Native </tag>
+            
+            <tag> 2017 </tag>
             
             <tag> 慕课网 </tag>
             
@@ -2630,9 +2714,9 @@
             
             <tag> 移动开发 </tag>
             
-            <tag> 2017 </tag>
-            
             <tag> React Native </tag>
+            
+            <tag> 2017 </tag>
             
             <tag> 慕课网 </tag>
             
@@ -2659,9 +2743,9 @@
       
         <tags>
             
-            <tag> 小程序 </tag>
-            
             <tag> 实战 </tag>
+            
+            <tag> 小程序 </tag>
             
             <tag> 移动开发 </tag>
             
@@ -2804,9 +2888,9 @@
             
             <tag> 移动开发 </tag>
             
-            <tag> 2017 </tag>
-            
             <tag> React Native </tag>
+            
+            <tag> 2017 </tag>
             
             <tag> 慕课网 </tag>
             
@@ -3164,10 +3248,35 @@
     </entry>
     
     <entry>
-      <title>python人工智能15期</title>
-      <link href="/%E9%BB%91%E9%A9%AC%E7%A8%8B%E5%BA%8F%E5%91%98/001_%E9%BB%91%E9%A9%AC%E7%A8%8B%E5%BA%8F%E5%91%98_%E3%80%8Apython%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD15%E6%9C%9F%E3%80%8B_2018/"/>
-      <url>/%E9%BB%91%E9%A9%AC%E7%A8%8B%E5%BA%8F%E5%91%98/001_%E9%BB%91%E9%A9%AC%E7%A8%8B%E5%BA%8F%E5%91%98_%E3%80%8Apython%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD15%E6%9C%9F%E3%80%8B_2018/</url>
-      <content type="html"><![CDATA[<a id="more"></a><blockquote class="blockquote-center">请支持原版！课程官方链接：<a href="https://ke.qq.com/course/215047" target="_blank" rel="noopener">https://ke.qq.com/course/215047</a></blockquote><p>『课程目录』:</p><p>├─01 网络编程<br>│  ├─01-基本概念<br>│  │      01-网络通信概述.flv<br>│  │      02-IP地址.flv<br>│  │      03-Linux、windows查看网卡信息.flv<br>│  │      04-ip地址的分类-ipv4和ipv6介绍.flv<br>│  │      05-（重点）端口.mp4<br>│  │      06-端口分类：知名端口、动态端口.flv<br>│  │      07-socket介绍.mp4<br>│  │<br>│  ├─02-udp<br>│  │      01-udp发送数据demo-1.flv<br>│  │      02-udp发送数据-demo-2.flv<br>│  │      03-关闭VMware的虚拟网卡（了解）.flv<br>│  │      04-udp发送数据的强调.flv<br>│  │      05-（重点）运行python程序以及python交互模式，encode编码，发送udp的练习.flv<br>│  │      06-（重点）接收udp数据.flv<br>│  │      07-（重点）端口绑定的问题.flv<br>│  │      08-网络中重要概念复习.flv<br>│  │      09-输入对方ip、port、全双工、半双工、单工等.flv<br>│  │      10-案例：udp聊天器.flv<br>│  │<br>│  ├─03-tcp客户端<br>│  │      01-tcp介绍.flv<br>│  │      02-（重点）tcp客户端.flv<br>│  │<br>│  ├─04-tcp服务器<br>│  │      01-（重点）tcp服务器-1.flv<br>│  │      02-（重点）tcp服务器-2-循环为多个客户端服务.flv<br>│  │      03-（重点）tcp服务器-3-循环为多个客户端服务.mp4<br>│  │<br>│  └─05-tcp下载文件<br>│          01-案例：下载文件.flv<br>│          02-知识点快速总结，listen里的参数.flv<br>│          03-QQ不绑定端口、昨日知识点复习.flv<br>│<br>├─02 多任务<br>│  ├─01-线程<br>│  │      01-多任务介绍、以及Thread的基本使用.flv<br>│  │      02-Thread创建线程 完成多任务.flv<br>│  │      03-查看正在运行的线程、主线程等待子线程先结束.flv<br>│  │      04-通过继承Thread类完成创建线程.flv<br>│  │      05-通过继承Thread类完成创建线程-补充.flv<br>│  │      06-多线程共享全局变量.flv<br>│  │      07-多线程共享全局变量-args参数.flv<br>│  │      08-创建线程是指定传递的参数、多线程共享全局变量的问题.flv<br>│  │      09-同步概念、互斥锁解决资源竞争的问题.flv<br>│  │      10-死锁、银行家算法.flv<br>│  │      11-案例：多线程版udp聊天器.flv<br>│  │<br>│  ├─02-进程<br>│  │      01-线程知识点复习.mp4<br>│  │      02-进程、程序的概念<a href="http://www.wuying521.cn.flv" target="_blank" rel="noopener">www.wuying521.cn.flv</a><br>│  │<br>│  └─03-协程<br>│          04-迭代器使用的其他方式.flv<br>│          07-（重点）生成器-小总结.flv<br>│          08-使用yield完成多任务.flv<br>│          11-（重点）进程、线程、协程对比.flv<br>│<br>├─03 web服务器v3.1<br>│  ├─01-正则表达式<br>│  │      01-正则表达式简介.flv<br>│  │      02-匹配单个字符-1.flv<br>│  │      03-匹配单个字符-2.flv<br>│  │      04-匹配多个字符.flv<br>│  │      05-案例：简单判断变量名是否符合要求、匹配结尾开头.flv<br>│  │      06-案例：简单判断email、转义.flv<br>│  │      07-分组等.flv<br>│  │      08-re的高级用法：search、sub等.flv<br>│  │<br>│  ├─02-http协议<br>│  │      01-此阶段知识的介绍.flv<br>│  │      02-HTTP协议的通俗讲解.flv<br>│  │      03-通过网络调试助手充当http服务器来验证http协议.flv<br>│  │<br>│  ├─03-简单web服务器实现<br>│  │      01-案例：返回固定页面的http服务器.flv<br>│  │      02-tcp3次握手、4次挥手.flv<br>│  │      03-tcp3次握手、4次挥手-强调.mp4<br>│  │      04-案例：返回浏览器需要的页面http服务器-介绍.mp4<br>│  │      05-案例：返回浏览器需要的页面http服务器-代码实现.flv<br>│  │<br>│  ├─04-并发web服务器实现<br>│  │      01-http协议复习.flv<br>│  │      02-多进程、线程实现http服务器.flv<br>│  │      03-多进程、线程实现http服务器-补充.flv<br>│  │      04-gevent实现http服务器.flv<br>│  │      05-（重要）单进程、线程、非堵塞实现并发的原理.flv<br>│  │      06-单进程、线程、非堵塞实现并发的验证-1.flv<br>│  │      07-单进程、线程、非堵塞实现并发的验证-2、debug的思想.flv<br>│  │      08-长连接、短连接.flv<br>│  │      09-单进程、线程、非堵塞、长连接的http服务器.flv<br>│  │      10-（重要）epoll的原理过程讲解.flv<br>│  │      11-epoll版的http服务器.flv<br>│  │<br>│  └─05-网络通信<br>│          01-tcp ip协议.flv<br>│          02-wireshark抓包工具-安装.flv<br>│          03-wireshark抓包工具-使用.flv<br>│          04-2台电脑通信、网络掩码.flv<br>│          05-集线器、交换器组网、arp获取mac地址等.flv<br>│          06-路由器链接多个网络、默认网关.flv<br>│          07-浏览器访问服务器的过程.flv<br>│          08-ip不变、mac地址发生变化.flv<br>│<br>├─04 Python高级语法v3.1<br>│  ├─01-GIL锁<br>│  │      01-GIL-1.flv<br>│  │      02-GIL-2.flv<br>│  │<br>│  ├─02-深拷贝和浅拷贝<br>│  │      01-深拷贝、浅拷贝-1.flv<br>│  │      02-深拷贝、浅拷贝-2.flv<br>│  │      03-深拷贝、浅拷贝-3.flv<br>│  │      04-深拷贝、浅拷贝-4.flv<br>│  │<br>│  ├─03-私有化、import、封装继承多态<br>│  │      01-私有化.flv<br>│  │      02-import导入模块.flv<br>│  │      03-多个模块import导入注意点.flv<br>│  │      04-再议封装、继承、多态.flv<br>│  │<br>│  ├─04-方法解析顺序表MRO<br>│  │      01-（重点）多继承中的MRO顺序.flv<br>│  │      02-（重点）※args、※※kwargs的另外用处拆包.mp4<br>│  │      03-单继承中MRO、继承的面试题.mp4<br>│  │<br>│  ├─05-类对象和实例对象访问属性的区别和property属性<br>│  │      01-类对象、实例对象、类方法、实例方法、类属性、实例属性、静态方法.flv<br>│  │      02-（重点）property属性.flv<br>│  │      03-property属性的应用.flv<br>│  │      04-创建property属性的方式-装饰器.flv<br>│  │      05-创建property属性的方式-类属性.flv<br>│  │      06-property属性的应用2.flv<br>│  │<br>│  └─06-私有属性和名字重整、魔法属性和方法、上下文管理器<br>│          01-修改、查看私有属性、名字重整.flv<br>│          02-魔法属性、方法.flv<br>│          03-面向对象设计.flv<br>│          04-（重点）with、上下文管理器.flv<br>│<br>├─05 MySQL数据库v3.1<br>│  ├─01-数据库的基本使用<br>│  │      01-课程介绍.flv<br>│  │      02-数据库介绍.flv<br>│  │      03-RDBMS、MySQL介绍.flv<br>│  │      04-MySQL服务器、客户端安装以及使用.flv<br>│  │      05-通过navicat操作数据库.flv<br>│  │      06-数据类型、约束.flv<br>│  │      07-（重点）-数据库的操作.flv<br>│  │      08-（重点）-数据表的操作.flv<br>│  │      09-（重重点）-数据的增删改查_无影资源网.flv<br>│  │<br>│  ├─02-数据库查询<br>│  │      01-课程介绍.flv<br>│  │      02-数据准备、基本的查询.flv<br>│  │      03-条件查询.flv<br>│  │      04-范围查询、null.flv<br>│  │      05-排序.flv<br>│  │      06-聚合、分组.flv<br>│  │      07-分页.flv<br>│  │      08-链接查询.flv<br>│  │      09-自关联.flv<br>│  │      10-子查询-简单.flv<br>│  │      11-数据库设计.flv<br>│  │<br>│  ├─03-MySQL与Python交互<br>│  │      01-数据的准备，基本查询.flv<br>│  │      02-数据操作演练：拆为多个表.flv<br>│  │      03-数据操作演练：拆为多个表2.flv<br>│  │      04-python安装pymysql.mp4<br>│  │      05-python操作sql：查询数据.flv<br>│  │      06-案例：京东商城-查询.flv<br>│  │      07-python操作sql：添加、修改、删除数据.flv<br>│  │      08-案例：京东商城-添加，防止SQL注入.flv<br>│  │      09-作业要求.mp4<br>│  │<br>│  └─04-MySQL高级<br>│          01-视图.flv<br>│          02-事务-1.flv<br>│          03-事务-2.flv<br>│          04-索引-1.flv<br>│          05-索引-2.flv<br>│          06-（了解）账户管理.flv<br>│          07-MySQL主从.flv<br>│<br>├─06 mini-web框架v3.1<br>│  ├─01-WSGI-mini-web框架<br>│  │      01-课程介绍.flv<br>│  │      02-多进程-面向对象-web服务器.flv<br>│  │      03-静态资源、动态资源、web服务器支持动态解析.flv<br>│  │      04-静态、动态资源强调.flv<br>│  │      05-实现很简单的框架，让web服务器支持.flv<br>│  │      06-（重点）WSGI的介绍.flv<br>│  │      07-web服务器支持WSGI.flv<br>│  │      08-web服务器通过字典将需要的参数传递给mini_frame框架.flv<br>│  │      09-mini_frame获取页面模板数据.flv<br>│  │      10-给程序传递参数、添加web服务器的配置文件、添加shell功能.flv<br>│  │<br>│  ├─02-闭包<br>│  │      01-闭包-1.flv<br>│  │      02-闭包-2.flv<br>│  │      03-闭包-3-补充.flv<br>│  │      04-闭包-4-修改数据.flv<br>│  │<br>│  ├─03-装饰器<br>│  │      01-装饰器-1-介绍.flv<br>│  │      02-装饰器-2-手动实现装饰器.flv<br>│  │      03-装饰器-3-作用demo、对有参数函数、无参数函数的装饰.flv<br>│  │      04-装饰器-4-再理解.flv<br>│  │      05-装饰器-5-不定长参数的函数装饰.flv<br>│  │      06-装饰器-6-对应有返回值函数进行装饰、通用装饰器.flv<br>│  │      07-装饰器-7-多个装饰器对同一个函数装饰.flv<br>│  │      08-装饰器-8-多个装饰器对同一个函数装饰demo.flv<br>│  │      09-装饰器-9-（了解）用类对函数进行装饰.flv<br>│  │<br>│  ├─04-mini-web框架添加路由和MySQL功能<br>│  │      01-带有参数的装饰器.flv<br>│  │      02-用装饰器完成路由功能-1.flv<br>│  │      03-用装饰器完成路由功能-2.flv<br>│  │      04-用装饰器完成路由功能-3.flv<br>│  │      05-用装饰器完成路由功能-4.flv<br>│  │      06-静态、动态、伪静态url.flv<br>│  │      07-让web服务器支持伪静态.flv<br>│  │      08-mini_frame框架添加MySQL功能-1.flv<br>│  │      09-mini_frame框架添加MySQL功能-2.flv<br>│  │<br>│  ├─05-mini-web框架添加正则和log日志功能<br>│  │      01-今日课程介绍.flv<br>│  │      02-股票列表.flv<br>│  │      03-关注股票.flv<br>│  │      04-取消关注.flv<br>│  │      05-更新备注信息.flv<br>│  │      06-url编解码.flv<br>│  │      07-log日志功能.flv<br>│  │<br>│  ├─06-元类<br>│  │      01-类也是对象、globals查看所有的全局对象引用.flv<br>│  │      02-元类创建类，类创建实例对象.mp4<br>│  │      03-通过type来创建复杂的类，元类应用demo.flv<br>│  │      04-元类应用demo-补充.mp4<br>│  │<br>│  └─07-orm<br>│          01-orm介绍.flv<br>│          02-orm-实现.flv<br>│          03-orm-实现2.flv<br>│          04-python高级知识快速复习-1.flv<br>│          05-python高级知识快速复习-2.flv<br>│          BaiduNetdiskDownload - 快捷方式.lnk<br>│<br>├─07 HTML和CSS<br>│  ├─01-html文档结构和常用标签<br>│  │      001前端概述.flv<br>│  │      002html文档结构.flv<br>│  │      003标题-段落-字符实体-换行.flv<br>│  │      004语义标签-图片.flv<br>│  │      005html复习1.flv<br>│  │      006链接.flv<br>│  │      007列表.flv<br>│  │<br>│  ├─02-表格标签和传统布局<br>│  │      01表格.flv<br>│  │      02传统布局实例.flv<br>│  │      03复习.flv<br>│  │<br>│  ├─03-表单标签<br>│  │      01表单01.flv<br>│  │      02表单02.flv<br>│  │      03表单03.flv<br>│  │<br>│  ├─04-CSS基本语法<br>│  │      01样式介绍.flv<br>│  │      02引入样式的方式.flv<br>│  │<br>│  ├─05-CSS常用文本样式<br>│  │      01常用文本样式01.flv<br>│  │      02css常用文本样式02.flv<br>│  │<br>│  ├─06-CSS样式选择器<br>│  │      01css选择器01.flv<br>│  │      02css选择器02.flv<br>│  │<br>│  ├─07-盒子模型<br>│  │      01盒子模型.flv<br>│  │      02盒子模型练习-盒子真实尺寸.mp4<br>│  │      03复习-标题练习.flv<br>│  │<br>│  ├─08-margin和overflow属性<br>│  │      01margin使用技巧.flv<br>│  │      02margin使用技巧02.flv<br>│  │      03margin合并及实例.flv<br>│  │      04margin-top塌陷.flv<br>│  │      05元素溢出.flv<br>│  │<br>│  ├─09-display属性<br>│  │      01块元素-内联元素.flv<br>│  │      02内联块-实例.flv<br>│  │      03display属性.flv<br>│  │<br>│  ├─10-浮动布局<br>│  │      01用列表制作菜单.flv<br>│  │      02清除浮动.flv<br>│  │      03浮动01.flv<br>│  │      04浮动02.flv<br>│  │      05复习-练习.flv<br>│  │<br>│  ├─11-定位布局<br>│  │      01定位.flv<br>│  │      02定位实例.flv<br>│  │<br>│  ├─12-background属性<br>│  │      01background属性-实例.flv<br>│  │      02复习-雪碧图背景列表练习.flv<br>│  │<br>│  ├─13-布局练习和图片格式<br>│  │      01布局练习.flv<br>│  │      02图片格式.flv<br>│  │<br>│  ├─14-PS常用操作<br>│  │      01ps界面-移动选择-矩形框.flv<br>│  │      02图层自由变换-选区移动-选区自由变换.flv<br>│  │      03套索工具.flv<br>│  │      04选区的操作.flv<br>│  │<br>│  ├─15-制作登陆页效果图<br>│  │      01效果图制作01.flv<br>│  │      02效果图制作02.flv<br>│  │      03练习复习.flv<br>│  │<br>│  └─16-PS切图和制作雪碧图<br>│          01切图.flv<br>│          02雪碧图制作.flv<br>│          03雪碧图制作02.flv<br>│<br>├─08 首页布局案例和移动布局<br>│  ├─01-首页布局<br>│  │      01首页布局03.flv<br>│  │      02首页布局04.flv<br>│  │      03重置样式reset.css.flv<br>│  │      04首页头部制作.flv<br>│  │      05首页logo-搜索框-购物车.flv<br>│  │<br>│  ├─02-CSS3动画<br>│  │      01翻面动画02.flv<br>│  │      02animation动画.flv<br>│  │      03loading动画.flv<br>│  │      04圆角-透明度-rgba.flv<br>│  │      05transiton动画01.flv<br>│  │      06走路动画.flv<br>│  │      07transiton动画02.flv<br>│  │      08transform.flv<br>│  │      09复习-tansform变形-翻面动画01.flv<br>│  │<br>│  ├─03-CSS3选择器和CSS权重<br>│  │      01css权重.flv<br>│  │<br>│  ├─04-屏幕适配<br>│  │      01视口-retina屏幕适配.flv<br>│  │      02背景图尺寸设置.flv<br>│  │      03流体布局.flv<br>│  │      04响应式布局.flv<br>│  │<br>│  ├─05-移动端布局实例<br>│  │      01复习-rem布局原理.flv<br>│  │      02cssrem安装-流体布局制作首页.flv<br>│  │      03rem首页布局02.flv<br>│  │      04rem首页布局03.flv<br>│  │      05rem首页布局.flv<br>│  │      06rem首页布局01.mp4<br>│  │<br>│  └─06-CSS3前缀和H5新增标签<br>│          01css3前缀.flv<br>│          02h5新增标签-表单控件-属性.flv<br>│<br>├─09 JavaScriptv<br>│  ├─01-JavaScript变量和操作元素<br>│  │      01操作元素属性.flv<br>│  │      02中括号操作属性.flv<br>│  │      03改变元素内容.flv<br>│  │      04js介绍-js引入页面.flv<br>│  │      05js变量类型-获取元素.flv<br>│  │      06复习.flv<br>│  │<br>│  ├─02-JavaScript函数<br>│  │      01函数定义和调用.flv<br>│  │      02提取行间事件.flv<br>│  │      03复习-匿名函数.flv<br>│  │      04网页换肤.flv<br>│  │      05函数和变量预解析.flv<br>│  │      06函数传参-return关键字.flv<br>│  │<br>│  ├─03-分支语句<br>│  │      01加法运算练习.flv<br>│  │      02求余-赋值运算符.flv<br>│  │      03条件运算符.flv<br>│  │      04switch语句.flv<br>│  │      05条件语句-切换例子.flv<br>│  │      06多重条件判读语句.flv<br>│  │      07作业.flv<br>│  │      08复习.flv<br>│  │<br>│  ├─04-数组和循环语句<br>│  │      01数组及操作方法.flv<br>│  │      02多维数组.flv<br>│  │      03for循环-实例.flv<br>│  │      04复习-数组去重.flv<br>│  │<br>│  ├─05-JavaScript组成和字符串<br>│  │      01标签获取元素-实例.flv<br>│  │      02javascript组成.mp4<br>│  │      03字符串操作方法-实例.flv<br>│  │<br>│  ├─06-定时器和变量作用域<br>│  │      01往复运动动画.flv<br>│  │      02无缝滚动01.flv<br>│  │      03无缝滚动02.flv<br>│  │      04变量作用域.flv<br>│  │      05时钟.flv<br>│  │      06倒计时.flv<br>│  │      07定时器-动画实例.flv<br>│  │      08作业.flv<br>│  │      09复习.flv<br>│  │<br>│  └─07-封闭函数和常用内置对象<br>│          01封闭函数.flv<br>│          02常用内置对象01.flv<br>│          03Math对象.flv<br>│          04调试js的方法.flv<br>│          05作业.flv<br>│          06复习-倒计时弹框练习.flv<br>│<br>├─10 jQuery和js库<br>│  ├─01-jQuery介绍、加载和jQuery选择器<br>│  │      01jqury介绍-jquery加载.flv<br>│  │      02jquery选择器01.flv<br>│  │      03jquery选择器02.flv<br>│  │<br>│  ├─02-样式操作和click事件<br>│  │      01样式的操作.flv<br>│  │      02绑定click事件.flv<br>│  │      03索引值-选项卡.flv<br>│  │<br>│  ├─03-jQuery特效和链式调用<br>│  │      01jquery特性效果.flv<br>│  │      02特性效果-链式调用-层级菜单.flv<br>│  │      03修正反复点击持续动画的bug.flv<br>│  │<br>│  ├─04-jQuery animate动画<br>│  │      01滑动选项卡.flv<br>│  │      02animate动画.flv<br>│  │      03作业.flv<br>│  │      04复习.flv<br>│  │<br>│  ├─05-元素的尺寸、位置和页面滚动事件<br>│  │      01元素尺寸-元素位置-加入购物车.flv<br>│  │      02scrollleft-top-悬浮菜单.flv<br>│  │      03悬浮菜单-滚动到顶部.flv<br>│  │<br>│  ├─06-元素属性操作和jQuery循环<br>│  │      01属性操作.flv<br>│  │      02手风琴01.flv<br>│  │      03手风琴02.flv<br>│  │      04jquery循环.mp4<br>│  │<br>│  ├─07-jQuery事件<br>│  │      01bind绑定事件和解绑.flv<br>│  │      02事件冒泡-阻止事件冒泡.flv<br>│  │      03阻止事件冒泡-弹框实例.flv<br>│  │      04事件委托.flv<br>│  │      05jquery事件.flv<br>│  │      06复习.flv<br>│  │<br>│  ├─08-节点操作<br>│  │      01节点操作.flv<br>│  │      02todolist01.flv<br>│  │      03todolist02.flv<br>│  │<br>│  ├─09-整屏滚动<br>│  │      01整屏滚动01.flv<br>│  │      02复习.flv<br>│  │      02整屏滚动02.flv<br>│  │<br>│  ├─10-幻灯片<br>│  │      01幻灯片01.flv<br>│  │      02幻灯片02.flv<br>│  │      03幻灯片03.flv<br>│  │      04幻灯片04.flv<br>│  │<br>│  ├─11-ajax和jsonp<br>│  │      01json.flv<br>│  │      02配置服务器环境.flv<br>│  │      03ajax01.flv<br>│  │      04ajax02.flv<br>│  │      05jsonp-360联想词获取.flv<br>│  │<br>│  ├─12-Jquery UI和本地存储<br>│  │      01本地存储.flv<br>│  │      02只弹一次的弹框.flv<br>│  │      03jqueryui-拖拽.flv<br>│  │<br>│  ├─13-移动端js事件和swiper库<br>│  │      01移动端js事件和库.flv<br>│  │      02swiper参数设置-自定义.flv<br>│  │<br>│  ├─14-Bootstrap容器、栅格、按钮、表单<br>│  │      01表单-字体图标.flv<br>│  │      02bootstrap介绍-容器.flv<br>│  │      03栅格系统.flv<br>│  │      04栅格响应式原理.flv<br>│  │      05栅格偏移-栅格隐藏.flv<br>│  │      06按钮的创建.flv<br>│  │      07复习.flv<br>│  │<br>│  ├─15-Bootstrap菜单、对话框、布局实例<br>│  │      01菜单01.flv<br>│  │      02菜单切换效果.flv<br>│  │      03模态框.flv<br>│  │      04js控制弹框弹出和隐藏.flv<br>│  │      05布局实例01.flv<br>│  │      06布局实例02.flv<br>│  │<br>│  └─16-正则表达式和前端性能优化<br>│          01正则表达式-表单验证.flv<br>│          02表单验证02.flv<br>│          03前端性能优化.flv<br>│<br>├─11 Django框架<br>│  ├─01-Django框架简介与环境搭建<br>│  │      01_MVC框架简介1.flv<br>│  │      02_MVC框架简介.flv<br>│  │      03_Django简介.flv<br>│  │      04_虚拟环境的创建和使用.flv<br>│  │      05_Django项目和应用创建.flv<br>│  │<br>│  ├─02-Django的基本使用<br>│  │      01_ORM简介.flv<br>│  │      02_模型<em>模型类设计和表生成.flv<br>│  │      03</em>模型<em>通过模型类操作数据表.flv<br>│  │      04</em>模型_模型类关系和关系查询.flv<br>│  │      05_Django后台管理.flv<br>│  │      06_视图<em>使用.flv<br>│  │      07</em>模板_使用.flv<br>│  │      08_MVT综合案例.flv<br>│  │<br>│  ├─03-Model属性及后端配置<br>│  │      01_模型<em>Django配置使用mysql数据库.flv<br>│  │      02</em>复习案例<em>1.flv<br>│  │      03</em>复习案例<em>重定向.flv<br>│  │      04</em>答疑<em>页面url地址的设置.flv<br>│  │      05</em>模型<em>字段属性和选项.flv<br>│  │      06</em>查询<em>相关函数1.flv<br>│  │      07</em>查询<em>相关函数2.flv<br>│  │      08</em>查询集.flv<br>│  │<br>│  ├─04-模型关系及相关操作<br>│  │      01_模型<em>模型类关系.flv<br>│  │      02</em>模型<em>关联查询.flv<br>│  │      03</em>模型<em>插入和删除.flv<br>│  │      04</em>模型<em>自关联.flv<br>│  │      05</em>模型<em>模型管理器对象.flv<br>│  │      06</em>模型<em>模型管理器类和模型类关系.flv<br>│  │      07</em>模型<em>元选项.flv<br>│  │<br>│  ├─05-登录案例<br>│  │      01</em>视图<em>url匹配的过程.flv<br>│  │      02</em>视图<em>错误视图.flv<br>│  │      03</em>视图<em>捕获url参数.flv<br>│  │      04</em>视图<em>登录案例1.flv<br>│  │      05</em>视图_登录案例2_request对象属性.flv<br>│  │      06_视图<em>ajax请求.flv<br>│  │      07</em>视图<em>ajax同步和异步.flv<br>│  │      08</em>视图<em>ajax登录案例.flv<br>│  │<br>│  ├─06-cookie与session<br>│  │      01</em>状态保持<em>cookie.flv<br>│  │      02</em>状态保持<em>cookie记住用户名.flv<br>│  │      03</em>状态保持<em>session.flv<br>│  │      04</em>状态保存<em>session记住登录状态.mp4<br>│  │      05</em>状态保持<em>cookie和session应用场景.flv<br>│  │<br>│  ├─07-模板templates<br>│  │      01</em>模板<em>模板文件使用.flv<br>│  │      02</em>模板<em>模板文件加载顺序.flv<br>│  │      03</em>模板语言<em>模板变量.flv<br>│  │      04</em>模板语言<em>模板标签和过滤器.flv<br>│  │      05</em>模板语言<em>自定义过滤器.flv<br>│  │      06</em>模板语言<em>模板注释.flv<br>│  │      07</em>模板语言<em>小结.flv<br>│  │      08</em>模板<em>模板继承.flv<br>│  │      09</em>模板<em>html转义.flv<br>│  │<br>│  ├─08-基于模板登录案例<br>│  │      01</em>模板<em>登录装饰器.flv<br>│  │      02</em>模板<em>csrf伪造.flv<br>│  │      03</em>模板_django_csrf防护.flv<br>│  │      04_模板<em>验证码.flv<br>│  │      05</em>模板<em>url反向解析.flv<br>│  │<br>│  ├─09-django功能-静态文件、中间件、后台<br>│  │      01</em>静态文件.flv<br>│  │      02_中间件<em>概念.flv<br>│  │      03</em>中间件<em>执行流程.flv<br>│  │      04</em>中间件<em>小结.flv<br>│  │      05</em>后台管理<em>列表页选项.flv<br>│  │      06</em>后台管理<em>编辑页选项.flv<br>│  │      07</em>后台管理<em>自定义页面.flv<br>│  │<br>│  └─10-图片上传及分页<br>│          01</em>上传图片<em>后台管理页面上传.flv<br>│          02</em>上传图片<em><a href="http://www.wuying521.cn自定义页面上传.flv" target="_blank" rel="noopener">www.wuying521.cn自定义页面上传.flv</a><br>│          03</em>分页.flv<br>│          04_分页<em>小结.flv<br>│          05</em>省市县案例<em>获取省.flv<br>│          06省市县案例</em>获取市和县.flv<br>│<br>├─12 git版本管理<br>│  ├─01-git基本操作<br>│  │      01_git_简介.flv<br>│  │      02_git_版本创建.flv<br>│  │      03_git_版本回退.flv<br>│  │      04_git_工作区和暂存区.flv<br>│  │      05_git_管理修改.flv<br>│  │      06_git_撤销修改.flv<br>│  │      07_git_对比文件不同.flv<br>│  │      08_git_删除文件.flv<br>│  │      09_git_基本操作小结.flv<br>│  │      10_补充_删除文件.flv<br>│  │<br>│  ├─02-git分支管理<br>│  │      01_git分支_基本操作.flv<br>│  │      02_git分支_解决冲突.flv<br>│  │      03_git分支_分支管理策略.flv<br>│  │      04_git分支_bug分支.mp4<br>│  │      05_git分支_小结.flv<br>│  │<br>│  └─03-GitHub使用<br>│          01_github_创建仓库.flv<br>│          02_github_添加ssh账户.flv<br>│          03_github_克隆项目.flv<br>│          04_github_推送代码.flv<br>│          05_github_跟踪远程.flv<br>│          06_github_拉取代码.flv<br>│          07_工作git使用流程.flv<br>│<br>├─13 redis数据库<br>│  ├─01-redis安装和配置<br>│  │      01_redis_nosql和redis简介.flv<br>│  │      02_redis_redis安装.flv<br>│  │      03_redis_redis配置.flv<br>│  │      04_redis_启动服务端和客户端.flv<br>│  │<br>│  ├─02-redis数据类型及其操作<br>│  │      01_redis数据类型_简介.flv<br>│  │      02_redis数据类型_string和键命令.flv<br>│  │      03_redis数据类型_hash命令mp4.flv<br>│  │      04_redis数据类型_list命令.flv<br>│  │      05_redis数据类型_set和zset命令.flv<br>│  │      06_redis数据类型_小结.flv<br>│  │<br>│  ├─03-redis与python交互<br>│  │      01_redis_python和redis交互.mp4<br>│  │      02_redis_redis存储session信息.mp4<br>│  │<br>│  ├─04-redis搭建主从服务<br>│  │      01_redis_主从配置.flv<br>│  │      02_redis_主从概念.flv<br>│  │<br>│  └─05-redis集群<br>│          01_redis_集群概念.flv<br>│          02_redis_集群配置.flv<br>│          03_redis_python和集群交互.flv<br>│<br>├─14 天天生鲜Django项目<br>│  ├─01-天天生鲜需求分析<br>│  │      01_天天生鲜<em>商业模式.flv<br>│  │      02</em>天天生鲜<em>web项目开发流程.flv<br>│  │      03</em>天天生鲜<em>需求分析.flv<br>│  │      04</em>天天生鲜<em>架构预览.flv<br>│  │      05</em>天天生鲜<em>架构设计.flv<br>│  │<br>│  ├─02-天天生鲜数据库设计<br>│  │      01</em>天天生鲜<em>数据库设计1.flv<br>│  │      02</em>天天生鲜<em>数据库设计2.flv<br>│  │      03天天生鲜</em>模型类设计.flv<br>│  │      04_天天生鲜<em>连接远程数据库.flv<br>│  │      05</em>天天生鲜<em>choices选项和富文本编辑器.flv<br>│  │      06</em>天天生鲜<em>项目框架搭建.flv<br>│  │<br>│  ├─03-用户注册<br>│  │      01</em>注册基本逻辑.flv<br>│  │      02_显示注册页面和注册处理使用同一个url地址.flv<br>│  │      03_类视图使用.flv<br>│  │      04_类视图原理.flv<br>│  │      05_生成激活用户token.flv<br>│  │      06_注册用户激活流程.flv<br>│  │      07_django内置函数发送激活邮件.flv<br>│  │      08_用户注册流程小结.flv<br>│  │      09_celery异步发送邮件.flv<br>│  │      10_celery使用流程小结.flv<br>│  │<br>│  ├─04-用户登录<br>│  │      01_登录基本逻辑.flv<br>│  │      02_配置redis作为Django缓存和session存储后端.mp4<br>│  │      03_记住用户名.mp4<br>│  │<br>│  ├─05-用户中心<br>│  │      01_父模板页抽象.flv<br>│  │      02_用户中心页面显示.flv<br>│  │      03_登录装饰器和登录后页面跳转.flv<br>│  │      04_LoginRequiredMixin类的使用.flv<br>│  │      05_LoginRequiredMixin类的原理.flv<br>│  │      06_登录后欢迎信息.flv<br>│  │      07_退出用户登录.flv<br>│  │      08_登录判断<em>欢迎信息</em>退出登录小结.flv<br>│  │      09_用户中心<em>地址页.flv<br>│  │      10</em>模型管理器类方法封装.flv<br>│  │      11_用户中心<em>个人信息页.flv<br>│  │      12</em>历史记录存储格式设计.flv<br>│  │      13_获取用户历史浏览记录.flv<br>│  │<br>│  ├─06-分布式FastDFS文件系统<br>│  │      01_FastDFS文件系统简介.flv<br>│  │      02_FastDFS上传文件和下载文件流程.flv<br>│  │      03_FastDFS的安装和配置.flv<br>│  │      04_Nginx配合FastDFS使用的安装和配置.flv<br>│  │      05_python和FastDFS交互.flv<br>│  │      06_虚拟机中FastDFS配置文件的修改.flv<br>│  │      07_项目中上传和使用图片的流程.flv<br>│  │      08_自定义文件存储类.flv<br>│  │      09_amdin页面测试文件存储类.flv<br>│  │      10_改进自定义文件存储类.flv<br>│  │      11_FastDFS上传图片小结.flv<br>│  │<br>│  ├─07-天天生鲜首页<br>│  │      01_页面静态化<em>celery生成首页静态页面.flv<br>│  │      02</em>配置nginx提交静态页面.flv<br>│  │      03_admin管理更新首页数据表数据时重新生成index静态页面.flv<br>│  │      04_静态index页面和IndexView的调度说明.flv<br>│  │      05_首页数据缓存设置和获取.flv<br>│  │      06_首页缓存数据的更新.flv<br>│  │      07_页面静态化和缓存数据<em>小结.flv<br>│  │      08</em>商品模型模型类概述.flv<br>│  │      09_首页内容获取和展示.flv<br>│  │      10_首页内容获取和展示小结.flv<br>│  │      11_redis存储购物车记录分析.flv<br>│  │      12_首页获取购物车商品数目.flv<br>│  │<br>│  ├─08-天天生鲜详情页<br>│  │      01_用户历史浏览记录的添加.flv<br>│  │      02_商品详情信息的获取和显示.flv<br>│  │      03_获取同一SPU的其他规格的商品信息.flv<br>│  │<br>│  ├─09-天天生鲜列表页<br>│  │      01_列表页页码控制.flv<br>│  │      02_商品列表页内容的获取和显示.flv<br>│  │<br>│  ├─10-天天生鲜商品搜索<br>│  │      01_商品搜索<em>全文检索概念.flv<br>│  │      02</em>商品搜索<em>全文检索框架和引擎的安装和配置.flv<br>│  │      03</em>商品搜索<em>生成索引文件.flv<br>│  │      04</em>商品搜索<em>全文检索的使用.flv<br>│  │      05</em>商品搜索<em>更改分词方式.flv<br>│  │      06</em>商品搜索<em>小结.flv<br>│  │<br>│  ├─11-天天生鲜购物车记录添加<br>│  │      01</em>商品详情页js代码.flv<br>│  │      02_购物车记录添加后台view.flv<br>│  │      03_购物车记录添加前端js.flv<br>│  │      04_购物车记录添加<em>小结.flv<br>│  │      05</em>购物车页面显示.flv<br>│  │<br>│  ├─12-天天生鲜购物车记录更新<br>│  │      01_购物车js_全选<em>全不选</em>商品的选中和不选中.flv<br>│  │      02_购物车记录更新<em>后台view.flv<br>│  │      03</em>购物车记录更新<em>前端数目增加js.flv<br>│  │      04</em>购物车记录更新<em>前端数目减少</em>手动输入js.flv<br>│  │      05_购物车记录删除<em>后台view.flv<br>│  │      06</em>购物车记录删除<em>前端js.flv<br>│  │      07</em>购物车模块<em>小结.flv<br>│  │<br>│  ├─13-天天生鲜订单生成<br>│  │      01</em>订单生成<em>mysql事务概念.flv<br>│  │      02</em>订单生成<em>django中使用事务.flv<br>│  │      03</em>提交订单页面显示.flv<br>│  │      04_创建订单前端js.flv<br>│  │      05_创建订单后台view.flv<br>│  │<br>│  ├─14-天天生鲜订单并发处理<br>│  │      01_订单生成<em>订单并发问题.flv<br>│  │      02</em>订单并发<em>悲观锁.flv<br>│  │      03</em>订单并发<em>乐观锁.flv<br>│  │      04</em>订单并发<em>总结.flv<br>│  │<br>│  ├─15-天天生鲜订单支付、评论<br>│  │      01</em>订单支付<em>获取支付结果.flv<br>│  │      02</em>用户中心-订单页面.flv<br>│  │      03_订单支付<em>支付宝简介.flv<br>│  │      04</em>订单支付<em>网站对接支付宝流程图.flv<br>│  │      05</em>订单支付<em>订单支付代码.flv<br>│  │<br>│  ├─16-天天生鲜部署<br>│  │      01</em>订单评论代码走读.flv<br>│  │      02_部署<em>uwsgi作为web服务器.flv<br>│  │      03</em>部署<em>基本部署架构解析.flv<br>│  │      04</em>部署<em>nginx转交请求给uwsgi.flv<br>│  │      05</em>部署<em>nginx配置处理静态文件.flv<br>│  │      06</em>部署<em>nginx转交请求给其他地址.flv<br>│  │      07</em>部署<em>nginx配置upstream实现负载均衡.flv<br>│  │      08</em>部署<em>小结.flv<br>│  │<br>│  └─17-天天生鲜项目总结<br>│          01</em>天天生鲜项目<em>总结.flv<br>│<br>├─15 flask框架<br>│  ├─01-flask安装配置<br>│  │      01</em>回顾http通讯.flv<br>│  │      02_认识flask.flv<br>│  │      03_虚拟环境工具说明.flv<br>│  │      04_第一个flask程序.flv<br>│  │<br>│  ├─02-app对象的初始化和配置<br>│  │      01_flask应用对象初始化参数说明.flv<br>│  │      02_静态文件目录与路由说明.flv<br>│  │      03_flask的配置参数设置.flv<br>│  │      04_读取配置参数的方式.flv<br>│  │      05_app的run使用说明.flv<br>│  │<br>│  ├─03-视图函数的路由<br>│  │      01_视图函数的路由规则设置说明.flv<br>│  │      02_路由提取参数与自定义路由转换器.flv<br>│  │      03_路由转换器的进阶使用.flv<br>│  │<br>│  ├─04-request对象<br>│  │      01_request的form_data_args用法.flv<br>│  │      02_上传文件.flv<br>│  │      03_with使用.flv<br>│  │<br>│  ├─05-abort函数、自定义错误、 视图函数的返回值<br>│  │      01_abort函数的使用.flv<br>│  │      02_自定义错误处理方法.flv<br>│  │      03_设置响应信息的方法.flv<br>│  │      04_返回json数据的方法.flv<br>│  │<br>│  ├─06-cookie和session<br>│  │      01_cookie的使用.mp4<br>│  │      02_postman的安装.mp4<br>│  │      03_session机制说明.flv<br>│  │<br>│  ├─07-flask上下文和请求钩子<br>│  │      01_请求钩子的补充说明.flv<br>│  │      02_flask的上下文对象.flv<br>│  │      03_请求钩子.flv<br>│  │      04_flask_script脚本扩展的使用.flv<br>│  │<br>│  ├─08-模板<br>│  │      01_模板与自定义过滤器.flv<br>│  │      02_引入表单扩展.flv<br>│  │      03_创建表单模型类与模板使用.flv<br>│  │      04_使用表单接受并检验参数.flv<br>│  │      05_关于表单的补充说明.flv<br>│  │      06_模板宏的使用.flv<br>│  │      07_宏定义在外部的使用.flv<br>│  │      08_模板的闪现使用.flv<br>│  │<br>│  ├─09-数据库扩展包flask-sqlalchemy<br>│  │      01_使用sqlalchemy的配置.flv<br>│  │      02_创建模型类.flv<br>│  │      03_创建数据库表.flv<br>│  │      04_保存数据.flv<br>│  │      05_sqlalchemy数据库查询.flv<br>│  │      06_关联查询与自定义显示信息.flv<br>│  │      07_数据的修改与删除.flv<br>│  │<br>│  ├─10-图书案例<br>│  │      01_图书作者小案例.flv<br>│  │      02_图书作者小案例2.flv<br>│  │<br>│  ├─11-数据库迁移扩展包Flask-Migrate、 邮件扩展包Flask-Mail<br>│  │      01数据库migrate扩展的使用简介.flv<br>│  │      02_migrate扩展的使用.flv<br>│  │      03_使用flask发送邮件.flv<br>│  │<br>│  ├─12-不使用蓝图解决模块划分问题<br>│  │      01_循环引用.flv<br>│  │      02_使用装饰器解决模块分割问题.flv<br>│  │<br>│  ├─13-使用蓝图划分模块<br>│  │      01_蓝图的基本定义与使用.flv<br>│  │      02_以目录形式定义蓝图.flv<br>│  │      03_蓝图里模板目录的处理.flv<br>│  │<br>│  ├─14-单元测试<br>│  │      01_单元测试引入.flv<br>│  │      02_assert断言的使用.flv<br>│  │      03_实现简单的单元测试.flv<br>│  │      04_单元测试的setUp与flask的测试模式.flv<br>│  │      05_数据库测试.flv<br>│  │<br>│  └─15-flask部署<br>│          01_flask部署.flv<br>│          02_sqlalchemy操作mysql提示警告的问题.flv<br>│<br>├─16 微信公众号<br>│  ├─01-开发配置和微信服务器接入<br>│  │      01_认识微信公众号.flv<br>│  │      02_了解微信公众号开发.flv<br>│  │      03_微信公众号开发的配置说明.flv<br>│  │      04_学校服务器使用说明.flv<br>│  │      05_接入微信公众号服务器开发.flv<br>│  │<br>│  ├─02-公众号接收和发送消息<br>│  │      01_开发者服务器收发微信消息的流程.flv<br>│  │      02_xmltodict工具的使用.flv<br>│  │      03_收发微信消息数据开发.flv<br>│  │      04_其他消息与事件消息.mp4<br>│  │      05测试消息接口.mp4<br>│  │<br>│  └─03-微信网页授权<br>│          01_网页获取微信用户资料开发.flv<br>│          02_获取微信用户资料流程说明.flv<br>│<br>├─17 爱家租房项目<br>│  ├─01-项目说明<br>│  │      01_项目资料说明.flv<br>│  │      02_前后端分离的认识.flv<br>│  │      03_前端后分离对于搜索引擎的缺点.flv<br>│  │      04_项目业务说明.flv<br>│  │<br>│  ├─02-项目文件目录结构<br>│  │      01_在单一文件中构建所有依赖工具.flv<br>│  │      02_创建工程目录1.flv<br>│  │      03_创建工程目录2.flv<br>│  │      04_循环导入的解决.flv<br>│  │      05_日志功能.flv<br>│  │<br>│  ├─03-数据库设计<br>│  │      01_项目数据库设计.flv<br>│  │      02_项目模型类说明.flv<br>│  │      03_日志级别bug处理.flv<br>│  │      04_数据库迁移处理.flv<br>│  │<br>│  ├─04-静态文件接口<br>│  │      01_提供静态文件的蓝图编写.flv<br>│  │      02_csrf防护机制.flv<br>│  │      03_在静态路由中添加生成csrf_token的cookie值.flv<br>│  │<br>│  ├─05-图片验证码<br>│  │      01_图片验证码的使用流程.flv<br>│  │      02_restful风格介绍.flv<br>│  │      03_图片验证码后端接口编写.flv<br>│  │      04_开发流程与接口文档编写.flv<br>│  │      05_图片验证码的前端编写.flv<br>│  │<br>│  ├─06-短信验证<br>│  │      01_云通讯使用介绍.flv<br>│  │      02_云通讯发送短信工具封装.flv<br>│  │      03_发送短信验证码后端编写.flv<br>│  │      04_测试发送短信验证码.flv<br>│  │      05_补充防止对同一个图片验证码进行<a href="http://www.wuying521.cn校验的逻辑.flv" target="_blank" rel="noopener">www.wuying521.cn校验的逻辑.flv</a><br>│  │      06_后端补充禁止60秒重复操作的逻辑.flv<br>│  │      07发送短信验证码前端编写.flv<br>│  │<br>│  ├─07-注册<br>│  │      01注册的后端编写.flv<br>│  │      02密码加密与property装饰器使用.flv<br>│  │      03_密码作为只允许设置的逻辑编写.flv<br>│  │      04_注册后端测试.flv<br>│  │      05_注册前端编写.flv<br>│  │      06_补充csrf的逻辑.flv<br>│  │      07作业说明.flv<br>│  │<br>│  ├─08-登录<br>│  │      01_登录后端逻辑编写.flv<br>│  │      02_登录测试与前端代码.flv<br>│  │      03_检查登录状态与退出代码.flv<br>│  │      04_登录验证装饰器.flv<br>│  │<br>│  ├─09-个人信息<br>│  │      01_图片存储服务的引入.flv<br>│  │      02_七牛上传图片的使用.flv<br>│  │      03_保存头像后端编写.flv<br>│  │      04_上传图片的前端代码.flv<br>│  │      05_图片表单的使用说明.mp4<br>│  │      06_作业接口说明.mp4<br>│  │<br>│  ├─10-城区信息<br>│  │      01_城区信息后端编写.flv<br>│  │      02_缓存机制的介绍.flv<br>│  │      03_为城区信息补充缓存.flv<br>│  │      04_缓存数据同步的问题.flv<br>│  │      05_用户模块修改用户名<em>获取个人资料</em>实名认证代码说明.flv<br>│  │      06_城区信息前端编写与前端模板的使用.flv<br>│  │<br>│  ├─11-发布房源<br>│  │      01_保存房屋基本信息数据后端编写.flv<br>│  │      02_保存房屋图片后端接口编写.flv<br>│  │      03_保存房屋基本信息前端代码.flv<br>│  │      04_保存房屋图片前端代码与测试.flv<br>│  │      05_map函数的使用.flv<br>│  │<br>│  ├─12-celery<br>│  │      01_celery模型说明.flv<br>│  │      02_celery的基本使用.flv<br>│  │<br>│  ├─13-房屋管理<br>│  │      01_房屋管理后端接口后端说明.flv<br>│  │      02_房屋管理前端代码说明.flv<br>│  │<br>│  ├─14-房屋列表<br>│  │      01_房屋列表页业务分析.flv<br>│  │      02_房屋列表后端参数判断编写.flv<br>│  │      03_构造时间条件.flv<br>│  │      04_房屋列表页分页补充与测试.flv<br>│  │      05_等号参数的说明.flv<br>│  │      06_房屋列表页缓存处理.flv<br>│  │      07redis的pipeline使用.flv<br>│  │      08_房屋列表页前端代码.flv<br>│  │<br>│  ├─15-订单<br>│  │      01_订单模块后端代码讲解.flv<br>│  │      02_订单模块前端代码讲解.flv<br>│  │<br>│  ├─16-订单支付<br>│  │      01_支付宝接入流程.flv<br>│  │      02_支付宝手机网站支付流程.flv<br>│  │      03_支付宝秘钥说明与sdk工具使用.flv<br>│  │      04_支付宝支付的后端接口编写.flv<br>│  │      05_支付宝支付测试.flv<br>│  │      06_获取支付宝支付结果修改订单数据.flv<br>│  │<br>│  └─17-项目优化<br>│          01_csrf_token缺失bug的解决.flv<br>│          02_数据库优化介绍1.flv<br>│          03数据库优化介绍2.flv<br>│          04_工作账号介绍.flv<br>│<br>├─18 通用爬虫模块使用<br>│  ├─01-爬虫基本概念<br>│  │      01字符换知识点的复习.flv<br>│  │      02http和http的概念.flv<br>│  │      03markdown介绍.flv<br>│  │      04URL格式和http请求格式.flv<br>│  │      05爬虫的流程.flv<br>│  │      06爬虫课程的介绍和概念.flv<br>│  │      07搜索引擎的工作原理及robots协议.flv<br>│  │      08浏览器发送请求的流程.flv<br>│  │<br>│  ├─02-爬虫requests库<br>│  │      01requests模块发送带headers的请求和带参数的请求.flv<br>│  │      02贴吧爬虫.flv<br>│  │      03requests模块发送post请求.flv<br>│  │      04requests模块使用代理.flv<br>│  │      05requests模拟登陆的三种方式.flv<br>│  │      06requests模块发送请求和获取网页的字符串.flv<br>│  │      07requests保存图片.flv<br>│  │<br>│  ├─03-chrome分析post与json<br>│  │      01寻找post的地址.flv<br>│  │      02寻找js和分析js.flv<br>│  │      03requests的小技巧.flv<br>│  │<br>│  ├─04-爬虫数据-json数据处理<br>│  │      01数据的分类.flv<br>│  │      02json模块的学习01.flv<br>│  │      03json模块的学习02.flv<br>│  │      04kr的练习.flv<br>│  │      05豆瓣爬虫练习.flv<br>│  │<br>│  ├─05-爬虫数据-正则处理数据<br>│  │      01正则和原始字符串r.flv<br>│  │      02内涵段子爬虫.flv<br>│  │<br>│  ├─06-爬虫数据-xpath处理数据<br>│  │      01xml的了解.flv<br>│  │      02xpath的学习01.flv<br>│  │      03xpath模块的学习02.flv<br>│  │      04lxml模块的学习.flv<br>│  │<br>│  ├─07-通用爬虫案例<br>│  │      01贴吧爬虫01.flv<br>│  │      02贴吧爬虫02.flv<br>│  │      03糗百爬虫01.flv<br>│  │      04糗百爬虫02.flv<br>│  │      05爬虫思路总结.flv<br>│  │      06csv和作业.flv<br>│  │      07多线程爬虫的实现.flv<br>│  │<br>│  ├─08-爬取动态html数据<br>│  │      01分析.flv<br>│  │      02后续代码的建议和动态hemlt的介绍.flv<br>│  │      03selenium的入门使用.flv<br>│  │<br>│  ├─09-豆瓣登录案例<br>│  │      01豆瓣登录.mp4<br>│  │      02打码平台的使用.flv<br>│  │      03验证码识别总结.mp4<br>│  │      04元素定位的方法和iframe的切换和selenium使用的注意点.flv<br>│  │<br>│  └─10-斗鱼爬虫<br>│          01tesseract的使用.flv<br>│          02driver的安装.flv<br>│          03斗鱼爬虫.flv<br>│<br>├─19 MongoDB数据库<br>│  ├─01-MongoDB安装配置及基本操作<br>│  │      01mongodb的介绍.flv<br>│  │      02mongodb的安装和启动.mp4<br>│  │      03mongodb的增删改查.flv<br>│  │      04mongodb的高级查询.flv<br>│  │      05mongodb的备份恢复.mp4<br>│  │      06mongodb的聚合命令.flv<br>│  │<br>│  └─02-MongoDB高级操作及案例<br>│          01sort skip limit的方法.flv<br>│          02unwind的使用.flv<br>│          03索引的建立.flv<br>│          04mongodb豆瓣练习.flv<br>│          05mongdb的豆瓣练习02.flv<br>│          06pymongo的操作.flv<br>│<br>├─20 爬虫scrapy框架及案例<br>│  ├─01-scrapy框架介绍<br>│  │      01scrapy的介绍.mp4<br>│  │      02scrapy的流程.flv<br>│  │      03sacrapy的入门使用.flv<br>│  │<br>│  ├─02-scrapy-pipline、item、shell<br>│  │      01pipeline的介绍.flv<br>│  │      02logging模块的使用.flv<br>│  │      03构造请求和腾讯爬虫.flv<br>│  │      04item的介绍和使用.flv<br>│  │      05阳光政务平台爬虫.flv<br>│  │      06debug信息的认识.flv<br>│  │      07scrapy shell的使用.flv<br>│  │      08scrapy ettings和管道的深入.flv<br>│  │<br>│  ├─03-苏宁图书案例<br>│  │      01苏宁图书爬虫01.flv<br>│  │      02苏宁图书爬虫02.flv<br>│  │<br>│  ├─04-scrapy-crawlspider<br>│  │      01crawlspider爬虫案例.flv<br>│  │      02crawlspdier爬虫介绍.flv<br>│  │<br>│  ├─05-scrapy-downloadmiddleware<br>│  │      01携带cookie登录.flv<br>│  │      02下载中间件的学习.flv<br>│  │      03发送post请求登录.flv<br>│  │      04介绍和总结.flv<br>│  │<br>│  ├─06-百度贴吧-crawlspider版本<br>│  │      01贴吧爬虫和crawlspider爬虫.flv<br>│  │<br>│  ├─07-scrapy-分布式<br>│  │      01scrapyredis的介绍.flv<br>│  │      02 redis复习.flv<br>│  │      03domz程序介绍.flv<br>│  │      04scrapy_redis的源码介绍.flv<br>│  │      05 jd爬虫.flv<br>│  │<br>│  └─08-分布式爬虫案例<br>│          01当当爬虫01.flv<br>│          02当当爬虫02.flv<br>│          03当当爬虫运行演示.flv<br>│          04亚马逊爬虫.flv<br>│          05亚马逊爬虫02.flv<br>│          06亚马逊爬虫03.flv<br>│          07pycharm发布代码.flv<br>│          08crontab的使用.flv<br>│<br>├─21 数据分析<br>│  ├─01-数据分析介绍和环境安装<br>│  │      01数据分析的介绍(1).flv<br>│  │      02jupyter和conda的使用.flv<br>│  │<br>│  ├─02-matplotlib折线图<br>│  │      01matplotlib的基础绘图01.flv<br>│  │      02matplotlib的基础绘图和调整x轴的刻度.flv<br>│  │      03matplotlib的绘制10点到12点的气温.mp4<br>│  │      04matplotlib设置显示中文.flv<br>│  │      05matplotlib的设置图形信息.mp4<br>│  │      06matplotlib绘制多次图形和不同图形的差异介绍和总结.flv<br>│  │<br>│  ├─03-matplotlib常用统计图<br>│  │      01绘制散点图.flv<br>│  │      02绘制条形图.flv<br>│  │      03绘制多次条形图.flv<br>│  │      04绘制直方图.flv<br>│  │      05更多的绘图工具的了解.flv<br>│  │<br>│  ├─04-numpy数组<br>│  │      01数组的计算和数组的计算.flv<br>│  │      02numpy的数组的创建.flv<br>│  │<br>│  ├─05-numpy读取本地数据和索引<br>│  │      01numpy读取本地数据.flv<br>│  │      02numpy中的索引和切片.flv<br>│  │      03numpy中更多的索引方式.flv<br>│  │<br>│  ├─06-numpy中的nan和常用方法<br>│  │      01数据的拼接.flv<br>│  │      02numpy中的随机方法.flv<br>│  │      03numpy中的nan和常用统计方法.flv<br>│  │      04numpy中填充nan和youtube数据的练习.flv<br>│  │<br>│  ├─07-series和读取外部数据<br>│  │      01pandas的series的了解.flv<br>│  │      02pandas读取外部数据.flv<br>│  │<br>│  ├─08-dataframe<br>│  │      01pandas的dataFrame的创建.flv<br>│  │      02Dataframe的描述信息.flv<br>│  │      03dataFrame的索引.flv<br>│  │      04bool索引和缺失数据的处理.flv<br>│  │<br>│  ├─09-统计方法和字符串离散化<br>│  │      01电影数直方图.flv<br>│  │      02padas的常用统计方法.flv<br>│  │<br>│  ├─10-数据的合并和分组聚合<br>│  │      01字符串离散化的案例.flv<br>│  │      02数据合并.flv<br>│  │      03数据分组聚合.flv<br>│  │      04数据分组聚合02.flv<br>│  │      05数据的索引学习.flv<br>│  │      06数据分组聚合练习和总结.flv<br>│  │<br>│  ├─11-时间序列<br>│  │      01pandas时间序列01.flv<br>│  │      02pandas时间序列02.flv<br>│  │<br>│  └─12-pandas案例<br>│          01案例.flv<br>│          02PM2.5案例.flv<br>│          03PM2.5案例02.flv<br>│          04豆瓣电视的案例.flv<br>│<br>├─22 机器学习<br>│  ├─01-机器学习介绍<br>│  │      01_机器学习简介.flv<br>│  │      02_机器学习概述.flv<br>│  │<br>│  ├─02-特征工程和文本特征提取<br>│  │      03_数据集的组成.flv<br>│  │      04_特征工程的定义.flv<br>│  │      05_字典特征数据抽取.flv<br>│  │      06_文本特征抽取以及中文问题.flv<br>│  │      07_tf-df分析问题.flv<br>│  │<br>│  ├─03-数据特征预处理<br>│  │      09_归一化以及标准化对比.flv<br>│  │      10_标准化总结以及缺失值处理.flv<br>│  │      11_标准化总结以及缺失值处理.flv<br>│  │      22_03_08_特征预处理-归一化.mp4<br>│  │<br>│  ├─04-数据降维<br>│  │      13_降维案例1.flv<br>│  │      14_降维案例2.flv<br>│  │      1_数据的降维之特征选择.flv<br>│  │<br>│  ├─05-机器学习概述<br>│  │      01_第一天复习.flv<br>│  │      02_数据的划分和介绍.flv<br>│  │      03_转换器与估计器.flv<br>│  │      15_机器学习算法分类以及开发流程.flv<br>│  │<br>│  ├─06-k-近邻算法<br>│  │      04_k-近邻算法以及案例预测入住位置.flv<br>│  │      05_K-近邻算法案例.flv<br>│  │      06_k-近邻算法总结.flv<br>│  │<br>│  ├─07-朴素贝叶斯算法<br>│  │      07_朴素贝叶斯算法原理.flv<br>│  │      08_朴素贝叶斯算法对新闻进行分类案例.flv<br>│  │      09_朴素贝叶斯算法总结.flv<br>│  │      10_精确率和召回率.flv<br>│  │      11_交叉验证与网格搜索对K-近邻算法调优.flv<br>│  │<br>│  ├─08-决策树和随机森林<br>│  │      12_决策树之信息论基础.flv<br>│  │      13_决策树的划分以及案例.flv<br>│  │      14_决策树的保存结果分析.flv<br>│  │      15_随机森林的原理以及案例调优.flv<br>│  │<br>│  ├─09-线性回归<br>│  │      01_第二天知识回顾.flv<br>│  │      02_线性回归的定义以及矩阵的运算.flv<br>│  │      03_线性回归策略，优化，案例.flv<br>│  │      04_线性回归两种求解方式总结.flv<br>│  │      05_过拟合以及欠拟合.flv<br>│  │      06_Ridge岭回归分析.flv<br>│  │      day02_16_每日总结.flv<br>│  │<br>│  ├─10-逻辑回归<br>│  │      07_模型的保存与加载.flv<br>│  │      08_逻辑回归定义，损失函数，优化与线性回归比较.flv<br>│  │      09_逻辑回归预测癌症案例.flv<br>│  │      10_逻辑回归总结.flv<br>│  │      11_京东金融数据集介绍.flv<br>│  │<br>│  └─11-k-means<br>│          12_k-means原理以及案例.flv<br>│<br>├─23 深度学习<br>│  ├─01-TensorFlow介绍<br>│  │      01_tensorflow基本介绍.flv<br>│  │<br>│  ├─02-图和会话<br>│  │      01tensorflow图的结构.mp4<br>│  │      02_图.flv<br>│  │      03_会话.flv<br>│  │      04_会话的run方法.mp4<br>│  │<br>│  ├─03-张量和基本运算<br>│  │      01张量的定义以及数据.flv<br>│  │      02运算API介绍.flv<br>│  │<br>│  ├─04-变量和模型保存加载<br>│  │      01可视化学习.flv<br>│  │      02_线性回归的原理复习以及实现.flv<br>│  │      03_trainable,学习率的调整，梯度爆炸.flv<br>│  │      04_增加损失值等变量显示.flv<br>│  │      05_模型的保存与加载.flv<br>│  │      06自定义命令行参数.flv<br>│  │<br>│  ├─05-数据读取<br>│  │      01_tensorflow解决读取数据、实现同步模拟.flv<br>│  │      02_队列管理器和协程协调器实现异步读取训练.flv<br>│  │      03_文件读取流程.flv<br>│  │      04_CSV文件读取案例.flv<br>│  │<br>│  ├─06-文件读取分析存储<br>│  │      01图像基本知识分析.flv<br>│  │      02图片文件读取.flv<br>│  │      03二进制文件读取分析.flv<br>│  │      04二进制文件读取.flv<br>│  │      05tfrecords文件的读取与存储.flv<br>│  │<br>│  ├─07-简单神经网络<br>│  │      01_感知机模型.flv<br>│  │      02_神经网络结构.flv<br>│  │      03_简单的神经网络实现手写数字图片识别.flv<br>│  │      04_简单的单层神经网络预测手写数字图片.flv<br>│  │<br>│  ├─08-卷积神经网络<br>│  │      01_卷积神经网络介绍以及卷积层结构.flv<br>│  │      02_激活层与池化层.flv<br>│  │      03面试题分析.flv<br>│  │      04卷积神经网络识别手写数字.flv<br>│  │<br>│  ├─09-验证码识别<br>│  │      01_第六天复习.flv<br>│  │      02_验证码识别原理分析.flv<br>│  │      03_验证码识别程序流程以及图片数据的处理.flv<br>│  │      04_验证码识别的实现.flv<br>│  │<br>│  └─10-分布式系统和线性回归<br>│          01_分布式的原理，架构，更新参数模式.flv<br>│          02自实现一个线性回归.flv<br>│<br>└─24 数据结构和算法<br>    ├─01-数据结构和算法基础<br>    │      01-代码执行时间测量模块timeit.flv<br>    │      02时间复杂度与大O表示法.flv<br>    │      03-数据结构引入.flv<br>    │      04-算法引入.flv<br>    │      05-Python列表类型不同操作的时间效率.flv<br>    │      06-最坏时间复杂度与计算规则.flv<br>    │      07-Python列表与字典操作的时间复杂度.flv<br>    │      08-常见时间复杂度与大小关系.flv<br>    │<br>    ├─02-顺序表<br>    │      01-内存、类型本质、连续存储.flv<br>    │      02-顺序表添加与删除元素<em>Python列表的实现.flv<br>    │      03-基本顺序表与元素外围顺序表.flv<br>    │      04-顺序表的一体式结构与分离式结构.flv<br>    │      05-顺序表数据区替换与扩充.flv<br>    │<br>    ├─03-链表<br>    │      01-单向循环链表遍历和求长度.flv<br>    │      02链表的提出.flv<br>    │      03双向链表及添加元素.flv<br>    │      04-单链表的ADT模型.flv<br>    │      05单向循环链表添加元素.flv<br>    │      06-双向链表删除元素.flv<br>    │      07-Python中变量标识的本质.flv<br>    │      08-单向循环链表删除元素.flv<br>    │      09-单链表及结点的定义代码.flv<br>    │      10-单向循环链表删除元素复习及链表扩展.flv<br>    │      11-单链表的判空、长度、遍历与尾部添加结点的代码实现.flv<br>    │      12-单链表尾部添加和在指定位置添加.flv<br>    │      13-单链表查找和删除元素.flv<br>    │      14单链表与顺序表的对比.flv<br>    │<br>    ├─04-栈与队列<br>    │      01-栈的实现.flv<br>    │      02队列与双端队列的实现.mp4<br>    │      03-栈与队列的概念.mp4<br>    │<br>    ├─05-排序与搜索<br>    │      01-插入算法.flv<br>    │      02-二分查找.flv<br>    │      03-归并排序.flv<br>    │      04-快速排序.flv<br>    │      05-冒泡排序及实现.flv<br>    │      06-排序算法的稳定性.flv<br>    │      07-希尔排序.flv<br>    │      08-选择排序算法及实现.flv<br>    │      09-插入排序1.flv<br>    │      10-二分查找时间复杂度.flv<br>    │      11-归并排序</em>代码执行流程.flv<br>    │      12-快速排序实现1.flv<br>    │      13-希尔排序实现.flv<br>    │      14-插入排序2.flv<br>    │      15-归并排序时间复杂度及排序算法复杂度对比.flv<br>    │      16快速排序实现2.flv<br>    │<br>    └─06-树与树算法<br>            01-二叉树的广度优先遍历.flv<br>            02-树的概念.flv<br>            03-二叉树的概念.flv<br>            04-二叉树的实现.flv</p><blockquote><p>链接：链接：<a href="https://pan.baidu.com/s/12Y5Lf0KYjm23n6yEyGkZgA" target="_blank" rel="noopener">https://pan.baidu.com/s/12Y5Lf0KYjm23n6yEyGkZgA</a>  密码：14ty</p></blockquote><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>]]></content>
+      <title>黑马程序员《爬虫阶段课程-2019年3月份》2019</title>
+      <link href="/%E9%BB%91%E9%A9%AC%E7%A8%8B%E5%BA%8F%E5%91%98/%E9%BB%91%E9%A9%AC%E7%A8%8B%E5%BA%8F%E5%91%98%E3%80%8A%E7%88%AC%E8%99%AB%E9%98%B6%E6%AE%B5%E8%AF%BE%E7%A8%8B-2019%E5%B9%B43%E6%9C%88%E4%BB%BD%E3%80%8B2019/"/>
+      <url>/%E9%BB%91%E9%A9%AC%E7%A8%8B%E5%BA%8F%E5%91%98/%E9%BB%91%E9%A9%AC%E7%A8%8B%E5%BA%8F%E5%91%98%E3%80%8A%E7%88%AC%E8%99%AB%E9%98%B6%E6%AE%B5%E8%AF%BE%E7%A8%8B-2019%E5%B9%B43%E6%9C%88%E4%BB%BD%E3%80%8B2019/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>day01.rar<br>day02.rar<br>day03.rar<br>day04.rar<br>day05.rar<br>day06.rar<br>day07.rar<br><a id="more"></a><br>day08.rar<br>day09.rar<br>day10.rar<br>day11.rar<br>day12.rar<br>day13.rar<br>day14.rar<br>day15.rar</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1rLuqFwZEkvEZfcnRb0JYrQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1rLuqFwZEkvEZfcnRb0JYrQ</a><br>提取码：zzy3<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> Python研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 爬虫 </tag>
+            
+            <tag> 黑马程序员 </tag>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>黑马程序员《python人工智能15期》2018</title>
+      <link href="/%E9%BB%91%E9%A9%AC%E7%A8%8B%E5%BA%8F%E5%91%98/%E9%BB%91%E9%A9%AC%E7%A8%8B%E5%BA%8F%E5%91%98%E3%80%8Apython%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD15%E6%9C%9F%E3%80%8B2018/"/>
+      <url>/%E9%BB%91%E9%A9%AC%E7%A8%8B%E5%BA%8F%E5%91%98/%E9%BB%91%E9%A9%AC%E7%A8%8B%E5%BA%8F%E5%91%98%E3%80%8Apython%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD15%E6%9C%9F%E3%80%8B2018/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>├─01 网络编程<br>│  ├─01-基本概念<br>│  │      01-网络通信概述.flv<br>│  │      02-IP地址.flv<br>│  │      03-Linux、windows查看网卡信息.flv<br>│  │      04-ip地址的分类-ipv4和ipv6介绍.flv<br>│  │      05-（重点）端口.mp4<br>│  │      06-端口分类：知名端口、动态端口.flv<br>│  │      07-socket介绍.mp4<br>│  │<br>│  ├─02-udp<br>│  │      01-udp发送数据demo-1.flv<br>│  │      02-udp发送数据-demo-2.flv<br>│  │      03-关闭VMware的虚拟网卡（了解）.flv<br>│  │      04-udp发送数据的强调.flv<br>│  │      05-（重点）运行python程序以及python交互模式，encode编码，发送udp的练习.flv<br>│  │      06-（重点）接收udp数据.flv<br>│  │      07-（重点）端口绑定的问题.flv<br>│  │      08-网络中重要概念复习.flv<br>│  │      09-输入对方ip、port、全双工、半双工、单工等.flv<br>│  │      10-案例：udp聊天器.flv<br>│  │<br>│  ├─03-tcp客户端<br>│  │      01-tcp介绍.flv<br>│  │      02-（重点）tcp客户端.flv<br>│  │<br>│  ├─04-tcp服务器<br>│  │      01-（重点）tcp服务器-1.flv<br>│  │      02-（重点）tcp服务器-2-循环为多个客户端服务.flv<br>│  │      03-（重点）tcp服务器-3-循环为多个客户端服务.mp4<br>│  │<br>│  └─05-tcp下载文件<br>│          01-案例：下载文件.flv<br>│          02-知识点快速总结，listen里的参数.flv<br>│          03-QQ不绑定端口、昨日知识点复习.flv<br>│<br><a id="more"></a></p><blockquote class="blockquote-center">请支持原版！课程官方链接：<a href="https://ke.qq.com/course/215047" target="_blank" rel="noopener">https://ke.qq.com/course/215047</a></blockquote><br>黑马程序员<br>├─02 多任务<br>│  ├─01-线程<br>│  │      01-多任务介绍、以及Thread的基本使用.flv<br>│  │      02-Thread创建线程 完成多任务.flv<br>│  │      03-查看正在运行的线程、主线程等待子线程先结束.flv<br>│  │      04-通过继承Thread类完成创建线程.flv<br>│  │      05-通过继承Thread类完成创建线程-补充.flv<br>│  │      06-多线程共享全局变量.flv<br>│  │      07-多线程共享全局变量-args参数.flv<br>│  │      08-创建线程是指定传递的参数、多线程共享全局变量的问题.flv<br>│  │      09-同步概念、互斥锁解决资源竞争的问题.flv<br>│  │      10-死锁、银行家算法.flv<br>│  │      11-案例：多线程版udp聊天器.flv<br>│  │<br>│  ├─02-进程<br>│  │      01-线程知识点复习.mp4<br>│  │      02-进程、程序的概念<a href="http://www.wuying521.cn.flv" target="_blank" rel="noopener">www.wuying521.cn.flv</a><br>│  │<br>│  └─03-协程<br>│          04-迭代器使用的其他方式.flv<br>│          07-（重点）生成器-小总结.flv<br>│          08-使用yield完成多任务.flv<br>│          11-（重点）进程、线程、协程对比.flv<br>│<br>├─03 web服务器v3.1<br>│  ├─01-正则表达式<br>│  │      01-正则表达式简介.flv<br>│  │      02-匹配单个字符-1.flv<br>│  │      03-匹配单个字符-2.flv<br>│  │      04-匹配多个字符.flv<br>│  │      05-案例：简单判断变量名是否符合要求、匹配结尾开头.flv<br>│  │      06-案例：简单判断email、转义.flv<br>│  │      07-分组等.flv<br>│  │      08-re的高级用法：search、sub等.flv<br>│  │<br>│  ├─02-http协议<br>│  │      01-此阶段知识的介绍.flv<br>│  │      02-HTTP协议的通俗讲解.flv<br>│  │      03-通过网络调试助手充当http服务器来验证http协议.flv<br>│  │<br>│  ├─03-简单web服务器实现<br>│  │      01-案例：返回固定页面的http服务器.flv<br>│  │      02-tcp3次握手、4次挥手.flv<br>│  │      03-tcp3次握手、4次挥手-强调.mp4<br>│  │      04-案例：返回浏览器需要的页面http服务器-介绍.mp4<br>│  │      05-案例：返回浏览器需要的页面http服务器-代码实现.flv<br>│  │<br>│  ├─04-并发web服务器实现<br>│  │      01-http协议复习.flv<br>│  │      02-多进程、线程实现http服务器.flv<br>│  │      03-多进程、线程实现http服务器-补充.flv<br>│  │      04-gevent实现http服务器.flv<br>│  │      05-（重要）单进程、线程、非堵塞实现并发的原理.flv<br>│  │      06-单进程、线程、非堵塞实现并发的验证-1.flv<br>│  │      07-单进程、线程、非堵塞实现并发的验证-2、debug的思想.flv<br>│  │      08-长连接、短连接.flv<br>│  │      09-单进程、线程、非堵塞、长连接的http服务器.flv<br>│  │      10-（重要）epoll的原理过程讲解.flv<br>│  │      11-epoll版的http服务器.flv<br>│  │<br>│  └─05-网络通信<br>│          01-tcp ip协议.flv<br>│          02-wireshark抓包工具-安装.flv<br>│          03-wireshark抓包工具-使用.flv<br>│          04-2台电脑通信、网络掩码.flv<br>│          05-集线器、交换器组网、arp获取mac地址等.flv<br>│          06-路由器链接多个网络、默认网关.flv<br>│          07-浏览器访问服务器的过程.flv<br>│          08-ip不变、mac地址发生变化.flv<br>│<br>├─04 Python高级语法v3.1<br>│  ├─01-GIL锁<br>│  │      01-GIL-1.flv<br>│  │      02-GIL-2.flv<br>│  │<br>│  ├─02-深拷贝和浅拷贝<br>│  │      01-深拷贝、浅拷贝-1.flv<br>│  │      02-深拷贝、浅拷贝-2.flv<br>│  │      03-深拷贝、浅拷贝-3.flv<br>│  │      04-深拷贝、浅拷贝-4.flv<br>│  │<br>│  ├─03-私有化、import、封装继承多态<br>│  │      01-私有化.flv<br>│  │      02-import导入模块.flv<br>│  │      03-多个模块import导入注意点.flv<br>│  │      04-再议封装、继承、多态.flv<br>│  │<br>│  ├─04-方法解析顺序表MRO<br>│  │      01-（重点）多继承中的MRO顺序.flv<br>│  │      02-（重点）※args、※※kwargs的另外用处拆包.mp4<br>│  │      03-单继承中MRO、继承的面试题.mp4<br>│  │<br>│  ├─05-类对象和实例对象访问属性的区别和property属性<br>│  │      01-类对象、实例对象、类方法、实例方法、类属性、实例属性、静态方法.flv<br>│  │      02-（重点）property属性.flv<br>│  │      03-property属性的应用.flv<br>│  │      04-创建property属性的方式-装饰器.flv<br>│  │      05-创建property属性的方式-类属性.flv<br>│  │      06-property属性的应用2.flv<br>│  │<br>│  └─06-私有属性和名字重整、魔法属性和方法、上下文管理器<br>│          01-修改、查看私有属性、名字重整.flv<br>│          02-魔法属性、方法.flv<br>│          03-面向对象设计.flv<br>│          04-（重点）with、上下文管理器.flv<br>│<br>├─05 MySQL数据库v3.1<br>│  ├─01-数据库的基本使用<br>│  │      01-课程介绍.flv<br>│  │      02-数据库介绍.flv<br>│  │      03-RDBMS、MySQL介绍.flv<br>│  │      04-MySQL服务器、客户端安装以及使用.flv<br>│  │      05-通过navicat操作数据库.flv<br>│  │      06-数据类型、约束.flv<br>│  │      07-（重点）-数据库的操作.flv<br>│  │      08-（重点）-数据表的操作.flv<br>│  │      09-（重重点）-数据的增删改查_无影资源网.flv<br>│  │<br>│  ├─02-数据库查询<br>│  │      01-课程介绍.flv<br>│  │      02-数据准备、基本的查询.flv<br>│  │      03-条件查询.flv<br>│  │      04-范围查询、null.flv<br>│  │      05-排序.flv<br>│  │      06-聚合、分组.flv<br>│  │      07-分页.flv<br>│  │      08-链接查询.flv<br>│  │      09-自关联.flv<br>│  │      10-子查询-简单.flv<br>│  │      11-数据库设计.flv<br>│  │<br>│  ├─03-MySQL与Python交互<br>│  │      01-数据的准备，基本查询.flv<br>│  │      02-数据操作演练：拆为多个表.flv<br>│  │      03-数据操作演练：拆为多个表2.flv<br>│  │      04-python安装pymysql.mp4<br>│  │      05-python操作sql：查询数据.flv<br>│  │      06-案例：京东商城-查询.flv<br>│  │      07-python操作sql：添加、修改、删除数据.flv<br>│  │      08-案例：京东商城-添加，防止SQL注入.flv<br>│  │      09-作业要求.mp4<br>│  │<br>│  └─04-MySQL高级<br>│          01-视图.flv<br>│          02-事务-1.flv<br>│          03-事务-2.flv<br>│          04-索引-1.flv<br>│          05-索引-2.flv<br>│          06-（了解）账户管理.flv<br>│          07-MySQL主从.flv<br>│<br>├─06 mini-web框架v3.1<br>│  ├─01-WSGI-mini-web框架<br>│  │      01-课程介绍.flv<br>│  │      02-多进程-面向对象-web服务器.flv<br>│  │      03-静态资源、动态资源、web服务器支持动态解析.flv<br>│  │      04-静态、动态资源强调.flv<br>│  │      05-实现很简单的框架，让web服务器支持.flv<br>│  │      06-（重点）WSGI的介绍.flv<br>│  │      07-web服务器支持WSGI.flv<br>│  │      08-web服务器通过字典将需要的参数传递给mini_frame框架.flv<br>│  │      09-mini_frame获取页面模板数据.flv<br>│  │      10-给程序传递参数、添加web服务器的配置文件、添加shell功能.flv<br>│  │<br>│  ├─02-闭包<br>│  │      01-闭包-1.flv<br>│  │      02-闭包-2.flv<br>│  │      03-闭包-3-补充.flv<br>│  │      04-闭包-4-修改数据.flv<br>│  │<br>│  ├─03-装饰器<br>│  │      01-装饰器-1-介绍.flv<br>│  │      02-装饰器-2-手动实现装饰器.flv<br>│  │      03-装饰器-3-作用demo、对有参数函数、无参数函数的装饰.flv<br>│  │      04-装饰器-4-再理解.flv<br>│  │      05-装饰器-5-不定长参数的函数装饰.flv<br>│  │      06-装饰器-6-对应有返回值函数进行装饰、通用装饰器.flv<br>│  │      07-装饰器-7-多个装饰器对同一个函数装饰.flv<br>│  │      08-装饰器-8-多个装饰器对同一个函数装饰demo.flv<br>│  │      09-装饰器-9-（了解）用类对函数进行装饰.flv<br>│  │<br>│  ├─04-mini-web框架添加路由和MySQL功能<br>│  │      01-带有参数的装饰器.flv<br>│  │      02-用装饰器完成路由功能-1.flv<br>│  │      03-用装饰器完成路由功能-2.flv<br>│  │      04-用装饰器完成路由功能-3.flv<br>│  │      05-用装饰器完成路由功能-4.flv<br>│  │      06-静态、动态、伪静态url.flv<br>│  │      07-让web服务器支持伪静态.flv<br>│  │      08-mini_frame框架添加MySQL功能-1.flv<br>│  │      09-mini_frame框架添加MySQL功能-2.flv<br>│  │<br>│  ├─05-mini-web框架添加正则和log日志功能<br>│  │      01-今日课程介绍.flv<br>│  │      02-股票列表.flv<br>│  │      03-关注股票.flv<br>│  │      04-取消关注.flv<br>│  │      05-更新备注信息.flv<br>│  │      06-url编解码.flv<br>│  │      07-log日志功能.flv<br>│  │<br>│  ├─06-元类<br>│  │      01-类也是对象、globals查看所有的全局对象引用.flv<br>│  │      02-元类创建类，类创建实例对象.mp4<br>│  │      03-通过type来创建复杂的类，元类应用demo.flv<br>│  │      04-元类应用demo-补充.mp4<br>│  │<br>│  └─07-orm<br>│          01-orm介绍.flv<br>│          02-orm-实现.flv<br>│          03-orm-实现2.flv<br>│          04-python高级知识快速复习-1.flv<br>│          05-python高级知识快速复习-2.flv<br>│          BaiduNetdiskDownload - 快捷方式.lnk<br>│<br>├─07 HTML和CSS<br>│  ├─01-html文档结构和常用标签<br>│  │      001前端概述.flv<br>│  │      002html文档结构.flv<br>│  │      003标题-段落-字符实体-换行.flv<br>│  │      004语义标签-图片.flv<br>│  │      005html复习1.flv<br>│  │      006链接.flv<br>│  │      007列表.flv<br>│  │<br>│  ├─02-表格标签和传统布局<br>│  │      01表格.flv<br>│  │      02传统布局实例.flv<br>│  │      03复习.flv<br>│  │<br>│  ├─03-表单标签<br>│  │      01表单01.flv<br>│  │      02表单02.flv<br>│  │      03表单03.flv<br>│  │<br>│  ├─04-CSS基本语法<br>│  │      01样式介绍.flv<br>│  │      02引入样式的方式.flv<br>│  │<br>│  ├─05-CSS常用文本样式<br>│  │      01常用文本样式01.flv<br>│  │      02css常用文本样式02.flv<br>│  │<br>│  ├─06-CSS样式选择器<br>│  │      01css选择器01.flv<br>│  │      02css选择器02.flv<br>│  │<br>│  ├─07-盒子模型<br>│  │      01盒子模型.flv<br>│  │      02盒子模型练习-盒子真实尺寸.mp4<br>│  │      03复习-标题练习.flv<br>│  │<br>│  ├─08-margin和overflow属性<br>│  │      01margin使用技巧.flv<br>│  │      02margin使用技巧02.flv<br>│  │      03margin合并及实例.flv<br>│  │      04margin-top塌陷.flv<br>│  │      05元素溢出.flv<br>│  │<br>│  ├─09-display属性<br>│  │      01块元素-内联元素.flv<br>│  │      02内联块-实例.flv<br>│  │      03display属性.flv<br>│  │<br>│  ├─10-浮动布局<br>│  │      01用列表制作菜单.flv<br>│  │      02清除浮动.flv<br>│  │      03浮动01.flv<br>│  │      04浮动02.flv<br>│  │      05复习-练习.flv<br>│  │<br>│  ├─11-定位布局<br>│  │      01定位.flv<br>│  │      02定位实例.flv<br>│  │<br>│  ├─12-background属性<br>│  │      01background属性-实例.flv<br>│  │      02复习-雪碧图背景列表练习.flv<br>│  │<br>│  ├─13-布局练习和图片格式<br>│  │      01布局练习.flv<br>│  │      02图片格式.flv<br>│  │<br>│  ├─14-PS常用操作<br>│  │      01ps界面-移动选择-矩形框.flv<br>│  │      02图层自由变换-选区移动-选区自由变换.flv<br>│  │      03套索工具.flv<br>│  │      04选区的操作.flv<br>│  │<br>│  ├─15-制作登陆页效果图<br>│  │      01效果图制作01.flv<br>│  │      02效果图制作02.flv<br>│  │      03练习复习.flv<br>│  │<br>│  └─16-PS切图和制作雪碧图<br>│          01切图.flv<br>│          02雪碧图制作.flv<br>│          03雪碧图制作02.flv<br>│<br>├─08 首页布局案例和移动布局<br>│  ├─01-首页布局<br>│  │      01首页布局03.flv<br>│  │      02首页布局04.flv<br>│  │      03重置样式reset.css.flv<br>│  │      04首页头部制作.flv<br>│  │      05首页logo-搜索框-购物车.flv<br>│  │<br>│  ├─02-CSS3动画<br>│  │      01翻面动画02.flv<br>│  │      02animation动画.flv<br>│  │      03loading动画.flv<br>│  │      04圆角-透明度-rgba.flv<br>│  │      05transiton动画01.flv<br>│  │      06走路动画.flv<br>│  │      07transiton动画02.flv<br>│  │      08transform.flv<br>│  │      09复习-tansform变形-翻面动画01.flv<br>│  │<br>│  ├─03-CSS3选择器和CSS权重<br>│  │      01css权重.flv<br>│  │<br>│  ├─04-屏幕适配<br>│  │      01视口-retina屏幕适配.flv<br>│  │      02背景图尺寸设置.flv<br>│  │      03流体布局.flv<br>│  │      04响应式布局.flv<br>│  │<br>│  ├─05-移动端布局实例<br>│  │      01复习-rem布局原理.flv<br>│  │      02cssrem安装-流体布局制作首页.flv<br>│  │      03rem首页布局02.flv<br>│  │      04rem首页布局03.flv<br>│  │      05rem首页布局.flv<br>│  │      06rem首页布局01.mp4<br>│  │<br>│  └─06-CSS3前缀和H5新增标签<br>│          01css3前缀.flv<br>│          02h5新增标签-表单控件-属性.flv<br>│<br>├─09 JavaScriptv<br>│  ├─01-JavaScript变量和操作元素<br>│  │      01操作元素属性.flv<br>│  │      02中括号操作属性.flv<br>│  │      03改变元素内容.flv<br>│  │      04js介绍-js引入页面.flv<br>│  │      05js变量类型-获取元素.flv<br>│  │      06复习.flv<br>│  │<br>│  ├─02-JavaScript函数<br>│  │      01函数定义和调用.flv<br>│  │      02提取行间事件.flv<br>│  │      03复习-匿名函数.flv<br>│  │      04网页换肤.flv<br>│  │      05函数和变量预解析.flv<br>│  │      06函数传参-return关键字.flv<br>│  │<br>│  ├─03-分支语句<br>│  │      01加法运算练习.flv<br>│  │      02求余-赋值运算符.flv<br>│  │      03条件运算符.flv<br>│  │      04switch语句.flv<br>│  │      05条件语句-切换例子.flv<br>│  │      06多重条件判读语句.flv<br>│  │      07作业.flv<br>│  │      08复习.flv<br>│  │<br>│  ├─04-数组和循环语句<br>│  │      01数组及操作方法.flv<br>│  │      02多维数组.flv<br>│  │      03for循环-实例.flv<br>│  │      04复习-数组去重.flv<br>│  │<br>│  ├─05-JavaScript组成和字符串<br>│  │      01标签获取元素-实例.flv<br>│  │      02javascript组成.mp4<br>│  │      03字符串操作方法-实例.flv<br>│  │<br>│  ├─06-定时器和变量作用域<br>│  │      01往复运动动画.flv<br>│  │      02无缝滚动01.flv<br>│  │      03无缝滚动02.flv<br>│  │      04变量作用域.flv<br>│  │      05时钟.flv<br>│  │      06倒计时.flv<br>│  │      07定时器-动画实例.flv<br>│  │      08作业.flv<br>│  │      09复习.flv<br>│  │<br>│  └─07-封闭函数和常用内置对象<br>│          01封闭函数.flv<br>│          02常用内置对象01.flv<br>│          03Math对象.flv<br>│          04调试js的方法.flv<br>│          05作业.flv<br>│          06复习-倒计时弹框练习.flv<br>│<br>├─10 jQuery和js库<br>│  ├─01-jQuery介绍、加载和jQuery选择器<br>│  │      01jqury介绍-jquery加载.flv<br>│  │      02jquery选择器01.flv<br>│  │      03jquery选择器02.flv<br>│  │<br>│  ├─02-样式操作和click事件<br>│  │      01样式的操作.flv<br>│  │      02绑定click事件.flv<br>│  │      03索引值-选项卡.flv<br>│  │<br>│  ├─03-jQuery特效和链式调用<br>│  │      01jquery特性效果.flv<br>│  │      02特性效果-链式调用-层级菜单.flv<br>│  │      03修正反复点击持续动画的bug.flv<br>│  │<br>│  ├─04-jQuery animate动画<br>│  │      01滑动选项卡.flv<br>│  │      02animate动画.flv<br>│  │      03作业.flv<br>│  │      04复习.flv<br>│  │<br>│  ├─05-元素的尺寸、位置和页面滚动事件<br>│  │      01元素尺寸-元素位置-加入购物车.flv<br>│  │      02scrollleft-top-悬浮菜单.flv<br>│  │      03悬浮菜单-滚动到顶部.flv<br>│  │<br>│  ├─06-元素属性操作和jQuery循环<br>│  │      01属性操作.flv<br>│  │      02手风琴01.flv<br>│  │      03手风琴02.flv<br>│  │      04jquery循环.mp4<br>│  │<br>│  ├─07-jQuery事件<br>│  │      01bind绑定事件和解绑.flv<br>│  │      02事件冒泡-阻止事件冒泡.flv<br>│  │      03阻止事件冒泡-弹框实例.flv<br>│  │      04事件委托.flv<br>│  │      05jquery事件.flv<br>│  │      06复习.flv<br>│  │<br>│  ├─08-节点操作<br>│  │      01节点操作.flv<br>│  │      02todolist01.flv<br>│  │      03todolist02.flv<br>│  │<br>│  ├─09-整屏滚动<br>│  │      01整屏滚动01.flv<br>│  │      02复习.flv<br>│  │      02整屏滚动02.flv<br>│  │<br>│  ├─10-幻灯片<br>│  │      01幻灯片01.flv<br>│  │      02幻灯片02.flv<br>│  │      03幻灯片03.flv<br>│  │      04幻灯片04.flv<br>│  │<br>│  ├─11-ajax和jsonp<br>│  │      01json.flv<br>│  │      02配置服务器环境.flv<br>│  │      03ajax01.flv<br>│  │      04ajax02.flv<br>│  │      05jsonp-360联想词获取.flv<br>│  │<br>│  ├─12-Jquery UI和本地存储<br>│  │      01本地存储.flv<br>│  │      02只弹一次的弹框.flv<br>│  │      03jqueryui-拖拽.flv<br>│  │<br>│  ├─13-移动端js事件和swiper库<br>│  │      01移动端js事件和库.flv<br>│  │      02swiper参数设置-自定义.flv<br>│  │<br>│  ├─14-Bootstrap容器、栅格、按钮、表单<br>│  │      01表单-字体图标.flv<br>│  │      02bootstrap介绍-容器.flv<br>│  │      03栅格系统.flv<br>│  │      04栅格响应式原理.flv<br>│  │      05栅格偏移-栅格隐藏.flv<br>│  │      06按钮的创建.flv<br>│  │      07复习.flv<br>│  │<br>│  ├─15-Bootstrap菜单、对话框、布局实例<br>│  │      01菜单01.flv<br>│  │      02菜单切换效果.flv<br>│  │      03模态框.flv<br>│  │      04js控制弹框弹出和隐藏.flv<br>│  │      05布局实例01.flv<br>│  │      06布局实例02.flv<br>│  │<br>│  └─16-正则表达式和前端性能优化<br>│          01正则表达式-表单验证.flv<br>│          02表单验证02.flv<br>│          03前端性能优化.flv<br>│<br>├─11 Django框架<br>│  ├─01-Django框架简介与环境搭建<br>│  │      01_MVC框架简介1.flv<br>│  │      02_MVC框架简介.flv<br>│  │      03_Django简介.flv<br>│  │      04_虚拟环境的创建和使用.flv<br>│  │      05_Django项目和应用创建.flv<br>│  │<br>│  ├─02-Django的基本使用<br>│  │      01_ORM简介.flv<br>│  │      02_模型<em>模型类设计和表生成.flv<br>│  │      03</em>模型<em>通过模型类操作数据表.flv<br>│  │      04</em>模型_模型类关系和关系查询.flv<br>│  │      05_Django后台管理.flv<br>│  │      06_视图<em>使用.flv<br>│  │      07</em>模板_使用.flv<br>│  │      08_MVT综合案例.flv<br>│  │<br>│  ├─03-Model属性及后端配置<br>│  │      01_模型<em>Django配置使用mysql数据库.flv<br>│  │      02</em>复习案例<em>1.flv<br>│  │      03</em>复习案例<em>重定向.flv<br>│  │      04</em>答疑<em>页面url地址的设置.flv<br>│  │      05</em>模型<em>字段属性和选项.flv<br>│  │      06</em>查询<em>相关函数1.flv<br>│  │      07</em>查询<em>相关函数2.flv<br>│  │      08</em>查询集.flv<br>│  │<br>│  ├─04-模型关系及相关操作<br>│  │      01_模型<em>模型类关系.flv<br>│  │      02</em>模型<em>关联查询.flv<br>│  │      03</em>模型<em>插入和删除.flv<br>│  │      04</em>模型<em>自关联.flv<br>│  │      05</em>模型<em>模型管理器对象.flv<br>│  │      06</em>模型<em>模型管理器类和模型类关系.flv<br>│  │      07</em>模型<em>元选项.flv<br>│  │<br>│  ├─05-登录案例<br>│  │      01</em>视图<em>url匹配的过程.flv<br>│  │      02</em>视图<em>错误视图.flv<br>│  │      03</em>视图<em>捕获url参数.flv<br>│  │      04</em>视图<em>登录案例1.flv<br>│  │      05</em>视图_登录案例2_request对象属性.flv<br>│  │      06_视图<em>ajax请求.flv<br>│  │      07</em>视图<em>ajax同步和异步.flv<br>│  │      08</em>视图<em>ajax登录案例.flv<br>│  │<br>│  ├─06-cookie与session<br>│  │      01</em>状态保持<em>cookie.flv<br>│  │      02</em>状态保持<em>cookie记住用户名.flv<br>│  │      03</em>状态保持<em>session.flv<br>│  │      04</em>状态保存<em>session记住登录状态.mp4<br>│  │      05</em>状态保持<em>cookie和session应用场景.flv<br>│  │<br>│  ├─07-模板templates<br>│  │      01</em>模板<em>模板文件使用.flv<br>│  │      02</em>模板<em>模板文件加载顺序.flv<br>│  │      03</em>模板语言<em>模板变量.flv<br>│  │      04</em>模板语言<em>模板标签和过滤器.flv<br>│  │      05</em>模板语言<em>自定义过滤器.flv<br>│  │      06</em>模板语言<em>模板注释.flv<br>│  │      07</em>模板语言<em>小结.flv<br>│  │      08</em>模板<em>模板继承.flv<br>│  │      09</em>模板<em>html转义.flv<br>│  │<br>│  ├─08-基于模板登录案例<br>│  │      01</em>模板<em>登录装饰器.flv<br>│  │      02</em>模板<em>csrf伪造.flv<br>│  │      03</em>模板_django_csrf防护.flv<br>│  │      04_模板<em>验证码.flv<br>│  │      05</em>模板<em>url反向解析.flv<br>│  │<br>│  ├─09-django功能-静态文件、中间件、后台<br>│  │      01</em>静态文件.flv<br>│  │      02_中间件<em>概念.flv<br>│  │      03</em>中间件<em>执行流程.flv<br>│  │      04</em>中间件<em>小结.flv<br>│  │      05</em>后台管理<em>列表页选项.flv<br>│  │      06</em>后台管理<em>编辑页选项.flv<br>│  │      07</em>后台管理<em>自定义页面.flv<br>│  │<br>│  └─10-图片上传及分页<br>│          01</em>上传图片<em>后台管理页面上传.flv<br>│          02</em>上传图片<em><a href="http://www.wuying521.cn自定义页面上传.flv" target="_blank" rel="noopener">www.wuying521.cn自定义页面上传.flv</a><br>│          03</em>分页.flv<br>│          04_分页<em>小结.flv<br>│          05</em>省市县案例<em>获取省.flv<br>│          06省市县案例</em>获取市和县.flv<br>│<br>├─12 git版本管理<br>│  ├─01-git基本操作<br>│  │      01_git_简介.flv<br>│  │      02_git_版本创建.flv<br>│  │      03_git_版本回退.flv<br>│  │      04_git_工作区和暂存区.flv<br>│  │      05_git_管理修改.flv<br>│  │      06_git_撤销修改.flv<br>│  │      07_git_对比文件不同.flv<br>│  │      08_git_删除文件.flv<br>│  │      09_git_基本操作小结.flv<br>│  │      10_补充_删除文件.flv<br>│  │<br>│  ├─02-git分支管理<br>│  │      01_git分支_基本操作.flv<br>│  │      02_git分支_解决冲突.flv<br>│  │      03_git分支_分支管理策略.flv<br>│  │      04_git分支_bug分支.mp4<br>│  │      05_git分支_小结.flv<br>│  │<br>│  └─03-GitHub使用<br>│          01_github_创建仓库.flv<br>│          02_github_添加ssh账户.flv<br>│          03_github_克隆项目.flv<br>│          04_github_推送代码.flv<br>│          05_github_跟踪远程.flv<br>│          06_github_拉取代码.flv<br>│          07_工作git使用流程.flv<br>│<br>├─13 redis数据库<br>│  ├─01-redis安装和配置<br>│  │      01_redis_nosql和redis简介.flv<br>│  │      02_redis_redis安装.flv<br>│  │      03_redis_redis配置.flv<br>│  │      04_redis_启动服务端和客户端.flv<br>│  │<br>│  ├─02-redis数据类型及其操作<br>│  │      01_redis数据类型_简介.flv<br>│  │      02_redis数据类型_string和键命令.flv<br>│  │      03_redis数据类型_hash命令mp4.flv<br>│  │      04_redis数据类型_list命令.flv<br>│  │      05_redis数据类型_set和zset命令.flv<br>│  │      06_redis数据类型_小结.flv<br>│  │<br>│  ├─03-redis与python交互<br>│  │      01_redis_python和redis交互.mp4<br>│  │      02_redis_redis存储session信息.mp4<br>│  │<br>│  ├─04-redis搭建主从服务<br>│  │      01_redis_主从配置.flv<br>│  │      02_redis_主从概念.flv<br>│  │<br>│  └─05-redis集群<br>│          01_redis_集群概念.flv<br>│          02_redis_集群配置.flv<br>│          03_redis_python和集群交互.flv<br>│<br>├─14 天天生鲜Django项目<br>│  ├─01-天天生鲜需求分析<br>│  │      01_天天生鲜<em>商业模式.flv<br>│  │      02</em>天天生鲜<em>web项目开发流程.flv<br>│  │      03</em>天天生鲜<em>需求分析.flv<br>│  │      04</em>天天生鲜<em>架构预览.flv<br>│  │      05</em>天天生鲜<em>架构设计.flv<br>│  │<br>│  ├─02-天天生鲜数据库设计<br>│  │      01</em>天天生鲜<em>数据库设计1.flv<br>│  │      02</em>天天生鲜<em>数据库设计2.flv<br>│  │      03天天生鲜</em>模型类设计.flv<br>│  │      04_天天生鲜<em>连接远程数据库.flv<br>│  │      05</em>天天生鲜<em>choices选项和富文本编辑器.flv<br>│  │      06</em>天天生鲜<em>项目框架搭建.flv<br>│  │<br>│  ├─03-用户注册<br>│  │      01</em>注册基本逻辑.flv<br>│  │      02_显示注册页面和注册处理使用同一个url地址.flv<br>│  │      03_类视图使用.flv<br>│  │      04_类视图原理.flv<br>│  │      05_生成激活用户token.flv<br>│  │      06_注册用户激活流程.flv<br>│  │      07_django内置函数发送激活邮件.flv<br>│  │      08_用户注册流程小结.flv<br>│  │      09_celery异步发送邮件.flv<br>│  │      10_celery使用流程小结.flv<br>│  │<br>│  ├─04-用户登录<br>│  │      01_登录基本逻辑.flv<br>│  │      02_配置redis作为Django缓存和session存储后端.mp4<br>│  │      03_记住用户名.mp4<br>│  │<br>│  ├─05-用户中心<br>│  │      01_父模板页抽象.flv<br>│  │      02_用户中心页面显示.flv<br>│  │      03_登录装饰器和登录后页面跳转.flv<br>│  │      04_LoginRequiredMixin类的使用.flv<br>│  │      05_LoginRequiredMixin类的原理.flv<br>│  │      06_登录后欢迎信息.flv<br>│  │      07_退出用户登录.flv<br>│  │      08_登录判断<em>欢迎信息</em>退出登录小结.flv<br>│  │      09_用户中心<em>地址页.flv<br>│  │      10</em>模型管理器类方法封装.flv<br>│  │      11_用户中心<em>个人信息页.flv<br>│  │      12</em>历史记录存储格式设计.flv<br>│  │      13_获取用户历史浏览记录.flv<br>│  │<br>│  ├─06-分布式FastDFS文件系统<br>│  │      01_FastDFS文件系统简介.flv<br>│  │      02_FastDFS上传文件和下载文件流程.flv<br>│  │      03_FastDFS的安装和配置.flv<br>│  │      04_Nginx配合FastDFS使用的安装和配置.flv<br>│  │      05_python和FastDFS交互.flv<br>│  │      06_虚拟机中FastDFS配置文件的修改.flv<br>│  │      07_项目中上传和使用图片的流程.flv<br>│  │      08_自定义文件存储类.flv<br>│  │      09_amdin页面测试文件存储类.flv<br>│  │      10_改进自定义文件存储类.flv<br>│  │      11_FastDFS上传图片小结.flv<br>│  │<br>│  ├─07-天天生鲜首页<br>│  │      01_页面静态化<em>celery生成首页静态页面.flv<br>│  │      02</em>配置nginx提交静态页面.flv<br>│  │      03_admin管理更新首页数据表数据时重新生成index静态页面.flv<br>│  │      04_静态index页面和IndexView的调度说明.flv<br>│  │      05_首页数据缓存设置和获取.flv<br>│  │      06_首页缓存数据的更新.flv<br>│  │      07_页面静态化和缓存数据<em>小结.flv<br>│  │      08</em>商品模型模型类概述.flv<br>│  │      09_首页内容获取和展示.flv<br>│  │      10_首页内容获取和展示小结.flv<br>│  │      11_redis存储购物车记录分析.flv<br>│  │      12_首页获取购物车商品数目.flv<br>│  │<br>│  ├─08-天天生鲜详情页<br>│  │      01_用户历史浏览记录的添加.flv<br>│  │      02_商品详情信息的获取和显示.flv<br>│  │      03_获取同一SPU的其他规格的商品信息.flv<br>│  │<br>│  ├─09-天天生鲜列表页<br>│  │      01_列表页页码控制.flv<br>│  │      02_商品列表页内容的获取和显示.flv<br>│  │<br>│  ├─10-天天生鲜商品搜索<br>│  │      01_商品搜索<em>全文检索概念.flv<br>│  │      02</em>商品搜索<em>全文检索框架和引擎的安装和配置.flv<br>│  │      03</em>商品搜索<em>生成索引文件.flv<br>│  │      04</em>商品搜索<em>全文检索的使用.flv<br>│  │      05</em>商品搜索<em>更改分词方式.flv<br>│  │      06</em>商品搜索<em>小结.flv<br>│  │<br>│  ├─11-天天生鲜购物车记录添加<br>│  │      01</em>商品详情页js代码.flv<br>│  │      02_购物车记录添加后台view.flv<br>│  │      03_购物车记录添加前端js.flv<br>│  │      04_购物车记录添加<em>小结.flv<br>│  │      05</em>购物车页面显示.flv<br>│  │<br>│  ├─12-天天生鲜购物车记录更新<br>│  │      01_购物车js_全选<em>全不选</em>商品的选中和不选中.flv<br>│  │      02_购物车记录更新<em>后台view.flv<br>│  │      03</em>购物车记录更新<em>前端数目增加js.flv<br>│  │      04</em>购物车记录更新<em>前端数目减少</em>手动输入js.flv<br>│  │      05_购物车记录删除<em>后台view.flv<br>│  │      06</em>购物车记录删除<em>前端js.flv<br>│  │      07</em>购物车模块<em>小结.flv<br>│  │<br>│  ├─13-天天生鲜订单生成<br>│  │      01</em>订单生成<em>mysql事务概念.flv<br>│  │      02</em>订单生成<em>django中使用事务.flv<br>│  │      03</em>提交订单页面显示.flv<br>│  │      04_创建订单前端js.flv<br>│  │      05_创建订单后台view.flv<br>│  │<br>│  ├─14-天天生鲜订单并发处理<br>│  │      01_订单生成<em>订单并发问题.flv<br>│  │      02</em>订单并发<em>悲观锁.flv<br>│  │      03</em>订单并发<em>乐观锁.flv<br>│  │      04</em>订单并发<em>总结.flv<br>│  │<br>│  ├─15-天天生鲜订单支付、评论<br>│  │      01</em>订单支付<em>获取支付结果.flv<br>│  │      02</em>用户中心-订单页面.flv<br>│  │      03_订单支付<em>支付宝简介.flv<br>│  │      04</em>订单支付<em>网站对接支付宝流程图.flv<br>│  │      05</em>订单支付<em>订单支付代码.flv<br>│  │<br>│  ├─16-天天生鲜部署<br>│  │      01</em>订单评论代码走读.flv<br>│  │      02_部署<em>uwsgi作为web服务器.flv<br>│  │      03</em>部署<em>基本部署架构解析.flv<br>│  │      04</em>部署<em>nginx转交请求给uwsgi.flv<br>│  │      05</em>部署<em>nginx配置处理静态文件.flv<br>│  │      06</em>部署<em>nginx转交请求给其他地址.flv<br>│  │      07</em>部署<em>nginx配置upstream实现负载均衡.flv<br>│  │      08</em>部署<em>小结.flv<br>│  │<br>│  └─17-天天生鲜项目总结<br>│          01</em>天天生鲜项目<em>总结.flv<br>│<br>├─15 flask框架<br>│  ├─01-flask安装配置<br>│  │      01</em>回顾http通讯.flv<br>│  │      02_认识flask.flv<br>│  │      03_虚拟环境工具说明.flv<br>│  │      04_第一个flask程序.flv<br>│  │<br>│  ├─02-app对象的初始化和配置<br>│  │      01_flask应用对象初始化参数说明.flv<br>│  │      02_静态文件目录与路由说明.flv<br>│  │      03_flask的配置参数设置.flv<br>│  │      04_读取配置参数的方式.flv<br>│  │      05_app的run使用说明.flv<br>│  │<br>│  ├─03-视图函数的路由<br>│  │      01_视图函数的路由规则设置说明.flv<br>│  │      02_路由提取参数与自定义路由转换器.flv<br>│  │      03_路由转换器的进阶使用.flv<br>│  │<br>│  ├─04-request对象<br>│  │      01_request的form_data_args用法.flv<br>│  │      02_上传文件.flv<br>│  │      03_with使用.flv<br>│  │<br>│  ├─05-abort函数、自定义错误、 视图函数的返回值<br>│  │      01_abort函数的使用.flv<br>│  │      02_自定义错误处理方法.flv<br>│  │      03_设置响应信息的方法.flv<br>│  │      04_返回json数据的方法.flv<br>│  │<br>│  ├─06-cookie和session<br>│  │      01_cookie的使用.mp4<br>│  │      02_postman的安装.mp4<br>│  │      03_session机制说明.flv<br>│  │<br>│  ├─07-flask上下文和请求钩子<br>│  │      01_请求钩子的补充说明.flv<br>│  │      02_flask的上下文对象.flv<br>│  │      03_请求钩子.flv<br>│  │      04_flask_script脚本扩展的使用.flv<br>│  │<br>│  ├─08-模板<br>│  │      01_模板与自定义过滤器.flv<br>│  │      02_引入表单扩展.flv<br>│  │      03_创建表单模型类与模板使用.flv<br>│  │      04_使用表单接受并检验参数.flv<br>│  │      05_关于表单的补充说明.flv<br>│  │      06_模板宏的使用.flv<br>│  │      07_宏定义在外部的使用.flv<br>│  │      08_模板的闪现使用.flv<br>│  │<br>│  ├─09-数据库扩展包flask-sqlalchemy<br>│  │      01_使用sqlalchemy的配置.flv<br>│  │      02_创建模型类.flv<br>│  │      03_创建数据库表.flv<br>│  │      04_保存数据.flv<br>│  │      05_sqlalchemy数据库查询.flv<br>│  │      06_关联查询与自定义显示信息.flv<br>│  │      07_数据的修改与删除.flv<br>│  │<br>│  ├─10-图书案例<br>│  │      01_图书作者小案例.flv<br>│  │      02_图书作者小案例2.flv<br>│  │<br>│  ├─11-数据库迁移扩展包Flask-Migrate、 邮件扩展包Flask-Mail<br>│  │      01数据库migrate扩展的使用简介.flv<br>│  │      02_migrate扩展的使用.flv<br>│  │      03_使用flask发送邮件.flv<br>│  │<br>│  ├─12-不使用蓝图解决模块划分问题<br>│  │      01_循环引用.flv<br>│  │      02_使用装饰器解决模块分割问题.flv<br>│  │<br>│  ├─13-使用蓝图划分模块<br>│  │      01_蓝图的基本定义与使用.flv<br>│  │      02_以目录形式定义蓝图.flv<br>│  │      03_蓝图里模板目录的处理.flv<br>│  │<br>│  ├─14-单元测试<br>│  │      01_单元测试引入.flv<br>│  │      02_assert断言的使用.flv<br>│  │      03_实现简单的单元测试.flv<br>│  │      04_单元测试的setUp与flask的测试模式.flv<br>│  │      05_数据库测试.flv<br>│  │<br>│  └─15-flask部署<br>│          01_flask部署.flv<br>│          02_sqlalchemy操作mysql提示警告的问题.flv<br>│<br>├─16 微信公众号<br>│  ├─01-开发配置和微信服务器接入<br>│  │      01_认识微信公众号.flv<br>│  │      02_了解微信公众号开发.flv<br>│  │      03_微信公众号开发的配置说明.flv<br>│  │      04_学校服务器使用说明.flv<br>│  │      05_接入微信公众号服务器开发.flv<br>│  │<br>│  ├─02-公众号接收和发送消息<br>│  │      01_开发者服务器收发微信消息的流程.flv<br>│  │      02_xmltodict工具的使用.flv<br>│  │      03_收发微信消息数据开发.flv<br>│  │      04_其他消息与事件消息.mp4<br>│  │      05测试消息接口.mp4<br>│  │<br>│  └─03-微信网页授权<br>│          01_网页获取微信用户资料开发.flv<br>│          02_获取微信用户资料流程说明.flv<br>│<br>├─17 爱家租房项目<br>│  ├─01-项目说明<br>│  │      01_项目资料说明.flv<br>│  │      02_前后端分离的认识.flv<br>│  │      03_前端后分离对于搜索引擎的缺点.flv<br>│  │      04_项目业务说明.flv<br>│  │<br>│  ├─02-项目文件目录结构<br>│  │      01_在单一文件中构建所有依赖工具.flv<br>│  │      02_创建工程目录1.flv<br>│  │      03_创建工程目录2.flv<br>│  │      04_循环导入的解决.flv<br>│  │      05_日志功能.flv<br>│  │<br>│  ├─03-数据库设计<br>│  │      01_项目数据库设计.flv<br>│  │      02_项目模型类说明.flv<br>│  │      03_日志级别bug处理.flv<br>│  │      04_数据库迁移处理.flv<br>│  │<br>│  ├─04-静态文件接口<br>│  │      01_提供静态文件的蓝图编写.flv<br>│  │      02_csrf防护机制.flv<br>│  │      03_在静态路由中添加生成csrf_token的cookie值.flv<br>│  │<br>│  ├─05-图片验证码<br>│  │      01_图片验证码的使用流程.flv<br>│  │      02_restful风格介绍.flv<br>│  │      03_图片验证码后端接口编写.flv<br>│  │      04_开发流程与接口文档编写.flv<br>│  │      05_图片验证码的前端编写.flv<br>│  │<br>│  ├─06-短信验证<br>│  │      01_云通讯使用介绍.flv<br>│  │      02_云通讯发送短信工具封装.flv<br>│  │      03_发送短信验证码后端编写.flv<br>│  │      04_测试发送短信验证码.flv<br>│  │      05_补充防止对同一个图片验证码进行<a href="http://www.wuying521.cn校验的逻辑.flv" target="_blank" rel="noopener">www.wuying521.cn校验的逻辑.flv</a><br>│  │      06_后端补充禁止60秒重复操作的逻辑.flv<br>│  │      07发送短信验证码前端编写.flv<br>│  │<br>│  ├─07-注册<br>│  │      01注册的后端编写.flv<br>│  │      02密码加密与property装饰器使用.flv<br>│  │      03_密码作为只允许设置的逻辑编写.flv<br>│  │      04_注册后端测试.flv<br>│  │      05_注册前端编写.flv<br>│  │      06_补充csrf的逻辑.flv<br>│  │      07作业说明.flv<br>│  │<br>│  ├─08-登录<br>│  │      01_登录后端逻辑编写.flv<br>│  │      02_登录测试与前端代码.flv<br>│  │      03_检查登录状态与退出代码.flv<br>│  │      04_登录验证装饰器.flv<br>│  │<br>│  ├─09-个人信息<br>│  │      01_图片存储服务的引入.flv<br>│  │      02_七牛上传图片的使用.flv<br>│  │      03_保存头像后端编写.flv<br>│  │      04_上传图片的前端代码.flv<br>│  │      05_图片表单的使用说明.mp4<br>│  │      06_作业接口说明.mp4<br>│  │<br>│  ├─10-城区信息<br>│  │      01_城区信息后端编写.flv<br>│  │      02_缓存机制的介绍.flv<br>│  │      03_为城区信息补充缓存.flv<br>│  │      04_缓存数据同步的问题.flv<br>│  │      05_用户模块修改用户名<em>获取个人资料</em>实名认证代码说明.flv<br>│  │      06_城区信息前端编写与前端模板的使用.flv<br>│  │<br>│  ├─11-发布房源<br>│  │      01_保存房屋基本信息数据后端编写.flv<br>│  │      02_保存房屋图片后端接口编写.flv<br>│  │      03_保存房屋基本信息前端代码.flv<br>│  │      04_保存房屋图片前端代码与测试.flv<br>│  │      05_map函数的使用.flv<br>│  │<br>│  ├─12-celery<br>│  │      01_celery模型说明.flv<br>│  │      02_celery的基本使用.flv<br>│  │<br>│  ├─13-房屋管理<br>│  │      01_房屋管理后端接口后端说明.flv<br>│  │      02_房屋管理前端代码说明.flv<br>│  │<br>│  ├─14-房屋列表<br>│  │      01_房屋列表页业务分析.flv<br>│  │      02_房屋列表后端参数判断编写.flv<br>│  │      03_构造时间条件.flv<br>│  │      04_房屋列表页分页补充与测试.flv<br>│  │      05_等号参数的说明.flv<br>│  │      06_房屋列表页缓存处理.flv<br>│  │      07redis的pipeline使用.flv<br>│  │      08_房屋列表页前端代码.flv<br>│  │<br>│  ├─15-订单<br>│  │      01_订单模块后端代码讲解.flv<br>│  │      02_订单模块前端代码讲解.flv<br>│  │<br>│  ├─16-订单支付<br>│  │      01_支付宝接入流程.flv<br>│  │      02_支付宝手机网站支付流程.flv<br>│  │      03_支付宝秘钥说明与sdk工具使用.flv<br>│  │      04_支付宝支付的后端接口编写.flv<br>│  │      05_支付宝支付测试.flv<br>│  │      06_获取支付宝支付结果修改订单数据.flv<br>│  │<br>│  └─17-项目优化<br>│          01_csrf_token缺失bug的解决.flv<br>│          02_数据库优化介绍1.flv<br>│          03数据库优化介绍2.flv<br>│          04_工作账号介绍.flv<br>│<br>├─18 通用爬虫模块使用<br>│  ├─01-爬虫基本概念<br>│  │      01字符换知识点的复习.flv<br>│  │      02http和http的概念.flv<br>│  │      03markdown介绍.flv<br>│  │      04URL格式和http请求格式.flv<br>│  │      05爬虫的流程.flv<br>│  │      06爬虫课程的介绍和概念.flv<br>│  │      07搜索引擎的工作原理及robots协议.flv<br>│  │      08浏览器发送请求的流程.flv<br>│  │<br>│  ├─02-爬虫requests库<br>│  │      01requests模块发送带headers的请求和带参数的请求.flv<br>│  │      02贴吧爬虫.flv<br>│  │      03requests模块发送post请求.flv<br>│  │      04requests模块使用代理.flv<br>│  │      05requests模拟登陆的三种方式.flv<br>│  │      06requests模块发送请求和获取网页的字符串.flv<br>│  │      07requests保存图片.flv<br>│  │<br>│  ├─03-chrome分析post与json<br>│  │      01寻找post的地址.flv<br>│  │      02寻找js和分析js.flv<br>│  │      03requests的小技巧.flv<br>│  │<br>│  ├─04-爬虫数据-json数据处理<br>│  │      01数据的分类.flv<br>│  │      02json模块的学习01.flv<br>│  │      03json模块的学习02.flv<br>│  │      04kr的练习.flv<br>│  │      05豆瓣爬虫练习.flv<br>│  │<br>│  ├─05-爬虫数据-正则处理数据<br>│  │      01正则和原始字符串r.flv<br>│  │      02内涵段子爬虫.flv<br>│  │<br>│  ├─06-爬虫数据-xpath处理数据<br>│  │      01xml的了解.flv<br>│  │      02xpath的学习01.flv<br>│  │      03xpath模块的学习02.flv<br>│  │      04lxml模块的学习.flv<br>│  │<br>│  ├─07-通用爬虫案例<br>│  │      01贴吧爬虫01.flv<br>│  │      02贴吧爬虫02.flv<br>│  │      03糗百爬虫01.flv<br>│  │      04糗百爬虫02.flv<br>│  │      05爬虫思路总结.flv<br>│  │      06csv和作业.flv<br>│  │      07多线程爬虫的实现.flv<br>│  │<br>│  ├─08-爬取动态html数据<br>│  │      01分析.flv<br>│  │      02后续代码的建议和动态hemlt的介绍.flv<br>│  │      03selenium的入门使用.flv<br>│  │<br>│  ├─09-豆瓣登录案例<br>│  │      01豆瓣登录.mp4<br>│  │      02打码平台的使用.flv<br>│  │      03验证码识别总结.mp4<br>│  │      04元素定位的方法和iframe的切换和selenium使用的注意点.flv<br>│  │<br>│  └─10-斗鱼爬虫<br>│          01tesseract的使用.flv<br>│          02driver的安装.flv<br>│          03斗鱼爬虫.flv<br>│<br>├─19 MongoDB数据库<br>│  ├─01-MongoDB安装配置及基本操作<br>│  │      01mongodb的介绍.flv<br>│  │      02mongodb的安装和启动.mp4<br>│  │      03mongodb的增删改查.flv<br>│  │      04mongodb的高级查询.flv<br>│  │      05mongodb的备份恢复.mp4<br>│  │      06mongodb的聚合命令.flv<br>│  │<br>│  └─02-MongoDB高级操作及案例<br>│          01sort skip limit的方法.flv<br>│          02unwind的使用.flv<br>│          03索引的建立.flv<br>│          04mongodb豆瓣练习.flv<br>│          05mongdb的豆瓣练习02.flv<br>│          06pymongo的操作.flv<br>│<br>├─20 爬虫scrapy框架及案例<br>│  ├─01-scrapy框架介绍<br>│  │      01scrapy的介绍.mp4<br>│  │      02scrapy的流程.flv<br>│  │      03sacrapy的入门使用.flv<br>│  │<br>│  ├─02-scrapy-pipline、item、shell<br>│  │      01pipeline的介绍.flv<br>│  │      02logging模块的使用.flv<br>│  │      03构造请求和腾讯爬虫.flv<br>│  │      04item的介绍和使用.flv<br>│  │      05阳光政务平台爬虫.flv<br>│  │      06debug信息的认识.flv<br>│  │      07scrapy shell的使用.flv<br>│  │      08scrapy ettings和管道的深入.flv<br>│  │<br>│  ├─03-苏宁图书案例<br>│  │      01苏宁图书爬虫01.flv<br>│  │      02苏宁图书爬虫02.flv<br>│  │<br>│  ├─04-scrapy-crawlspider<br>│  │      01crawlspider爬虫案例.flv<br>│  │      02crawlspdier爬虫介绍.flv<br>│  │<br>│  ├─05-scrapy-downloadmiddleware<br>│  │      01携带cookie登录.flv<br>│  │      02下载中间件的学习.flv<br>│  │      03发送post请求登录.flv<br>│  │      04介绍和总结.flv<br>│  │<br>│  ├─06-百度贴吧-crawlspider版本<br>│  │      01贴吧爬虫和crawlspider爬虫.flv<br>│  │<br>│  ├─07-scrapy-分布式<br>│  │      01scrapyredis的介绍.flv<br>│  │      02 redis复习.flv<br>│  │      03domz程序介绍.flv<br>│  │      04scrapy_redis的源码介绍.flv<br>│  │      05 jd爬虫.flv<br>│  │<br>│  └─08-分布式爬虫案例<br>│          01当当爬虫01.flv<br>│          02当当爬虫02.flv<br>│          03当当爬虫运行演示.flv<br>│          04亚马逊爬虫.flv<br>│          05亚马逊爬虫02.flv<br>│          06亚马逊爬虫03.flv<br>│          07pycharm发布代码.flv<br>│          08crontab的使用.flv<br>│<br>├─21 数据分析<br>│  ├─01-数据分析介绍和环境安装<br>│  │      01数据分析的介绍(1).flv<br>│  │      02jupyter和conda的使用.flv<br>│  │<br>│  ├─02-matplotlib折线图<br>│  │      01matplotlib的基础绘图01.flv<br>│  │      02matplotlib的基础绘图和调整x轴的刻度.flv<br>│  │      03matplotlib的绘制10点到12点的气温.mp4<br>│  │      04matplotlib设置显示中文.flv<br>│  │      05matplotlib的设置图形信息.mp4<br>│  │      06matplotlib绘制多次图形和不同图形的差异介绍和总结.flv<br>│  │<br>│  ├─03-matplotlib常用统计图<br>│  │      01绘制散点图.flv<br>│  │      02绘制条形图.flv<br>│  │      03绘制多次条形图.flv<br>│  │      04绘制直方图.flv<br>│  │      05更多的绘图工具的了解.flv<br>│  │<br>│  ├─04-numpy数组<br>│  │      01数组的计算和数组的计算.flv<br>│  │      02numpy的数组的创建.flv<br>│  │<br>│  ├─05-numpy读取本地数据和索引<br>│  │      01numpy读取本地数据.flv<br>│  │      02numpy中的索引和切片.flv<br>│  │      03numpy中更多的索引方式.flv<br>│  │<br>│  ├─06-numpy中的nan和常用方法<br>│  │      01数据的拼接.flv<br>│  │      02numpy中的随机方法.flv<br>│  │      03numpy中的nan和常用统计方法.flv<br>│  │      04numpy中填充nan和youtube数据的练习.flv<br>│  │<br>│  ├─07-series和读取外部数据<br>│  │      01pandas的series的了解.flv<br>│  │      02pandas读取外部数据.flv<br>│  │<br>│  ├─08-dataframe<br>│  │      01pandas的dataFrame的创建.flv<br>│  │      02Dataframe的描述信息.flv<br>│  │      03dataFrame的索引.flv<br>│  │      04bool索引和缺失数据的处理.flv<br>│  │<br>│  ├─09-统计方法和字符串离散化<br>│  │      01电影数直方图.flv<br>│  │      02padas的常用统计方法.flv<br>│  │<br>│  ├─10-数据的合并和分组聚合<br>│  │      01字符串离散化的案例.flv<br>│  │      02数据合并.flv<br>│  │      03数据分组聚合.flv<br>│  │      04数据分组聚合02.flv<br>│  │      05数据的索引学习.flv<br>│  │      06数据分组聚合练习和总结.flv<br>│  │<br>│  ├─11-时间序列<br>│  │      01pandas时间序列01.flv<br>│  │      02pandas时间序列02.flv<br>│  │<br>│  └─12-pandas案例<br>│          01案例.flv<br>│          02PM2.5案例.flv<br>│          03PM2.5案例02.flv<br>│          04豆瓣电视的案例.flv<br>│<br>├─22 机器学习<br>│  ├─01-机器学习介绍<br>│  │      01_机器学习简介.flv<br>│  │      02_机器学习概述.flv<br>│  │<br>│  ├─02-特征工程和文本特征提取<br>│  │      03_数据集的组成.flv<br>│  │      04_特征工程的定义.flv<br>│  │      05_字典特征数据抽取.flv<br>│  │      06_文本特征抽取以及中文问题.flv<br>│  │      07_tf-df分析问题.flv<br>│  │<br>│  ├─03-数据特征预处理<br>│  │      09_归一化以及标准化对比.flv<br>│  │      10_标准化总结以及缺失值处理.flv<br>│  │      11_标准化总结以及缺失值处理.flv<br>│  │      22_03_08_特征预处理-归一化.mp4<br>│  │<br>│  ├─04-数据降维<br>│  │      13_降维案例1.flv<br>│  │      14_降维案例2.flv<br>│  │      1_数据的降维之特征选择.flv<br>│  │<br>│  ├─05-机器学习概述<br>│  │      01_第一天复习.flv<br>│  │      02_数据的划分和介绍.flv<br>│  │      03_转换器与估计器.flv<br>│  │      15_机器学习算法分类以及开发流程.flv<br>│  │<br>│  ├─06-k-近邻算法<br>│  │      04_k-近邻算法以及案例预测入住位置.flv<br>│  │      05_K-近邻算法案例.flv<br>│  │      06_k-近邻算法总结.flv<br>│  │<br>│  ├─07-朴素贝叶斯算法<br>│  │      07_朴素贝叶斯算法原理.flv<br>│  │      08_朴素贝叶斯算法对新闻进行分类案例.flv<br>│  │      09_朴素贝叶斯算法总结.flv<br>│  │      10_精确率和召回率.flv<br>│  │      11_交叉验证与网格搜索对K-近邻算法调优.flv<br>│  │<br>│  ├─08-决策树和随机森林<br>│  │      12_决策树之信息论基础.flv<br>│  │      13_决策树的划分以及案例.flv<br>│  │      14_决策树的保存结果分析.flv<br>│  │      15_随机森林的原理以及案例调优.flv<br>│  │<br>│  ├─09-线性回归<br>│  │      01_第二天知识回顾.flv<br>│  │      02_线性回归的定义以及矩阵的运算.flv<br>│  │      03_线性回归策略，优化，案例.flv<br>│  │      04_线性回归两种求解方式总结.flv<br>│  │      05_过拟合以及欠拟合.flv<br>│  │      06_Ridge岭回归分析.flv<br>│  │      day02_16_每日总结.flv<br>│  │<br>│  ├─10-逻辑回归<br>│  │      07_模型的保存与加载.flv<br>│  │      08_逻辑回归定义，损失函数，优化与线性回归比较.flv<br>│  │      09_逻辑回归预测癌症案例.flv<br>│  │      10_逻辑回归总结.flv<br>│  │      11_京东金融数据集介绍.flv<br>│  │<br>│  └─11-k-means<br>│          12_k-means原理以及案例.flv<br>│<br>├─23 深度学习<br>│  ├─01-TensorFlow介绍<br>│  │      01_tensorflow基本介绍.flv<br>│  │<br>│  ├─02-图和会话<br>│  │      01tensorflow图的结构.mp4<br>│  │      02_图.flv<br>│  │      03_会话.flv<br>│  │      04_会话的run方法.mp4<br>│  │<br>│  ├─03-张量和基本运算<br>│  │      01张量的定义以及数据.flv<br>│  │      02运算API介绍.flv<br>│  │<br>│  ├─04-变量和模型保存加载<br>│  │      01可视化学习.flv<br>│  │      02_线性回归的原理复习以及实现.flv<br>│  │      03_trainable,学习率的调整，梯度爆炸.flv<br>│  │      04_增加损失值等变量显示.flv<br>│  │      05_模型的保存与加载.flv<br>│  │      06自定义命令行参数.flv<br>│  │<br>│  ├─05-数据读取<br>│  │      01_tensorflow解决读取数据、实现同步模拟.flv<br>│  │      02_队列管理器和协程协调器实现异步读取训练.flv<br>│  │      03_文件读取流程.flv<br>│  │      04_CSV文件读取案例.flv<br>│  │<br>│  ├─06-文件读取分析存储<br>│  │      01图像基本知识分析.flv<br>│  │      02图片文件读取.flv<br>│  │      03二进制文件读取分析.flv<br>│  │      04二进制文件读取.flv<br>│  │      05tfrecords文件的读取与存储.flv<br>│  │<br>│  ├─07-简单神经网络<br>│  │      01_感知机模型.flv<br>│  │      02_神经网络结构.flv<br>│  │      03_简单的神经网络实现手写数字图片识别.flv<br>│  │      04_简单的单层神经网络预测手写数字图片.flv<br>│  │<br>│  ├─08-卷积神经网络<br>│  │      01_卷积神经网络介绍以及卷积层结构.flv<br>│  │      02_激活层与池化层.flv<br>│  │      03面试题分析.flv<br>│  │      04卷积神经网络识别手写数字.flv<br>│  │<br>│  ├─09-验证码识别<br>│  │      01_第六天复习.flv<br>│  │      02_验证码识别原理分析.flv<br>│  │      03_验证码识别程序流程以及图片数据的处理.flv<br>│  │      04_验证码识别的实现.flv<br>│  │<br>│  └─10-分布式系统和线性回归<br>│          01_分布式的原理，架构，更新参数模式.flv<br>│          02自实现一个线性回归.flv<br>│<br>└─24 数据结构和算法<br>    ├─01-数据结构和算法基础<br>    │      01-代码执行时间测量模块timeit.flv<br>    │      02时间复杂度与大O表示法.flv<br>    │      03-数据结构引入.flv<br>    │      04-算法引入.flv<br>    │      05-Python列表类型不同操作的时间效率.flv<br>    │      06-最坏时间复杂度与计算规则.flv<br>    │      07-Python列表与字典操作的时间复杂度.flv<br>    │      08-常见时间复杂度与大小关系.flv<br>    │<br>    ├─02-顺序表<br>    │      01-内存、类型本质、连续存储.flv<br>    │      02-顺序表添加与删除元素<em>Python列表的实现.flv<br>    │      03-基本顺序表与元素外围顺序表.flv<br>    │      04-顺序表的一体式结构与分离式结构.flv<br>    │      05-顺序表数据区替换与扩充.flv<br>    │<br>    ├─03-链表<br>    │      01-单向循环链表遍历和求长度.flv<br>    │      02链表的提出.flv<br>    │      03双向链表及添加元素.flv<br>    │      04-单链表的ADT模型.flv<br>    │      05单向循环链表添加元素.flv<br>    │      06-双向链表删除元素.flv<br>    │      07-Python中变量标识的本质.flv<br>    │      08-单向循环链表删除元素.flv<br>    │      09-单链表及结点的定义代码.flv<br>    │      10-单向循环链表删除元素复习及链表扩展.flv<br>    │      11-单链表的判空、长度、遍历与尾部添加结点的代码实现.flv<br>    │      12-单链表尾部添加和在指定位置添加.flv<br>    │      13-单链表查找和删除元素.flv<br>    │      14单链表与顺序表的对比.flv<br>    │<br>    ├─04-栈与队列<br>    │      01-栈的实现.flv<br>    │      02队列与双端队列的实现.mp4<br>    │      03-栈与队列的概念.mp4<br>    │<br>    ├─05-排序与搜索<br>    │      01-插入算法.flv<br>    │      02-二分查找.flv<br>    │      03-归并排序.flv<br>    │      04-快速排序.flv<br>    │      05-冒泡排序及实现.flv<br>    │      06-排序算法的稳定性.flv<br>    │      07-希尔排序.flv<br>    │      08-选择排序算法及实现.flv<br>    │      09-插入排序1.flv<br>    │      10-二分查找时间复杂度.flv<br>    │      11-归并排序</em>代码执行流程.flv<br>    │      12-快速排序实现1.flv<br>    │      13-希尔排序实现.flv<br>    │      14-插入排序2.flv<br>    │      15-归并排序时间复杂度及排序算法复杂度对比.flv<br>    │      16快速排序实现2.flv<br>    │<br>    └─06-树与树算法<br>            01-二叉树的广度优先遍历.flv<br>            02-树的概念.flv<br>            03-二叉树的概念.flv<br>            04-二叉树的实现.flv<br><br>&gt; 链接：链接：<a href="https://pan.baidu.com/s/12Y5Lf0KYjm23n6yEyGkZgA" target="_blank" rel="noopener">https://pan.baidu.com/s/12Y5Lf0KYjm23n6yEyGkZgA</a>  密码：14ty<br><br><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>]]></content>
       
       <categories>
           
@@ -3181,8 +3290,6 @@
             <tag> 黑马程序员 </tag>
             
             <tag> 人工智能 </tag>
-            
-            <tag> 2018 </tag>
             
         </tags>
       
@@ -3480,6 +3587,33 @@
     </entry>
     
     <entry>
+      <title>深入JVM内核—原理、诊断与优化</title>
+      <link href="/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/013_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E6%B7%B1%E5%85%A5JVM%E5%86%85%E6%A0%B8%E2%80%94%E5%8E%9F%E7%90%86%E3%80%81%E8%AF%8A%E6%96%AD%E4%B8%8E%E4%BC%98%E5%8C%96%E3%80%8B_2014/"/>
+      <url>/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/013_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E6%B7%B1%E5%85%A5JVM%E5%86%85%E6%A0%B8%E2%80%94%E5%8E%9F%E7%90%86%E3%80%81%E8%AF%8A%E6%96%AD%E4%B8%8E%E4%BC%98%E5%8C%96%E3%80%8B_2014/</url>
+      <content type="html"><![CDATA[<p>课程简介：<br>目前，Java是更为流行的编程语言之一，它的基础平台就是JVM。除了Java，如JRuby、Scala、Clojure等语言也运行在JVM平台。<br>熟悉和掌握JVM平台有着重要的实用价值和意义。<br>在本课程中个，将详细介绍JVM的基本原理、组成以及工作方式，并配合实际案例，介绍相关的调优技巧。</p><p>课程大纲：<br>第一课<br>初识JVM<br>JVM分类<br>Java语言规范<br>JVM规范</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链接：<a href="http://edu.dataguru.cn/article-5021-1.html" target="_blank" rel="noopener">http://edu.dataguru.cn/article-5021-1.html</a></blockquote><br><p>介绍JVM的基本知识和发展历史，并介绍了Java语言规范和JVM规范。</p><p>第二课<br>JVM运行机制简介<br>堆、栈、方法区等<br>JVM启动流程<br>内存模型和volatile实例<br>解释和编译运行的概念</p><p>介绍JVM的内部结构、启动流程以及内存模型。并介绍JVM字节码的执行方式。</p><p>第三课<br>常用JVM参数<br>堆的分配参数<br>栈分配及实例讲解<br>server与client模式<br>调试跟踪参数<br>查看当前JVM参数的方法<br>JVM参数的设置方法演示</p><p>介绍常用的JVM参数，包括内存分配、堆栈分配、虚拟机运行模式以及调试跟踪参数。</p><p>第四课<br>GC的算法和种类<br>引用计数<br>标记清除<br>复制算法<br>标记压缩<br>可触及性<br>介绍分代、分区的思想方法</p><p>本章是理论性较强的一章，主要介绍GC的基本算法和思想，本章作为下一章节的前序课程。</p><p>第五课<br>GC控制参数<br>Serial ParNew等GC参数<br>GC的参数搭配实例分析<br>对G1进行介绍说明</p><p>介绍GC的设置参数，并分析相关的案列。</p><p>第六课<br>类装载<br>class装载流程<br>ClassLoader模式<br>ClassLoader的使用实例分析<br>热替换例子</p><p>详细介绍ClassLoader的原理和应用。分析2个案例，说明ClassLoader的使用。</p><p>第七课<br>性能监控工具<br>线程死锁分析<br>OOM分析</p><p>介绍常用的JVM诊断和分析工具，并以死锁和OOM为例，展示这些工具的使用。</p><p>第八课<br>分析Java堆<br>MAT的使用案例<br>Jvisualvm介绍使用<br>演示MAT的使用方法</p><p>介绍了Java堆的分析方法，以一个实例为基础，展示对堆的分析过程。</p><p>第九课<br>锁<br>baise锁<br>轻量级锁<br>自旋锁<br>JVM中加锁的实现过程源码分析</p><p>介绍JVM中对多线程锁的实现。</p><p>第十课<br>class文件结构与案例介绍</p><p>介绍JVM规范中的最重要的内容——Class文件结构，同时介绍ASM库的使用以及对class文件的修改。</p><p>第十一课<br>字节码执行<br>案例以及javap<br>ASM库介绍与使用<br>JIT及相关参数</p><p>介绍JVM的字节码以及反汇编方法，同时介绍JIT相关的参数和应用。</p><p>授课时间：<br>开课时间2018年2月1日，课程预计持续时间为13周</p><p>授课对象：<br>有一定的程序设计基础，对Java语言有所了解或者感兴趣的同学都可以加入到本课程中来。</p><p>课程所需环境准备：<br>需要JDK6 JDK7的平台</p><p>收获预期：<br>熟悉JVM的工作机制，知道如何处理Java程序开发与运行中出现各种问题。</p><p>授课讲师：<br>葛一鸣：计算机软件与理论专业硕士学位。取得了国家认证系统分析师职称）。10余年Java学习和开发经验，参与开发过多个软件项目。对Java程序设计，JVM有一定的研究。对设计模式、人工智能、神经网络、数据挖掘等技术有浓厚兴趣。炼数成金优秀客座讲师，已成功开设《实战Java高并发程序设计》、《深入JVM内核—原理、诊断与优化》，授课思路清晰，乐于与学员互动，课程好评率一直保持在95%以上。</p><p>现著有<br>《实战Java虚拟机——JVM故障诊断与性能优化 》<br>《实战Java高并发程序设计》<br>《Java程序性能优化：让你的Java程序更快、更稳定》<br>博客：<a href="http://www.uucode.net" target="_blank" rel="noopener">http://www.uucode.net</a><br>E-Mail:<a href="mailto:billykinggym@126.com" target="_blank" rel="noopener">billykinggym@126.com</a></p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="7NiRlTs2907" style="display:none">7NiRlTs2907</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+      
+      <categories>
+          
+          <category> 后端开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> 炼数成金 </tag>
+            
+            <tag> 2014 </tag>
+            
+            <tag> JVM </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>Oracle海量数据架构设计</title>
       <link href="/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/014_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8AOracle%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E3%80%8B_2012/"/>
       <url>/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/014_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8AOracle%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E3%80%8B_2012/</url>
@@ -3503,33 +3637,6 @@
             <tag> Oracle </tag>
             
             <tag> 2012 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
-      <title>深入JVM内核—原理、诊断与优化</title>
-      <link href="/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/013_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E6%B7%B1%E5%85%A5JVM%E5%86%85%E6%A0%B8%E2%80%94%E5%8E%9F%E7%90%86%E3%80%81%E8%AF%8A%E6%96%AD%E4%B8%8E%E4%BC%98%E5%8C%96%E3%80%8B_2014/"/>
-      <url>/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/013_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E6%B7%B1%E5%85%A5JVM%E5%86%85%E6%A0%B8%E2%80%94%E5%8E%9F%E7%90%86%E3%80%81%E8%AF%8A%E6%96%AD%E4%B8%8E%E4%BC%98%E5%8C%96%E3%80%8B_2014/</url>
-      <content type="html"><![CDATA[<p>课程简介：<br>目前，Java是更为流行的编程语言之一，它的基础平台就是JVM。除了Java，如JRuby、Scala、Clojure等语言也运行在JVM平台。<br>熟悉和掌握JVM平台有着重要的实用价值和意义。<br>在本课程中个，将详细介绍JVM的基本原理、组成以及工作方式，并配合实际案例，介绍相关的调优技巧。</p><p>课程大纲：<br>第一课<br>初识JVM<br>JVM分类<br>Java语言规范<br>JVM规范</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链接：<a href="http://edu.dataguru.cn/article-5021-1.html" target="_blank" rel="noopener">http://edu.dataguru.cn/article-5021-1.html</a></blockquote><br><p>介绍JVM的基本知识和发展历史，并介绍了Java语言规范和JVM规范。</p><p>第二课<br>JVM运行机制简介<br>堆、栈、方法区等<br>JVM启动流程<br>内存模型和volatile实例<br>解释和编译运行的概念</p><p>介绍JVM的内部结构、启动流程以及内存模型。并介绍JVM字节码的执行方式。</p><p>第三课<br>常用JVM参数<br>堆的分配参数<br>栈分配及实例讲解<br>server与client模式<br>调试跟踪参数<br>查看当前JVM参数的方法<br>JVM参数的设置方法演示</p><p>介绍常用的JVM参数，包括内存分配、堆栈分配、虚拟机运行模式以及调试跟踪参数。</p><p>第四课<br>GC的算法和种类<br>引用计数<br>标记清除<br>复制算法<br>标记压缩<br>可触及性<br>介绍分代、分区的思想方法</p><p>本章是理论性较强的一章，主要介绍GC的基本算法和思想，本章作为下一章节的前序课程。</p><p>第五课<br>GC控制参数<br>Serial ParNew等GC参数<br>GC的参数搭配实例分析<br>对G1进行介绍说明</p><p>介绍GC的设置参数，并分析相关的案列。</p><p>第六课<br>类装载<br>class装载流程<br>ClassLoader模式<br>ClassLoader的使用实例分析<br>热替换例子</p><p>详细介绍ClassLoader的原理和应用。分析2个案例，说明ClassLoader的使用。</p><p>第七课<br>性能监控工具<br>线程死锁分析<br>OOM分析</p><p>介绍常用的JVM诊断和分析工具，并以死锁和OOM为例，展示这些工具的使用。</p><p>第八课<br>分析Java堆<br>MAT的使用案例<br>Jvisualvm介绍使用<br>演示MAT的使用方法</p><p>介绍了Java堆的分析方法，以一个实例为基础，展示对堆的分析过程。</p><p>第九课<br>锁<br>baise锁<br>轻量级锁<br>自旋锁<br>JVM中加锁的实现过程源码分析</p><p>介绍JVM中对多线程锁的实现。</p><p>第十课<br>class文件结构与案例介绍</p><p>介绍JVM规范中的最重要的内容——Class文件结构，同时介绍ASM库的使用以及对class文件的修改。</p><p>第十一课<br>字节码执行<br>案例以及javap<br>ASM库介绍与使用<br>JIT及相关参数</p><p>介绍JVM的字节码以及反汇编方法，同时介绍JIT相关的参数和应用。</p><p>授课时间：<br>开课时间2018年2月1日，课程预计持续时间为13周</p><p>授课对象：<br>有一定的程序设计基础，对Java语言有所了解或者感兴趣的同学都可以加入到本课程中来。</p><p>课程所需环境准备：<br>需要JDK6 JDK7的平台</p><p>收获预期：<br>熟悉JVM的工作机制，知道如何处理Java程序开发与运行中出现各种问题。</p><p>授课讲师：<br>葛一鸣：计算机软件与理论专业硕士学位。取得了国家认证系统分析师职称）。10余年Java学习和开发经验，参与开发过多个软件项目。对Java程序设计，JVM有一定的研究。对设计模式、人工智能、神经网络、数据挖掘等技术有浓厚兴趣。炼数成金优秀客座讲师，已成功开设《实战Java高并发程序设计》、《深入JVM内核—原理、诊断与优化》，授课思路清晰，乐于与学员互动，课程好评率一直保持在95%以上。</p><p>现著有<br>《实战Java虚拟机——JVM故障诊断与性能优化 》<br>《实战Java高并发程序设计》<br>《Java程序性能优化：让你的Java程序更快、更稳定》<br>博客：<a href="http://www.uucode.net" target="_blank" rel="noopener">http://www.uucode.net</a><br>E-Mail:<a href="mailto:billykinggym@126.com" target="_blank" rel="noopener">billykinggym@126.com</a></p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="7NiRlTs2907" style="display:none">7NiRlTs2907</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
-      
-      <categories>
-          
-          <category> 后端开发 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Java </tag>
-            
-            <tag> 炼数成金 </tag>
-            
-            <tag> 2014 </tag>
-            
-            <tag> JVM </tag>
             
         </tags>
       
@@ -3606,9 +3713,9 @@
             
             <tag> 炼数成金 </tag>
             
-            <tag> 2013 </tag>
-            
             <tag> 数据库引擎 </tag>
+            
+            <tag> 2013 </tag>
             
         </tags>
       
@@ -3961,11 +4068,11 @@
       
         <tags>
             
-            <tag> 小程序 </tag>
-            
             <tag> Java </tag>
             
             <tag> 实战 </tag>
+            
+            <tag> 小程序 </tag>
             
             <tag> 移动开发 </tag>
             
@@ -4174,9 +4281,9 @@
       
         <tags>
             
-            <tag> 小程序 </tag>
-            
             <tag> 实战 </tag>
+            
+            <tag> 小程序 </tag>
             
             <tag> 移动开发 </tag>
             
@@ -4207,9 +4314,9 @@
       
         <tags>
             
-            <tag> 实战 </tag>
-            
             <tag> ElasticSearch </tag>
+            
+            <tag> 实战 </tag>
             
             <tag> 后端开发 </tag>
             
@@ -4246,40 +4353,11 @@
             
             <tag> 2017 </tag>
             
-            <tag> 慕课网 </tag>
-            
             <tag> 微服务 </tag>
             
+            <tag> 慕课网 </tag>
+            
             <tag> 房产销售平台 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
-      <title>『菜鸟直播』仿映客直播APP开发实战项目</title>
-      <link href="/%E8%8F%9C%E9%B8%9F%E7%AA%9D/%E8%8F%9C%E9%B8%9F%E7%AA%9D%E3%80%8A%E3%80%8E%E8%8F%9C%E9%B8%9F%E7%9B%B4%E6%92%AD%E3%80%8F%E4%BB%BF%E6%98%A0%E5%AE%A2%E7%9B%B4%E6%92%ADAPP%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E3%80%8B2018/"/>
-      <url>/%E8%8F%9C%E9%B8%9F%E7%AA%9D/%E8%8F%9C%E9%B8%9F%E7%AA%9D%E3%80%8A%E3%80%8E%E8%8F%9C%E9%B8%9F%E7%9B%B4%E6%92%AD%E3%80%8F%E4%BB%BF%E6%98%A0%E5%AE%A2%E7%9B%B4%E6%92%ADAPP%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E3%80%8B2018/</url>
-      <content type="html"><![CDATA[<p><img src="//img.cniao5.com/o_1b11gepdrdp71lks1ngh1cp0bjf9.jpg" alt="image"></p><p>课程简介：<br>《菜鸟直播》利用腾讯直播、互动直播、点播、IM功能模块实现网红模式的直播与会议模式的互动直播，功能点包括推流、IM消息、打赏、回看录制等功能。</p><p>同时对视频相关的知识、技术进行了介绍，可以帮助学习者快速的进行腾讯相关视频应用开发，同时也包括了部分服务器的实现逻辑。</p><p>项目的框架结构采用了比较流行MVP，把界面与直播相关业务逻辑进行了分离，同时部分功能进行了调试封装，也引用了比较流行的技术，如OkHttp网络请求、 glide图片加载、ORMLitee数据库、ButterKnife注释等</p><a id="more"></a><blockquote class="blockquote-center">请支持原版！课程官方链接：<a href="https://www.cniao5.com/course/lessons/10121" target="_blank" rel="noopener">https://www.cniao5.com/course/lessons/10121</a></blockquote><p>第 1 章：直播准备<br>keyboard_arrow_down<br>1： 【录播】 课程大纲介绍 09:56lock_outline<br>2： 【录播】 了解直播技术和腾讯云直播 09:54lock_outline<br>3： 【录播】 基础封装 23:13lock_outline<br>4： 【录播】 网络封装讲解 12:42lock_outline<br>5： 【录播】 接口协议 18:34lock_outline<br>6： 【录播】 MVP架构讲解 17:43lock_outline<br>第 2 章：登录注册<br>keyboard_arrow_down<br>7： 【录播】 注册功能 23:46lock_outline<br>8： 【录播】 登录功能 16:34lock_outline<br>9： 【录播】 腾讯IM登录 19:36lock_outline<br>第 3 章：美女开播<br>keyboard_arrow_down<br>10： 【录播】 底部导航 16:19lock_outline<br>11： 【录播】 直播列表(上) 16:42lock_outline<br>12： 【录播】 直播列表(下) 20:27lock_outline<br>13： 【录播】 直播列表刷新和加载更多实现 16:56lock_outline<br>14： 【录播】 直播发起-界面实现 12:35lock_outline<br>15： 【录播】 直播发起-MVP结构及封面选择 23:11lock_outline<br>16： 【录播】 直播发起-封面上传 14:06lock_outline<br>17： 【录播】 直播发起-定位实现 09:22lock_outline<br>18： 【录播】 直播发起腾讯推流与IM 17:49lock_outline<br>19： 【录播】 初始直播 39:29lock_outline<br>20： 【录播】 直播发起腾讯云账号设置 23:32lock_outline<br>第 4 章：观看美女<br>keyboard_arrow_down<br>21： 【录播】 简单直播播放 15:28lock_outline<br>22： 【录播】 发起与观看流程 11:01lock_outline<br>23： 【录播】 推流MVP封装(上) 21:08lock_outline<br>24： 【录播】 推流功能封装(下) 21:40lock_outline<br>25： 【录播】 直播基本功能实现 19:12lock_outline<br>26： 【录播】 直播美颜和水印功能实现 25:04lock_outline<br>27： 【录播】 直播滤镜与硬编码 14:23lock_outline<br>28： 【录播】 播放功能封装 17:55lock_outline<br>29： 【录播】 腾讯云IM基础封装 14:40lock_outline<br>30： 【录播】 腾讯云IM群组操作 10:30lock_outline<br>第 5 章：美女互动<br>keyboard_arrow_down<br>31： 【录播】 主播信息展示 14:48lock_outline<br>32： 【录播】 IM收发消息 20:18lock_outline<br>33： 【录播】 消息类型 10:29lock_outline<br>34： 【录播】 消息列表 17:11lock_outline<br>35： 【录播】 解析收发消息 17:43lock_outline<br>36： 【录播】 美女点赞功能实现 26:36lock_outline<br>37： 【录播】 系统消息 23:35lock_outline<br>38： 【录播】 主播端观众列表 12:15lock_outline<br>39： 【录播】 观众端观众列表 26:27lock_outline<br>40： 【录播】 结束直播 13:07lock_outline<br>41： 【录播】 主播事件监听 15:15lock_outline<br>42： 【录播】 观众端事件监听 13:48lock_outline<br>43： 【录播】 直播结束 18:11lock_outline<br>第 6 章：打赏美女<br>keyboard_arrow_down<br>44： 【录播】 展示礼物列表 30:17lock_outline<br>45： 【录播】 礼物打赏流程介绍 13:15lock_outline<br>46： 【录播】 礼物选中动画 23:37lock_outline<br>47： 【录播】 发送打赏 18:13lock_outline<br>48： 【录播】 礼物展示 20:35lock_outline<br>49： 【录播】 礼物队列 29:44lock_outline<br>第 7 章：我的<br>keyboard_arrow_down<br>50： 【录播】 我的界面-个人信息编辑 33:10lock_outline<br>51： 【录播】 用户关注 14:04lock_outline<br>52： 【录播】 关注和粉丝列表 16:15lock_outline<br>53： 【录播】 直播回放 20:40lock_outline<br>54： 【录播】 优化及问题 24:44lock_outline</p><blockquote><p>链接：<a href="https://pan.baidu.com/s/1m_vWaDm5a8Psi3nbGFMO2w" target="_blank" rel="noopener">https://pan.baidu.com/s/1m_vWaDm5a8Psi3nbGFMO2w</a> 密码：4jmd</p></blockquote><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 内容打赏后可见</span><br>      <span class="post-copyright-info"><a href="http://t.cn/EfWKwz3" target="_blank" rel="noopener">打赏</a></span><br>    </div><br></div>]]></content>
-      
-      <categories>
-          
-          <category> 移动开发 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 实战 </tag>
-            
-            <tag> 移动开发 </tag>
-            
-            <tag> 2018 </tag>
-            
-            <tag> 菜鸟直播 </tag>
-            
-            <tag> 菜鸟窝 </tag>
             
         </tags>
       
@@ -4306,11 +4384,40 @@
             
             <tag> 2018 </tag>
             
-            <tag> 菜鸟窝 </tag>
-            
             <tag> 菜鸟新闻 </tag>
             
+            <tag> 菜鸟窝 </tag>
+            
             <tag> 免费 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>『菜鸟直播』仿映客直播APP开发实战项目</title>
+      <link href="/%E8%8F%9C%E9%B8%9F%E7%AA%9D/%E8%8F%9C%E9%B8%9F%E7%AA%9D%E3%80%8A%E3%80%8E%E8%8F%9C%E9%B8%9F%E7%9B%B4%E6%92%AD%E3%80%8F%E4%BB%BF%E6%98%A0%E5%AE%A2%E7%9B%B4%E6%92%ADAPP%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E3%80%8B2018/"/>
+      <url>/%E8%8F%9C%E9%B8%9F%E7%AA%9D/%E8%8F%9C%E9%B8%9F%E7%AA%9D%E3%80%8A%E3%80%8E%E8%8F%9C%E9%B8%9F%E7%9B%B4%E6%92%AD%E3%80%8F%E4%BB%BF%E6%98%A0%E5%AE%A2%E7%9B%B4%E6%92%ADAPP%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E3%80%8B2018/</url>
+      <content type="html"><![CDATA[<p><img src="//img.cniao5.com/o_1b11gepdrdp71lks1ngh1cp0bjf9.jpg" alt="image"></p><p>课程简介：<br>《菜鸟直播》利用腾讯直播、互动直播、点播、IM功能模块实现网红模式的直播与会议模式的互动直播，功能点包括推流、IM消息、打赏、回看录制等功能。</p><p>同时对视频相关的知识、技术进行了介绍，可以帮助学习者快速的进行腾讯相关视频应用开发，同时也包括了部分服务器的实现逻辑。</p><p>项目的框架结构采用了比较流行MVP，把界面与直播相关业务逻辑进行了分离，同时部分功能进行了调试封装，也引用了比较流行的技术，如OkHttp网络请求、 glide图片加载、ORMLitee数据库、ButterKnife注释等</p><a id="more"></a><blockquote class="blockquote-center">请支持原版！课程官方链接：<a href="https://www.cniao5.com/course/lessons/10121" target="_blank" rel="noopener">https://www.cniao5.com/course/lessons/10121</a></blockquote><p>第 1 章：直播准备<br>keyboard_arrow_down<br>1： 【录播】 课程大纲介绍 09:56lock_outline<br>2： 【录播】 了解直播技术和腾讯云直播 09:54lock_outline<br>3： 【录播】 基础封装 23:13lock_outline<br>4： 【录播】 网络封装讲解 12:42lock_outline<br>5： 【录播】 接口协议 18:34lock_outline<br>6： 【录播】 MVP架构讲解 17:43lock_outline<br>第 2 章：登录注册<br>keyboard_arrow_down<br>7： 【录播】 注册功能 23:46lock_outline<br>8： 【录播】 登录功能 16:34lock_outline<br>9： 【录播】 腾讯IM登录 19:36lock_outline<br>第 3 章：美女开播<br>keyboard_arrow_down<br>10： 【录播】 底部导航 16:19lock_outline<br>11： 【录播】 直播列表(上) 16:42lock_outline<br>12： 【录播】 直播列表(下) 20:27lock_outline<br>13： 【录播】 直播列表刷新和加载更多实现 16:56lock_outline<br>14： 【录播】 直播发起-界面实现 12:35lock_outline<br>15： 【录播】 直播发起-MVP结构及封面选择 23:11lock_outline<br>16： 【录播】 直播发起-封面上传 14:06lock_outline<br>17： 【录播】 直播发起-定位实现 09:22lock_outline<br>18： 【录播】 直播发起腾讯推流与IM 17:49lock_outline<br>19： 【录播】 初始直播 39:29lock_outline<br>20： 【录播】 直播发起腾讯云账号设置 23:32lock_outline<br>第 4 章：观看美女<br>keyboard_arrow_down<br>21： 【录播】 简单直播播放 15:28lock_outline<br>22： 【录播】 发起与观看流程 11:01lock_outline<br>23： 【录播】 推流MVP封装(上) 21:08lock_outline<br>24： 【录播】 推流功能封装(下) 21:40lock_outline<br>25： 【录播】 直播基本功能实现 19:12lock_outline<br>26： 【录播】 直播美颜和水印功能实现 25:04lock_outline<br>27： 【录播】 直播滤镜与硬编码 14:23lock_outline<br>28： 【录播】 播放功能封装 17:55lock_outline<br>29： 【录播】 腾讯云IM基础封装 14:40lock_outline<br>30： 【录播】 腾讯云IM群组操作 10:30lock_outline<br>第 5 章：美女互动<br>keyboard_arrow_down<br>31： 【录播】 主播信息展示 14:48lock_outline<br>32： 【录播】 IM收发消息 20:18lock_outline<br>33： 【录播】 消息类型 10:29lock_outline<br>34： 【录播】 消息列表 17:11lock_outline<br>35： 【录播】 解析收发消息 17:43lock_outline<br>36： 【录播】 美女点赞功能实现 26:36lock_outline<br>37： 【录播】 系统消息 23:35lock_outline<br>38： 【录播】 主播端观众列表 12:15lock_outline<br>39： 【录播】 观众端观众列表 26:27lock_outline<br>40： 【录播】 结束直播 13:07lock_outline<br>41： 【录播】 主播事件监听 15:15lock_outline<br>42： 【录播】 观众端事件监听 13:48lock_outline<br>43： 【录播】 直播结束 18:11lock_outline<br>第 6 章：打赏美女<br>keyboard_arrow_down<br>44： 【录播】 展示礼物列表 30:17lock_outline<br>45： 【录播】 礼物打赏流程介绍 13:15lock_outline<br>46： 【录播】 礼物选中动画 23:37lock_outline<br>47： 【录播】 发送打赏 18:13lock_outline<br>48： 【录播】 礼物展示 20:35lock_outline<br>49： 【录播】 礼物队列 29:44lock_outline<br>第 7 章：我的<br>keyboard_arrow_down<br>50： 【录播】 我的界面-个人信息编辑 33:10lock_outline<br>51： 【录播】 用户关注 14:04lock_outline<br>52： 【录播】 关注和粉丝列表 16:15lock_outline<br>53： 【录播】 直播回放 20:40lock_outline<br>54： 【录播】 优化及问题 24:44lock_outline</p><blockquote><p>链接：<a href="https://pan.baidu.com/s/1m_vWaDm5a8Psi3nbGFMO2w" target="_blank" rel="noopener">https://pan.baidu.com/s/1m_vWaDm5a8Psi3nbGFMO2w</a> 密码：4jmd</p></blockquote><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 内容打赏后可见</span><br>      <span class="post-copyright-info"><a href="http://t.cn/EfWKwz3" target="_blank" rel="noopener">打赏</a></span><br>    </div><br></div>]]></content>
+      
+      <categories>
+          
+          <category> 移动开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 实战 </tag>
+            
+            <tag> 移动开发 </tag>
+            
+            <tag> 2018 </tag>
+            
+            <tag> 菜鸟窝 </tag>
+            
+            <tag> 菜鸟直播 </tag>
             
         </tags>
       
@@ -4397,9 +4504,9 @@
             
             <tag> 人工智能 </tag>
             
-            <tag> 对抗生成网络 </tag>
-            
             <tag> 51CTO学院 </tag>
+            
+            <tag> 对抗生成网络 </tag>
             
         </tags>
       
@@ -4549,31 +4656,6 @@
     </entry>
     
     <entry>
-      <title>深度学习入门视频课程（下篇）</title>
-      <link href="/51CTO%E5%AD%A6%E9%99%A2/007_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89%E3%80%8B_22%E8%AF%BE_2017/"/>
-      <url>/51CTO%E5%AD%A6%E9%99%A2/007_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89%E3%80%8B_22%E8%AF%BE_2017/</url>
-      <content type="html"><![CDATA[<p>课程目标<br>用通俗易懂的讲解，一步步的带大家入门深度学习这个当今世界最火爆的深度学习领域。<br>适用人群<br>渴望高端技术，对人工智能感兴趣的同学们，全民皆可入门。<br>课程简介<br>从无人驾驶汽车技术到AlphaGo战胜人类，深度学习在生活中扮演着越来越重要的角色，也即将改变这个世界。但是很多同学担心深度学习入门要求太高，苦于国内没有合适的课程予以帮助。</p><p>深度学习入门系列课程作为国内第一篇深度学习的入门课程视频，旨在帮助同学们更快更轻松的掌握深度学习所涉及的所有知识点，真正的入门深度学习这个世界上拥有最先进技术的领域，深度学习全民皆兵。</p><p>本篇主要涉及两大模块，分别是计算机视觉-CNN网络架构，自然语言处理RNN网络架构，风格依旧通俗易懂！</p><p>课程目录</p><p>1深度学习入门课程01 感受卷积神经网络的强大[免费观看]14:55<br>2深度学习入门课程02 卷积层详解12:53<br><a id="more"></a><br>3深度学习入门课程03 卷积计算流程12:30<br>4深度学习入门课程04 卷积核参数分析13:13<br>5深度学习入门课程05 卷积参数共享原则08:09<br>6深度学习入门课程06 池化层（Pooling）原理08:24<br>7深度学习入门课程07 卷积神经网络反向传播原理14:44<br>8深度学习入门课程08 实现卷积层的前向传播与反向传播10:19<br>9深度学习入门课程09 实现Pooling层的前向传播与反向传播12:00<br>10深度学习入门课程10 经典卷及网络架构实例20:35<br>11深度学习入门课程11 RNN网络结构08:39<br>12RNN网络细节11:54<br>13深度学习入门课程12 python实现RNN算法33:46<br>14深度学习入门课程13 LSTM网络结构简介12:36<br>15深度学习入门课程14 分类与回归（Location）任务应用详解33:30<br>16深度学习入门额课程15 物体检测实例33:16<br>17深度学习入门课程16 如何巧妙设计网络结构21:52<br>18深度学习入门课程17 训练技巧之数据增强12:20<br>19深度学习入门课程18 训练技巧之Transfer Learning11:09<br>20深度学习入门课程19 深度学习框架Caffe简介20:43<br>21深度学习入门课程20 深度学习框架Caffe训练过程20:39<br>22深度学习入门课程21 深度学习框架Caffe接口使用实例12:35</p><p><div id="jspay" sid="nHoCJg74756" style="display:none">nHoCJg74756</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
-      
-      <categories>
-          
-          <category> 人工智能 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 深度学习 </tag>
-            
-            <tag> 人工智能 </tag>
-            
-            <tag> 51CTO学院 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
       <title>深度学习顶级论文算法详解视频课程</title>
       <link href="/51CTO%E5%AD%A6%E9%99%A2/008_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%A1%B6%E7%BA%A7%E8%AE%BA%E6%96%87%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%E3%80%8B_2017/"/>
       <url>/51CTO%E5%AD%A6%E9%99%A2/008_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%A1%B6%E7%BA%A7%E8%AE%BA%E6%96%87%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%E3%80%8B_2017/</url>
@@ -4595,6 +4677,31 @@
             <tag> 51CTO学院 </tag>
             
             <tag> 算法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>深度学习入门视频课程（下篇）</title>
+      <link href="/51CTO%E5%AD%A6%E9%99%A2/007_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89%E3%80%8B_22%E8%AF%BE_2017/"/>
+      <url>/51CTO%E5%AD%A6%E9%99%A2/007_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89%E3%80%8B_22%E8%AF%BE_2017/</url>
+      <content type="html"><![CDATA[<p>课程目标<br>用通俗易懂的讲解，一步步的带大家入门深度学习这个当今世界最火爆的深度学习领域。<br>适用人群<br>渴望高端技术，对人工智能感兴趣的同学们，全民皆可入门。<br>课程简介<br>从无人驾驶汽车技术到AlphaGo战胜人类，深度学习在生活中扮演着越来越重要的角色，也即将改变这个世界。但是很多同学担心深度学习入门要求太高，苦于国内没有合适的课程予以帮助。</p><p>深度学习入门系列课程作为国内第一篇深度学习的入门课程视频，旨在帮助同学们更快更轻松的掌握深度学习所涉及的所有知识点，真正的入门深度学习这个世界上拥有最先进技术的领域，深度学习全民皆兵。</p><p>本篇主要涉及两大模块，分别是计算机视觉-CNN网络架构，自然语言处理RNN网络架构，风格依旧通俗易懂！</p><p>课程目录</p><p>1深度学习入门课程01 感受卷积神经网络的强大[免费观看]14:55<br>2深度学习入门课程02 卷积层详解12:53<br><a id="more"></a><br>3深度学习入门课程03 卷积计算流程12:30<br>4深度学习入门课程04 卷积核参数分析13:13<br>5深度学习入门课程05 卷积参数共享原则08:09<br>6深度学习入门课程06 池化层（Pooling）原理08:24<br>7深度学习入门课程07 卷积神经网络反向传播原理14:44<br>8深度学习入门课程08 实现卷积层的前向传播与反向传播10:19<br>9深度学习入门课程09 实现Pooling层的前向传播与反向传播12:00<br>10深度学习入门课程10 经典卷及网络架构实例20:35<br>11深度学习入门课程11 RNN网络结构08:39<br>12RNN网络细节11:54<br>13深度学习入门课程12 python实现RNN算法33:46<br>14深度学习入门课程13 LSTM网络结构简介12:36<br>15深度学习入门课程14 分类与回归（Location）任务应用详解33:30<br>16深度学习入门额课程15 物体检测实例33:16<br>17深度学习入门课程16 如何巧妙设计网络结构21:52<br>18深度学习入门课程17 训练技巧之数据增强12:20<br>19深度学习入门课程18 训练技巧之Transfer Learning11:09<br>20深度学习入门课程19 深度学习框架Caffe简介20:43<br>21深度学习入门课程20 深度学习框架Caffe训练过程20:39<br>22深度学习入门课程21 深度学习框架Caffe接口使用实例12:35</p><p><div id="jspay" sid="nHoCJg74756" style="display:none">nHoCJg74756</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+      
+      <categories>
+          
+          <category> 人工智能 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 深度学习 </tag>
+            
+            <tag> 人工智能 </tag>
+            
+            <tag> 51CTO学院 </tag>
             
         </tags>
       
@@ -4729,9 +4836,9 @@
             
             <tag> Tensorflow </tag>
             
-            <tag> 对抗生成网络 </tag>
-            
             <tag> 51CTO学院 </tag>
+            
+            <tag> 对抗生成网络 </tag>
             
         </tags>
       
@@ -4783,9 +4890,9 @@
             
             <tag> 微服务 </tag>
             
-            <tag> Spring Cloud </tag>
-            
             <tag> Spring </tag>
+            
+            <tag> Spring Cloud </tag>
             
             <tag> 极客时间 </tag>
             
@@ -4823,35 +4930,6 @@
     </entry>
     
     <entry>
-      <title>大数据算法导论</title>
-      <link href="/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/002_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B_15%E8%AF%BE_2016/"/>
-      <url>/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/002_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B_15%E8%AF%BE_2016/</url>
-      <content type="html"><![CDATA[<p>课程介绍<br>程序=算法+数据结构，算法是程序员，数据分析师等岗位的基本功，但有很多程序员和半路出家的数据分析师却没受过严格的算法训练，因此他们不能设计和开发出逻辑复杂的高效率应用系统，使到自己的职业前途受到限制。另外，在面试软件工程师，算法设计师，数据分析师，大数据程序员等岗位的时候，面试官常会问一下算法的问题，没有算法修养的人往往哑口无言，场面尴尬，比如</p><p>十道海量数据处理面试题<br><a href="http://f.dataguru.cn/thread-286933-1-1.html" target="_blank" rel="noopener">http://f.dataguru.cn/thread-286933-1-1.html</a></p><p>本课程以经典的《算法导论》一书作为蓝本，结合google，facebook，腾讯，阿里等企业的面试题，以及ACM大赛的真题进行讲解<br>每次课由以下几部分组成<br>1 算法精讲<br>2 此项算法的应用场景和案例<br>3 相关编程讲解（基于C/C++和Java，一般情况下会同时使用这两类编程语言进行例题讲解，学员只要会其中一种即可）<br>课程目的是消除瓶颈，从此面试再无心虚，工作再无心理障碍<br><a id="more"></a><br>课程大纲<br>第1课 算法概论，程序=算法+数据结构，时间不允许的算法无任何意义，分而治之，贪心算法，大数据的挑战<br>第2课 从排序说起，估计算法复杂度<br>第3课 基本数据结构及应用，栈，队列，链表，哈希函数和哈希表<br>第4课 二叉树，B树，红黑树等各种树结构及其应用<br>第5课 面试题与ACM题选讲（1）<br>第6课 面试题与ACM题选讲（2）<br>第7课 矩阵计算问题，超巨型矩阵与稀疏矩阵的存储和计算<br>第8课 现实世界的信息安全原来是数论算法决定的，RSA算法<br>第9课 字符串匹配问题，海量字符串处理。BLAST算法与基因匹配<br>第10课 面试题与ACM题选讲（3）<br>第11课 面试题与ACM题选讲（4）<br>第12课 图算法及其在交换机，路由器等网络设备中的应用，最小生成树，最短路算法<br>第13课 运筹学算法简介，线性规划，动态规划，最大流算法<br>第14课 NP完备问题，千古难题NP=P？近似算法<br>第15课 面试题与ACM题选讲（5）<br>授课讲师<br>主讲：<br>tigerfish（黄志洪），炼数成金创始人，ITPUB创始人。数据库专家，数据分析专家，有丰富的IT领域、数学领域的知识经验。过往主讲炼数成金《Hadoop数据分析平台》《数据分析展现与R语言》《机器学习》等多门大数据和数据分析课程，沉浸算法研究20多年，有丰富的讲授算法类课程经验。</p><p>习题指导：<br>何翠仪，中山大学统计学专业毕业，炼数成金专职讲师，在过去曾主讲或参与主讲炼数成金《大数据的统计学基础》《大数据的矩阵计算基础》《金融时间序列分析》《量化投资》等课程。<br>吴仕灿，炼数成金专职讲师，曾参与《Hadoop数据分析平台》《NoSQL与NewSQL数据库引航》等课程的助教工作。<br>课程环境<br>不限<br>授课对象<br>任何对算法有兴趣的同学，需要弥补算法知识的程序员，架构师，设计师，分析师等，或想通过面试进入互联网公司从事这类工作的同学。课程里会分析很多面试题。<br>收获预期<br>熟悉常用算法，并将其运用于工作场景，特别是大数据场景</p><p><div id="jspay" sid="5d7FiYs1941" style="display:none">5d7FiYs1941</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
-      
-      <categories>
-          
-          <category> 云计算&amp;大数据 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 面试 </tag>
-            
-            <tag> 云计算&amp;大数据 </tag>
-            
-            <tag> 算法导论 </tag>
-            
-            <tag> 炼数成金 </tag>
-            
-            <tag> 2016 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
       <title>JAVA极客特训</title>
       <link href="/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/001_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8AJAVA%E6%9E%81%E5%AE%A2%E7%89%B9%E8%AE%AD%E3%80%8B_5%E8%AF%BE_2018/"/>
       <url>/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/001_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8AJAVA%E6%9E%81%E5%AE%A2%E7%89%B9%E8%AE%AD%E3%80%8B_5%E8%AF%BE_2018/</url>
@@ -4874,11 +4952,40 @@
             
             <tag> 设计模式 </tag>
             
-            <tag> 炼数成金 </tag>
-            
             <tag> 重构 </tag>
             
             <tag> 高并发 </tag>
+            
+            <tag> 炼数成金 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>大数据算法导论</title>
+      <link href="/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/002_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B_15%E8%AF%BE_2016/"/>
+      <url>/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/002_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B_15%E8%AF%BE_2016/</url>
+      <content type="html"><![CDATA[<p>课程介绍<br>程序=算法+数据结构，算法是程序员，数据分析师等岗位的基本功，但有很多程序员和半路出家的数据分析师却没受过严格的算法训练，因此他们不能设计和开发出逻辑复杂的高效率应用系统，使到自己的职业前途受到限制。另外，在面试软件工程师，算法设计师，数据分析师，大数据程序员等岗位的时候，面试官常会问一下算法的问题，没有算法修养的人往往哑口无言，场面尴尬，比如</p><p>十道海量数据处理面试题<br><a href="http://f.dataguru.cn/thread-286933-1-1.html" target="_blank" rel="noopener">http://f.dataguru.cn/thread-286933-1-1.html</a></p><p>本课程以经典的《算法导论》一书作为蓝本，结合google，facebook，腾讯，阿里等企业的面试题，以及ACM大赛的真题进行讲解<br>每次课由以下几部分组成<br>1 算法精讲<br>2 此项算法的应用场景和案例<br>3 相关编程讲解（基于C/C++和Java，一般情况下会同时使用这两类编程语言进行例题讲解，学员只要会其中一种即可）<br>课程目的是消除瓶颈，从此面试再无心虚，工作再无心理障碍<br><a id="more"></a><br>课程大纲<br>第1课 算法概论，程序=算法+数据结构，时间不允许的算法无任何意义，分而治之，贪心算法，大数据的挑战<br>第2课 从排序说起，估计算法复杂度<br>第3课 基本数据结构及应用，栈，队列，链表，哈希函数和哈希表<br>第4课 二叉树，B树，红黑树等各种树结构及其应用<br>第5课 面试题与ACM题选讲（1）<br>第6课 面试题与ACM题选讲（2）<br>第7课 矩阵计算问题，超巨型矩阵与稀疏矩阵的存储和计算<br>第8课 现实世界的信息安全原来是数论算法决定的，RSA算法<br>第9课 字符串匹配问题，海量字符串处理。BLAST算法与基因匹配<br>第10课 面试题与ACM题选讲（3）<br>第11课 面试题与ACM题选讲（4）<br>第12课 图算法及其在交换机，路由器等网络设备中的应用，最小生成树，最短路算法<br>第13课 运筹学算法简介，线性规划，动态规划，最大流算法<br>第14课 NP完备问题，千古难题NP=P？近似算法<br>第15课 面试题与ACM题选讲（5）<br>授课讲师<br>主讲：<br>tigerfish（黄志洪），炼数成金创始人，ITPUB创始人。数据库专家，数据分析专家，有丰富的IT领域、数学领域的知识经验。过往主讲炼数成金《Hadoop数据分析平台》《数据分析展现与R语言》《机器学习》等多门大数据和数据分析课程，沉浸算法研究20多年，有丰富的讲授算法类课程经验。</p><p>习题指导：<br>何翠仪，中山大学统计学专业毕业，炼数成金专职讲师，在过去曾主讲或参与主讲炼数成金《大数据的统计学基础》《大数据的矩阵计算基础》《金融时间序列分析》《量化投资》等课程。<br>吴仕灿，炼数成金专职讲师，曾参与《Hadoop数据分析平台》《NoSQL与NewSQL数据库引航》等课程的助教工作。<br>课程环境<br>不限<br>授课对象<br>任何对算法有兴趣的同学，需要弥补算法知识的程序员，架构师，设计师，分析师等，或想通过面试进入互联网公司从事这类工作的同学。课程里会分析很多面试题。<br>收获预期<br>熟悉常用算法，并将其运用于工作场景，特别是大数据场景</p><p><div id="jspay" sid="5d7FiYs1941" style="display:none">5d7FiYs1941</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+      
+      <categories>
+          
+          <category> 云计算&amp;大数据 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 面试 </tag>
+            
+            <tag> 云计算&amp;大数据 </tag>
+            
+            <tag> 炼数成金 </tag>
+            
+            <tag> 算法导论 </tag>
+            
+            <tag> 2016 </tag>
             
         </tags>
       
@@ -4916,6 +5023,37 @@
     </entry>
     
     <entry>
+      <title>Activiti6.0工作流引擎深度解析与实战</title>
+      <link href="/%E6%85%95%E8%AF%BE%E7%BD%91/009_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AActiviti6.0%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%BC%95%E6%93%8E%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%AE%9E%E6%88%98%E3%80%8B_11%E8%AF%BE_2018/"/>
+      <url>/%E6%85%95%E8%AF%BE%E7%BD%91/009_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AActiviti6.0%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%BC%95%E6%93%8E%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%AE%9E%E6%88%98%E3%80%8B_11%E8%AF%BE_2018/</url>
+      <content type="html"><![CDATA[<p>第1章 课程介绍（提供问答区答疑解惑）<br>本课程将系统且深入源码讲解Activiti6.0工作流引擎的使用、配置、核心api以及BPMN2.0规范、数据库设计及模型映射，Spring Boot2.0集成，工作流平台搭建、部署与运维等，通过本课程的学习，你将切实学会Activiti6.0工作流引擎开发，大大提升自己的业务建模能力，技术架构能力，开源库研究能力，流程梳理能力，从而进阶为Jav…</p><p>1-1 课程导学<br>第2章 工作流入门<br>本章首先介绍了工作流是什么，工作流技术选型，然后带大家快速体验activiti6.0，让大家在最短的时间内体验工作流系统的操作过程，对activiti工作流有个感性的认识。<br><a id="more"></a><br>2-1 本章概述<br>2-2 工作流介绍<br>2-3 工作流引擎技术选型<br>2-4 Activiti6.0快速体验-部署环境介绍<br>2-5 Activiti6.0快速体验-部署环境实操<br>2-6 Activiti6.0快速体验-流程体验<br>第3章 Activiti6.0源码初探<br>本章带大家对Activiti6.0源码进行初探,首先我会介绍如何基于源代码方式学习开源软件的方法，然后在官方源码的基础上运行activiti-app，并详细介绍activiti-app的工程结构，演示demo，学习官方demo构建的优点，对源码有一个初步认识后，我们开始activiti的hello world之旅，通过编程方式体验工作流的运行过程，绘制流程图，…</p><p>3-1 本章概述<br>3-2 Activiti6.0源码初探-概览与获取<br>3-3 Activiti6.0源码初探-engine<br>3-4 Activiti6.0源码初探-模块介绍<br>3-5 Activiti6.0源码初探-activiti-app运行<br>3-6 Activiti6.0源码初探-WebConfigurer<br>3-7 Activiti6.0源码初探-helloword-1<br>3-8 Activiti6.0源码初探-helloword-2<br>3-9 Activiti6.0源码初探-helloword_idea-1<br>3-10 Activiti6.0源码初探-helloword_idea-2<br>3-11 Activiti6.0源码初探-helloword_idea-3<br>第4章 Activiti6.0引擎配置<br>本章为大家介绍Activiti6.0配置，所有的配置都是通过ProcessEngineConfiguration类来设置的，其中主要的配置包括数据源，数据类型，创建数据库表的策略，作业执行器的配置，流程历史数据记录的详细级别，Activiti对日志的配置支持，以及在流程执行过程中定义方便定位信息的mdc变量，Activiti提供的事件处理程序ActivitiEven…</p><p>4-1 本章概述<br>4-2 创建流程引擎配置-config_samples<br>4-3 创建流程引擎配置-archetype<br>4-4 数据库配置-dbconfig<br>4-5 数据库配置-dbconfig_code<br>4-6 日志记录配置-logging<br>4-7 日志记录配置-logging_mdc<br>4-8 历史记录配置-history-1<br>4-9 历史记录配置-history-2<br>4-10 事件处理及监听器配置-eventlog<br>4-11 事件处理及监听器配置-eventLinstener-1<br>4-12 事件处理及监听器配置-eventLinstener-2<br>4-13 命令拦截器配置-command-1<br>4-14 命令拦截器配置-command-2<br>4-15 作业执行器配置-job-1<br>4-16 作业执行器配置-job-2<br>4-17 Activiti与spring集成-1<br>4-18 Activiti与spring集成-2<br>4-19 Activiti与spring集成-3<br>第5章 Activiti核心API<br>本章主要讲解Activiti核心API，包括ProcessEngine以及服务、流程存储服务、流程运行控制服务、任务管理服务、用户和用户组管理服务、表单服务管理、历史数据管理服务、其它管理服务、异常策略。在学习了这些常用api的基础上我们通过APi控制一个流程实例的状态进化，体验流程的部署过程，启动流程实例，驱动流程到下一个节点…</p><p>5-1 本章概述<br>5-2 流程存储服务-RepositoryService-1<br>5-3 流程存储服务-RepositoryService-2<br>5-4 流程运行 控制服务-RuntimeService-1<br>5-5 流程运行 控制服务-RuntimeService-2<br>5-6 流程运行 控制服务-RuntimeService-3<br>5-7 任务管理服务-TaskService-1<br>5-8 任务管理服务-TaskService-2<br>5-9 任务管理服务-TaskService-3<br>5-10 用户和用户组管理服务-IdentityService<br>5-11 表单管理服务- formeService<br>5-12 历史数据管理服务-HistoryService-1<br>5-13 历史数据管理服务-HistoryService-2<br>5-14 其它管理服务-OtherService<br>5-15 异常策略<br>第6章 数据库设计与模型映射<br>本章主要讲解数据库设计与模型映射，包括通用数据表、流程存储表、身份数据表、运行时流程数据表、历史流程表。我们通过流程执行观察数据库内容的变化体会流程引擎表结构之间的关系。</p><p>6-1 通用数据表设计<br>6-2 流程定义存储表设计<br>6-3 身份数据表设计<br>6-4 运行时流程数据表设计-1<br>6-5 运行时流程数据表设计-2<br>6-6 历史流程数据表设计-1<br>6-7 历史流程数据表设计-2<br>第7章 BPMN2.0规范<br>本章主要讲解BPMN2.0规范，这里主要介绍BPMN中规范的基本元素Activities(活动)、Gateways（网关）、Events（事件），事件一般按照位置分类为开始事、结束事件、中间事件、边界事件。活动包括原子任务和子流程,常用原子任务涉及到UserTask（用户任务）、ScriptTask(脚本任务)、ServiceTask（JavaDelegate定义实现），网关包…</p><p>7-1 本章概述<br>7-2 BPMN2.0流程事件-事件分类<br>7-3 BPMN2.0流程事件-错误事件<br>7-4 BPMN2.0流程事件-信号消息事件<br>7-5 BPMN2.0流程任务-用户任务-1<br>7-6 BPMN2.0流程任务-用户任务-2<br>7-7 BPMN2.0脚本任务<br>7-8 BPMN2.0服务任务-1<br>7-9 BPMN2.0服务任务-2<br>7-10 BPMN2.0顺序流和网关-1<br>7-11 BPMN2.0顺序流和网关-2<br>7-12 BPMN2.0顺序流和网关-3<br>7-13 BPMN2.0子流程-1<br>7-14 BPMN2.0子流程-2<br>7-15 BPMN2.0子流程-3<br>7-16 BPMN2.0子流程-4<br>第8章 Activiti6.0集成Spring Boot2.0<br>本章讲解集成Spring Boot2.0，主要包括Spring Boot2.0特性、启动依赖starter、 自动装配AutoConfigure、运维监控Acutator、微服务Stand-alone、 启动入口SpringBootApplication、外部化配置yaml、Profiles、日志logging、 web mvc、SQL数据库集成、单元测试。 …</p><p>8-1 本章概述<br>8-2 Spring Boot2.0入门实例-1<br>8-3 Spring Boot2.0入门实例-2<br>8-4 Spring Boot2.0启动依赖和自动装配-1<br>8-5 Spring Boot2.0启动依赖和自动装配-2<br>8-6 Activiti6.0与Spring Boot2.0集成-1<br>8-7 Activiti6.0与Spring Boot2.0集成-2<br>第9章 工作流平台搭建<br>本章主要讲解工作流平台搭建，包括需求分析、集成activiti-app、 集成activiti-admin、开发自定义动态表单、电商的业务流程分析建模、 流程文件部署及系统测试验证。</p><p>9-1 工作流平台搭建-需求分析<br>9-2 工作流平台搭建集成spring boot1-1<br>9-3 工作流平台搭建集成spring boot1-2<br>9-4 工作流平台搭建集成spring boot1-3<br>9-5 工作流平台搭建集成spring boot1-4<br>9-6 工作流平台升级spring boot2-1<br>9-7 工作流平台升级spring boot2-2<br>9-8 工作流平台升级spring boot2-3<br>9-9 工作流平台升级spring boot2-4<br>9-10 工作流平台搭建-workflow-1<br>9-11 工作流平台搭建-workflow-2<br>9-12 工作流平台搭建-购物流程-1<br>9-13 工作流平台搭建-购物流程-2<br>9-14 工作流平台搭建-购物流程-3<br>第10章 工作流平台部署和运维<br>本章主要讲解工作流平台部署和运维，包括云上部署系统、工作流平台运维、 系统横向扩容、那些踩过的坑。</p><p>10-1 工作流平台部署-1<br>10-2 工作流平台部署-2<br>第11章 课程总结<br>本章和大家一起总结回顾课程重难点，帮助大家更好的加强与巩固本课程所学知识。</p><p>11-1 课程总结<br>本课程已完结﻿</p><p><div id="jspay" sid="qvjx6si4405" style="display:none">qvjx6si4405</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+      
+      <categories>
+          
+          <category> 后端开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 实战 </tag>
+            
+            <tag> 后端开发 </tag>
+            
+            <tag> 慕课网 </tag>
+            
+            <tag> 2018 </tag>
+            
+            <tag> Activiti6.0 </tag>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>Android互动直播APP开发</title>
       <link href="/%E6%85%95%E8%AF%BE%E7%BD%91/010_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AAndroid%E4%BA%92%E5%8A%A8%E7%9B%B4%E6%92%ADAPP%E5%BC%80%E5%8F%91%E3%80%8B_10%E8%AF%BE_2017/"/>
       <url>/%E6%85%95%E8%AF%BE%E7%BD%91/010_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AAndroid%E4%BA%92%E5%8A%A8%E7%9B%B4%E6%92%ADAPP%E5%BC%80%E5%8F%91%E3%80%8B_10%E8%AF%BE_2017/</url>
@@ -4943,37 +5081,6 @@
             <tag> 直播 </tag>
             
             <tag> 互动直播APP </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
-      <title>Activiti6.0工作流引擎深度解析与实战</title>
-      <link href="/%E6%85%95%E8%AF%BE%E7%BD%91/009_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AActiviti6.0%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%BC%95%E6%93%8E%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%AE%9E%E6%88%98%E3%80%8B_11%E8%AF%BE_2018/"/>
-      <url>/%E6%85%95%E8%AF%BE%E7%BD%91/009_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AActiviti6.0%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%BC%95%E6%93%8E%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%AE%9E%E6%88%98%E3%80%8B_11%E8%AF%BE_2018/</url>
-      <content type="html"><![CDATA[<p>第1章 课程介绍（提供问答区答疑解惑）<br>本课程将系统且深入源码讲解Activiti6.0工作流引擎的使用、配置、核心api以及BPMN2.0规范、数据库设计及模型映射，Spring Boot2.0集成，工作流平台搭建、部署与运维等，通过本课程的学习，你将切实学会Activiti6.0工作流引擎开发，大大提升自己的业务建模能力，技术架构能力，开源库研究能力，流程梳理能力，从而进阶为Jav…</p><p>1-1 课程导学<br>第2章 工作流入门<br>本章首先介绍了工作流是什么，工作流技术选型，然后带大家快速体验activiti6.0，让大家在最短的时间内体验工作流系统的操作过程，对activiti工作流有个感性的认识。<br><a id="more"></a><br>2-1 本章概述<br>2-2 工作流介绍<br>2-3 工作流引擎技术选型<br>2-4 Activiti6.0快速体验-部署环境介绍<br>2-5 Activiti6.0快速体验-部署环境实操<br>2-6 Activiti6.0快速体验-流程体验<br>第3章 Activiti6.0源码初探<br>本章带大家对Activiti6.0源码进行初探,首先我会介绍如何基于源代码方式学习开源软件的方法，然后在官方源码的基础上运行activiti-app，并详细介绍activiti-app的工程结构，演示demo，学习官方demo构建的优点，对源码有一个初步认识后，我们开始activiti的hello world之旅，通过编程方式体验工作流的运行过程，绘制流程图，…</p><p>3-1 本章概述<br>3-2 Activiti6.0源码初探-概览与获取<br>3-3 Activiti6.0源码初探-engine<br>3-4 Activiti6.0源码初探-模块介绍<br>3-5 Activiti6.0源码初探-activiti-app运行<br>3-6 Activiti6.0源码初探-WebConfigurer<br>3-7 Activiti6.0源码初探-helloword-1<br>3-8 Activiti6.0源码初探-helloword-2<br>3-9 Activiti6.0源码初探-helloword_idea-1<br>3-10 Activiti6.0源码初探-helloword_idea-2<br>3-11 Activiti6.0源码初探-helloword_idea-3<br>第4章 Activiti6.0引擎配置<br>本章为大家介绍Activiti6.0配置，所有的配置都是通过ProcessEngineConfiguration类来设置的，其中主要的配置包括数据源，数据类型，创建数据库表的策略，作业执行器的配置，流程历史数据记录的详细级别，Activiti对日志的配置支持，以及在流程执行过程中定义方便定位信息的mdc变量，Activiti提供的事件处理程序ActivitiEven…</p><p>4-1 本章概述<br>4-2 创建流程引擎配置-config_samples<br>4-3 创建流程引擎配置-archetype<br>4-4 数据库配置-dbconfig<br>4-5 数据库配置-dbconfig_code<br>4-6 日志记录配置-logging<br>4-7 日志记录配置-logging_mdc<br>4-8 历史记录配置-history-1<br>4-9 历史记录配置-history-2<br>4-10 事件处理及监听器配置-eventlog<br>4-11 事件处理及监听器配置-eventLinstener-1<br>4-12 事件处理及监听器配置-eventLinstener-2<br>4-13 命令拦截器配置-command-1<br>4-14 命令拦截器配置-command-2<br>4-15 作业执行器配置-job-1<br>4-16 作业执行器配置-job-2<br>4-17 Activiti与spring集成-1<br>4-18 Activiti与spring集成-2<br>4-19 Activiti与spring集成-3<br>第5章 Activiti核心API<br>本章主要讲解Activiti核心API，包括ProcessEngine以及服务、流程存储服务、流程运行控制服务、任务管理服务、用户和用户组管理服务、表单服务管理、历史数据管理服务、其它管理服务、异常策略。在学习了这些常用api的基础上我们通过APi控制一个流程实例的状态进化，体验流程的部署过程，启动流程实例，驱动流程到下一个节点…</p><p>5-1 本章概述<br>5-2 流程存储服务-RepositoryService-1<br>5-3 流程存储服务-RepositoryService-2<br>5-4 流程运行 控制服务-RuntimeService-1<br>5-5 流程运行 控制服务-RuntimeService-2<br>5-6 流程运行 控制服务-RuntimeService-3<br>5-7 任务管理服务-TaskService-1<br>5-8 任务管理服务-TaskService-2<br>5-9 任务管理服务-TaskService-3<br>5-10 用户和用户组管理服务-IdentityService<br>5-11 表单管理服务- formeService<br>5-12 历史数据管理服务-HistoryService-1<br>5-13 历史数据管理服务-HistoryService-2<br>5-14 其它管理服务-OtherService<br>5-15 异常策略<br>第6章 数据库设计与模型映射<br>本章主要讲解数据库设计与模型映射，包括通用数据表、流程存储表、身份数据表、运行时流程数据表、历史流程表。我们通过流程执行观察数据库内容的变化体会流程引擎表结构之间的关系。</p><p>6-1 通用数据表设计<br>6-2 流程定义存储表设计<br>6-3 身份数据表设计<br>6-4 运行时流程数据表设计-1<br>6-5 运行时流程数据表设计-2<br>6-6 历史流程数据表设计-1<br>6-7 历史流程数据表设计-2<br>第7章 BPMN2.0规范<br>本章主要讲解BPMN2.0规范，这里主要介绍BPMN中规范的基本元素Activities(活动)、Gateways（网关）、Events（事件），事件一般按照位置分类为开始事、结束事件、中间事件、边界事件。活动包括原子任务和子流程,常用原子任务涉及到UserTask（用户任务）、ScriptTask(脚本任务)、ServiceTask（JavaDelegate定义实现），网关包…</p><p>7-1 本章概述<br>7-2 BPMN2.0流程事件-事件分类<br>7-3 BPMN2.0流程事件-错误事件<br>7-4 BPMN2.0流程事件-信号消息事件<br>7-5 BPMN2.0流程任务-用户任务-1<br>7-6 BPMN2.0流程任务-用户任务-2<br>7-7 BPMN2.0脚本任务<br>7-8 BPMN2.0服务任务-1<br>7-9 BPMN2.0服务任务-2<br>7-10 BPMN2.0顺序流和网关-1<br>7-11 BPMN2.0顺序流和网关-2<br>7-12 BPMN2.0顺序流和网关-3<br>7-13 BPMN2.0子流程-1<br>7-14 BPMN2.0子流程-2<br>7-15 BPMN2.0子流程-3<br>7-16 BPMN2.0子流程-4<br>第8章 Activiti6.0集成Spring Boot2.0<br>本章讲解集成Spring Boot2.0，主要包括Spring Boot2.0特性、启动依赖starter、 自动装配AutoConfigure、运维监控Acutator、微服务Stand-alone、 启动入口SpringBootApplication、外部化配置yaml、Profiles、日志logging、 web mvc、SQL数据库集成、单元测试。 …</p><p>8-1 本章概述<br>8-2 Spring Boot2.0入门实例-1<br>8-3 Spring Boot2.0入门实例-2<br>8-4 Spring Boot2.0启动依赖和自动装配-1<br>8-5 Spring Boot2.0启动依赖和自动装配-2<br>8-6 Activiti6.0与Spring Boot2.0集成-1<br>8-7 Activiti6.0与Spring Boot2.0集成-2<br>第9章 工作流平台搭建<br>本章主要讲解工作流平台搭建，包括需求分析、集成activiti-app、 集成activiti-admin、开发自定义动态表单、电商的业务流程分析建模、 流程文件部署及系统测试验证。</p><p>9-1 工作流平台搭建-需求分析<br>9-2 工作流平台搭建集成spring boot1-1<br>9-3 工作流平台搭建集成spring boot1-2<br>9-4 工作流平台搭建集成spring boot1-3<br>9-5 工作流平台搭建集成spring boot1-4<br>9-6 工作流平台升级spring boot2-1<br>9-7 工作流平台升级spring boot2-2<br>9-8 工作流平台升级spring boot2-3<br>9-9 工作流平台升级spring boot2-4<br>9-10 工作流平台搭建-workflow-1<br>9-11 工作流平台搭建-workflow-2<br>9-12 工作流平台搭建-购物流程-1<br>9-13 工作流平台搭建-购物流程-2<br>9-14 工作流平台搭建-购物流程-3<br>第10章 工作流平台部署和运维<br>本章主要讲解工作流平台部署和运维，包括云上部署系统、工作流平台运维、 系统横向扩容、那些踩过的坑。</p><p>10-1 工作流平台部署-1<br>10-2 工作流平台部署-2<br>第11章 课程总结<br>本章和大家一起总结回顾课程重难点，帮助大家更好的加强与巩固本课程所学知识。</p><p>11-1 课程总结<br>本课程已完结﻿</p><p><div id="jspay" sid="qvjx6si4405" style="display:none">qvjx6si4405</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
-      
-      <categories>
-          
-          <category> 后端开发 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 实战 </tag>
-            
-            <tag> 后端开发 </tag>
-            
-            <tag> 慕课网 </tag>
-            
-            <tag> 2018 </tag>
-            
-            <tag> Activiti6.0 </tag>
-            
-            <tag> java </tag>
             
         </tags>
       
@@ -5054,9 +5161,9 @@
       
         <tags>
             
-            <tag> PHP </tag>
-            
             <tag> 实战 </tag>
+            
+            <tag> PHP </tag>
             
             <tag> 后端开发 </tag>
             
