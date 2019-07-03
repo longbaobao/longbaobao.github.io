@@ -3,6 +3,397 @@
   
     
     <entry>
+      <title>七月在线《PyTorch的入门与实战》2019</title>
+      <link href="/2019-07-03/%E4%B8%83%E6%9C%88%E5%9C%A8%E7%BA%BF%E3%80%8APyTorch%E7%9A%84%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98%E3%80%8B2019/"/>
+      <url>/2019-07-03/%E4%B8%83%E6%9C%88%E5%9C%A8%E7%BA%BF%E3%80%8APyTorch%E7%9A%84%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98%E3%80%8B2019/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>01.第一课  深度学习回顾与PyTorch简介.mp4<br>02.第二课 词向量简介.mp4<br>03.第三课 语言模型.mp4<br><a id="more"></a><br>04.第四课 自然语言分类任务.mp4<br>05.第五课 简单图片分类.mp4<br>06.第六课 图片风格迁移和GAN.mp4<br>07.第七课 Seq2Seq与Attention.mp4<br>08.第八课 问答系统.mp4</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1V6N01sU6WbF1zbEc4a2pmg" target="_blank" rel="noopener">https://pan.baidu.com/s/1V6N01sU6WbF1zbEc4a2pmg</a><br>提取码：j9po<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 人工智能研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PyTorch </tag>
+            
+            <tag> 深度学习 </tag>
+            
+            <tag> 人工智能 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>我赢职场《Linux 环境高级C语言系统开发》2018</title>
+      <link href="/2019-07-03/%E6%88%91%E8%B5%A2%E8%81%8C%E5%9C%BA%E3%80%8ALinux%20%E7%8E%AF%E5%A2%83%E9%AB%98%E7%BA%A7C%E8%AF%AD%E8%A8%80%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E3%80%8B2018/"/>
+      <url>/2019-07-03/%E6%88%91%E8%B5%A2%E8%81%8C%E5%9C%BA%E3%80%8ALinux%20%E7%8E%AF%E5%A2%83%E9%AB%98%E7%BA%A7C%E8%AF%AD%E8%A8%80%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E3%80%8B2018/</url>
+      <content type="html"><![CDATA[<p>『课程介绍』:<br>Linux C课程是拥有7年开发经验和4年教学经验的李老师历时3年辛勤完成。<br>我们以Linux平台作为依托，完成Linux相关的系统开发的讲解。<br>其中涉及到大量的算法实现和编程技巧，是初学者快速提升的重要法门，更是已在做编程的人们重新认识、了解Linux和C语言的重要途径。<br>在这里没有你学不会的C，没有你搞不懂的操作系统。<br>李老师秉承着“授人以渔”的教学观念，让开发变得不再枯燥、不再苦涩难懂。<br>我们使用的是永不过时的编程语言，只要编程还在，…</p><p>『课程目录』:<br>├─1.Linux系统下C语言快速入门<br>│      1学习方法和基本概念简单介绍<br>│      2gcc、vim<br>│      3基本概念-编程注意问题1<br>│      4基本概念-编程注意问题2<br>│<br>├─2.攻克C语言中的数据类型和运算符<br>│      1数据类型-二进制及数值类型的存储<br>│      2数据类型-bool、char、0及数据类型常见问题<br>│      3常量-整型、实型、字符、字符串<br>│      4常量-define的使用<br>│      5变量-定义<br>│      6变量-使用、全局变量<br>│      7变量-static、extern、生存周期<br>│      8运算符-算数运算符<br>│      9运算符-关系、逻辑、位、赋值、条件运算符和sizeof<br>│      10运算符-特殊用法和位运算的重要意义<br>│<br>├─3.深入探究C语言输入输出函数<br>│      1输入输出-基本函数介绍、格式字符讲解<br>│      2输入输出-修饰字符讲解<br>│      3输入输出-变参介绍、缓冲区刷新<br>│      4scanf语句<br>│      5字符、字符串输入、输出<br>│      6输入输出专题试题解析一<br>│      7输入输出专题试题解析二<br>│<br><a id="more"></a><br>├─4.选择结构与循环结构<br>│      1流程控制之IF语句的使用<br>│      2流程控制之if，else的使用实例<br>│      3流程控制之switch使用实例<br>│      4流程控制之while和do …while<br>│      5流程控制之for和辅助控制使用实例<br>│      6流程控制专题练习题<br>│      7流程控制语句练习二<br>│      8流程控制语句练习一<br>│<br>├─5.C语言数组专题<br>│      1一维数组的定义、初始化和数组元素<br>│      2一维数组之fabonacci数列<br>│      3一维数组之冒泡排序<br>│      4一维数组之选择法排序<br>│      5一维数组之进制转换、删除法求质数<br>│      6二维数组的定义、初始化、元素引用和存储形式<br>│      7二维数组中行列互换、求最大值、求行列的和及矩阵乘积等问题<br>│      8深入理解二维数组<br>│      9字符数组的定义、初始化和存储特点<br>│      10字符数组的输入输出和常用函数<br>│      11字符数组中单词计数问题以及多维数组的解释<br>│<br>├─6.C语言指针专题<br>│      1指针与变量<br>│      2指针与变量的关系<br>│      3指针运算<br>│      4指针与一维数组1<br>│      5指针与一维数组2<br>│      6指针与二维数组及数组指针<br>│      7指针与字符数组<br>│      8const与指针<br>│      9指针数组与数组指针的区别<br>│      10多级指针<br>│<br>├─7.C语言函数专题<br>│      1函数的传参-值传参和地址传参<br>│      2函数介绍及如何定义一个函数<br>│      3函数调用-嵌套调用的实现<br>│      4函数调用-递归与嵌套的关系<br>│      5函数调用-使用递归解决阶乘与斐波那契问题<br>│      6函数与一维数组<br>│      7函数与二维数组<br>│      8函数与字符数组<br>│      9函数与指针关系的详细剖析<br>│<br>├─8.快速掌握构造类型<br>│      1构造类型-结构体的描述及嵌套<br>│      2构造类型-结构体的定义变量及成员引用<br>│      3构造类型-结构体内存问题及函数传参<br>│      4构造类型-微型学生管理系统<br>│      5构造类型-共用体的描述、定义变量及占用内存问题<br>│      6构造类型-共用体的嵌套定义及位域问题<br>│      7构造类型-枚举类型的定义及使用<br>│<br>└─9.动态内存分配<br>        1动态内存分配-malloc和realloc的使用<br>        2动态内存分配-free的使用及微型学生管理系统的代码重构<br>        3如何使用重定义typedefine</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 桌面研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+            <tag> C </tag>
+            
+            <tag> 桌面研发 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>我赢职场《rhca云计算7.0》2018</title>
+      <link href="/2019-07-03/%E6%88%91%E8%B5%A2%E8%81%8C%E5%9C%BA%E3%80%8Arhca%E4%BA%91%E8%AE%A1%E7%AE%977.0%E3%80%8B2018/"/>
+      <url>/2019-07-03/%E6%88%91%E8%B5%A2%E8%81%8C%E5%9C%BA%E3%80%8Arhca%E4%BA%91%E8%AE%A1%E7%AE%977.0%E3%80%8B2018/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>1.导学视频.rar<br>2.RH236-红帽混合云存储服务器管理（新）.rar<br>3.CL210-红帽 OpenStack 管理 （新）.rar<br>4.DO280-红帽OpenShift平台即服务企业管理（新）.rar<br>5.RH-401-第一章 基本系统管理概述.rar<br>6.RH-401-第二章 安装红帽网络卫星服务器.rar<br>7.RH-401-第三章 红帽网络组织管理.rar<br>8.RH-401-第四章 使用版本控制软件管理更改.rar<br>9.RH-401-第五章 红帽网络客户端配置管理.rar<br>10.RH-401-第六章 红帽网络软件管理.rar<br>11.RH-401-第七章 构建RPM包.rar<br>12.RH-401-第八章 用红帽网络实现配置文件管理.rar<br>13.RH-401-第九章 用PXE实现装配.rar<br>14.RH-401-第十章 红帽网络虚拟机管理.rar<br>15.RH-401-第十一章 红帽网络卫星服务器管理.rar<br>16.RH-401-第十二章 红帽网络应用程序开发接口.rar<br>17.RH-436-第一章 集群和存储技术.rar<br>18.RH-436-第二章 ISCSI配置.rar<br>19.RH-436-第三章 UDEV配置.rar<br><a id="more"></a><br>20.RH-436-第四章 设备映射和多路径.rar<br>21.RH-436-第五章 红帽高可用集群部署.rar<br>22.RH-436-第六章 仲裁.rar<br>23.RH-436-第七章 Fencing设备.rar<br>24.RH-436-第八章 集群中的资源和资源组.rar<br>25.RH-436-第九章 高级资源管理.rar<br>26.RH-436-第十章 双集群结点问题.rar<br>27.RH-436-第十一章 集群逻辑卷管理.rar<br>28.RH-436-第十二章 全局文件系统GFS2.rar<br>29.RH-436-第十三章  XFS文件系统.rar<br>30.RH-436-第十四章 红帽存储.rar<br>31.RH-423-第一章 目录服务介绍.rar<br>32.RH-423-第二章 LDAP命名模型.rar<br>33.RH-423-第三章 红帽目录服务：基本配置.rar<br>34.RH-423-第四章 搜索和修改LDAP目录.rar<br>35.RH-423-第五章 红帽目录服务：验证和安全.rar<br>36.RH-423-第六章 基于NSS和PAM的Linux用户验证.rar<br>37.RH-423-第七章 使用LDAP集中用户验证.rar<br>38.RH-423-第八章 kerberos和LDAP.rar<br>39.RH-423-第九章 目录复制和参考.rar<br>40.RH-423-第十章 跨平台集中身份管理.rar<br>41.RH-333第一章 威胁模型和保护方法.rar<br>42.RH-333第二章 基本服务安全.rar<br>43.RH-333第三章 密码学.rar<br>44.RH-333第四章 BIND和DNS安全.rar<br>45.RH-333第五章 网络用户验证：RPC、NIS和Kerbero.rar<br>46.RH-333第六章 网络文件系统.rar<br>47.RH-333第七章 安全shell&amp;OpenSSH.rar<br>48.RH-333第八章 基于sendmail的电子邮件系统.rar<br>49.RH-333第九章 Postfix.rar<br>50.RH-333第十章 FTP.rar<br>51.RH-333第十一章 Apache 安全.rar<br>52.RH-333第十二章 入侵检测和恢复.rar<br>53.RH-318第一章 RHEV概述.rar<br>54.RH-318第二章 红帽企业虚拟化管理器.rar<br>55.RH-318第三章 红帽企业虚拟化Hypervisor.rar<br>56.RH-318第四章 RHEV环境配置.rar<br>57.RH-318第五章 红帽企业虚拟服务器系统.rar<br>58.RH-318第六章 红帽企业虚拟桌面系统.rar<br>59.RH-318第七章 管理虚拟机.rar<br>60.RH-318第八章 虚拟机模板.rar<br>61.RH-318第九章 桌面池和用户.rar<br>62.RH-318第十三章 综合复习.rar<br>62.RH-318第十章 监测和报告.rar<br>63.RH-318第十一章 红帽企业Linux主机.rar<br>64.RH-318第十二章 高级红帽企业虚拟化.rar<br>66.RH-442-第一章 性能优化介绍.rar<br>67.RH-442-第二章 图形化报告.rar<br>68.RH-442-第三章 性能基本调优.rar<br>69.RH-442-第四章 限制资源使用.rar<br>70.RH-442-第五章 硬件分析.rar<br>71.RH-442-第六章 软件分析.rar<br>72.RH-442-第七章 systemtap.rar<br>73.RH-442-第八章 邮件服务器优化.rar<br>74.RH-442-第九章 大内存工作场景优化.rar<br>75.RH-442-第十章 Tuning for a CPU Intensive Workload.rar<br>76.RH-442-第十一章 File Server Tuning.rar<br>77.RH-442-第十二章 Database Server Tuning.rar<br>78.RH-442-第十三章 Power Usage Tuning.rar<br>79.RH-442-第十四章 Virtualization Tuning.rar<br>80.RH-413-第一章 跟踪安全更新.rar<br>81.RH-413-第二章 管理软件更新.rar<br>82.RH-413-第三章 创建文件系统.rar<br>83.RH-413-第四章 管理文件系统.rar<br>84.RH-413-第五章 管理特殊文件.rar<br>85.RH-413-第六章 管理附加文件属性.rar<br>86.RH-413-第七章 监视文件系统的变化.rar<br>87.RH-413-第八章 管理用户账号.rar<br>88.RH-413-第九章 管理PAM模块.rar<br>89.RH-413-第十章 安全访问控制.rar<br>90.RH-413-第十一章 安装集中验证服务器.rar<br>91.RH-413-第十三章 配置系统日志.rar<br>92.RH-413-第十四章 配置系统审计.rar<br>93.RH-413-第十五章 控制网络访问.rar<br>94.RH-280-OpenShift企业管理.rar<br>95.RH-210-红帽OpenStack管理.rar<br>96.JB248-红帽JBoss企业应用管理.rar<br>97.HP企业级存储解决方案.rar</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 运维研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 运维 </tag>
+            
+            <tag> 云计算 </tag>
+            
+            <tag> 我赢职场 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>小象学院《机器学习全新升级版III》2019</title>
+      <link href="/2019-07-03/%E5%B0%8F%E8%B1%A1%E5%AD%A6%E9%99%A2%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A8%E6%96%B0%E5%8D%87%E7%BA%A7%E7%89%88III%E3%80%8B2019/"/>
+      <url>/2019-07-03/%E5%B0%8F%E8%B1%A1%E5%AD%A6%E9%99%A2%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A8%E6%96%B0%E5%8D%87%E7%BA%A7%E7%89%88III%E3%80%8B2019/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>│  1、机器学习的数学基础<br>│  2、机器学习的数学基础<br>│  3、机器学习的哲学<br>│  4 、机器学习的数学基础<br>│  5、经典机器学习模型<br>│  6、经典机器学习模型<br>│  7、经典机器学习模型<br>│  8、线性模型<br>│  9、线性模型<br>│  10、核方法<br>│  11、核方法<br>│  12、统计学习<br>│  13、统计学习<br><a id="more"></a><br>│  14、统计学习<br>│  15、统计学习<br>│  16、无监督学习<br>│  17、流形学习<br>│  18、概念学习<br>│  19、神经网络<br>│  20、强化学习<br>│  第1课<em>答疑<br>│  第2课</em>答疑<br>│  第3课<em>答疑<br>│  第4课</em>答疑<br>│  第5课<em>答疑<br>│  第6课</em>答疑<br>│  第7课<em>答疑<br>│  第9课</em>答疑<br>│  第10课<em>答疑<br>│  第12课</em>答疑<br>│  第15课<em>答疑<br>│  第17课</em>答疑<br>│  第18课<em>答疑<br>│  第20课</em>答疑<br>│<br>└─02.资料</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/11FDdv31iPGDzWzqZFjnlpw" target="_blank" rel="noopener">https://pan.baidu.com/s/11FDdv31iPGDzWzqZFjnlpw</a><br>提取码：puef<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 人工智能研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 人工智能 </tag>
+            
+            <tag> 机器学习 </tag>
+            
+            <tag> 小象学院 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>51CTO学院《Python黑客编程入门视频课程》2017.md</title>
+      <link href="/2019-07-03/51CTO%E5%AD%A6%E9%99%A2%E3%80%8APython%E9%BB%91%E5%AE%A2%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%E3%80%8B2017/"/>
+      <url>/2019-07-03/51CTO%E5%AD%A6%E9%99%A2%E3%80%8APython%E9%BB%91%E5%AE%A2%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%E3%80%8B2017/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>1-1 课程介绍<br>1-2 类和对象<br>2-1 利用scapy模块构造ARP包<br>2-2 scapy中的发包和收包<br>2-3 构造并发送ARP欺骗包<br>2-4 编写ARP欺骗脚本<br>2-5 MAC泛洪攻击<br><a id="more"></a><br>2-6 二层发现的原理以及arping的使用<br>2-7 利用subprocess模块调用arping<br>2-8 利用netdiscoer和nmap实现二层发现<br>2-9 ARP扫描脚本分析一<br>2-10 ARP扫描脚本分析二<br>2-11 三层发现<br>2-12 TCP协议与三次握手<br>2-13 利用TCP实现四层发现<br>2-14 利用UDP和nmap实现四层发现<br>2-15 TCP端口扫描<br>2-16 UDP端口扫描<br>3-1 基本的socket服务端脚本<br>3-2 socket脚本改进一<br>3-3 socket脚本改进二<br>3-4 编写自己的shell<br>3-5 socket端口扫描<br>3-6 UDP通信<br>4-1 利用banner和nmap进行服务识别<br>4-2 利用TTL和nmap进行操作系统识别<br>4-3 nmap模块的基本使用方法<br>4-4 操作系统识别脚本</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1bdVpey-KMbpRdcmczWXXYw" target="_blank" rel="noopener">https://pan.baidu.com/s/1bdVpey-KMbpRdcmczWXXYw</a><br>提取码：ta1j<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 运维研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+            <tag> 黑客 </tag>
+            
+            <tag> 信息安全 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>博毅创为《C语言入门到精通》2018</title>
+      <link href="/2019-07-03/%E5%8D%9A%E6%AF%85%E5%88%9B%E4%B8%BA%E3%80%8AC%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E3%80%8B2018/"/>
+      <url>/2019-07-03/%E5%8D%9A%E6%AF%85%E5%88%9B%E4%B8%BA%E3%80%8AC%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E3%80%8B2018/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>├─第00课<br>│      BY_C_昵称_第00次作业.txt<br>│      VIP_C语言从入门到精通.doc<br>│      VIP_vs2013安装教程.docx<br>│      VIP_直播课流程.docx<br>│      开班笔记.docx<br>│<br>├─第01课<br>│      BY_C_Joker_第01次作业.txt<br>│      C语言第01课 计算机原理.docx<br>│      C语言第01课 计算机原理.mp4<br>│      C语言第01课 计算机原理.pptx<br>│      C语言第02课 编程启蒙思想.pptx<br>│      其他进制 十进制转.png<br>│      十进制转其他进制.png<br>│<br>├─第02课<br>│      C语言第02课 作业.txt<br>│      C语言第02课 编程启蒙思想.docx<br>│      C语言第02课 编程启蒙思想.mp4<br>│      C语言第02课 编程启蒙思想.pptx<br>│      第01课作业讲解 .mp4<br>│      第01课作业讲解 .png<br>│<br>├─第03课<br>│      BY_C_Joker_第03作业.txt<br>│      C语言第03课 数据输入输出.docx<br>│      C语言第03课 数据输入输出.pptx<br>│      C语言第03课_01.mp4<br>│      C语言第03课_02.mp4<br>│      数据类型.zip<br>│<br>├─第04课<br>│      BY_C_ 昵称_第04次作业.txt<br>│      main.c<br>│      C语言第04课 运算符和表达式.doc<br>│      C语言第04课_01.mp4<br>│      C语言第04课_02.mp4<br>│      第01课作业讲解 第03课作业讲解 .mp4<br>│      运算符和表达式.zip<br>│<br>├─第05课<br>│      BY_C_Joker_第05次作业.txt<br>│      C语言第05课_01.mp4<br>│      C语言入门到精通 第05课.doc<br>│      C语言入门到精通 第05课_02.mp4<br>│      第04课作业讲解 .cpp<br>│      第04课作业讲解 .mp4<br>│      选择结构.zip<br>│<br>├─第06课<br>│      BY_C_Joker_第06次作业.txt<br>│      C语言入门到精通 第06课.doc<br>│      C语言入门到精通 第06课_01.mp4<br>│      C语言入门到精通 第06课_02.mp4<br>│      循环结构.zip<br>│<br>├─第07课<br>│      BY_C_05&amp;&amp;06次作业.mp4<br>│      BY_C_05.rar<br>│      BY_C_Joker_第07作业.txt<br>│      C语言入门到精通 第07课 数组_01.mp4<br>│      C语言入门到精通 第07课 数组_02.mp4<br>│      C语言入门到精通 第07课.doc<br>│      C语言入门到精通 第07课.txt<br>│      数组.rar<br>│<br>├─第08课<br>│      BY_C_Joker_推箱子黑窗口游戏.txt<br>│      C语言入门到精通 第08课 二维数组_01.mp4<br>│      C语言入门到精通 第08课 二维数组_02.mp4<br>│      C语言入门到精通 第08课.txt<br>│      二维数组.rar<br>│<br>├─第09课<br>│      BY_C_07.rar<br>│      BY_C_Joker_作业.txt<br>│      BY_C_第7课作业.mp4<br>│      C语言入门到精通 第09课 二维数组_01.mp4<br>│      C语言入门到精通 第09课 二维数组_02.mp4<br>│      C语言入门到精通 第09课.txt<br>│      函数基本.rar<br>│<br>├─第10课<br>│  │  demo.rar<br>│  │  C语言入门到精通 第10课.mp4<br>│  │  C语言入门到精通 第10课.txt<br>│  │<br>│  └─demo<br><a id="more"></a><br>│<br>├─第11课<br>│      C语言入门到精通 第11课.txt<br>│      C语言入门到精通 第11课初始指针_01.mp4<br>│      C语言入门到精通 第11课初始指针_02.mp4<br>│      作业.txt<br>│      初始指针.rar<br>│<br>├─第12课<br>│      C语言入门到精通 第12课 指针中级篇_01.mp4<br>│      C语言入门到精通 第12课 指针中级篇<em>02.mp4<br>│      C语言入门到精通 第12课.txt<br>│      二维数组与指针.rar<br>│      作业.txt<br>│<br>├─第13课<br>│      C语言入门到精通 第13课.txt<br>│      C语言入门到精通 第13课</em>一位数组动态申请.mp4<br>│      C语言入门到精通 第13课_二位数组动态申请.mp4<br>│      作业11.mp4<br>│      函数提示_s 错误.mp4<br>│      动态内存申请.rar<br>│      第11课和第12的作业.rar<br>│<br>├─第14课<br>│      BY_C_结构体<em>作业.txt<br>│      C语言入门到精通 第13课.doc<br>│      C语言入门到精通 第13课.txt<br>│      C语言入门到精通 第14课</em>结构体01.mp4<br>│      C语言入门到精通 第14课_结构体—02.mp4<br>│      字符串反转代码.txt<br>│      字符串反转作业.mp4<br>│      结构体的定义.rar<br>│<br>├─第15课<br>│      BY_C_15 补充老师的链表代码.txt<br>│      C语言入门到精通 第15课_快速书写增删改查项目<em>02.mp4<br>│      C语言入门到精通 第15课</em>链表学习_01.mp4<br>│      数组调整问题.mp4<br>│      结构体.rar<br>│<br>├─第16课<br>│  │  C语言入门到精通 第16课 预处理与位运算.doc<br>│  │  C语言入门到精通 第16课 预处理与位运算_01.mp4<br>│  │  C语言入门到精通 第16课 预处理与位运算_02.mp4<br>│  │  位运算和预处理.rar<br>│  │  链表作业.mp4<br>│  │<br>│  └─动态链表<br>│<br>├─第17课<br>│      C语言文件操作.rar<br>│      C语言入门到精通 第17课.docx<br>│      C语言入门到精通 第17课_01.mp4<br>│      C语言入门到精通 第17课<em>2.mp4<br>│      作业.txt<br>│<br>├─第18课<br>│      C基础试题.doc<br>│      编程题.mp4<br>│      编程题.rar<br>│      考试</em>选择题.mp4<br>│      随机初始化二维数组不重复.png<br>│<br>├─第19课<br>│      userSystem.rar<br>│      文件作业.mp4<br>│      文件指针移动.mp4<br>│<br>├─第20课<br>│      TCP与UDP编程_02.mp4<br>│      C语言入门到精通 第20课.doc<br>│      作业了解四个函数.txt<br>│      作业了解四个函数.txt.bak<br>│      网络基础_01.mp4<br>│<br>└─第21课<br>        TCPServer.rar<br>        TCP编程.mp4<br>        UDP编程.mp4<br>        作业使用本机的IP实现TCP交流.txt</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1ndGfmkm0o3GjZzspCPQ2bw" target="_blank" rel="noopener">https://pan.baidu.com/s/1ndGfmkm0o3GjZzspCPQ2bw</a><br>提取码：flv5<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 桌面研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+            <tag> 博毅创为 </tag>
+            
+            <tag> C </tag>
+            
+            <tag> 桌面研发 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>七月在线《机器学习中的数学第二期》2018</title>
+      <link href="/2019-07-03/%E4%B8%83%E6%9C%88%E5%9C%A8%E7%BA%BF%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%BA%8C%E6%9C%9F%E3%80%8B2018/"/>
+      <url>/2019-07-03/%E4%B8%83%E6%9C%88%E5%9C%A8%E7%BA%BF%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%BA%8C%E6%9C%9F%E3%80%8B2018/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>第一课：微分学基本概念<br>第二课：微分学进阶<br>第三课：概率论简介<br><a id="more"></a><br>第四课：极大似然估计<br>第五课： 线性代数基础<br>第六课：线性代数进阶<br>第七课：凸优化简介<br>第八课：优化的稳定性<br>第九课：从线性模型谈起的机器学习分类与回归<br>第十课：从信息论到工业界最爱的树模型</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1SpwAQ4Xcz3ywxmu_UNbUNg" target="_blank" rel="noopener">https://pan.baidu.com/s/1SpwAQ4Xcz3ywxmu_UNbUNg</a><br>提取码：b8uf<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 人工智能研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 人工智能 </tag>
+            
+            <tag> 机器学习 </tag>
+            
+            <tag> 数学 </tag>
+            
+            <tag> 七月在线 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>孟宁《Linux从零入门实战》2019.md</title>
+      <link href="/2019-07-03/%E5%AD%9F%E5%AE%81%E3%80%8ALinux%E4%BB%8E%E9%9B%B6%E5%85%A5%E9%97%A8%E5%AE%9E%E6%88%98%E3%80%8B2019/"/>
+      <url>/2019-07-03/%E5%AD%9F%E5%AE%81%E3%80%8ALinux%E4%BB%8E%E9%9B%B6%E5%85%A5%E9%97%A8%E5%AE%9E%E6%88%98%E3%80%8B2019/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>01.Linux介绍<br>02.Linux常用操作命令<br>03.linux代码编辑器<br>04.linux shell编程<br>05.linux开发基础<br>06.linux网络基础<br><a id="more"></a><br>07.http网络服务<br>08.linux运维基础<br>09.linux系统构建<br>10.linux操作系统常见试题解析</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1W5y6D2krmeLTUK_NTfuJ6g" target="_blank" rel="noopener">https://pan.baidu.com/s/1W5y6D2krmeLTUK_NTfuJ6g</a><br>提取码：36ff<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 运维研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 运维 </tag>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>龙果学院《漫谈spring cloud 与 spring boot 基础架构》2017</title>
+      <link href="/2019-07-03/%E9%BE%99%E6%9E%9C%E5%AD%A6%E9%99%A2%E3%80%8A%E6%BC%AB%E8%B0%88spring%20cloud%20%E4%B8%8E%20spring%20boot%20%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E3%80%8B2017/"/>
+      <url>/2019-07-03/%E9%BE%99%E6%9E%9C%E5%AD%A6%E9%99%A2%E3%80%8A%E6%BC%AB%E8%B0%88spring%20cloud%20%E4%B8%8E%20spring%20boot%20%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E3%80%8B2017/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>第1讲 单体架构的特点 00:11:49<br>第2讲 微服务架构 00:15:03<br>第3讲 mvc rpc soa 微服务的区别 00:15:59<br>第4讲 如何设计微服务？它设计原则是什么 00:12:24<br>第5讲 为什么要选择spring cloud 00:22:37<br>第6讲 为什么springcloud要设计一套新的版本升级规则 00:21:22<br>第7讲 为什么越来越多的开发者选择使用spring boot？它解决了什么问题 00:12:59<br>第8讲 spring boot的入门例子 00:17:37<br><a id="more"></a><br>第9讲 分析spring boot的核心配置-常规和日志配置 00:19:30<br>第10讲 分析spring boot的核心配置-多环境的配置 00:08:58<br>第11讲 分析spring boot的核心注解 00:11:05<br>第12讲 一种springboot的异常统一处理的方法 00:12:57<br>第13讲 采用actuator检查与监控spring boot 的健康 00:10:41<br>第14讲 一种简洁可视化的监控报表-spring boot admin 00:27:06<br>第15讲 微服务架构为什么需要注册中心，它解决了什么问题 00:15:01<br>第16讲 一个Eureka注册中心的入门例子 00:15:38<br>第17讲 建设高可用集群版的注册中心Eureka 00:21:06<br>第18讲 在高可用的Eureka上，构建provider服务 00:18:50<br>第19讲 在高可用的Eureka上，构建consumer服务 00:24:36<br>第20讲 剖析注册中心eureka的架构原理 00:16:04<br>第21讲 基于分布式CAP定理，分析注册中心2大主流框架：Eureka和ZooKeeper的区别 00:16:19<br>第22讲 在什么条件下，Eureka会启动自我保护？为什么要启动自我保护 00:19:21<br>第23讲 如何优雅停止服务？并快速安全的让Eureka注销服务 00:08:20</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1snkYZH9cBmyJ3ZOoFphF1g" target="_blank" rel="noopener">https://pan.baidu.com/s/1snkYZH9cBmyJ3ZOoFphF1g</a><br>提取码：ndwt<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 后端研发攻城狮-Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> SpringBoot </tag>
+            
+            <tag> SpringCloud </tag>
+            
+            <tag> 微服务 </tag>
+            
+            <tag> 后端研发 </tag>
+            
+            <tag> 龙果学院 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>腾讯课堂.米斯特吴《ES6_Javascript_最全最新讲解》2019</title>
+      <link href="/2019-07-03/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82.%E7%B1%B3%E6%96%AF%E7%89%B9%E5%90%B4%E3%80%8AES6_Javascript_%E6%9C%80%E5%85%A8%E6%9C%80%E6%96%B0%E8%AE%B2%E8%A7%A3%E3%80%8B2019/"/>
+      <url>/2019-07-03/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82.%E7%B1%B3%E6%96%AF%E7%89%B9%E5%90%B4%E3%80%8AES6_Javascript_%E6%9C%80%E5%85%A8%E6%9C%80%E6%96%B0%E8%AE%B2%E8%A7%A3%E3%80%8B2019/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>01 课程介绍及引导<br>02 环境部署及课程介绍<br>03 数组方法(forEach)<br>04 数组方法(map)<br>05 数组方法(filter和find)<br>06 数组方法(every和some)<br>07 数组方法(reduce)<br>08 let和const<br>09 模板字符串<br>10 箭头函数<br>11 增强对象字面量<br>12 函数参数默认值<br>13 展开运算符<br>14 解构(数组和对象)<br>15 面向对象(class)<br>16 generator生成器<br>17 新的数据结构(map)<br>18 新的数据结构(set)<br>19 Promise(三种状态)<br><a id="more"></a><br>20 fetch Apis<br>21 封装fetch库(增删改查)<br>22 async和await(es7)<br>23 async封装fetch(2.0版本)<br>ES6-promise的应用(回调异步asyncawait)</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1pYCr9oEOOxvaaciHNOLD3g" target="_blank" rel="noopener">https://pan.baidu.com/s/1pYCr9oEOOxvaaciHNOLD3g</a><br>提取码：z79t<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 大前端研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 大前端 </tag>
+            
+            <tag> 腾讯课堂 </tag>
+            
+            <tag> Javascript </tag>
+            
+            <tag> ES6 </tag>
+            
+            <tag> 米斯特吴 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>老谢《web技术栈》2019</title>
+      <link href="/2019-07-02/%E8%80%81%E8%B0%A2%E3%80%8Aweb%E6%8A%80%E6%9C%AF%E6%A0%88%E3%80%8B2019/"/>
+      <url>/2019-07-02/%E8%80%81%E8%B0%A2%E3%80%8Aweb%E6%8A%80%E6%9C%AF%E6%A0%88%E3%80%8B2019/</url>
+      <content type="html"><![CDATA[<p>课程目录』:<br>├─week_1_nodejs<br>│      NodeJS_1_复习静态资源服务器<br>│      NodeJS_2_模块化开发<br>│      NodeJS_3_第三方模块的安装<br>│      NodeJS_4_request实现爬虫<br>│      NodeJS_5_服务器配置项目上线<br>│      NodeJS_6_爬虫<br>│      NodeJS_7_express实现静态资源服务器<br>│      NodeJS_8_express路由<br>│      NodeJS_9_express中间件<br>│      NodeJS_10_express中间件2<br>│      NodeJS_11_封装mysql的增删改查<br>│      NodeJS_12_复习express路由<br>│      NodeJS_13_完善mysql的增删改查<br>│      NodeJS_14_测试增删改查接口<br>│      NodeJS_15_了解RestfulAPI规范<br>│      NodeJS_16_MongoDB的操作<br>│      NodeJS_17_使用mongodb模块的准备工作<br>│      NodeJS_18_mongodb的增删改查之增加<br>│      NodeJS_19_mongodb的删改查<br>│      NodeJS_20_mongodb导入导出和备份恢复<br>│      NodeJS_21_SSR&amp;BSR&amp;SEO<br>│      NodeJS_22_用户注册<br>│      NodeJS_23_用户注册细节处理<br>│      NodeJS_24_用户登录<br>│      NodeJS_25_文件上传<br>│      NodeJS_26_跨域请求之jsonp<br>│      NodeJS_27_跨域请求之CORS<br>│      NodeJS_28_跨域请求之服务器代理<br>│      NodeJS_29_了解websocket<br>│      NodeJS_30_socket多人聊天室之服务端<br>│      NodeJS_31_socket多人聊天室之客户端<br>│<br>├─week_2_Vue<br>│      Vue_1_了解Vue框架<br>│      Vue_2_实例化与MVVM分层的理解<br>│      Vue_3_配置参数的使用<br>│      Vue_4_架构模式之MVC&amp;MVP&amp;MVVM<br>│      Vue_5_双向数据绑定的原理<br>│      Vue_6_案例-tab标签切换<br>│      Vue_7_案例-TodoList<br>│      Vue_8_案例-TodoList全选效果<br>│      Vue_9_案例-TodoList细节优化<br>│      Vue_10_dataVScomputedVSmethods<br>│      Vue_11_生命周期函数<br>│      Vue_12_自定义指令<br>│      Vue_13_全局组件与组件规范<br>│      Vue_14_局部组件<br>│      Vue_15_复用的搜索框<br>│      Vue_16_组件通讯之父to子<br>│      Vue_17_组件通讯之数据类型验证<br>│      Vue_18_Vue的数据流（单向）<br>│      Vue_19_组件通讯之子to父<br>│      Vue_21_组件通讯之内容slot<br>│      Vue_22_单文件组件（webpack&amp;ESModule）<br>│      Vue_23_esModule导入的细节<br>│      Vue_24_vue单文件组件实现todolist1<br>│      Vue_25_vue单文件组件实现todolist2<br>│      Vue_26_过滤器与零宽断言<br>│      Vue_27_component动态组件与webpack别名<br>│      Vue_28_keep-alive缓存组件<br>│      Vue_29_webpack处理图片路径<br>│      Vue_30_transition过渡动画之css动画<br>│      Vue_31_transition过渡动画之js动画<br>│      Vue_32_响应式属性<br>│      加密解密<br>│<br>├─week_3_VueRouter<br>│      VueRouter_1_路由配置与声明式导航<br>│      VueRouter_2_嵌套路由与编程式导航<br>│      VueRouter_3_利用模块化开发配置路由<br>│      VueRouter_4_elementui的使用1<br>│      VueRouter_5_elementui的使用2<br>│      VueRouter_6_axios的使用与路由传参<br>│      VueRouter_7_商品详情页与局部样式<br>│      VueRouter_8_购物车与vuex<br>│      VueRouter_9_keep-alive生命周期函数<br>│      VueRouter_10_路由组件传参<br>│      VueRouter_11_监听动态路由变化<br>│      VueRouter_12_路由守卫<br>│<br><a id="more"></a><br>├─week_4_VueProject<br>│      VueProject_1_webpack配置host允许外网访问<br>│      VueProject_2_注册登录<br>│      VueProject_3_注册登录UI2<br>│      VueProject_4_注册接口联调<br>│      VueProject_5_项目说明<br>│      VueProject_6_介绍vue-cli<br>│      VueProject_7_复习vue-cli<br>│      VueProject_8_利用crypto加密密码<br>│      VueProject_9_前后端请求数据加密与解密<br>│      VueProject_10_token的生成与存储<br>│      VueProject_11_项目注意事项<br>│      VueProject_12_性能优化<br>│      VueProject_13_UEO<br>│      VueProject_14_SEO<br>│      VueProject_15_mixin<br>│      VueProject_16_Vue插件<br>│      VueProject_17_SSR<br>│      Vuex_1_复习vuex<br>│      Vuex_2_项目登录状态与token的处理<br>│      Vuex_3_路由拦截与请求拦截实现token<br>│      Vuex_4_map映射<br>│<br>├─week_5 React<br>│      React_1_了解React<br>│      React_2_JSX的使用与注意事项<br>│      React_3_虚拟DOM<br>│      React_4_组件-函数组件<br>│      React_5_组件-类组件-this指向与event对象获取<br>│      React_6_组件-state_VS_props<br>│      React_7_TodoList1<br>│      React_8_TodoList2<br>│      React_9_context数据共享<br>│      React_10_生命周期函数<br>│      React_11_ReactRouter的使用<br>│      React_12_编程式导航<br>│      React_13_HOC高阶组件<br>│      React_14_嵌套路由<br>│      React_15_antd的介绍<br>│<br>├─week_6 Redux<br>│      Redux_1_介绍<br>│      Redux_2_核心概念<br>│      Redux_3_React脚手架与Redux的使用<br>│      Redux_4_在项目中使用redux<br>│      Redux_5_react-redux的使用<br>│      Redux_6_扩展运算符<br>│      Redux_7_ant-design<br>│      Redux_8_actionCreator<br>│      Redux_9_redux调试工具<br>│<br>├─week_7 Hybrid<br>│      Hybrid_1_系统介绍<br>│      Hybrid_2_Native主导开发<br>│      Hybrid_3_H5主导开发<br>│      Hybrid_4_h5+API介绍<br>│      Hybrid_5_mui与h5+创建项目<br>│      Hybrid_6_h5+API之摄像头<br>│      Hybrid_7_h5+API之webview<br>│      Hybrid_8_h5+API之geolocation与百度地图<br>│      Hybrid_9_h5+API之share1<br>│      Hybrid_10_h5+API之share2<br>│      Hybrid_11_h5+API之语音识别<br>│      Hybrid_12_h5+API之其他模块介绍<br>│      Hybrid_13_支付宝支付流程<br>│      Hybrid_14 h5+支付（支付宝+微信）<br>│      Hybrid_15_支付宝沙箱<br>│      Hybrid_16_云打包<br>│<br>├─week_7React-Native<br>│      ReactNative_1_介绍<br>│      ReactNative_2_介绍<br>│      ReactNative_3_Expo开发模式<br>│      ReactNative_4_UI框架react-native-element<br>│      ReactNative_5_导航之React Navigation<br>│      ReactNative_6_react-native-elements<br>│      ReactNative_7_MobX&amp;immutable介绍<br>│<br>├─week_8wechat<br>│      微信_1_背景介绍<br>│      微信_2_准备工作<br>│      微信_3_开发者工具介绍与注意事项<br>│      微信_4_json配置文件<br>│      微信_5_wxml布局文件与常用组件<br>│      微信_6_wxss样式文件<br>│      微信_7_wxs模块化开发<br>│      微信_8_js逻辑文件与应用<br>│      微信_9_百度音乐-首页<br>│      面试题_3_经典面试题<br>│<br>└─面试<br>        加密解密_IWov1<br>        面试题_1_history路由服务端配置<br>        面试题_2_html属性与节点属性</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1DLsN-6zGF9Y2Erra8Yzf5A" target="_blank" rel="noopener">https://pan.baidu.com/s/1DLsN-6zGF9Y2Erra8Yzf5A</a><br>提取码：cl39<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 老谢《web技术栈》2019 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 综合 </tag>
+            
+            <tag> 大前端 </tag>
+            
+            <tag> 全栈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>英宝通Unity学院《Unity基础初级入门》2019</title>
+      <link href="/2019-07-02/%E8%8B%B1%E5%AE%9D%E9%80%9AUnity%E5%AD%A6%E9%99%A2%E3%80%8AUnity%E5%9F%BA%E7%A1%80%E5%88%9D%E7%BA%A7%E5%85%A5%E9%97%A8%E3%80%8B2019/"/>
+      <url>/2019-07-02/%E8%8B%B1%E5%AE%9D%E9%80%9AUnity%E5%AD%A6%E9%99%A2%E3%80%8AUnity%E5%9F%BA%E7%A1%80%E5%88%9D%E7%BA%A7%E5%85%A5%E9%97%A8%E3%80%8B2019/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>├─1.引擎初级教程（4.6）<br>│  │<br>│  ├─1、资源管理及资源类型<br>│  │      001、第一讲 编辑器工作区.mp4<br>│  │      002、第二讲 资源及资源类型 .mp4<br>│  │      003、第三讲 资源管理：模型和角色动画的输出设置（上）.mp4<br>│  │      004、第四讲 资源管理：模型和角色动画的输出设置（下）.mp4<br>│  │      005、第五讲 资源管理：材质和着色器.mp4<br>│  │      006、第六讲 资源管理：2D文理Moive文理.mp4<br>│  │      007、第七讲 资源管理：声音文件.mp4<br>│  │      008、第八讲 资源管理：Asset Store( 资源 Store).mp4<br>│  │      009、第九讲 资源管理：Prefab( 预设 ).mp4<br>│  │      010、第十讲 资源管理：Project视窗搜索功能.mp4<br>│  │      011、第十一讲 资源输入原理.mp4<br>│  │<br>│  ├─2、场景创建<br>│  │      012、第十二讲 场景创建：游戏物体与组件.mp4<br>│  │      013、第十三讲 场景创建：属性编辑器的使用.mp4<br>│  │      014、第十四讲 场景创建：场景视图操作.mp4<br>│  │      015、第十五讲 场景创建：灯光和摄像机.mp4<br>│  │<br>│  ├─3、脚本使用<br>│  │      016、第十六讲 Unity脚本使用：脚本及变量.mp4<br>│  │      017、第十七讲 Unity脚本使用：游戏对象组件访问.mp4<br>│  │      018、第十八讲 Unity脚本使用：游戏对象访问操作控制.mp4<br>│  │      019、第十九讲 Unity脚本使用：脚本时间控制.mp4<br>│  │      020、第二十讲 Unity脚本使用：随机数的使用.mp4<br>│  │      021、第二十一讲 Unity脚本使用：C#脚本编写.mp4<br>│  │      022、第二十二讲 Unity脚本使用：物体间通信方式.mp4<br><a id="more"></a><br>│  │<br>│  ├─4、GUI图型用户界面<br>│  │      023、第二十三讲 GUI图形用户界面：UnityGUI原理介绍.mp4<br>│  │      024、第二十四讲 GUI图形用户界面：常用控件及使用.mp4<br>│  │      025、第二十五讲 GUI图形用户界面：复合控件及使用.mp4<br>│  │      026、第二十六讲 GUI图形用户界面：群组视图控件及使用.mp4<br>│  │      027、第二十七讲 GUI图形用户界面：GUI Skin及创建自定义风格组件.mp4<br>│  │      028、第二十八讲 GUI图形用户界面：GUILayout控件及使用.mp4<br>│  │      029、第二十九讲 GUI图形用户界面：动态窗口添加及使用中文字体.mp4<br>│  │<br>│  ├─5、地形引擎介绍<br>│  │      030、第三十讲 地形引擎介绍：地形创建.mp4<br>│  │      031、第三十一讲 地形引擎介绍：地形绘制.mp4<br>│  │      032、第三十二讲 地形引擎介绍：地形纹理绘制.mp4<br>│  │      033、第三十三讲 地形引擎介绍：添加树木、植被等地形元素.mp4<br>│  │      034、第三十四讲 地形引擎介绍：地形设置及公路效果创建.mp4<br>│  │<br>│  ├─6、输入与控制<br>│  │      035、第三十五讲 输入与控制：输入管理器与虚拟轴定义.mp4<br>│  │      036、第三十六讲 输入与控制：虚拟轴应用及键盘事件.mp4<br>│  │      037、第三十七讲 输入与控制：鼠标事件与GUI系统双击检测.mp4<br>│  │      038、第三十八讲 角色控制组件：第一人称角色控制器及CharacterController组件.mp4<br>│  │      039、第三十九讲 角色控制组件：CharacterMotor脚本组件工作原理.mp4<br>│  │<br>│  ├─7、物理引擎介绍<br>│  │      040、第四十零讲 物理引擎介绍：刚体使用及设置.mp4<br>│  │      041、第四十一讲 物理引擎介绍：实施刚体力.mp4<br>│  │      042、第四十二讲 物理引擎介绍：刚体碰撞器及选项设置.mp4<br>│  │      043、第四十三讲 物理引擎介绍：刚体碰撞及碰撞消息传递.mp4<br>│  │      044、第四十四讲 物理引擎介绍：刚体碰撞关系及触发消息传递.mp4<br>│  │      045、第四十五讲 物理引擎介绍：刚体铰链关节的使用.mp4<br>│  │      046、第四十六讲 物理引擎介绍：固定和弹簧关节的使用.mp4<br>│  │      047、第四十七讲 物理引擎介绍：角色和配置关节的使用.mp4<br>│  │<br>│  ├─8、粒子系统<br>│  │      048、第四十八讲 粒子系统：布料系统的使用.mp4<br>│  │      049、第四十九讲 粒子系统：粒子系统创建和操作方式.mp4<br>│  │      050、第五十讲 粒子系统：粒子通用属性调节.mp4<br>│  │      051、第五十一讲 粒子系统：粒子扩展属性的调节.mp4<br>│  │      052、第五十二讲 粒子系统：粒子碰撞、渲染和材质.mp4<br>│  │<br>│  ├─9、树的创建<br>│  │      053、第五十三讲 程序自动生成的树效果.mp4<br>│  │      054、第五十四讲 手动创建的树效果.mp4<br>│  │      055、第五十五讲 树的基本属性定义.mp4<br>│  │      056、第五十六讲 树干的属性调节.mp4<br>│  │      057、第五十七讲 树叶属性调节及树与地形的搭配使用.mp4<br>│  │  108、第一百零八讲 课程总结.mp4<br>│  │<br>│  ├─10、碰撞检测<br>│  │      058、第五十八讲 射线检测： 射线碰撞检测.mp4<br>│  │<br>│  ├─11、Mecanim动画系统<br>│  │      059、第五十九讲 Mecanim动画系统： Unity新的动画系统Mecanim总览.mp4<br>│  │      060、第六十讲 Mecanim动画系统：Mecanim角色资源创建细则.mp4<br>│  │      061、第六十一讲 Mecanim动画系统： 角色动画烘焙及输出.mp4<br>│  │      062、第六十二讲 Mecanim动画系统：Avatar工作原理.mp4<br>│  │      063、第六十三讲 Mecanim动画系统：Avatar手动配置.mp4<br>│  │      064、第六十四讲 Mecanim动画系统：Avatar肌肉设定.mp4<br>│  │      065、第六十五讲 Mecanim使用：Mecanim Body Mask的使用.mp4<br>│  │      066、第六十六讲 Mecanim使用：Mecanim角色Retargeting原理分析.mp4<br>│  │      067、第六十七讲 Mecanim使用：Mecanim Retargeting应用.mp4<br>│  │      068、第六十八讲 Mecanim使用：动画片段循环设置.mp4<br>│  │      069、第六十九讲 Mecanim使用：Mecanim Root Motion介绍.mp4<br>│  │      070、第七十讲 Mecanim使用：Mecanim Root Motion应用.mp4<br>│  │      071、第七十一讲 Mecanim使用：Root Motion的脚本处理.mp4<br>│  │      072、第七十二讲 Mecanim使用：动画组件和动画控制器资源介绍.mp4<br>│  │      073、第七十三讲 Mecanim使用：Mecanim动画状态机.mp4<br>│  │      074、第七十四讲 Mecanim高级主题：Mecanim创建动画过渡.mp4<br>│  │      075、第七十五讲 Mecanim高级主题：Mecanim动画参数设置.mp4<br>│  │      076、第七十六讲 Mecanim高级主题：Mecanim Blend tree应用.mp4<br>│  │      077、第七十七讲 Mecanim高级主题：Blend Tree 1D 选项.mp4<br>│  │      078、第七十八讲 Mecanim高级主题：Mecanim 复合Blend Tree.mp4<br>│  │      079、第七十九讲 Mecanim高级主题：Mecanim动画控制器层应用.mp4<br>│  │      080、第八十讲 Mecanim高级主题：Mecanim层的执行顺序和权重设置.mp4<br>│  │      081、第八十一讲 BlendTree高级应用：2D BlendTree.mp4<br>│  │      082、第八十二讲 BlendTree高级应用：2D Blend Tree的脚本控制.mp4<br>│  │      083、第八十三讲 BlendTree高级应用：Blend Tree 2D 选项设置.mp4<br>│  │      084、第八十四讲 Mecanim高级主题：Mecanim反向运动学应用.mp4<br>│  │      085、第八十五讲 Mecanim高级主题：Mecanim的目标匹配功能.mp4<br>│  │      086、第八十六讲 Mecanim一般性动画处理.mp4<br>│  │      087、第八十七讲 Mecanim跟随效果分析.mp4<br>│  │      088、第八十八讲 Mecanim跟随效果逻辑实现.mp4<br>│  │      089、第八十九讲 Mecanim随机群体动画.mp4<br>│  │      090、第九十讲 Mecanim动画曲线应用.mp4<br>│  │      091、第九十一讲  Mecanim射击类游戏实例一.mp4<br>│  │      092_1、第九十二讲  Mecanim射击类游戏实例二（上）.mp4<br>│  │      092_2、第九十二讲  Mecanim射击类游戏实例二（下）.mp4<br>│  │      093_1、第九十三讲  Mecanim射击类游戏实例三（上）.mp4<br>│  │      093_2、第九十三讲  Mecanim射击类游戏实例三（下）.mp4<br>│  │      094_1、第九十四讲 Mecanim射击类游戏实例四（上）.mp4<br>│  │      094_2、第九十四讲 Mecanim射击类游戏实例四（下）.mp4<br>│  │      095_1、第九十五讲 Mecanim射击类游戏实例五（上）.mp4<br>│  │      095_2、第九十五讲 Mecanim射击类游戏实例五（下）.mp4<br>│  │      096_1、第九十六讲 Mecanim射击类游戏实例六（上）.mp4<br>│  │      096_2、第九十六讲 Mecanim射击类游戏实例六（下）.mp4<br>│  │      097_1、第九十七讲 Mecanim与自动寻径应用一（上）.mp4<br>│  │      097_2、第九十七讲 Mecanim与自动寻径应用一（下）.mp4<br>│  │      098_1、第九十八讲 Mecanim与自动寻径应用二（上）.mp4<br>│  │      098_2、第九十八讲 Mecanim与自动寻径应用二（下）.mp4<br>│  │      099、第九十九讲 Mecanim与自动寻径应用三.mp4<br>│  │<br>│  ├─12、C#自定义类和动画的操作<br>│  │      100_1、第一百讲 C#自定义类的定义（上）.mp4<br>│  │      100_2、第一百讲 C#自定义类的定义（下）.mp4<br>│  │      101_1、第一百零一讲 C#自定义类的应用（上）.mp4<br>│  │      101_2、第一百零一讲 C#自定义类的应用（下）.mp4<br>│  │      102_1、第一百零二讲 C#自定义动画操作（上）.mp4<br>│  │      102_2、第一百零二讲 C#自定义动画操作（下）.mp4<br>│  │      103_1、第一百零三讲 C#自定义动画操作二（上）.mp4<br>│  │      103_2、第一百零三讲 C#自定义动画操作二（下）.mp4<br>│  │      104、第一百零四讲 C#自定义动画操作三.mp4<br>│  │      105、第一百零五讲 C#自定义动画操作四.mp4<br>│  │      106_1、第一百零六讲 C#自定义动画操作五（上）.mp4<br>│  │      106_2、第一百零六讲 C#自定义动画操作五（下）.mp4<br>│  │      107_1、第一百零七讲 C#自定义动画操作六（上）.mp4<br>│  │      107_2、第一百零七讲 C#自定义动画操作六（下）.mp4<br>│  │<br>│  ├─人物模型素材<br>│  │  │  雷电全动作.FBX<br>│  │  │  雷电跑.FBX<br>│  │  │<br>│  │  ├─斧头怪fbx<br>│  │  │      尖刺.FBX<br>│  │  │      巨斧攻击.FBX<br>│  │  │      挥砍.FBX<br>│  │  │      腿击.FBX<br>│  │  │      走路.FBX<br>│  │  │<br>│  │  └─艾斯德斯fbx<br>│  │          attack slam.FBX<br>│  │          attack.FBX<br>│  │          attack2.FBX<br>│  │          death.FBX<br>│  │          dissipate.FBX<br>│  │          spell1.FBX<br>│  │          spell2.FBX<br>│  │          spell3.FBX<br>│  │          stand ready.FBX<br>│  │          stand.FBX<br>│  │          T-POSE.FBX<br>│  │          walk.FBX<br>│  │<br>│  └─素材和源代码<br>│          第一季英宝通4.0公开课源码（一）.rar<br>│          第一季英宝通4.0公开课源码（二）.rar<br>│<br>├─2.概要和基础知识讲解<br>│  │  第1讲 1. Unity3D课程介绍.mp4<br>│  │  第2讲 2. Unity3D简介.mp4<br>│  │  第3讲 3. Unity3D的获取和安装.mp4<br>│  │  第4讲 4. Unity3D自带案例及相关案例的展示.mp4<br>│  │  第5讲 5. 界面布局和工具栏讲解.mp4<br>│  │  第6讲 6. Unity3D的菜单栏讲解1_a.mp4<br>│  │  第7讲 7. Unity3D的菜单栏讲解1_b.mp4<br>│  │  第8讲 8. Unity3D的菜单栏讲解2.mp4<br>│  │  第9讲 9. Unity3D的视图讲解1.mp4<br>│  │  第10讲 10. Unity3D的视图讲解2.mp4<br>│  │  第11讲 11. Unity3D自有资源的导入和使用.mp4<br>│  │  第12讲 12. 模型材质以及动画的导入和使用1.mp4<br>│  │  第13讲 13. 模型材质以及动画的导入和使用2.mp4<br>│  │  第14讲 14. 导入的模型相关属性介绍和设置.mp4<br>│  │  第15讲 15. 图片的导入和使用以及相关参数设定.mp4<br>│  │  第16讲 16. 音频和视频的导入和使用.mp4<br>│  │  第17讲 17. 预设文件prefab的制作和使用.mp4<br>│  │  第18讲 18. Unity3D商城的介绍和使用.mp4<br>│  │<br>│  ├─Angrybot实例分析及游戏发布流程<br>│  │  │  第1讲 1. 实际游戏项目开发流程.mp4<br>│  │  │  第2讲 2. 导入相关资源.mp4<br>│  │  │  第3讲 3. 角色分析及复活点的设置.mp4<br>│  │  │  第4讲 4. 角色射击以及碰撞检测.mp4<br>│  │  │  第5讲 5. 自定义路径曲线和降雨效果实现.mp4<br>│  │  │  第6讲 6. 游戏后期处理和分析.mp4<br>│  │  │  第7讲 7. 发布到网页平台.mp4<br>│  │  │  第8讲 8. 发布到PC平台.mp4<br>│  │  │  第9讲 9. 发布到Android平台.mp4<br>│  │  │  第10讲 10. 发布到iOS平台.mp4<br>│  │  │<br>│  │  ├─官方源码<br>│  │  │      4-0_AngryBots.zip<br>│  │  │<br>│  │  └─素材<br>│  │          Chapter4_AngryBotsAssets.rar<br>│  │          四Angrybot案例分析及多平台发布.mmap<br>│  │<br>│  ├─Mecanim动画系统<br>│  │      1. Mecanim简介.mp4<br>│  │      2. 模型及动画的导入设置.mp4<br>│  │      3. Mecanim使用步骤.mp4<br>│  │      4. 动画状态机.mp4<br>│  │      5. Unity3D 编辑动画.mp4<br>│  │      6. 动画状态机练习.mp4<br>│  │      7. Mecanim人形动画.mp4<br>│  │      8. 身体遮罩及肌肉限定.mp4<br>│  │      9. BlendTree动画融合.mp4<br>│  │      10. BlendTree 使用示例.mp4<br>│  │      11. 2D BlendTree 使用.mp4<br>│  │      12. 2D BlendTree 示例.mp4<br>│  │      13. Mecanim动画层使用.mp4<br>│  │      14. 示例练习.mp4<br>│  │      15. 复习.mp4<br>│  │      源码.rar<br>│  │<br>│  └─素材<br>│          Top-Down City.unitypackage<br>│          Top-Down city.zip<br>│          Unity3D概要和基础知识讲解_思维导图.rar<br>│<br>├─3.创建场景<br>│      Chapter2_projectSource.rar<br>│      第1讲 1. 创建游戏场景和基本的几何体.mp4<br>│      第2讲 2. 创建基本的场景组件.mp4<br>│      第3讲 3. 创建基本的脚本组件.mp4<br>│      第4讲 4. 创建灯光以及灯光属性讲解1.mp4<br>│      第5讲 5. 创建灯光以及灯光属性讲解2.mp4<br>│      第6讲 6. 创建摄像机以及摄像机属性讲解.mp4<br>│      第7讲 7. 地形编辑器概述和地形的创建方式.mp4<br>│      第8讲 8. 地形相关参数设定1.mp4<br>│      第9讲 9. 地形相关参数设定2.mp4<br>│      第10讲 10. 地形编辑器参数设置及应用案列.mp4<br>│      第11讲 11. GUI原理介绍.mp4<br>│      第12讲 12. GUI常用控件介绍及使用1.mp4<br>│      第13讲 13. GUI常用控件介绍及使用2.mp4<br>│<br>├─4.引擎高级课程(5.x)<br>│  │  1. 编辑器界面.mp4<br>│  │  2. Unity的工作流程.mp4<br>│  │  3. GameObject  Component.mp4<br>│  │  4. Prefab.mp4<br>│  │  5. Tags Static.mp4<br>│  │  6. Inspector View.mp4<br>│  │  7. Scene View  Game View.mp4<br>│  │  8. 编辑器内Search.mp4<br>│  │  9. 一些重要设置.mp4<br>│  │  10. 发布-Pc.mp4<br>│  │  11. 发布-Android.mp4<br>│  │  12. 发布-Ios.mp4<br>│  │  13. 脚本的基本使用.mp4<br>│  │  14. 脚本的加载和变异顺序.mp4<br>│  │  15. Monodevelop 及调试脚本.mp4<br>│  │  16. 外部导入c dll.mp4<br>│  │  17. Plugins pc平台.mp4<br>│  │  18. Plugins Android 平台.mp4<br>│  │  19. Plugins Ios 平台.mp4<br>│  │  20. 脚本的优化.mp4<br>│  │  21. 特殊文件夹.mp4<br>│  │  22. 编辑器功能扩展　EditorWindow.mp4<br>│  │  23. 编辑器功能扩展　-　Custom Editor.mp4<br>│  │  24. Profilor(二).mp4<br>│  │  25. Gismos.mp4<br>│  │  26. Input.mp4<br>│  │  27. Camera.mp4<br>│  │  28. light &amp; shadow.mp4<br>│  │  29. 全局光照和light　mapping(一).mp4<br>│  │  30. 全局光照和light　mapping(二).mp4<br>│  │  31. 全局光照和烘焙(三).mp4<br>│  │  32. 反射探头.mp4<br>│  │  33. shader &amp; material.mp4<br>│  │  34. Legacy Shaders.mp4<br>│  │  35. 物理渲染.mp4<br>│  │  36. Standard Shader.mp4<br>│  │  37. shader 编程.mp4<br>│  │  38. Surface Shader.mp4<br>│  │  39. 地形.mp4<br>│  │  40. Tree Creator.mp4<br>│  │  41. 粒子系统.mp4<br>│  │  42. Texture.mp4<br>│  │  43. 屏幕后处理特效.mp4<br>│  │  44. CubeMap和天空盒.mp4<br>│  │  45. LOD和Text Mesh.mp4<br>│  │  46. Line Renderer&amp; Trail Renderer.mp4<br>│  │  47. Projector.mp4<br>│  │  48. 2D Sprite.mp4<br>│  │  49. 图形渲染的优化.mp4<br>│  │<br>│  ├─思维导图<br>│  │      1.基础概念.png<br>│  │      10.图形渲染4.png<br>│  │      11.图形渲染5.png<br>│  │      2.发布.png<br>│  │      3.脚本1.png<br>│  │      4.脚本2.png<br>│  │      5.编辑器.png<br>│  │      6.Input.png<br>│  │      7.图形渲染1.png<br>│  │      8.图形渲染2.png<br>│  │      9.图形渲染3.png<br>│  │<br>│  ├─素材<br>│  │  │  16课件.rar<br>│  │  │  4_素材文件和源代码.rar<br>│  │  │<br>│  │  └─4_素材文件和源代码<br>│  │      ├─profilor&amp;图形渲染３.screenflow<br>│  │      │  │  ScreenFlowDocument.dat<br>│  │      │  │  thumbnail.jpg<br>│  │      │  │  version.plist<br>│  │      │  │<br>│  │      │  └─Media<br>│  │      │          67763652-24AF-4DEE-A738-9E51C24B6AB9__057E9B23-8AA0-4B10-9FB2-147193B23166.scc<br>│  │      │<br>│  │      ├─源文件(图像渲染2).screenflow<br>│  │      │  │  ScreenFlowDocument.dat<br>│  │      │  │  thumbnail.jpg<br>│  │      │  │  version.plist<br>│  │      │  │<br>│  │      │  └─Media<br>│  │      │          78B0A528-4AE7-4368-9D57-E21CC7FE7CB7__AF95D072-B114-465E-BDC6-07E890921A47.scc<br>│  │      │<br>│  │      ├─源文件(编辑器基础&amp;发布).screenflow<br>│  │      │  │  ScreenFlowDocument.dat<br>│  │      │  │<br>│  │      │  └─Media<br>│  │      │          5FC8785C-CB5E-4ED7-BB6E-84E1E5DDE6AE__B7E8C7EA-03D0-4FEE-8381-D3155023147A.scc<br>│  │      │<br>│  │      ├─源文件(编辑器２＆input＆图形渲染１) 2.screenflow<br>│  │      │  │  ScreenFlowDocument.dat<br>│  │      │  │  thumbnail.jpg<br>│  │      │  │  version.plist<br>│  │      │  │<br>│  │      │  └─Media<br>│  │      │          0B509277-7791-4A40-9585-D13D75ED8984__B221D8E2-5946-4981-933E-FF0C6BD77F4B.scc<br>│  │      │<br>│  │      └─源文件(脚本２＆编辑器１).screenflow<br>│  │          │  ScreenFlowDocument.dat<br>│  │          │  thumbnail.jpg<br>│  │          │  version.plist<br>│  │          │<br>│  │          └─Media<br>│  │                  5EC8B332-0E80-4B4F-BC2D-6D7D2F106465__0FD4620D-7855-4504-97FB-B418D0DFFB2E.scc<br>│  │<br>│  └─项目导航系统实现<br>│      │  第10讲 10. 使用导航网格的层动态控制门开关.mp4<br>│      │  第11讲 11. 导航网格阻挡.mp4<br>│      │  第12讲 12. 使用导航网格阻挡动态控制门开关.mp4<br>│      │  第13讲 13. Unity导航数据的导出.mp4<br>│      │  第14讲 14. 主角的导航-导航配合阻挡(一).mp4<br>│      │  第15讲 15. 主角的导航-导航配合阻挡.mp4<br>│      │  第16讲 16. 主角的导航-完全基于寻路.mp4<br>│      │  第17讲 17. 主角的导航-完全基于阻挡.mp4<br>│      │  第18讲 18. 导航的效率和大型场景的导航优化.mp4<br>│      │  第1讲 1. 导航的基本概念.mp4<br>│      │  第2讲 2. NavMesh基础.mp4<br>│      │  第3讲 3. 导航网格的制作.mp4<br>│      │  第4讲 4. 使用NavmehsAgent实现物体的导航.mp4<br>│      │  第5讲 5. NavmeshAgent参数详解.mp4<br>│      │  第6讲 6. 导航网格的烘培参数详解.mp4<br>│      │  第7讲 7. OffMeshLink(一).mp4<br>│      │  第8讲 8. OffMeshLink(二).mp4<br>│      │  第9讲 9. 导航网格的层和cost.mp4<br>│      │<br>│      └─素材<br>│              素材及源代码.rar<br>│              课件_SK23oB6.rar<br>│<br>├─5.粒子系统专讲<br>│      Unity3d基础界面讲解.mp4<br>│      Unity3d粒子系统讲解01.mp4<br>│      Unity3d粒子系统讲解02.mp4<br>│      Unity3d粒子系统讲解03.mp4<br>│      Unity3d粒子系统讲解04.mp4<br>│      Unity3d粒子系统讲解05.mp4<br>│      Unity3d粒子系统讲解06.mp4<br>│<br>├─6.Unity API常用方法和类详细讲解<br>│  │  源码、学习笔记和导图.zip<br>│  │<br>│  └─视频<br>│          001-课程前言、学习方法、学习需要的基础.mp4<br>│          002-开发环境准备，如何查看Unity的API文档.mp4<br>│          003-什么是事件函数.mp4<br>│          004-事件函数的执行时机和先后顺序.mp4<br>│          005-Time类中静态变量介绍.mp4<br>│          006-TimedeltaTime和realTimeSinceStartup的使用.mp4<br>│          007-创建游戏物体的三种方法.mp4<br>│          008-如何给游戏物体通过代码添加组件.mp4<br>│          009-如何禁用和启用一个游戏物体.mp4<br>│          010-GameObject、Component和Object的千丝万缕的关系.mp4<br>│          011-UnityEngine下Object用有的静态方法.mp4<br>│          012-GameObject独有的静态方法.mp4<br>│          013-游戏物体间消息的发送和接收.mp4<br>│          014-得到组件的各种方法函数.mp4<br>│          015-MonoBehaviour总览.mp4<br>│          016-MonoBehaviour里面的常用变量.mp4<br>│          017-MonoBehaviour中Invoke的使用.mp4<br>│          018-什么是协程、它是如何执行的.mp4<br>│          019-使用Coroutine实现颜色动画渐变.mp4<br>│          020-Coroutine协程的开启和关闭.mp4<br>│          021-跟鼠标相关事件函数OnMouseXXX讲解.mp4<br>│          022-Mathf里面的静态常量.mp4<br>│          023-Mathf中的Clamp限定方法.mp4<br>│          024-Mathf中的常用方法.mp4<br>│          025-关于游戏开发中的插值运算.mp4<br>│          026-使用MoveTowards做匀速运动.mp4<br>│          027-使用PingPong方法实现乒乓的来回运动效果.mp4<br>│          028-Input类输入类（按键、按键、触摸相关检测）.mp4<br>│          029-Input里面的GetKeyXXX的使用.mp4<br>│          030-鼠标按键事件的监测.mp4<br>│          031-GetButtonXXX相关事件监测.mp4<br>│          032-使用GetAxis得到轴的值的变化来控制移动.mp4<br>│          033-屏幕坐标系和鼠标的坐标.mp4<br>│          034-Vector2中的变量有哪些.mp4<br>│          035-向量是结构体.mp4<br>│          036-二维向量Vector2中的静态方法.mp4<br>│          037-测试Vector2中的静态方法的使用.mp4<br>│          038-关于三维向量Vector3.mp4<br>│          039-对向量的加减乘除操作.mp4<br>│          040-使用Random生成随机数.mp4<br>│          041-其他随机生成方法介绍.mp4<br>│          042-Quaternion四元数介绍以及和欧拉角的区别.mp4<br>│          043-Quaternion中的LookRotation方法.mp4<br>│          044-Quaternion中的Lerp和Slerp插值运算.mp4<br>│          045-Rigidbody刚体组件中position和MovePosition控制移动.mp4<br>│          046-通过刚体控制游戏物体旋转.mp4<br>│          047-通过AddForce控制运动.mp4<br>│          048-Camera类的学习和常用方法.mp4<br>│          049-通过Application获取datapath.mp4<br>│          050-Application中的常用静态变量和静态方法.mp4<br>│          051-如何切换加载场景.mp4<br>│          052-关于SceneManager的其他方法.mp4<br>│          053-课程结束语.mp4<br>│<br>└─7.Unity2017研究实验室<br>    │  unity2017新功能介绍.mp4<br>    │<br>    ├─01-画图-使用LineRenderer组件<br>    │      01-01-课程介绍和开发工具下载.mp4<br>    │      01-02-关于LineRenderer组件的学习和属性介绍.mp4<br>    │      01-03-UI设计-画笔颜色的选择.mp4<br>    │      01-04-UI设计-画笔大小的选择.mp4<br>    │      01-05-关于颜色和画笔大小属性的获取和保存.mp4<br>    │      01-06-绘图的面板准备.mp4<br>    │      01-07-绘图核心算法的实现.mp4<br>    │      01-08-绘图的优化.mp4<br>    │      LineRendererProject unity5.5beta.zip<br>    │<br>    └─02-VS2017的安装、Unity和VS的联调（断点调试）<br>            02-01-VS2017的安装.mp4<br>            02-02-Unity和VS2017的联调.mp4<br>            vs 2017安装程序和unity 5.6安装程序.zip<br>            VS2017DebugProject.zip</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1JQTJC5M1cX8HE3q0GhYDbQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1JQTJC5M1cX8HE3q0GhYDbQ</a><br>提取码：jeja<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 游戏研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 综合 </tag>
+            
+            <tag> Unity </tag>
+            
+            <tag> 游戏 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>猎维科技《Python人工智能 第一期脱产班》2019</title>
+      <link href="/2019-07-02/%E7%8C%8E%E7%BB%B4%E7%A7%91%E6%8A%80%E3%80%8APython%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20%E7%AC%AC%E4%B8%80%E6%9C%9F%E8%84%B1%E4%BA%A7%E7%8F%AD%E3%80%8B2019/"/>
+      <url>/2019-07-02/%E7%8C%8E%E7%BB%B4%E7%A7%91%E6%8A%80%E3%80%8APython%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20%E7%AC%AC%E4%B8%80%E6%9C%9F%E8%84%B1%E4%BA%A7%E7%8F%AD%E3%80%8B2019/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>2019.02.25-第一天-Python入门(一)-数据类型一.rar<br>2019.02.27-第二天-Python入门(二)-数据类型二.rar<br>2019.03.04-第三天-Python入门(三)-语句.rar<br>2019.03.06-第四天-Python入门(四)-函数.rar<br>2019.03.11-第五天-Python入门(五)-面向对象编程.rar<br>2019.03.13-第六天-Python入门(六)-PIL&amp;图像处理.rar<br>2019.03.18-第七天-Python入门(七)-数值计算框架.rar<br>2019.03.20-第八天-Python入门(八)-文件XML、多线程.rar<br>2019.03.25-第九天-Python入门(九)-正则表达式、HTP、爬虫.rar<br>2019.03.27-第十天-传统机器学习算法KNN、Kmeans.rar<br>2019.04.03-第十一天-深度学习框架Tensflow、Pytorch.rar<br>2019.04.08-第十二天-高等数学.rar<br>2019.04.10-第十三天-线性代数.rar<br>2019.04.15-第十四天-线性代数、概率论.rar<br><a id="more"></a><br>2019.04.17-第十五天-概率论.rar<br>2019.04.22-第十六天-深度学习(一)线性问题、损失函数.rar<br>2019.04.24-第十七天-深度学习(二)-梯度下降、拟合.rar<br>2019.04.30-第十八天-深度学习(三)-卷积神经网络.rar<br>2019.05.07-第十九天-深度学习(四)-卷积神经网络模型.rar<br>2019.05.09-第二十天-深度学习(五).rar<br>2019.05.14-第二十一天-深度学习(六).rar<br>2019.05.16-第二十二天-深度学习(七)-优化器.rar<br>2019.05.21-第二十三天-深度学习(八)-循环神经网络.rar<br>2019.05.23-第二十四天-深度学习(九)-循环神经网络二.rar<br>2019.05.28-第二十五天-深度学习(十).rar<br>2019.05.30-第二十六天-深度学习(十一)-生成式对抗神经网络.rar<br>2019.06.04-第二十七天-深度学习-自编码.rar<br>2019.06.06-第二十八天-深度强化学习.rar<br>2019.06.11-第二十九天-PyTorch.rar<br>2019.06.13-第三十天-人脸识别算法.rar</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1DOeZrAibywVmZR-A7-cuxA" target="_blank" rel="noopener">https://pan.baidu.com/s/1DOeZrAibywVmZR-A7-cuxA</a><br>提取码：5ulb<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 人工智能研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 综合 </tag>
+            
+            <tag> Python </tag>
+            
+            <tag> 人工智能 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>时间煮雨《红帽Linux认证RHCE基础班 104》2019</title>
+      <link href="/2019-07-02/%E6%97%B6%E9%97%B4%E7%85%AE%E9%9B%A8%E3%80%8A%E7%BA%A2%E5%B8%BDLinux%E8%AE%A4%E8%AF%81RHCE%E5%9F%BA%E7%A1%80%E7%8F%AD%20104%E3%80%8B2019/"/>
+      <url>/2019-07-02/%E6%97%B6%E9%97%B4%E7%85%AE%E9%9B%A8%E3%80%8A%E7%BA%A2%E5%B8%BDLinux%E8%AE%A4%E8%AF%81RHCE%E5%9F%BA%E7%A1%80%E7%8F%AD%20104%E3%80%8B2019/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>├─基础小测<br>│      rhcsa.vmdk.zip<br>│      基础入门测试.doc<br>│<br>├─基础小测讲解<br>│      1-5.mp4<br>│      11-20.mp4<br>│      6-10.mp4<br>│<br>├─第一次课-20190507<br>│      linux系统安装.pptx<br>│      系统安装.mp4<br><a id="more"></a><br>│<br>├─第二次课-20190509<br>│  │  第二次作业.txt<br>│  │<br>│  ├─vi使用<br>│  │      last<br>│  │      linux-vi使用.pptx<br>│  │      VI_answer.doc<br>│  │      vi使用.mp4<br>│  │      VI练习使用.doc<br>│  │<br>│  └─基础命令<br>│          linux-基础命令.pptx<br>│          基础命令.mp4<br>│<br>├─第三、四次课-20190512<br>│  │  ntfs-3g_ntfsprogs-2017.3.23AR.4.tgz<br>│  │  第三、四次作业.txt<br>│  │<br>│  ├─ssh服务<br>│  │      ssh.pptx<br>│  │      ssh服务.mp4<br>│  │<br>│  ├─包管理<br>│  │      包的管理.mp4<br>│  │      软件和包管理.pptx<br>│  │<br>│  └─用户和组<br>│          base_2_answer.doc<br>│          etc_fstab文件讲解.doc<br>│          linux-用户和权限.pptx<br>│          用户和组1.mp4<br>│<br>├─第五次课-20190516<br>│  └─用户和组<br>│          linux-用户和权限(1).pptx<br>│          用户和权限2.mp4<br>│<br>├─第六、七次课-20190519<br>│  │  第六、七次作业.txt<br>│  │<br>│  ├─mount命令<br>│  │      mount.mp4<br>│  │      mount命令.pptx<br>│  │<br>│  ├─sudo和su<br>│  │      sudo_su_文件系统.mp4<br>│  │      sudo和su.pptx<br>│  │<br>│  ├─特殊权限<br>│  │      exam_answer.txt<br>│  │      特殊权限.mp4<br>│  │      特殊权限.pptx<br>│  │<br>│  └─磁盘管理<br>│          linux-文件系统和磁盘管理.pptx<br>│          touch_file.sh<br>│          磁盘管理.mp4<br>│<br>├─第八次课-20190521<br>│  │  第八次作业.txt<br>│  │<br>│  ├─时间属性<br>│  │      时间属性.mp4<br>│  │      时间属性.pptx<br>│  │<br>│  ├─管道命令<br>│  │      apache.log<br>│  │      管道命令.mp4<br>│  │      管道命令.pptx<br>│  │<br>│  ├─系统状态分析<br>│  │      系统状态.mp4<br>│  │      系统状态和进程管理简介1.pptx<br>│  │<br>│  └─软硬链接<br>│          时间属性.pptx<br>│          软硬链接.pptx<br>│          链接.mp4<br>│<br>├─第九次课-20190523<br>│  │  第九次作业.txt<br>│  │<br>│  ├─apache<br>│  │      apache.pptx<br>│  │      apache服务.mp4<br>│  │<br>│  ├─lvm<br>│  │      lvm.mp4<br>│  │      lvm.pptx<br>│  │<br>│  └─数据流<br>│          数据流.mp4<br>│          数据流.pptx<br>│<br>└─第十次课-20190526<br>    │  第十次作业.txt<br>    │<br>    ├─crontab<br>    │      crontab.mp4<br>    │      crontab_at.pptx<br>    │<br>    └─急救模式-rescue<br>            7_rescue_passwd.doc<br>            rescue.mp4<br>            rescue.pptx</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/17EB0PauX6yChLvGHmzsnnQ" target="_blank" rel="noopener">https://pan.baidu.com/s/17EB0PauX6yChLvGHmzsnnQ</a><br>提取码：myhb<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 运维研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 运维 </tag>
+            
+            <tag> 腾讯课堂 </tag>
+            
+            <tag> 红帽Linux </tag>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>腾讯课堂.软谋教育《微信小程序开发实战课程 第二期》2019</title>
+      <link href="/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82.%E8%BD%AF%E8%B0%8B%E6%95%99%E8%82%B2%E3%80%8A%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E8%AF%BE%E7%A8%8B%20%E7%AC%AC%E4%BA%8C%E6%9C%9F%E3%80%8B2019/"/>
+      <url>/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82.%E8%BD%AF%E8%B0%8B%E6%95%99%E8%82%B2%E3%80%8A%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E8%AF%BE%E7%A8%8B%20%E7%AC%AC%E4%BA%8C%E6%9C%9F%E3%80%8B2019/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>视频时长较长每个视频一个半小时以上素材源码齐全<br>20180706开学典礼.wmv<br>20180708小程序VIP（公众平台功能使用，vscode和全局配置信息）视频+课件.zip<br>20180713小程序VIP（WXML相关）.zip<br>20180720小程序vip（视图组件+基本组件+表单组件）.zip<br>20180721小程序vip（表单组件+导航+媒体组件）视频.wmv<br>20180722小程序vip（map+canvas+opendata+事件）视频+源码.zip<br>20180727小程序（程序与页面）视频+源码.zip<br>20180728小程序vip（页面栈与路由，不同跳转方式对生命周期的影响）.zip<br>20180729小程序vip（网络api）.zip<br>20180803小程序VIP（媒体AP图片+I录音+背景音乐）录屏+源码.zip<br>20180804小程序Vip（视频+文件存储+数据缓存+同步异步）录屏+源码.zip<br>20180805小程序Vip（位置+设备+界面）录屏+源码.zip<br>20180810vip开放能力录屏.wmv<br><a id="more"></a><br>20180811vip（node+minui框架+git工具）.wmv<br>20180812vip（付费阅读项目第一次）.wmv<br>20180818Vipleancloud使用.wmv<br>20180819vip（后台数据表配置+文件上传）.wmv<br>20180824vip服务端配置及部署.wmv<br>20180825vip云函数编写小程序码获取.wmv<br>20180826vip支付功能完成.wmv<br>20180901vip详情页开发.wmv<br>20180902vip小游戏开发（cocoscreater基础）.wmv<br>20180908管道组和预制资源.wmv<br>20180909羊的动画制作和事件绑定.wmv<br>20180914碰撞系统+游戏主逻辑.wmv<br>20180915vip（小游戏音频引入+细节完善+构建发布）.wmv<br>20180916vip（云开发+课程知识回顾）.wmv</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/1nZ0inM3xjJSQSWCwLx0M8Q" target="_blank" rel="noopener">https://pan.baidu.com/s/1nZ0inM3xjJSQSWCwLx0M8Q</a><br>提取码：o824<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 移动研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 腾讯课堂 </tag>
+            
+            <tag> 小程序 </tag>
+            
+            <tag> 移动研发 </tag>
+            
+            <tag> 软谋教育 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>腾讯课堂《Java架构班之BATJ企业面试课》2019</title>
       <link href="/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82%E3%80%8AJava%E6%9E%B6%E6%9E%84%E7%8F%AD%E4%B9%8BBATJ%E4%BC%81%E4%B8%9A%E9%9D%A2%E8%AF%95%E8%AF%BE%E3%80%8B2019/"/>
       <url>/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82%E3%80%8AJava%E6%9E%B6%E6%9E%84%E7%8F%AD%E4%B9%8BBATJ%E4%BC%81%E4%B8%9A%E9%9D%A2%E8%AF%95%E8%AF%BE%E3%80%8B2019/</url>
@@ -103,15 +494,15 @@
             
             <tag> Java </tag>
             
-            <tag> 后端研发 </tag>
-            
-            <tag> 千峰教育 </tag>
-            
-            <tag> 微服务 </tag>
-            
             <tag> SpringBoot </tag>
             
             <tag> SpringCloud </tag>
+            
+            <tag> 微服务 </tag>
+            
+            <tag> 后端研发 </tag>
+            
+            <tag> 千峰教育 </tag>
             
         </tags>
       
@@ -250,11 +641,11 @@
             
             <tag> Hive </tag>
             
-            <tag> 千峰教育 </tag>
-            
             <tag> 数仓 </tag>
             
             <tag> Hadoop </tag>
+            
+            <tag> 千峰教育 </tag>
             
         </tags>
       
@@ -895,36 +1286,9 @@
       
         <tags>
             
-            <tag> Java </tag>
-            
             <tag> 运维 </tag>
             
-            <tag> 应用监控 </tag>
-            
-            <tag> prometheus </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
-      <title>prometheus企业监控系统视频 (上)</title>
-      <link href="/2019-06-29/prometheus%E4%BC%81%E4%B8%9A%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E8%A7%86%E9%A2%91%20(%E4%B8%8A)/"/>
-      <url>/2019-06-29/prometheus%E4%BC%81%E4%B8%9A%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E8%A7%86%E9%A2%91%20(%E4%B8%8A)/</url>
-      <content type="html"><![CDATA[<p>『课程目录』:<br>01.prometheus的介绍-1.mp4<br>02.prometheus的介绍-2.mp4<br>03.prometheus的基础理念.mp4<br>04.prometheus的监控分类.mp4<br>05.prometheus的架构.mp4<br>06.prometheus的监控项讲解.mp4<br>07.prometheus的企业讲解.mp4<br>08.prometheus的特点缺点.mp4<br>09.prometheus的命令行.mp4<br>10.prometheus的组件.mp4<br>11.prometheus的metrics.mp4<br>12.prometheus的监控图及命令行.mp4<br>13.prometheus的数据key-value.mp4<br>14.prometheus的key及组件.mp4<br>15prometheus的启动及设置.mp4<br>16.prometheus的监控cpu实例.mp4<br><a id="more"></a></p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/12HgzTdhuQsgkzTdQFZiNNw" target="_blank" rel="noopener">https://pan.baidu.com/s/12HgzTdhuQsgkzTdQFZiNNw</a><br>提取码：esp3<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
-      
-      <categories>
-          
-          <category> 运维研发攻城狮 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
             <tag> Java </tag>
-            
-            <tag> 运维 </tag>
             
             <tag> 应用监控 </tag>
             
@@ -949,9 +1313,36 @@
       
         <tags>
             
+            <tag> 运维 </tag>
+            
             <tag> Java </tag>
             
+            <tag> 应用监控 </tag>
+            
+            <tag> prometheus </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>prometheus企业监控系统视频 (上)</title>
+      <link href="/2019-06-29/prometheus%E4%BC%81%E4%B8%9A%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E8%A7%86%E9%A2%91%20(%E4%B8%8A)/"/>
+      <url>/2019-06-29/prometheus%E4%BC%81%E4%B8%9A%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E8%A7%86%E9%A2%91%20(%E4%B8%8A)/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>01.prometheus的介绍-1.mp4<br>02.prometheus的介绍-2.mp4<br>03.prometheus的基础理念.mp4<br>04.prometheus的监控分类.mp4<br>05.prometheus的架构.mp4<br>06.prometheus的监控项讲解.mp4<br>07.prometheus的企业讲解.mp4<br>08.prometheus的特点缺点.mp4<br>09.prometheus的命令行.mp4<br>10.prometheus的组件.mp4<br>11.prometheus的metrics.mp4<br>12.prometheus的监控图及命令行.mp4<br>13.prometheus的数据key-value.mp4<br>14.prometheus的key及组件.mp4<br>15prometheus的启动及设置.mp4<br>16.prometheus的监控cpu实例.mp4<br><a id="more"></a></p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/12HgzTdhuQsgkzTdQFZiNNw" target="_blank" rel="noopener">https://pan.baidu.com/s/12HgzTdhuQsgkzTdQFZiNNw</a><br>提取码：esp3<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 运维研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
             <tag> 运维 </tag>
+            
+            <tag> Java </tag>
             
             <tag> 应用监控 </tag>
             
@@ -1177,31 +1568,6 @@
     </entry>
     
     <entry>
-      <title>大数据仓库Hive</title>
-      <link href="/2019-06-29/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93Hive/"/>
-      <url>/2019-06-29/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93Hive/</url>
-      <content type="html"><![CDATA[<p>『课程目录』:<br>├─第1章 Hive初识入门<br>│  │  1.02_01_01_01 通过实际项目分析引出Hive及Hive是什么、Hive前景如何<br>│  │  1.02_01_01_02 Hive架构、优点及使用场景讲解<br>│  │  1.02_01_01_03 Hive安装使用准备工作<br>│  │  1.02_01_01_04 Hive安装部署及简单测试<br>│  │  1.02_01_01_05 Hive初步使用和安装MySQ<br>│  │  1.02_01_01_06 Hive配置metastore<br>│  │  1.02_01_01_07 Hive基本操作使用讲解<br>│  │  1.02_01_01_08 Hive运行日志配置和查看讲解<br>│  │  1.02_01_01_09 Hive常见属性配置讲解（重点）<br>│  │  1.02_01_01_10 Hive常用几种交互操作讲解<br>│  │  1.02_01_01_11 Hive交互式命令行操作讲解<br>│<br><a id="more"></a><br>├─第2章 Hive深入使用<br>│      2.02_01_02_01 Hive 中数据库Database基本操作<br>│      2.02_01_02_02 基于具体业务讲解Hive中表的创建及常见的三种创建表的方式及应用<br>│      2.02_01_02_03 Hie的数据类型讲解及实际项目中如何使用phthon脚本对数据进行ETL<br>│      2.02_01_02_04 以【雇员表和部门表】为例创建讲解Hive中表的操作<br>│      2.02_01_02_05 Hive中外部表的讲解（对比管理表）<br>│      2.02_01_02_06 Hive中分区表讲解及几大注意事项（结合企业案例分析）<br>│      2.02_01_02_07 导入数据进入Hive表的六大方式讲解<br>│      2.02_01_02_08 导出Hive表数据的几种方式讲解<br>│      2.02_01_02_09 Hive中常见的查询讲解<br>│      2.02_01_02_10 Hive中高阶查询讲解（groupby、having及jion）<br>│      2.02_01_02_11 Hive中数据导入导出Import和Export使用讲解<br>│      2.02_01_02_12 Hive中order by、sort by、distribute by和cluster by详细讲解<br>│      2.02_01_02_13 Hive中自带Function使用及自定义UDF编程及使用<br>│<br>└─第3章 Hive高级进阶<br>        3.02_01_03_01 HiveServer2、Beeline、JDBC使用<br>        3.02_01_03_02 Hive中常见的数据压缩讲解<br>        3.02_01_03_03 配置演示讲解mapreduce和hive中使用snappy压缩<br>        3.02_01_03_04 Hive Storage Format讲解一<br>        3.02_01_03_05 Hive Storage Format讲解二<br>        3.02_01_03_06 Hive Storage Format讲解三<br>        3.02_01_03_07 Hive 企业使用优化一<br>        3.02_01_03_08 Hive 企业使用优化二<br>        3.02_01_03_09 Hive 企业使用优化三Join<br>        3.02_01_03_10 Hive 企业使用优化四SMB Join<br>        3.02_01_03_11 Hive 企业使用优化五查看HQL执行计划explain<br>        3.02_01_03_12 Hive 企业使用优化六<br>        3.02_01_03_13 Hive 企业使用优化七<br>        3.02_01_03_14 Hive 企业使用优化八<br>        3.02_01_03_15 Hive 项目实战一创建表并导入日志数据，引出问题<br>        3.02_01_03_16 Hive 项目实战二使用RegexSerDe处理Apache或者Ngnix日志文件<br>        3.02_01_03_17 Hive 项目实战三依据原表创建子表及设置orcfile存储和snappy压缩数据<br>        3.02_01_03_18 Hive 项目实战四数据清洗之自定义UDF去除数据双引号<br>        3.02_01_03_19 Hive 项目实战五数据清洗之自定义UDF转换日期时间数据<br>        3.02_01_03_20 Hive 项目实战六依据业务编写HiveQL分析数据<br>        3.02_01_03_21 Hive 项目实战七MovieLens数据分析采用python脚本进行数据清洗和统计</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/19AGlL05GCAFCHhDHtl0iWQ" target="_blank" rel="noopener">https://pan.baidu.com/s/19AGlL05GCAFCHhDHtl0iWQ</a><br>提取码：9wq8<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
-      
-      <categories>
-          
-          <category> 大数据研发攻城狮 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 大数据 </tag>
-            
-            <tag> 数据仓库 </tag>
-            
-            <tag> Hive </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
       <title>大数据分析实战视频</title>
       <link href="/2019-06-29/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AE%9E%E6%88%98%E8%A7%86%E9%A2%91/"/>
       <url>/2019-06-29/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AE%9E%E6%88%98%E8%A7%86%E9%A2%91/</url>
@@ -1221,6 +1587,31 @@
             <tag> Python数据分析 </tag>
             
             <tag> 实战 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>大数据仓库Hive</title>
+      <link href="/2019-06-29/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93Hive/"/>
+      <url>/2019-06-29/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93Hive/</url>
+      <content type="html"><![CDATA[<p>『课程目录』:<br>├─第1章 Hive初识入门<br>│  │  1.02_01_01_01 通过实际项目分析引出Hive及Hive是什么、Hive前景如何<br>│  │  1.02_01_01_02 Hive架构、优点及使用场景讲解<br>│  │  1.02_01_01_03 Hive安装使用准备工作<br>│  │  1.02_01_01_04 Hive安装部署及简单测试<br>│  │  1.02_01_01_05 Hive初步使用和安装MySQ<br>│  │  1.02_01_01_06 Hive配置metastore<br>│  │  1.02_01_01_07 Hive基本操作使用讲解<br>│  │  1.02_01_01_08 Hive运行日志配置和查看讲解<br>│  │  1.02_01_01_09 Hive常见属性配置讲解（重点）<br>│  │  1.02_01_01_10 Hive常用几种交互操作讲解<br>│  │  1.02_01_01_11 Hive交互式命令行操作讲解<br>│<br><a id="more"></a><br>├─第2章 Hive深入使用<br>│      2.02_01_02_01 Hive 中数据库Database基本操作<br>│      2.02_01_02_02 基于具体业务讲解Hive中表的创建及常见的三种创建表的方式及应用<br>│      2.02_01_02_03 Hie的数据类型讲解及实际项目中如何使用phthon脚本对数据进行ETL<br>│      2.02_01_02_04 以【雇员表和部门表】为例创建讲解Hive中表的操作<br>│      2.02_01_02_05 Hive中外部表的讲解（对比管理表）<br>│      2.02_01_02_06 Hive中分区表讲解及几大注意事项（结合企业案例分析）<br>│      2.02_01_02_07 导入数据进入Hive表的六大方式讲解<br>│      2.02_01_02_08 导出Hive表数据的几种方式讲解<br>│      2.02_01_02_09 Hive中常见的查询讲解<br>│      2.02_01_02_10 Hive中高阶查询讲解（groupby、having及jion）<br>│      2.02_01_02_11 Hive中数据导入导出Import和Export使用讲解<br>│      2.02_01_02_12 Hive中order by、sort by、distribute by和cluster by详细讲解<br>│      2.02_01_02_13 Hive中自带Function使用及自定义UDF编程及使用<br>│<br>└─第3章 Hive高级进阶<br>        3.02_01_03_01 HiveServer2、Beeline、JDBC使用<br>        3.02_01_03_02 Hive中常见的数据压缩讲解<br>        3.02_01_03_03 配置演示讲解mapreduce和hive中使用snappy压缩<br>        3.02_01_03_04 Hive Storage Format讲解一<br>        3.02_01_03_05 Hive Storage Format讲解二<br>        3.02_01_03_06 Hive Storage Format讲解三<br>        3.02_01_03_07 Hive 企业使用优化一<br>        3.02_01_03_08 Hive 企业使用优化二<br>        3.02_01_03_09 Hive 企业使用优化三Join<br>        3.02_01_03_10 Hive 企业使用优化四SMB Join<br>        3.02_01_03_11 Hive 企业使用优化五查看HQL执行计划explain<br>        3.02_01_03_12 Hive 企业使用优化六<br>        3.02_01_03_13 Hive 企业使用优化七<br>        3.02_01_03_14 Hive 企业使用优化八<br>        3.02_01_03_15 Hive 项目实战一创建表并导入日志数据，引出问题<br>        3.02_01_03_16 Hive 项目实战二使用RegexSerDe处理Apache或者Ngnix日志文件<br>        3.02_01_03_17 Hive 项目实战三依据原表创建子表及设置orcfile存储和snappy压缩数据<br>        3.02_01_03_18 Hive 项目实战四数据清洗之自定义UDF去除数据双引号<br>        3.02_01_03_19 Hive 项目实战五数据清洗之自定义UDF转换日期时间数据<br>        3.02_01_03_20 Hive 项目实战六依据业务编写HiveQL分析数据<br>        3.02_01_03_21 Hive 项目实战七MovieLens数据分析采用python脚本进行数据清洗和统计</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div><blockquote class="blockquote-center"><br>链接：<a href="https://pan.baidu.com/s/19AGlL05GCAFCHhDHtl0iWQ" target="_blank" rel="noopener">https://pan.baidu.com/s/19AGlL05GCAFCHhDHtl0iWQ</a><br>提取码：9wq8<br>复制这段内容后打开百度网盘手机App，操作更方便哦<br></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 大数据研发攻城狮 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 大数据 </tag>
+            
+            <tag> 数据仓库 </tag>
+            
+            <tag> Hive </tag>
             
         </tags>
       
@@ -1364,11 +1755,11 @@
             
             <tag> Java </tag>
             
-            <tag> 容灾 </tag>
-            
             <tag> 后端研发 </tag>
             
             <tag> 千峰教育 </tag>
+            
+            <tag> 容灾 </tag>
             
         </tags>
       
@@ -1985,9 +2376,9 @@
             
             <tag> 2018 </tag>
             
-            <tag> 前端开发 </tag>
-            
             <tag> 面试 </tag>
+            
+            <tag> 前端开发 </tag>
             
             <tag> JavaScript </tag>
             
@@ -2041,17 +2432,17 @@
       
         <tags>
             
-            <tag> 后端开发 </tag>
-            
             <tag> 微服务 </tag>
             
-            <tag> Spring Cloud </tag>
+            <tag> 后端开发 </tag>
             
             <tag> 慕课网 </tag>
             
             <tag> 2018 </tag>
             
             <tag> 分布式 </tag>
+            
+            <tag> Spring Cloud </tag>
             
         </tags>
       
@@ -2072,17 +2463,17 @@
       
         <tags>
             
-            <tag> 后端开发 </tag>
-            
             <tag> 微服务 </tag>
             
-            <tag> Spring Cloud </tag>
+            <tag> 后端开发 </tag>
             
             <tag> 慕课网 </tag>
             
             <tag> 2018 </tag>
             
             <tag> 分布式 </tag>
+            
+            <tag> Spring Cloud </tag>
             
         </tags>
       
@@ -2103,9 +2494,9 @@
       
         <tags>
             
-            <tag> 后端开发 </tag>
-            
             <tag> 微服务 </tag>
+            
+            <tag> 后端开发 </tag>
             
             <tag> 慕课网 </tag>
             
@@ -2149,10 +2540,10 @@
     </entry>
     
     <entry>
-      <title>Spark项目实战：爱奇艺用户行为实时分析系统</title>
-      <link href="/%E5%A4%A7%E8%AE%B2%E5%8F%B0/%E5%A4%A7%E8%AE%B2%E5%8F%B0%E3%80%8ASpark%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%EF%BC%9A%E7%88%B1%E5%A5%87%E8%89%BA%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E5%AE%9E%E6%97%B6%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F%E3%80%8B2017/"/>
-      <url>/%E5%A4%A7%E8%AE%B2%E5%8F%B0/%E5%A4%A7%E8%AE%B2%E5%8F%B0%E3%80%8ASpark%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%EF%BC%9A%E7%88%B1%E5%A5%87%E8%89%BA%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E5%AE%9E%E6%97%B6%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F%E3%80%8B2017/</url>
-      <content type="html"><![CDATA[<p><img src="http://static0.f.dajiangtai.com/www/images/c_76.jpg" alt="image"><br>课程介绍</p><p>本项目基于爱奇艺用户行为项目进行讲解，快速提升Spark Streaming实时计算项目经验。本项目通过近35课时的集中讲解，从项目需求分析到数据采集，然后通过Spark Streaming完成业务统计，接着完成数据入库HBase，最后通过SpringBoot结合echart完成数据可视化。</p><p>课程特色</p><p>1、基于爱奇艺用户行为项目进行讲解，项目真实且整个开发流程系统完整。<br>2、该项目通过Spark Streaming完成对爱奇艺用户行为进行统计分析。<br>3、近35课时的讲解，课程内容进行了居多拓展，涉及大数据多方面的技能讲解。</p><p>适用人群</p><p>1、有大数据基础的学员；<br>2、有Java或者scala编程基础的学员；<br>3、对大数据感兴趣想转行的学员；<br>4、想提升大数据相关技能和积累项目经验的学员；</p><p>涉及技术</p><p>Hadoop2.x、Zookeeper、Flume、Kafka、Spark Streaming、Hbase、MySQL、SpringBoot、Echarts<br><a id="more"></a></p><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://www.dajiangtai.com/course/76.do" target="_blank" rel="noopener">http://www.dajiangtai.com/course/76.do</a><br></blockquote><p>讲师介绍</p><p>张长志</p><p>大数据项目经理</p><p>09年在中国联通做JavaWeb开发工程师，11年在Motorola做Android开发负责人，15年成立猿团科技。工作中主要负责Spark、Python和移动端开发，管理过多个大型项目。在工作之余给企业和一些培训机构做Android、Hadoop、Spark培训，中国第一个讲跨平台技术的人。</p><p>课程大纲</p><p>Spark项目实战：爱奇艺用户行为实时分析系统<br>00.爱奇艺实时统计的一个概述<br>01.生成环境中日志产生的一个描述<br>02.项目使用的技术点以及开发对应的流程顺序<br>03.互联网访问日志概述<br>04.日志的真实数据介绍并且讲解对应的栏目的log样式<br>05.脚本生成Log日志方式上<br>05.脚本生成Log日志方式下<br>06.通过linux自带的定时器定时生成日志<br>07.启动和配置flume、kafka<br>08.开发环境搭建<br>09.flume和kafka和SparkStreaming联通和测试<br>10.数据库的介绍和选择<br>11.启动hdfs和zk和hbase并且创建hbase表<br>12.写一个操作Hbase的工具类操作HBase增加<br>13.项目时间工具的实现<br>14.根据条件对产生的实时流做数据清洗并且封装成类<br>15.项目中的DAO操作Hbae的增加和查询并且可以分批保存和测试<br>16.保存手机的数据累加到Hbase中<br>17.功能二的DAO增和查询的实现<br>18.功能二处理业务逻辑保存到hbase数据库里面<br>19.项目运行在真实的生成环境上面<br>20.项目中spark脚本的编写和运行<br>21.数据可视化只为什么要可视化<br>22.数据可视化之web页面的搭建<br>23.数据可视化之第一个springboot应用程序<br>24.数据可视化之echart的介绍和使用范围<br>25.数据可视化之springboot创建web应用并返回html页面<br>26.数据可视化之springboot继承echart的页面<br>27.数据可视化之springboot替换成生成中的饼图<br>28.数据可视化之HBase数据访问的工具类开发<br>29.数据可视化之DAO数据访问层开发<br>30.数据可视化之展示层页面逻辑处理<br>31.数据可视化之ajax请求数据页面展示<br>32.数据可视化代码运行在生成服务器中<br>33.项目在服务器上面运行流程与过程</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 内容打赏后可见</span><br>      <span class="post-copyright-info"><a href="http://t.cn/EfJmlw2" target="_blank" rel="noopener">打赏</a></span><br>    </div><br></div>]]></content>
+      <title>企业级实战：Spark离线和实时电影推荐系统</title>
+      <link href="/%E5%A4%A7%E8%AE%B2%E5%8F%B0/%E5%A4%A7%E8%AE%B2%E5%8F%B0%E3%80%8A%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%AE%9E%E6%88%98%EF%BC%9ASpark%E7%A6%BB%E7%BA%BF%E5%92%8C%E5%AE%9E%E6%97%B6%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E3%80%8B2018/"/>
+      <url>/%E5%A4%A7%E8%AE%B2%E5%8F%B0/%E5%A4%A7%E8%AE%B2%E5%8F%B0%E3%80%8A%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%AE%9E%E6%88%98%EF%BC%9ASpark%E7%A6%BB%E7%BA%BF%E5%92%8C%E5%AE%9E%E6%97%B6%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E3%80%8B2018/</url>
+      <content type="html"><![CDATA[<p><img src="http://static0.f.dajiangtai.com/www/images/c_56.png" alt="image"><br>课程介绍</p><p>课程特色</p><p>1、基于经典的电影推荐系统进行全面的讲解</p><p>2、使用大数据业内流行的Spark框架实现电影推荐系统</p><p>3、运用数据挖掘的算法产生模型，为用户精准推荐喜好的电影</p><p>4、分别通过离线和实时两种方式实现电影推荐系统<br>项目涉及技术</p><p>Spark Core,Spark Streaming,Spark Mlib,Hadoop，Linux，Scala，Kafka，Hbase，Phoenix</p><p>Spark：基于内存的分布式计算框架</p><p>Hadoop：分布式离线计算框架</p><p>Kafka：分布式高并发消息队列，负责缓存Flume采集的数据并为下游的各种计算提供高并发的数据处理</p><p>Hbase：亿级行百万列并可毫秒级查询的数据库，可快速查询我们的计算数据</p><p>Phoenix：是构建在HBase上的SQL中间层，Phoenix查询引擎会将SQL查询转换为一个或者多个HBase Scan，并行执行以生成标准的JDBC结果集。</p><p>适用人群</p><p>1、大数据技术爱好者及从业人员。</p><p>2、有hadoop基础缺少推荐项目经验的学员</p><p>3、有spark基础缺少推荐项目经验的学员<br><a id="more"></a></p><p><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://www.dajiangtai.com/course/56.do" target="_blank" rel="noopener">http://www.dajiangtai.com/course/56.do</a><br></blockquote><br>课程目标</p><p>1、 学会使用spark来实际分析处理数据的思路和方法，以及如何把原始数据整理成结构化的数据</p><p>2、 学会如何把数据集切分成训练集，验证集，训练模型，寻找最佳的模型。</p><p>3、 使用模型，通过离线和实时的方式得到推荐结果。</p><p>4、 在分布式的环境下实际运行和调试我们的程序。</p><p>5、 掌握在开发和调试过程中，遇到的各种问题的解决思路和方法。</p><p>讲师介绍</p><p>罗辉</p><p>北京航空航天大学云计算专业硕士研究生</p><p>IT类工作10年以上经验, 熟练使用Spark和hadoop生态圈的技术，熟练使用Scala和shell。有架构设计能力，能自主设计以Spark为主的大数据应用架构。 12年开始接触hadoop技术，14年专业从事spark技术研究与开发，目前在某企业里从事spark数据开发的相关工作，曾负责企业的spark内训，主讲spark部分。</p><p>1、在2014年夏作为Hadoop培训讲师，曾参与过广州汇丰软件公司的高级Hadoop课程(Hbase，Spark）培训讲授。</p><p>2、作为特邀嘉宾曾参与EASYHADOOP社区14年11月北京线下活动，演讲《spark介绍及SPARKSQL应用》。</p><p>3、另外完成和知名IT培训网站北风网和PPV网合作的spark培训的视频。</p><p>4、在2016年3月通过了Databricks的Develop Certification for Apache Spark认证。</p><p>5、2016年6月~7月作为红象云腾外聘讲师参与联想ITBT部门的spark培训项目。</p><p>6、2016年7月开始带领5人团队参加IBM Spark大赛，研发基于Spark的数据挖掘产品。</p><p>7、2016年9月独立完成对广州汇丰银行5天的hadoop&amp;spark培训。</p><p>课程大纲</p><p>第一模块：开发环境和集群准备<br>1、项目总体介绍和背景    a.基于Spark流行的大数据工具，开发一套电影推荐系统，让大家体验到如何实现自己的“猜你喜欢”的推荐。 很多电商和购物网站以及一些手机上的应用，猜你喜欢已经成为了必备功能，它对网站的销售有着很明显的刺激作用。<br>2、技术框架    a.大数据工具的选择，包括HDFS、HIVE、SPARK、KAFKA、HBASE、PHOENIX、ZEPPELIN等工具。<br>b.推荐的实时性，包括实时推荐和离线推荐。<br>3、系统要求以及开发的重点和难点    a. 完成一个推荐系统，为每个用户产生合适的电影产品的推荐结果。并且满足在性能，可靠性上的要求。<br>b. 实时数据的产生以及打到kafka消息队列中。<br>c. 对数据特征的发掘、清洗和加工。<br>d. 产生推荐系统的模型，并在多个模型中选择最佳的模型。<br>e. 解决整个系统中的性能问题。<br>4、集群准备    a. 搭建hadoop、hive、spark、kafka、zookeeper、hbase、phoenix、ZEPPELIN集群<br>b. 安装MYSQL，配置Hive metastore。<br>5、开发环境准备    a.在eclipse中构建项目，通过Maven来管理项目，并添加相关的依赖。<br>6、项目数据准备    a. 下载数据<br>第二模块：数据特点分析、清洗、加工成表和数据集的准备<br>1、分析数据的特点    a. 介绍各个文件的作用以及用户和电影的各个属性<br>b. 分析数据区间、特点<br>c. 探讨开发的思路<br>2、数据入HDFS,通过SPARKSQL整理成表    a. 构建RDD<br>b. 定义各个表对应的case class<br>c. 将RDD转换成DATAFRAME<br>d. 在sparksql中创建对应的表<br>e. 通过sparksql做一些查询来验证<br>3、数据集的准备    a. 字段剖析<br>b. 选择合适的字段将数据切分成测试集和验证集<br>第三模块：离线推荐模块的开发<br>1、数据加工，整理出rating    a. 通过一系列的数据转换形成rating数据<br>2、依据ratings构建模型    a. 构建模型<br>3、理论补充    a. ALS算法的介绍<br>4、最佳参数的寻找    a. 评估模型好坏的指标RMSE<br>b. 模型相关的参数<br>c. 如何寻找最好的模型<br>5、离线推荐    a. 依据输入的某个用户ID，加载模型，产生推荐的电影结果，写入到数据库中<br>b. 依据输入的某个电影，加载模型，给出可能喜欢的用户<br>第四模块：Kafka+spark Streaming实时推荐模块的开发<br>1、构建实时数据流    a. 将ratings表里的数据通过模拟的方式打入到kafka的消息队列中。<br>2、在sparkstreaming中接收kafka消息队列中的数据，开发实时数据处理模块    a. 在sparkstreaming通过direct的方式来接收kakfa中的数据，然后加载已经存在的模型，实时生成推荐结果，写入到数据库中。<br>3、新用户或者未登录用户    a. 推荐策略的推想，以及实现用户的推荐。<br>第五模块：推荐系统的完善<br>1、系统稳定性的考虑    a. 开发脚本来保证实时应用的持续运行。<br>2、数据的展示    a. 通过Zeppelin来连接sparkSQL,提供一个方面快捷的数据探查的系统<br>3、探索其他的算法在推荐系统中可能的用处    a. 其他算法的介绍和应用<br>第六模块：性能优化<br>1、内存的分配    a. 思考和探讨各部分内存的优化思路<br>2、任务的调度    a. 寻求合理的资源分配及任务调度，修改适当的配置来完善系统<br>3、其他方面的优化<br>第七模块：项目总结<br>1、项目总结    a. 与大家一块探讨整个系统开发过程中的感受，对系统的理解，需求的理解，各个组件的理解。<br>2、技术探讨    a. 与学生一起探讨整个系统还可以从哪些方向去做改进，如果做改进。架构，性能，推荐的准确性，实时性，系统稳定性，安全性。</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 内容打赏后可见</span><br>      <span class="post-copyright-info"><a href="http://t.cn/EfJuh60" target="_blank" rel="noopener">打赏</a></span><br>    </div><br></div>]]></content>
       
       <categories>
           
@@ -2178,10 +2569,10 @@
     </entry>
     
     <entry>
-      <title>企业级实战：Spark离线和实时电影推荐系统</title>
-      <link href="/%E5%A4%A7%E8%AE%B2%E5%8F%B0/%E5%A4%A7%E8%AE%B2%E5%8F%B0%E3%80%8A%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%AE%9E%E6%88%98%EF%BC%9ASpark%E7%A6%BB%E7%BA%BF%E5%92%8C%E5%AE%9E%E6%97%B6%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E3%80%8B2018/"/>
-      <url>/%E5%A4%A7%E8%AE%B2%E5%8F%B0/%E5%A4%A7%E8%AE%B2%E5%8F%B0%E3%80%8A%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%AE%9E%E6%88%98%EF%BC%9ASpark%E7%A6%BB%E7%BA%BF%E5%92%8C%E5%AE%9E%E6%97%B6%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E3%80%8B2018/</url>
-      <content type="html"><![CDATA[<p><img src="http://static0.f.dajiangtai.com/www/images/c_56.png" alt="image"><br>课程介绍</p><p>课程特色</p><p>1、基于经典的电影推荐系统进行全面的讲解</p><p>2、使用大数据业内流行的Spark框架实现电影推荐系统</p><p>3、运用数据挖掘的算法产生模型，为用户精准推荐喜好的电影</p><p>4、分别通过离线和实时两种方式实现电影推荐系统<br>项目涉及技术</p><p>Spark Core,Spark Streaming,Spark Mlib,Hadoop，Linux，Scala，Kafka，Hbase，Phoenix</p><p>Spark：基于内存的分布式计算框架</p><p>Hadoop：分布式离线计算框架</p><p>Kafka：分布式高并发消息队列，负责缓存Flume采集的数据并为下游的各种计算提供高并发的数据处理</p><p>Hbase：亿级行百万列并可毫秒级查询的数据库，可快速查询我们的计算数据</p><p>Phoenix：是构建在HBase上的SQL中间层，Phoenix查询引擎会将SQL查询转换为一个或者多个HBase Scan，并行执行以生成标准的JDBC结果集。</p><p>适用人群</p><p>1、大数据技术爱好者及从业人员。</p><p>2、有hadoop基础缺少推荐项目经验的学员</p><p>3、有spark基础缺少推荐项目经验的学员<br><a id="more"></a></p><p><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://www.dajiangtai.com/course/56.do" target="_blank" rel="noopener">http://www.dajiangtai.com/course/56.do</a><br></blockquote><br>课程目标</p><p>1、 学会使用spark来实际分析处理数据的思路和方法，以及如何把原始数据整理成结构化的数据</p><p>2、 学会如何把数据集切分成训练集，验证集，训练模型，寻找最佳的模型。</p><p>3、 使用模型，通过离线和实时的方式得到推荐结果。</p><p>4、 在分布式的环境下实际运行和调试我们的程序。</p><p>5、 掌握在开发和调试过程中，遇到的各种问题的解决思路和方法。</p><p>讲师介绍</p><p>罗辉</p><p>北京航空航天大学云计算专业硕士研究生</p><p>IT类工作10年以上经验, 熟练使用Spark和hadoop生态圈的技术，熟练使用Scala和shell。有架构设计能力，能自主设计以Spark为主的大数据应用架构。 12年开始接触hadoop技术，14年专业从事spark技术研究与开发，目前在某企业里从事spark数据开发的相关工作，曾负责企业的spark内训，主讲spark部分。</p><p>1、在2014年夏作为Hadoop培训讲师，曾参与过广州汇丰软件公司的高级Hadoop课程(Hbase，Spark）培训讲授。</p><p>2、作为特邀嘉宾曾参与EASYHADOOP社区14年11月北京线下活动，演讲《spark介绍及SPARKSQL应用》。</p><p>3、另外完成和知名IT培训网站北风网和PPV网合作的spark培训的视频。</p><p>4、在2016年3月通过了Databricks的Develop Certification for Apache Spark认证。</p><p>5、2016年6月~7月作为红象云腾外聘讲师参与联想ITBT部门的spark培训项目。</p><p>6、2016年7月开始带领5人团队参加IBM Spark大赛，研发基于Spark的数据挖掘产品。</p><p>7、2016年9月独立完成对广州汇丰银行5天的hadoop&amp;spark培训。</p><p>课程大纲</p><p>第一模块：开发环境和集群准备<br>1、项目总体介绍和背景    a.基于Spark流行的大数据工具，开发一套电影推荐系统，让大家体验到如何实现自己的“猜你喜欢”的推荐。 很多电商和购物网站以及一些手机上的应用，猜你喜欢已经成为了必备功能，它对网站的销售有着很明显的刺激作用。<br>2、技术框架    a.大数据工具的选择，包括HDFS、HIVE、SPARK、KAFKA、HBASE、PHOENIX、ZEPPELIN等工具。<br>b.推荐的实时性，包括实时推荐和离线推荐。<br>3、系统要求以及开发的重点和难点    a. 完成一个推荐系统，为每个用户产生合适的电影产品的推荐结果。并且满足在性能，可靠性上的要求。<br>b. 实时数据的产生以及打到kafka消息队列中。<br>c. 对数据特征的发掘、清洗和加工。<br>d. 产生推荐系统的模型，并在多个模型中选择最佳的模型。<br>e. 解决整个系统中的性能问题。<br>4、集群准备    a. 搭建hadoop、hive、spark、kafka、zookeeper、hbase、phoenix、ZEPPELIN集群<br>b. 安装MYSQL，配置Hive metastore。<br>5、开发环境准备    a.在eclipse中构建项目，通过Maven来管理项目，并添加相关的依赖。<br>6、项目数据准备    a. 下载数据<br>第二模块：数据特点分析、清洗、加工成表和数据集的准备<br>1、分析数据的特点    a. 介绍各个文件的作用以及用户和电影的各个属性<br>b. 分析数据区间、特点<br>c. 探讨开发的思路<br>2、数据入HDFS,通过SPARKSQL整理成表    a. 构建RDD<br>b. 定义各个表对应的case class<br>c. 将RDD转换成DATAFRAME<br>d. 在sparksql中创建对应的表<br>e. 通过sparksql做一些查询来验证<br>3、数据集的准备    a. 字段剖析<br>b. 选择合适的字段将数据切分成测试集和验证集<br>第三模块：离线推荐模块的开发<br>1、数据加工，整理出rating    a. 通过一系列的数据转换形成rating数据<br>2、依据ratings构建模型    a. 构建模型<br>3、理论补充    a. ALS算法的介绍<br>4、最佳参数的寻找    a. 评估模型好坏的指标RMSE<br>b. 模型相关的参数<br>c. 如何寻找最好的模型<br>5、离线推荐    a. 依据输入的某个用户ID，加载模型，产生推荐的电影结果，写入到数据库中<br>b. 依据输入的某个电影，加载模型，给出可能喜欢的用户<br>第四模块：Kafka+spark Streaming实时推荐模块的开发<br>1、构建实时数据流    a. 将ratings表里的数据通过模拟的方式打入到kafka的消息队列中。<br>2、在sparkstreaming中接收kafka消息队列中的数据，开发实时数据处理模块    a. 在sparkstreaming通过direct的方式来接收kakfa中的数据，然后加载已经存在的模型，实时生成推荐结果，写入到数据库中。<br>3、新用户或者未登录用户    a. 推荐策略的推想，以及实现用户的推荐。<br>第五模块：推荐系统的完善<br>1、系统稳定性的考虑    a. 开发脚本来保证实时应用的持续运行。<br>2、数据的展示    a. 通过Zeppelin来连接sparkSQL,提供一个方面快捷的数据探查的系统<br>3、探索其他的算法在推荐系统中可能的用处    a. 其他算法的介绍和应用<br>第六模块：性能优化<br>1、内存的分配    a. 思考和探讨各部分内存的优化思路<br>2、任务的调度    a. 寻求合理的资源分配及任务调度，修改适当的配置来完善系统<br>3、其他方面的优化<br>第七模块：项目总结<br>1、项目总结    a. 与大家一块探讨整个系统开发过程中的感受，对系统的理解，需求的理解，各个组件的理解。<br>2、技术探讨    a. 与学生一起探讨整个系统还可以从哪些方向去做改进，如果做改进。架构，性能，推荐的准确性，实时性，系统稳定性，安全性。</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 内容打赏后可见</span><br>      <span class="post-copyright-info"><a href="http://t.cn/EfJuh60" target="_blank" rel="noopener">打赏</a></span><br>    </div><br></div>]]></content>
+      <title>Spark项目实战：爱奇艺用户行为实时分析系统</title>
+      <link href="/%E5%A4%A7%E8%AE%B2%E5%8F%B0/%E5%A4%A7%E8%AE%B2%E5%8F%B0%E3%80%8ASpark%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%EF%BC%9A%E7%88%B1%E5%A5%87%E8%89%BA%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E5%AE%9E%E6%97%B6%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F%E3%80%8B2017/"/>
+      <url>/%E5%A4%A7%E8%AE%B2%E5%8F%B0/%E5%A4%A7%E8%AE%B2%E5%8F%B0%E3%80%8ASpark%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%EF%BC%9A%E7%88%B1%E5%A5%87%E8%89%BA%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E5%AE%9E%E6%97%B6%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F%E3%80%8B2017/</url>
+      <content type="html"><![CDATA[<p><img src="http://static0.f.dajiangtai.com/www/images/c_76.jpg" alt="image"><br>课程介绍</p><p>本项目基于爱奇艺用户行为项目进行讲解，快速提升Spark Streaming实时计算项目经验。本项目通过近35课时的集中讲解，从项目需求分析到数据采集，然后通过Spark Streaming完成业务统计，接着完成数据入库HBase，最后通过SpringBoot结合echart完成数据可视化。</p><p>课程特色</p><p>1、基于爱奇艺用户行为项目进行讲解，项目真实且整个开发流程系统完整。<br>2、该项目通过Spark Streaming完成对爱奇艺用户行为进行统计分析。<br>3、近35课时的讲解，课程内容进行了居多拓展，涉及大数据多方面的技能讲解。</p><p>适用人群</p><p>1、有大数据基础的学员；<br>2、有Java或者scala编程基础的学员；<br>3、对大数据感兴趣想转行的学员；<br>4、想提升大数据相关技能和积累项目经验的学员；</p><p>涉及技术</p><p>Hadoop2.x、Zookeeper、Flume、Kafka、Spark Streaming、Hbase、MySQL、SpringBoot、Echarts<br><a id="more"></a></p><blockquote class="blockquote-center"><br>请支持原版！课程官方链：<a href="http://www.dajiangtai.com/course/76.do" target="_blank" rel="noopener">http://www.dajiangtai.com/course/76.do</a><br></blockquote><p>讲师介绍</p><p>张长志</p><p>大数据项目经理</p><p>09年在中国联通做JavaWeb开发工程师，11年在Motorola做Android开发负责人，15年成立猿团科技。工作中主要负责Spark、Python和移动端开发，管理过多个大型项目。在工作之余给企业和一些培训机构做Android、Hadoop、Spark培训，中国第一个讲跨平台技术的人。</p><p>课程大纲</p><p>Spark项目实战：爱奇艺用户行为实时分析系统<br>00.爱奇艺实时统计的一个概述<br>01.生成环境中日志产生的一个描述<br>02.项目使用的技术点以及开发对应的流程顺序<br>03.互联网访问日志概述<br>04.日志的真实数据介绍并且讲解对应的栏目的log样式<br>05.脚本生成Log日志方式上<br>05.脚本生成Log日志方式下<br>06.通过linux自带的定时器定时生成日志<br>07.启动和配置flume、kafka<br>08.开发环境搭建<br>09.flume和kafka和SparkStreaming联通和测试<br>10.数据库的介绍和选择<br>11.启动hdfs和zk和hbase并且创建hbase表<br>12.写一个操作Hbase的工具类操作HBase增加<br>13.项目时间工具的实现<br>14.根据条件对产生的实时流做数据清洗并且封装成类<br>15.项目中的DAO操作Hbae的增加和查询并且可以分批保存和测试<br>16.保存手机的数据累加到Hbase中<br>17.功能二的DAO增和查询的实现<br>18.功能二处理业务逻辑保存到hbase数据库里面<br>19.项目运行在真实的生成环境上面<br>20.项目中spark脚本的编写和运行<br>21.数据可视化只为什么要可视化<br>22.数据可视化之web页面的搭建<br>23.数据可视化之第一个springboot应用程序<br>24.数据可视化之echart的介绍和使用范围<br>25.数据可视化之springboot创建web应用并返回html页面<br>26.数据可视化之springboot继承echart的页面<br>27.数据可视化之springboot替换成生成中的饼图<br>28.数据可视化之HBase数据访问的工具类开发<br>29.数据可视化之DAO数据访问层开发<br>30.数据可视化之展示层页面逻辑处理<br>31.数据可视化之ajax请求数据页面展示<br>32.数据可视化代码运行在生成服务器中<br>33.项目在服务器上面运行流程与过程</p><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 内容打赏后可见</span><br>      <span class="post-copyright-info"><a href="http://t.cn/EfJmlw2" target="_blank" rel="noopener">打赏</a></span><br>    </div><br></div>]]></content>
       
       <categories>
           
@@ -2281,11 +2672,11 @@
             
             <tag> 大数据 </tag>
             
+            <tag> 小象学院 </tag>
+            
             <tag> 实时处理 </tag>
             
             <tag> Flink </tag>
-            
-            <tag> 小象学院 </tag>
             
         </tags>
       
@@ -2362,9 +2753,9 @@
             
             <tag> 深度学习 </tag>
             
-            <tag> 人工智能 </tag>
-            
             <tag> Python </tag>
+            
+            <tag> 人工智能 </tag>
             
             <tag> 慕课网 </tag>
             
@@ -2652,9 +3043,9 @@
             
             <tag> 2017 </tag>
             
-            <tag> Spring </tag>
-            
             <tag> 慕课网 </tag>
+            
+            <tag> Spring </tag>
             
             <tag> 电商平台 </tag>
             
@@ -2801,13 +3192,13 @@
       
         <tags>
             
+            <tag> ES6 </tag>
+            
             <tag> 2017 </tag>
             
             <tag> 慕课网 </tag>
             
             <tag> 前端开发 </tag>
-            
-            <tag> ES6 </tag>
             
         </tags>
       
@@ -3091,9 +3482,9 @@
             
             <tag> 2018 </tag>
             
-            <tag> React </tag>
-            
             <tag> 前端开发 </tag>
+            
+            <tag> React </tag>
             
             <tag> AntD </tag>
             
@@ -3204,6 +3595,27 @@
     </entry>
     
     <entry>
+      <title>Spark大数据平台</title>
+      <link href="/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/027_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8ASpark%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E3%80%8B_2014/"/>
+      <url>/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/027_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8ASpark%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E3%80%8B_2014/</url>
+      <content type="html"><![CDATA[<p>2014年是分布式计算框架群雄纷起的一年，MapReduce已逐渐日暮西山；Spark以其卓越的内存计算和All-in-one的解决方案日渐突出，吸引了大量开发者和数学专家的眼光。自Spark Summit 2014以来，世界各地的spark meetup如雨后春笋般出现。 本课程在总结上两期课程的经验，对课程重新设计并将更新过半的内容，将版的spark1.1.0展现给有兴趣的学员。</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链接：<a href="http://edu.dataguru.cn/article-4559-1.html" target="_blank" rel="noopener">http://edu.dataguru.cn/article-4559-1.html</a></blockquote><br><p>课程内容：<br>1：Spark生态和安装部署<br>什么是Spark<br>Spark有什么<br>安装部署<br>  Spark安装简介<br>  Spark的源码编译<br>  Spark Standalone安装<br>  Spark Standalone HA安装<br>Spark工具<br>  Spark交互式工具spark-shell<br>  Spark应用程序部署工具spark-submit</p><p>2：Spark编程模型和解析<br>Spark的编程模型<br>  RDD的特点、操作、依赖关系<br>  缓存策略<br>  广播变量和累加器<br>Spark编程环境搭建<br>Spark编程实例</p><p>3：Spark运行架构和解析<br>Spark的运行架构<br>  基本术语<br>  运行架构（DAGScheduler、TaskSeduler、Task、容错性、推测机制、数据本地性）<br>  Spark on Standalone运行过程<br>  Spark on YARN 运行过程<br>Spark实例演示<br>  Spark on Standalone实例演示<br>  Spark on YARN实例演示</p><p>4：不得不说的hive<br>hive的运行架构<br>hive的安装<br>hive的实例演示<br>shark的简介</p><p>5：SparkSQL原理和实践<br>Spark的运行架构<br>  Catalyst<br>  sqlontext<br>  hiveContext<br>ThriftServer和CLI<br>  ThriftServer<br>  CLI<br>SparkSQL的实例演示和编程<br>  spark-shell实例演示<br>  spark-sql实例演示<br>  SparkSQL的编程</p><p>6：SparkStreaming原理和实践<br>SparkStreaming原理<br>  SparkStreaming的原理<br>  SparkStreaming的运行方式<br>  DStream的特点和操作<br>SparkStreaming实例演示<br>  网络数据演示<br>  文本实例演示<br>  Window操作演示  </p><p>7：MLlib入门<br>什么是机器学习<br>MLlib的架构<br>Mllib实例演示<br>  聚类算法演示<br>  推荐系统演示    </p><p>8：GraphX入门<br>图论基础<br>GraphX的架构<br>GraphX实例演示<br>  图的基本操作<br>  PageRank演示</p><p>9：Spark运维（上）<br>Spark On YARN<br>Spark On Docker</p><p>10：Spark运维（下）<br>Spark配置<br>history server<br>job server<br>Spark的监控<br>  Spark UI监控<br>  Ganglia 监控</p><p>11：Spark调优<br>序化<br>压缩<br>数据倾斜等等<br>实例演示</p><p>12：Scala on Spark<br>spark常用的scala基础<br>如何阅读spark源代码<br>如何构建spark项目</p><p>13：Spark编程<br>RDD的编程<br>Spark综合实例（SparkSQL+sparkMlib+Redis+R）</p><p>14：Spark源码研读<br>Spark源码总体介绍<br>SparkCore源码细解<br>Spark Examples介绍</p><p>15：杂谈<br>Spark相关项目<br>  BlinkDB简介<br>  SparkR的安装和实例<br>  Techyon<br>Spark的优秀网站、博客、牛人介绍</p><p>授课时间：<br>开课时间2015年1月10日，课程预计为17周时间。</p><p>授课对象：<br>具有ubuntu或CentOS操作技能，较好有Hadoop2.x基础，想了解和学习Spark的朋友</p><p>授课软件版本：<br>spark1.1.0<br>hadoop2.2.0<br>IntelliJ IDEA 13+<br>Java 7UP21<br>scala 2.10.4<br>python 2.7</p><p>环境准备：<br>较好有多台大内存的物理机，实在不行，就拿台16G内存以上的物理机吧。较低的配置不要低于4G（用伪分布式小数据量下还能凑合着使用）。</p><p>收获预期：<br>掌握Spark编程原理和运行结构，Spark生态的各个组件的功能，具备初步从事Spark项目的能力。</p><p>授课讲师：<br>马军辉，毕业于浙江大学，骨灰级计算机技术研究者与爱好者。软件创业者，开过软件公司开发过多套软件，近年开始关注开源领域的机会，主要研究方向是分布式计算。最近成为Spark狂热分子。博客链接：<a href="http://mmicky.blog.163.com" target="_blank" rel="noopener">http://mmicky.blog.163.com</a> <a href="http://blog.csdn.net/book_mmicky" target="_blank" rel="noopener">http://blog.csdn.net/book_mmicky</a></p><p>黄志洪（tigerfish），ITPUB创始人，炼数成金创始人。中山大学海量数据与云计算 研究中心主任。数据库专家，数据分析专家，有丰富的IT领域、数学领域的知识经验。曾经讲授炼数成金上《数据分析、展现与R语言》、《数据分析与 SAS》、《Hadoop数据分析平台》等多门受欢迎课程。负责讲授课程中机器学习和图论算法部分。</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="1NaE2Qv3035" style="display:none">1NaE2Qv3035</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+      
+      
+        <tags>
+            
+            <tag> Spark </tag>
+            
+            <tag> 云计算&amp;大数据 </tag>
+            
+            <tag> 炼数成金 </tag>
+            
+            <tag> 2014 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>大型电商分布式系统实践</title>
       <link href="/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/026_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E5%A4%A7%E5%9E%8B%E7%94%B5%E5%95%86%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B7%B5%E3%80%8B_2014/"/>
       <url>/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/026_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E5%A4%A7%E5%9E%8B%E7%94%B5%E5%95%86%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B7%B5%E3%80%8B_2014/</url>
@@ -3217,27 +3629,6 @@
             <tag> 分布式 </tag>
             
             <tag> 架构设计 </tag>
-            
-            <tag> 炼数成金 </tag>
-            
-            <tag> 2014 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
-      <title>Spark大数据平台</title>
-      <link href="/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/027_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8ASpark%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E3%80%8B_2014/"/>
-      <url>/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/027_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8ASpark%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E3%80%8B_2014/</url>
-      <content type="html"><![CDATA[<p>2014年是分布式计算框架群雄纷起的一年，MapReduce已逐渐日暮西山；Spark以其卓越的内存计算和All-in-one的解决方案日渐突出，吸引了大量开发者和数学专家的眼光。自Spark Summit 2014以来，世界各地的spark meetup如雨后春笋般出现。 本课程在总结上两期课程的经验，对课程重新设计并将更新过半的内容，将版的spark1.1.0展现给有兴趣的学员。</p><a id="more"></a><blockquote class="blockquote-center"><br>请支持原版！课程官方链接：<a href="http://edu.dataguru.cn/article-4559-1.html" target="_blank" rel="noopener">http://edu.dataguru.cn/article-4559-1.html</a></blockquote><br><p>课程内容：<br>1：Spark生态和安装部署<br>什么是Spark<br>Spark有什么<br>安装部署<br>  Spark安装简介<br>  Spark的源码编译<br>  Spark Standalone安装<br>  Spark Standalone HA安装<br>Spark工具<br>  Spark交互式工具spark-shell<br>  Spark应用程序部署工具spark-submit</p><p>2：Spark编程模型和解析<br>Spark的编程模型<br>  RDD的特点、操作、依赖关系<br>  缓存策略<br>  广播变量和累加器<br>Spark编程环境搭建<br>Spark编程实例</p><p>3：Spark运行架构和解析<br>Spark的运行架构<br>  基本术语<br>  运行架构（DAGScheduler、TaskSeduler、Task、容错性、推测机制、数据本地性）<br>  Spark on Standalone运行过程<br>  Spark on YARN 运行过程<br>Spark实例演示<br>  Spark on Standalone实例演示<br>  Spark on YARN实例演示</p><p>4：不得不说的hive<br>hive的运行架构<br>hive的安装<br>hive的实例演示<br>shark的简介</p><p>5：SparkSQL原理和实践<br>Spark的运行架构<br>  Catalyst<br>  sqlontext<br>  hiveContext<br>ThriftServer和CLI<br>  ThriftServer<br>  CLI<br>SparkSQL的实例演示和编程<br>  spark-shell实例演示<br>  spark-sql实例演示<br>  SparkSQL的编程</p><p>6：SparkStreaming原理和实践<br>SparkStreaming原理<br>  SparkStreaming的原理<br>  SparkStreaming的运行方式<br>  DStream的特点和操作<br>SparkStreaming实例演示<br>  网络数据演示<br>  文本实例演示<br>  Window操作演示  </p><p>7：MLlib入门<br>什么是机器学习<br>MLlib的架构<br>Mllib实例演示<br>  聚类算法演示<br>  推荐系统演示    </p><p>8：GraphX入门<br>图论基础<br>GraphX的架构<br>GraphX实例演示<br>  图的基本操作<br>  PageRank演示</p><p>9：Spark运维（上）<br>Spark On YARN<br>Spark On Docker</p><p>10：Spark运维（下）<br>Spark配置<br>history server<br>job server<br>Spark的监控<br>  Spark UI监控<br>  Ganglia 监控</p><p>11：Spark调优<br>序化<br>压缩<br>数据倾斜等等<br>实例演示</p><p>12：Scala on Spark<br>spark常用的scala基础<br>如何阅读spark源代码<br>如何构建spark项目</p><p>13：Spark编程<br>RDD的编程<br>Spark综合实例（SparkSQL+sparkMlib+Redis+R）</p><p>14：Spark源码研读<br>Spark源码总体介绍<br>SparkCore源码细解<br>Spark Examples介绍</p><p>15：杂谈<br>Spark相关项目<br>  BlinkDB简介<br>  SparkR的安装和实例<br>  Techyon<br>Spark的优秀网站、博客、牛人介绍</p><p>授课时间：<br>开课时间2015年1月10日，课程预计为17周时间。</p><p>授课对象：<br>具有ubuntu或CentOS操作技能，较好有Hadoop2.x基础，想了解和学习Spark的朋友</p><p>授课软件版本：<br>spark1.1.0<br>hadoop2.2.0<br>IntelliJ IDEA 13+<br>Java 7UP21<br>scala 2.10.4<br>python 2.7</p><p>环境准备：<br>较好有多台大内存的物理机，实在不行，就拿台16G内存以上的物理机吧。较低的配置不要低于4G（用伪分布式小数据量下还能凑合着使用）。</p><p>收获预期：<br>掌握Spark编程原理和运行结构，Spark生态的各个组件的功能，具备初步从事Spark项目的能力。</p><p>授课讲师：<br>马军辉，毕业于浙江大学，骨灰级计算机技术研究者与爱好者。软件创业者，开过软件公司开发过多套软件，近年开始关注开源领域的机会，主要研究方向是分布式计算。最近成为Spark狂热分子。博客链接：<a href="http://mmicky.blog.163.com" target="_blank" rel="noopener">http://mmicky.blog.163.com</a> <a href="http://blog.csdn.net/book_mmicky" target="_blank" rel="noopener">http://blog.csdn.net/book_mmicky</a></p><p>黄志洪（tigerfish），ITPUB创始人，炼数成金创始人。中山大学海量数据与云计算 研究中心主任。数据库专家，数据分析专家，有丰富的IT领域、数学领域的知识经验。曾经讲授炼数成金上《数据分析、展现与R语言》、《数据分析与 SAS》、《Hadoop数据分析平台》等多门受欢迎课程。负责讲授课程中机器学习和图论算法部分。</p><blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote><p><div id="jspay" sid="1NaE2Qv3035" style="display:none">1NaE2Qv3035</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
-      
-      
-        <tags>
-            
-            <tag> Spark </tag>
-            
-            <tag> 云计算&amp;大数据 </tag>
             
             <tag> 炼数成金 </tag>
             
@@ -4074,13 +4465,13 @@
             
             <tag> 小程序 </tag>
             
+            <tag> SpringBoot </tag>
+            
             <tag> 移动开发 </tag>
             
             <tag> 慕课网 </tag>
             
             <tag> 2018 </tag>
-            
-            <tag> SpringBoot </tag>
             
         </tags>
       
@@ -4349,11 +4740,11 @@
             
             <tag> 实战 </tag>
             
+            <tag> 微服务 </tag>
+            
             <tag> 后端开发 </tag>
             
             <tag> 2017 </tag>
-            
-            <tag> 微服务 </tag>
             
             <tag> 慕课网 </tag>
             
@@ -4533,9 +4924,9 @@
             
             <tag> 人工智能 </tag>
             
-            <tag> Tensorflow </tag>
-            
             <tag> 51CTO学院 </tag>
+            
+            <tag> Tensorflow </tag>
             
         </tags>
       
@@ -4656,6 +5047,31 @@
     </entry>
     
     <entry>
+      <title>深度学习入门视频课程（下篇）</title>
+      <link href="/51CTO%E5%AD%A6%E9%99%A2/007_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89%E3%80%8B_22%E8%AF%BE_2017/"/>
+      <url>/51CTO%E5%AD%A6%E9%99%A2/007_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89%E3%80%8B_22%E8%AF%BE_2017/</url>
+      <content type="html"><![CDATA[<p>课程目标<br>用通俗易懂的讲解，一步步的带大家入门深度学习这个当今世界最火爆的深度学习领域。<br>适用人群<br>渴望高端技术，对人工智能感兴趣的同学们，全民皆可入门。<br>课程简介<br>从无人驾驶汽车技术到AlphaGo战胜人类，深度学习在生活中扮演着越来越重要的角色，也即将改变这个世界。但是很多同学担心深度学习入门要求太高，苦于国内没有合适的课程予以帮助。</p><p>深度学习入门系列课程作为国内第一篇深度学习的入门课程视频，旨在帮助同学们更快更轻松的掌握深度学习所涉及的所有知识点，真正的入门深度学习这个世界上拥有最先进技术的领域，深度学习全民皆兵。</p><p>本篇主要涉及两大模块，分别是计算机视觉-CNN网络架构，自然语言处理RNN网络架构，风格依旧通俗易懂！</p><p>课程目录</p><p>1深度学习入门课程01 感受卷积神经网络的强大[免费观看]14:55<br>2深度学习入门课程02 卷积层详解12:53<br><a id="more"></a><br>3深度学习入门课程03 卷积计算流程12:30<br>4深度学习入门课程04 卷积核参数分析13:13<br>5深度学习入门课程05 卷积参数共享原则08:09<br>6深度学习入门课程06 池化层（Pooling）原理08:24<br>7深度学习入门课程07 卷积神经网络反向传播原理14:44<br>8深度学习入门课程08 实现卷积层的前向传播与反向传播10:19<br>9深度学习入门课程09 实现Pooling层的前向传播与反向传播12:00<br>10深度学习入门课程10 经典卷及网络架构实例20:35<br>11深度学习入门课程11 RNN网络结构08:39<br>12RNN网络细节11:54<br>13深度学习入门课程12 python实现RNN算法33:46<br>14深度学习入门课程13 LSTM网络结构简介12:36<br>15深度学习入门课程14 分类与回归（Location）任务应用详解33:30<br>16深度学习入门额课程15 物体检测实例33:16<br>17深度学习入门课程16 如何巧妙设计网络结构21:52<br>18深度学习入门课程17 训练技巧之数据增强12:20<br>19深度学习入门课程18 训练技巧之Transfer Learning11:09<br>20深度学习入门课程19 深度学习框架Caffe简介20:43<br>21深度学习入门课程20 深度学习框架Caffe训练过程20:39<br>22深度学习入门课程21 深度学习框架Caffe接口使用实例12:35</p><p><div id="jspay" sid="nHoCJg74756" style="display:none">nHoCJg74756</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+      
+      <categories>
+          
+          <category> 人工智能 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 深度学习 </tag>
+            
+            <tag> 人工智能 </tag>
+            
+            <tag> 51CTO学院 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>深度学习顶级论文算法详解视频课程</title>
       <link href="/51CTO%E5%AD%A6%E9%99%A2/008_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%A1%B6%E7%BA%A7%E8%AE%BA%E6%96%87%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%E3%80%8B_2017/"/>
       <url>/51CTO%E5%AD%A6%E9%99%A2/008_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%A1%B6%E7%BA%A7%E8%AE%BA%E6%96%87%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%E3%80%8B_2017/</url>
@@ -4677,31 +5093,6 @@
             <tag> 51CTO学院 </tag>
             
             <tag> 算法 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
-      <title>深度学习入门视频课程（下篇）</title>
-      <link href="/51CTO%E5%AD%A6%E9%99%A2/007_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89%E3%80%8B_22%E8%AF%BE_2017/"/>
-      <url>/51CTO%E5%AD%A6%E9%99%A2/007_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89%E3%80%8B_22%E8%AF%BE_2017/</url>
-      <content type="html"><![CDATA[<p>课程目标<br>用通俗易懂的讲解，一步步的带大家入门深度学习这个当今世界最火爆的深度学习领域。<br>适用人群<br>渴望高端技术，对人工智能感兴趣的同学们，全民皆可入门。<br>课程简介<br>从无人驾驶汽车技术到AlphaGo战胜人类，深度学习在生活中扮演着越来越重要的角色，也即将改变这个世界。但是很多同学担心深度学习入门要求太高，苦于国内没有合适的课程予以帮助。</p><p>深度学习入门系列课程作为国内第一篇深度学习的入门课程视频，旨在帮助同学们更快更轻松的掌握深度学习所涉及的所有知识点，真正的入门深度学习这个世界上拥有最先进技术的领域，深度学习全民皆兵。</p><p>本篇主要涉及两大模块，分别是计算机视觉-CNN网络架构，自然语言处理RNN网络架构，风格依旧通俗易懂！</p><p>课程目录</p><p>1深度学习入门课程01 感受卷积神经网络的强大[免费观看]14:55<br>2深度学习入门课程02 卷积层详解12:53<br><a id="more"></a><br>3深度学习入门课程03 卷积计算流程12:30<br>4深度学习入门课程04 卷积核参数分析13:13<br>5深度学习入门课程05 卷积参数共享原则08:09<br>6深度学习入门课程06 池化层（Pooling）原理08:24<br>7深度学习入门课程07 卷积神经网络反向传播原理14:44<br>8深度学习入门课程08 实现卷积层的前向传播与反向传播10:19<br>9深度学习入门课程09 实现Pooling层的前向传播与反向传播12:00<br>10深度学习入门课程10 经典卷及网络架构实例20:35<br>11深度学习入门课程11 RNN网络结构08:39<br>12RNN网络细节11:54<br>13深度学习入门课程12 python实现RNN算法33:46<br>14深度学习入门课程13 LSTM网络结构简介12:36<br>15深度学习入门课程14 分类与回归（Location）任务应用详解33:30<br>16深度学习入门额课程15 物体检测实例33:16<br>17深度学习入门课程16 如何巧妙设计网络结构21:52<br>18深度学习入门课程17 训练技巧之数据增强12:20<br>19深度学习入门课程18 训练技巧之Transfer Learning11:09<br>20深度学习入门课程19 深度学习框架Caffe简介20:43<br>21深度学习入门课程20 深度学习框架Caffe训练过程20:39<br>22深度学习入门课程21 深度学习框架Caffe接口使用实例12:35</p><p><div id="jspay" sid="nHoCJg74756" style="display:none">nHoCJg74756</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
-      
-      <categories>
-          
-          <category> 人工智能 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 深度学习 </tag>
-            
-            <tag> 人工智能 </tag>
-            
-            <tag> 51CTO学院 </tag>
             
         </tags>
       
@@ -4778,9 +5169,9 @@
             
             <tag> 人工智能 </tag>
             
-            <tag> Tensorflow </tag>
-            
             <tag> 51CTO学院 </tag>
+            
+            <tag> Tensorflow </tag>
             
             <tag> 文本分类 </tag>
             
@@ -4805,11 +5196,11 @@
             
             <tag> 数据分析 </tag>
             
-            <tag> 51CTO学院 </tag>
-            
             <tag> Python </tag>
             
             <tag> 机器学习 </tag>
+            
+            <tag> 51CTO学院 </tag>
             
         </tags>
       
@@ -4834,9 +5225,9 @@
             
             <tag> 人工智能 </tag>
             
-            <tag> Tensorflow </tag>
-            
             <tag> 51CTO学院 </tag>
+            
+            <tag> Tensorflow </tag>
             
             <tag> 对抗生成网络 </tag>
             
@@ -4863,9 +5254,9 @@
             
             <tag> 人工智能 </tag>
             
-            <tag> Tensorflow </tag>
-            
             <tag> 51CTO学院 </tag>
+            
+            <tag> Tensorflow </tag>
             
         </tags>
       
@@ -4886,13 +5277,13 @@
       
         <tags>
             
-            <tag> 后端开发 </tag>
-            
             <tag> 微服务 </tag>
             
-            <tag> Spring </tag>
+            <tag> 后端开发 </tag>
             
             <tag> Spring Cloud </tag>
+            
+            <tag> Spring </tag>
             
             <tag> 极客时间 </tag>
             
@@ -4952,40 +5343,11 @@
             
             <tag> 设计模式 </tag>
             
-            <tag> 重构 </tag>
-            
             <tag> 高并发 </tag>
             
-            <tag> 炼数成金 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
-      <title>大数据算法导论</title>
-      <link href="/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/002_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B_15%E8%AF%BE_2016/"/>
-      <url>/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/002_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B_15%E8%AF%BE_2016/</url>
-      <content type="html"><![CDATA[<p>课程介绍<br>程序=算法+数据结构，算法是程序员，数据分析师等岗位的基本功，但有很多程序员和半路出家的数据分析师却没受过严格的算法训练，因此他们不能设计和开发出逻辑复杂的高效率应用系统，使到自己的职业前途受到限制。另外，在面试软件工程师，算法设计师，数据分析师，大数据程序员等岗位的时候，面试官常会问一下算法的问题，没有算法修养的人往往哑口无言，场面尴尬，比如</p><p>十道海量数据处理面试题<br><a href="http://f.dataguru.cn/thread-286933-1-1.html" target="_blank" rel="noopener">http://f.dataguru.cn/thread-286933-1-1.html</a></p><p>本课程以经典的《算法导论》一书作为蓝本，结合google，facebook，腾讯，阿里等企业的面试题，以及ACM大赛的真题进行讲解<br>每次课由以下几部分组成<br>1 算法精讲<br>2 此项算法的应用场景和案例<br>3 相关编程讲解（基于C/C++和Java，一般情况下会同时使用这两类编程语言进行例题讲解，学员只要会其中一种即可）<br>课程目的是消除瓶颈，从此面试再无心虚，工作再无心理障碍<br><a id="more"></a><br>课程大纲<br>第1课 算法概论，程序=算法+数据结构，时间不允许的算法无任何意义，分而治之，贪心算法，大数据的挑战<br>第2课 从排序说起，估计算法复杂度<br>第3课 基本数据结构及应用，栈，队列，链表，哈希函数和哈希表<br>第4课 二叉树，B树，红黑树等各种树结构及其应用<br>第5课 面试题与ACM题选讲（1）<br>第6课 面试题与ACM题选讲（2）<br>第7课 矩阵计算问题，超巨型矩阵与稀疏矩阵的存储和计算<br>第8课 现实世界的信息安全原来是数论算法决定的，RSA算法<br>第9课 字符串匹配问题，海量字符串处理。BLAST算法与基因匹配<br>第10课 面试题与ACM题选讲（3）<br>第11课 面试题与ACM题选讲（4）<br>第12课 图算法及其在交换机，路由器等网络设备中的应用，最小生成树，最短路算法<br>第13课 运筹学算法简介，线性规划，动态规划，最大流算法<br>第14课 NP完备问题，千古难题NP=P？近似算法<br>第15课 面试题与ACM题选讲（5）<br>授课讲师<br>主讲：<br>tigerfish（黄志洪），炼数成金创始人，ITPUB创始人。数据库专家，数据分析专家，有丰富的IT领域、数学领域的知识经验。过往主讲炼数成金《Hadoop数据分析平台》《数据分析展现与R语言》《机器学习》等多门大数据和数据分析课程，沉浸算法研究20多年，有丰富的讲授算法类课程经验。</p><p>习题指导：<br>何翠仪，中山大学统计学专业毕业，炼数成金专职讲师，在过去曾主讲或参与主讲炼数成金《大数据的统计学基础》《大数据的矩阵计算基础》《金融时间序列分析》《量化投资》等课程。<br>吴仕灿，炼数成金专职讲师，曾参与《Hadoop数据分析平台》《NoSQL与NewSQL数据库引航》等课程的助教工作。<br>课程环境<br>不限<br>授课对象<br>任何对算法有兴趣的同学，需要弥补算法知识的程序员，架构师，设计师，分析师等，或想通过面试进入互联网公司从事这类工作的同学。课程里会分析很多面试题。<br>收获预期<br>熟悉常用算法，并将其运用于工作场景，特别是大数据场景</p><p><div id="jspay" sid="5d7FiYs1941" style="display:none">5d7FiYs1941</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
-      
-      <categories>
-          
-          <category> 云计算&amp;大数据 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 面试 </tag>
-            
-            <tag> 云计算&amp;大数据 </tag>
+            <tag> 重构 </tag>
             
             <tag> 炼数成金 </tag>
-            
-            <tag> 算法导论 </tag>
-            
-            <tag> 2016 </tag>
             
         </tags>
       
@@ -5017,6 +5379,35 @@
             <tag> 前沿技术 </tag>
             
             <tag> 对抗网络 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>大数据算法导论</title>
+      <link href="/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/002_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B_15%E8%AF%BE_2016/"/>
+      <url>/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/002_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B_15%E8%AF%BE_2016/</url>
+      <content type="html"><![CDATA[<p>课程介绍<br>程序=算法+数据结构，算法是程序员，数据分析师等岗位的基本功，但有很多程序员和半路出家的数据分析师却没受过严格的算法训练，因此他们不能设计和开发出逻辑复杂的高效率应用系统，使到自己的职业前途受到限制。另外，在面试软件工程师，算法设计师，数据分析师，大数据程序员等岗位的时候，面试官常会问一下算法的问题，没有算法修养的人往往哑口无言，场面尴尬，比如</p><p>十道海量数据处理面试题<br><a href="http://f.dataguru.cn/thread-286933-1-1.html" target="_blank" rel="noopener">http://f.dataguru.cn/thread-286933-1-1.html</a></p><p>本课程以经典的《算法导论》一书作为蓝本，结合google，facebook，腾讯，阿里等企业的面试题，以及ACM大赛的真题进行讲解<br>每次课由以下几部分组成<br>1 算法精讲<br>2 此项算法的应用场景和案例<br>3 相关编程讲解（基于C/C++和Java，一般情况下会同时使用这两类编程语言进行例题讲解，学员只要会其中一种即可）<br>课程目的是消除瓶颈，从此面试再无心虚，工作再无心理障碍<br><a id="more"></a><br>课程大纲<br>第1课 算法概论，程序=算法+数据结构，时间不允许的算法无任何意义，分而治之，贪心算法，大数据的挑战<br>第2课 从排序说起，估计算法复杂度<br>第3课 基本数据结构及应用，栈，队列，链表，哈希函数和哈希表<br>第4课 二叉树，B树，红黑树等各种树结构及其应用<br>第5课 面试题与ACM题选讲（1）<br>第6课 面试题与ACM题选讲（2）<br>第7课 矩阵计算问题，超巨型矩阵与稀疏矩阵的存储和计算<br>第8课 现实世界的信息安全原来是数论算法决定的，RSA算法<br>第9课 字符串匹配问题，海量字符串处理。BLAST算法与基因匹配<br>第10课 面试题与ACM题选讲（3）<br>第11课 面试题与ACM题选讲（4）<br>第12课 图算法及其在交换机，路由器等网络设备中的应用，最小生成树，最短路算法<br>第13课 运筹学算法简介，线性规划，动态规划，最大流算法<br>第14课 NP完备问题，千古难题NP=P？近似算法<br>第15课 面试题与ACM题选讲（5）<br>授课讲师<br>主讲：<br>tigerfish（黄志洪），炼数成金创始人，ITPUB创始人。数据库专家，数据分析专家，有丰富的IT领域、数学领域的知识经验。过往主讲炼数成金《Hadoop数据分析平台》《数据分析展现与R语言》《机器学习》等多门大数据和数据分析课程，沉浸算法研究20多年，有丰富的讲授算法类课程经验。</p><p>习题指导：<br>何翠仪，中山大学统计学专业毕业，炼数成金专职讲师，在过去曾主讲或参与主讲炼数成金《大数据的统计学基础》《大数据的矩阵计算基础》《金融时间序列分析》《量化投资》等课程。<br>吴仕灿，炼数成金专职讲师，曾参与《Hadoop数据分析平台》《NoSQL与NewSQL数据库引航》等课程的助教工作。<br>课程环境<br>不限<br>授课对象<br>任何对算法有兴趣的同学，需要弥补算法知识的程序员，架构师，设计师，分析师等，或想通过面试进入互联网公司从事这类工作的同学。课程里会分析很多面试题。<br>收获预期<br>熟悉常用算法，并将其运用于工作场景，特别是大数据场景</p><p><div id="jspay" sid="5d7FiYs1941" style="display:none">5d7FiYs1941</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>]]></content>
+      
+      <categories>
+          
+          <category> 云计算&amp;大数据 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 面试 </tag>
+            
+            <tag> 云计算&amp;大数据 </tag>
+            
+            <tag> 炼数成金 </tag>
+            
+            <tag> 算法导论 </tag>
+            
+            <tag> 2016 </tag>
             
         </tags>
       
@@ -5205,41 +5596,6 @@
     </entry>
     
     <entry>
-      <title>阿里大牛亲授  阿里云主机(ECS)与CentOS7实战</title>
-      <link href="/%E6%85%95%E8%AF%BE%E7%BD%91/001_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E9%98%BF%E9%87%8C%E4%BA%91%E4%B8%BB%E6%9C%BA(ECS)%E4%B8%8ECentOS7%E5%AE%9E%E6%88%98%E3%80%8B_5%E8%AF%BE_2018/"/>
-      <url>/%E6%85%95%E8%AF%BE%E7%BD%91/001_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E9%98%BF%E9%87%8C%E4%BA%91%E4%B8%BB%E6%9C%BA(ECS)%E4%B8%8ECentOS7%E5%AE%9E%E6%88%98%E3%80%8B_5%E8%AF%BE_2018/</url>
-      <content type="html"><![CDATA[<p>第1章 阿里云ECS基础篇<br>本章节讲解阿里云ECS的基础部分内容：阿里云控制台界面介绍和使用，ECS底层架构，ECS如何选型及配置等等。</p><p>1-1 ECS&amp;Centos7导学<br>1-2 ECS基础介绍<br>1-3 ECS云服务逻辑架构<br>1-4 阿里云管理控制台使用<br>第2章 阿里云ECS进阶篇<br>本章讲解什么是专线、BGP，讲解ECS镜像及快照原理和使用方式，讲解VPC网络的原理和优势，讲解弹性网络是什么及使用场景，介绍ECS的EIP及经典网络区别等等。</p><p>2-1 ECS云服务构建<br>2-2 阿里云节点BGP和专线概念介绍<br>2-3 ECS如何按照地域区域选型<br>2-4 ECS按照配置选型(1)<br>2-5 ECS按照配置选型(2)<br>2-6 ECS创建<br>2-7 阿里云VPC专有网络<br>2-8 阿里云弹性公网EIP<br>2-9 阿里云弹性网卡配置使用<br>2-10 阿里云ECS配置系统配置<br>2-11 阿里云ECS弹性IP绑定、控制台连接及登陆演示<br>2-12 阿里云ECS快照<br>2-13 阿里云ECS自动快照<br>2-14 阿里云ECS镜像演练<br><a id="more"></a><br>第3章 Centos7主机篇<br>本章围绕Centos7系统新特性展开讲解：Centos7操作系统初识，Centos7特性列表及学前环境准备要求，Centos7操作系统文件目录结构，操作系统Centos7主机名修改 ，操作系统时区调整，Centos7网卡接口名称规则，网络接口设置及ip详解，Centos7高级参数补全，Centos7操作系统内存查看及详细参数介绍，端口连接状态查看命令ss等等…</p><p>3-1 Centos7操作系统初识<br>3-2 Centos7特性列表及学前环境准备要求<br>3-3 Centos7主机名修改<br>3-4 Centos7操作系统文件目录结构<br>3-5 Centos7操作系统时区调整<br>3-6 Centos7网卡接口名称规则<br>3-7 网络接口设置及ip详解<br>3-8 Centos7强大的参数补全<br>3-9 Centos7操作系统内存介绍<br>3-10 Centos7操作系统内存查看及详细参数介绍<br>3-11 操作系统端口连接状态查看<br>3-12 TCP握手挥手原理及ss命令使用详解<br>第4章 Systemd及Firewalld防火墙<br>本章围绕systemd管理单元介绍systemctl支持管理的单元类型，systemd单元管理基本命令，Centos6和7的开机加载效率，自定义systemd服务单元场景演示，target目标单元管理，Timer定时任务单元,日志管理journal等等。讲解Firewalld防火墙优势，讲解Firewalld防火墙zone规则配置，多区域规则结合设置场景等等 …</p><p>4-1 核心服务管理内容介绍及systemd初识<br>4-2 systemctl支持管理的单元类型<br>4-3 systemd单元管理基本命令及初识<br>4-4 systemd管理体系优势介绍及场景介绍<br>4-5 场景演示对比Centos6和7的开机加载效率<br>4-6 systemctl命令格式和中文手册<br>4-7 target目标单元管理<br>4-8 service服务单元管理<br>4-9 service服务单元配置<br>4-10 service服务单元配置2及场景演示介绍<br>4-11 自定义systemd服务单元场景1演示<br>4-12 systemd中timer定时任务单元<br>4-13 新建Timer定时任务单元演示<br>4-14 systemd日志管理journal<br>4-15 journalctl命令使用<br>4-16 Firewalld防火墙初识<br>4-17 Firewalld防火墙zone中添加网卡接口<br>4-18 Firewalld防火墙规则配置及如何添加端口白名单<br>4-19 Firewalld防火墙规则如何添加服务白名单<br>4-20 多区域规则结合设置场景<br>第5章 架构篇<br>将整合套课程基础内容，再结合现阶段企业常用的场景和架构来展开，讲解：SLB负载均衡实现，云盘存储扩容，XFS文件系统，安全组策略，多VPC互连，ECS弹&gt;性扩容，云架构演变等等。</p><p>5-1 架构篇章节介绍<br>5-2 负载均衡原理和优势<br>5-3 阿里云负载均衡开通<br>5-4 阿里云负载均衡基础配置：理论部分<br>5-5 阿里云负载均衡基础配置：演示<br>5-6 阿里云负载均衡健康检测配置理演示<br>5-7 阿里云负载均衡后台服务添加思路及场景实践介绍<br>5-8 后台服务配置部署及镜像生成<br>5-9 场景中负载均衡配置演示<br>5-10 负载均衡后台服务器配置<br>5-11 负载均衡策略测试演示<br>5-12 弹性伸缩初识<br>5-13 弹性伸缩的模式<br>5-14 弹性伸缩创建伸缩组<br>5-15 弹性伸缩伸缩组规格创建<br>5-16 弹性伸缩伸缩组规则配置<br>5-17 弹性伸缩伸缩组任务触发演示<br>5-18 Centos文件系统及云盘<br>5-19 云盘挂载及xfs格式化文件系统演练<br>5-20 什么是GRE及路由表是什么<br>5-21 GRE发包原理<br>5-22 GRE场景设置步骤一配置VPC和ECS实例<br>5-23 GRE隧道实现VPC互连场景配置演示<br>5-24 阿里云简单架构演变<br>5-25 阿里云存储和入口架构演变<br>5-26 云高并发架构演变<br>5-27 混合云架构演变<br>本课程已完结</p><p><div id="jspay" sid="5maoS0T1032" style="display:none">5maoS0T1032</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/e.js" charset="utf-8"></script>]]></content>
-      
-      <categories>
-          
-          <category> 运维 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 运维 </tag>
-            
-            <tag> 实战 </tag>
-            
-            <tag> Linux </tag>
-            
-            <tag> 阿里云 </tag>
-            
-            <tag> ECS </tag>
-            
-            <tag> CentOS7 </tag>
-            
-            <tag> 慕课网 </tag>
-            
-            <tag> 2018 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
       <title>Java生产环境下性能监控与调优详解</title>
       <link href="/%E6%85%95%E8%AF%BE%E7%BD%91/003_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AJava%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E4%B8%8B%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7%E4%B8%8E%E8%B0%83%E4%BC%98%E8%AF%A6%E8%A7%A3%E3%80%8B_9%E8%AF%BE_2018/"/>
       <url>/%E6%85%95%E8%AF%BE%E7%BD%91/003_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AJava%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E4%B8%8B%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7%E4%B8%8E%E8%B0%83%E4%BC%98%E8%AF%A6%E8%A7%A3%E3%80%8B_9%E8%AF%BE_2018/</url>
@@ -5260,42 +5616,13 @@
             
             <tag> 后端开发 </tag>
             
-            <tag> 慕课网 </tag>
-            
-            <tag> 2018 </tag>
-            
             <tag> 调优 </tag>
             
             <tag> 架构师 </tag>
             
-        </tags>
-      
-    </entry>
-    
-    <entry>
-      <title>React 16.4 开发简书项目 从零基础入门到实战</title>
-      <link href="/%E6%85%95%E8%AF%BE%E7%BD%91/005_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AReact16.4%E5%BC%80%E5%8F%91%E7%AE%80%E4%B9%A6%E9%A1%B9%E7%9B%AE%E4%BB%8E%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E6%88%98%E3%80%8B_10%E8%AF%BE_2018/"/>
-      <url>/%E6%85%95%E8%AF%BE%E7%BD%91/005_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AReact16.4%E5%BC%80%E5%8F%91%E7%AE%80%E4%B9%A6%E9%A1%B9%E7%9B%AE%E4%BB%8E%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E6%88%98%E3%80%8B_10%E8%AF%BE_2018/</url>
-      <content type="html"><![CDATA[<p>第1章 课程导学<br>本章主要介绍学习react的重要性，课程的知识大纲，学习前提，讲授方式及预期收获。</p><p>1-1 课程导学<br>第2章 React初探<br>本章主要讲解React项目的开发环境搭建，工程代码结构及React中最基础的语法内容，同时对前端组件化思想进行介绍。</p><p>2-1 React简介<br>2-2 React开发环境准备<br>2-3 工程目录文件简介<br>2-4 react中的组件<br>2-5 React 中最基础的JSX语法<br>第3章 React基础精讲<br>本章通过TodoList功能的实现，给大家完整介绍React的基础语法，设计理念以及围绕React展开的一些编程思维。</p><p>3-1 使用React编写TodoList功能<br>3-2 React 中的响应式设计思想和事件绑定<br>3-3 实现 TodoList 新增删除功能<br>3-4 JSX语法细节补充<br>3-5 拆分组件与组件之间的传值<br>3-6 TodoList 代码优化<br>3-7 围绕 React 衍生出的思考<br><a id="more"></a></p><p>第4章 React高级内容<br>本章讲解React高级部分内容，包含PropTypes，生命周期函数，虚拟Dom，数据mock，动画实现等部分课程讲解。</p><p>4-1 React developer tools 安装及使用<br>4-2 PropTypes 与 DefaultProps 的应用<br>4-3 props，state 与 render 函数的关系<br>4-4 React 中的虚拟DOM<br>4-5 深入了解虚拟DOM<br>4-6 虚拟 DOM 中的 Diff 算法<br>4-7 React 中 ref 的使用<br>4-8 React的生命周期函数<br>4-9 React 生命周期函数的使用场景<br>4-10 使用Charles实现本地数据mock<br>4-11 React 中实现 CSS 过渡动画<br>4-12 React 中使用 CSS 动画效果<br>4-13 使用 react-transition-group 实现动画（1）<br>4-14 react-transition-group 的使用(2)<br>第5章 Redux入门<br>本章主要讲解Redux产生背景，组成内容以及使用方式，通过实例带大家上手Redux数据管理框架的使用。</p><p>5-1 Redux 概念简述<br>5-2 Redux 的工作流程<br>5-3 使用 Antd 实现 TodoList 页面布局<br>5-4 创建 redux 中的 store_x264<br>5-5 Action 和 Reducer 的编写<br>5-6 使用 Redux 完成 TodoList 删除功能_x264<br>5-7 ActionTypes 的拆分<br>5-8 使用 actionCreator 统一创建 action<br>5-9 Redux 知识点复习补充<br>第6章 Redux进阶<br>本章主要讲解UI组件与容器组件基础，如何使用redux-thunk，redux-saga等Redux中间件，以及react-redux的使用方式。</p><p>6-1 UI组件和容器组件<br>6-2 无状态组件<br>6-3 Redux 中发送异步请求获取数据<br>6-4 使用Redux-thunk 中间件实现ajax数据请求<br>6-5 什么是Redux的中间件<br>6-6 Redux-saga 中间件使用入门（1）<br>6-7 Redux-saga 中间件使用入门（2）<br>6-8 如何使用 React-redux（1）<br>6-9 如何使用 React-redux（2）<br>6-10 使用React-redux完成TodoList功能<br>第7章 项目实战：Header组件开发<br>本章讲解项目中公用Header组件的开发，包含动画效果实现，iconfont，immutable.js，styled-components的使用以及异步数据的获取。</p><p>7-1 项目目录搭建，Styled-Components 与 Reset.css 的结合使用<br>7-2 使用 styled-components 完成 Header 组件布局（1）<br>7-3 使用 styled-components 完成 Header 组件布局（2）<br>7-4 使用 iconfont 嵌入头部图标<br>7-5 搜索框动画效果实现<br>7-6 使用 React-Redux 进行应用数据的管理<br>7-7 使用 combineReducers 完成对数据的拆分管理<br>7-8 actionCreators 与 constants 的拆分<br>7-9 使用 Immutable.js 来管理store中的数据<br>7-10 使用 redux-immutable 统一数据格式<br>7-11 热门搜索样式布局<br>7-12 Ajax获取推荐数据<br>7-13 代码优化微调<br>7-14 热门搜索换页功能实现<br>7-15 换页旋转动画效果的实现<br>7-16 避免无意义的请求发送，提升组件性能<br>第8章 项目实战：首页开发<br>本章将带大家完成项目首页的开发，课程能容包含react-router4的使用，组件及reducer的拆分设计，首页部分的核心功能包含列表显示，加载更多，返回顶部等。</p><p>8-1 什么是路由，如何在React中使用路由功能<br>8-2 首页组件的拆分<br>8-3 首页专题区域布局及reducer的设计<br>8-4 首页文章列表制作<br>8-5 首页推荐部分代码编写<br>8-6 首页异步数据获取<br>8-7 异步操作代码拆分优化<br>8-8 实现加载更多功能<br>8-9 返回顶部功能实现<br>8-10 首页性能优化及路由跳转<br>第9章 项目实战：详情页面和登录功能开发<br>本章将完成详情页面的开发，过程中将完整介绍react-router跨页面传值的方法及登陆鉴权的实现思路。同时我们将给大家介绍异步组件和路由withRouter方法的使用方式。</p><p>9-1 详情页面布局<br>9-2 使用redux管理详情页面数据<br>9-3 异步获取数据<br>9-4 页面路由参数的传递<br>9-5 登陆页面布局<br>9-6 登陆功能实现<br>9-7 登陆鉴权及代码优化<br>9-8 异步组件及withRouter路由方法的使用<br>第10章 课程总结<br>本章将给大家介绍项目的上线流程，React版本升级对本项目的影响，并带大家进行整个课程的知识点回顾。</p><p>10-1 项目上线流程<br>10-2 React 版本升级说明<br>10-3 课程总结<br>本课程已完结</p><p><div id="jspay" sid="JC2vyAF3433" style="display:none">JC2vyAF3433</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/e.js" charset="utf-8"></script>]]></content>
-      
-      <categories>
-          
-          <category> 前端开发 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 实战 </tag>
-            
             <tag> 慕课网 </tag>
             
             <tag> 2018 </tag>
-            
-            <tag> React </tag>
-            
-            <tag> 前端开发 </tag>
             
         </tags>
       
@@ -5327,6 +5654,70 @@
             <tag> 中间件 </tag>
             
             <tag> RabbitMQ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>阿里大牛亲授  阿里云主机(ECS)与CentOS7实战</title>
+      <link href="/%E6%85%95%E8%AF%BE%E7%BD%91/001_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E9%98%BF%E9%87%8C%E4%BA%91%E4%B8%BB%E6%9C%BA(ECS)%E4%B8%8ECentOS7%E5%AE%9E%E6%88%98%E3%80%8B_5%E8%AF%BE_2018/"/>
+      <url>/%E6%85%95%E8%AF%BE%E7%BD%91/001_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E9%98%BF%E9%87%8C%E4%BA%91%E4%B8%BB%E6%9C%BA(ECS)%E4%B8%8ECentOS7%E5%AE%9E%E6%88%98%E3%80%8B_5%E8%AF%BE_2018/</url>
+      <content type="html"><![CDATA[<p>第1章 阿里云ECS基础篇<br>本章节讲解阿里云ECS的基础部分内容：阿里云控制台界面介绍和使用，ECS底层架构，ECS如何选型及配置等等。</p><p>1-1 ECS&amp;Centos7导学<br>1-2 ECS基础介绍<br>1-3 ECS云服务逻辑架构<br>1-4 阿里云管理控制台使用<br>第2章 阿里云ECS进阶篇<br>本章讲解什么是专线、BGP，讲解ECS镜像及快照原理和使用方式，讲解VPC网络的原理和优势，讲解弹性网络是什么及使用场景，介绍ECS的EIP及经典网络区别等等。</p><p>2-1 ECS云服务构建<br>2-2 阿里云节点BGP和专线概念介绍<br>2-3 ECS如何按照地域区域选型<br>2-4 ECS按照配置选型(1)<br>2-5 ECS按照配置选型(2)<br>2-6 ECS创建<br>2-7 阿里云VPC专有网络<br>2-8 阿里云弹性公网EIP<br>2-9 阿里云弹性网卡配置使用<br>2-10 阿里云ECS配置系统配置<br>2-11 阿里云ECS弹性IP绑定、控制台连接及登陆演示<br>2-12 阿里云ECS快照<br>2-13 阿里云ECS自动快照<br>2-14 阿里云ECS镜像演练<br><a id="more"></a><br>第3章 Centos7主机篇<br>本章围绕Centos7系统新特性展开讲解：Centos7操作系统初识，Centos7特性列表及学前环境准备要求，Centos7操作系统文件目录结构，操作系统Centos7主机名修改 ，操作系统时区调整，Centos7网卡接口名称规则，网络接口设置及ip详解，Centos7高级参数补全，Centos7操作系统内存查看及详细参数介绍，端口连接状态查看命令ss等等…</p><p>3-1 Centos7操作系统初识<br>3-2 Centos7特性列表及学前环境准备要求<br>3-3 Centos7主机名修改<br>3-4 Centos7操作系统文件目录结构<br>3-5 Centos7操作系统时区调整<br>3-6 Centos7网卡接口名称规则<br>3-7 网络接口设置及ip详解<br>3-8 Centos7强大的参数补全<br>3-9 Centos7操作系统内存介绍<br>3-10 Centos7操作系统内存查看及详细参数介绍<br>3-11 操作系统端口连接状态查看<br>3-12 TCP握手挥手原理及ss命令使用详解<br>第4章 Systemd及Firewalld防火墙<br>本章围绕systemd管理单元介绍systemctl支持管理的单元类型，systemd单元管理基本命令，Centos6和7的开机加载效率，自定义systemd服务单元场景演示，target目标单元管理，Timer定时任务单元,日志管理journal等等。讲解Firewalld防火墙优势，讲解Firewalld防火墙zone规则配置，多区域规则结合设置场景等等 …</p><p>4-1 核心服务管理内容介绍及systemd初识<br>4-2 systemctl支持管理的单元类型<br>4-3 systemd单元管理基本命令及初识<br>4-4 systemd管理体系优势介绍及场景介绍<br>4-5 场景演示对比Centos6和7的开机加载效率<br>4-6 systemctl命令格式和中文手册<br>4-7 target目标单元管理<br>4-8 service服务单元管理<br>4-9 service服务单元配置<br>4-10 service服务单元配置2及场景演示介绍<br>4-11 自定义systemd服务单元场景1演示<br>4-12 systemd中timer定时任务单元<br>4-13 新建Timer定时任务单元演示<br>4-14 systemd日志管理journal<br>4-15 journalctl命令使用<br>4-16 Firewalld防火墙初识<br>4-17 Firewalld防火墙zone中添加网卡接口<br>4-18 Firewalld防火墙规则配置及如何添加端口白名单<br>4-19 Firewalld防火墙规则如何添加服务白名单<br>4-20 多区域规则结合设置场景<br>第5章 架构篇<br>将整合套课程基础内容，再结合现阶段企业常用的场景和架构来展开，讲解：SLB负载均衡实现，云盘存储扩容，XFS文件系统，安全组策略，多VPC互连，ECS弹&gt;性扩容，云架构演变等等。</p><p>5-1 架构篇章节介绍<br>5-2 负载均衡原理和优势<br>5-3 阿里云负载均衡开通<br>5-4 阿里云负载均衡基础配置：理论部分<br>5-5 阿里云负载均衡基础配置：演示<br>5-6 阿里云负载均衡健康检测配置理演示<br>5-7 阿里云负载均衡后台服务添加思路及场景实践介绍<br>5-8 后台服务配置部署及镜像生成<br>5-9 场景中负载均衡配置演示<br>5-10 负载均衡后台服务器配置<br>5-11 负载均衡策略测试演示<br>5-12 弹性伸缩初识<br>5-13 弹性伸缩的模式<br>5-14 弹性伸缩创建伸缩组<br>5-15 弹性伸缩伸缩组规格创建<br>5-16 弹性伸缩伸缩组规则配置<br>5-17 弹性伸缩伸缩组任务触发演示<br>5-18 Centos文件系统及云盘<br>5-19 云盘挂载及xfs格式化文件系统演练<br>5-20 什么是GRE及路由表是什么<br>5-21 GRE发包原理<br>5-22 GRE场景设置步骤一配置VPC和ECS实例<br>5-23 GRE隧道实现VPC互连场景配置演示<br>5-24 阿里云简单架构演变<br>5-25 阿里云存储和入口架构演变<br>5-26 云高并发架构演变<br>5-27 混合云架构演变<br>本课程已完结</p><p><div id="jspay" sid="5maoS0T1032" style="display:none">5maoS0T1032</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/e.js" charset="utf-8"></script>]]></content>
+      
+      <categories>
+          
+          <category> 运维 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 运维 </tag>
+            
+            <tag> 实战 </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> 慕课网 </tag>
+            
+            <tag> 2018 </tag>
+            
+            <tag> 阿里云 </tag>
+            
+            <tag> ECS </tag>
+            
+            <tag> CentOS7 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>React 16.4 开发简书项目 从零基础入门到实战</title>
+      <link href="/%E6%85%95%E8%AF%BE%E7%BD%91/005_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AReact16.4%E5%BC%80%E5%8F%91%E7%AE%80%E4%B9%A6%E9%A1%B9%E7%9B%AE%E4%BB%8E%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E6%88%98%E3%80%8B_10%E8%AF%BE_2018/"/>
+      <url>/%E6%85%95%E8%AF%BE%E7%BD%91/005_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AReact16.4%E5%BC%80%E5%8F%91%E7%AE%80%E4%B9%A6%E9%A1%B9%E7%9B%AE%E4%BB%8E%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E6%88%98%E3%80%8B_10%E8%AF%BE_2018/</url>
+      <content type="html"><![CDATA[<p>第1章 课程导学<br>本章主要介绍学习react的重要性，课程的知识大纲，学习前提，讲授方式及预期收获。</p><p>1-1 课程导学<br>第2章 React初探<br>本章主要讲解React项目的开发环境搭建，工程代码结构及React中最基础的语法内容，同时对前端组件化思想进行介绍。</p><p>2-1 React简介<br>2-2 React开发环境准备<br>2-3 工程目录文件简介<br>2-4 react中的组件<br>2-5 React 中最基础的JSX语法<br>第3章 React基础精讲<br>本章通过TodoList功能的实现，给大家完整介绍React的基础语法，设计理念以及围绕React展开的一些编程思维。</p><p>3-1 使用React编写TodoList功能<br>3-2 React 中的响应式设计思想和事件绑定<br>3-3 实现 TodoList 新增删除功能<br>3-4 JSX语法细节补充<br>3-5 拆分组件与组件之间的传值<br>3-6 TodoList 代码优化<br>3-7 围绕 React 衍生出的思考<br><a id="more"></a></p><p>第4章 React高级内容<br>本章讲解React高级部分内容，包含PropTypes，生命周期函数，虚拟Dom，数据mock，动画实现等部分课程讲解。</p><p>4-1 React developer tools 安装及使用<br>4-2 PropTypes 与 DefaultProps 的应用<br>4-3 props，state 与 render 函数的关系<br>4-4 React 中的虚拟DOM<br>4-5 深入了解虚拟DOM<br>4-6 虚拟 DOM 中的 Diff 算法<br>4-7 React 中 ref 的使用<br>4-8 React的生命周期函数<br>4-9 React 生命周期函数的使用场景<br>4-10 使用Charles实现本地数据mock<br>4-11 React 中实现 CSS 过渡动画<br>4-12 React 中使用 CSS 动画效果<br>4-13 使用 react-transition-group 实现动画（1）<br>4-14 react-transition-group 的使用(2)<br>第5章 Redux入门<br>本章主要讲解Redux产生背景，组成内容以及使用方式，通过实例带大家上手Redux数据管理框架的使用。</p><p>5-1 Redux 概念简述<br>5-2 Redux 的工作流程<br>5-3 使用 Antd 实现 TodoList 页面布局<br>5-4 创建 redux 中的 store_x264<br>5-5 Action 和 Reducer 的编写<br>5-6 使用 Redux 完成 TodoList 删除功能_x264<br>5-7 ActionTypes 的拆分<br>5-8 使用 actionCreator 统一创建 action<br>5-9 Redux 知识点复习补充<br>第6章 Redux进阶<br>本章主要讲解UI组件与容器组件基础，如何使用redux-thunk，redux-saga等Redux中间件，以及react-redux的使用方式。</p><p>6-1 UI组件和容器组件<br>6-2 无状态组件<br>6-3 Redux 中发送异步请求获取数据<br>6-4 使用Redux-thunk 中间件实现ajax数据请求<br>6-5 什么是Redux的中间件<br>6-6 Redux-saga 中间件使用入门（1）<br>6-7 Redux-saga 中间件使用入门（2）<br>6-8 如何使用 React-redux（1）<br>6-9 如何使用 React-redux（2）<br>6-10 使用React-redux完成TodoList功能<br>第7章 项目实战：Header组件开发<br>本章讲解项目中公用Header组件的开发，包含动画效果实现，iconfont，immutable.js，styled-components的使用以及异步数据的获取。</p><p>7-1 项目目录搭建，Styled-Components 与 Reset.css 的结合使用<br>7-2 使用 styled-components 完成 Header 组件布局（1）<br>7-3 使用 styled-components 完成 Header 组件布局（2）<br>7-4 使用 iconfont 嵌入头部图标<br>7-5 搜索框动画效果实现<br>7-6 使用 React-Redux 进行应用数据的管理<br>7-7 使用 combineReducers 完成对数据的拆分管理<br>7-8 actionCreators 与 constants 的拆分<br>7-9 使用 Immutable.js 来管理store中的数据<br>7-10 使用 redux-immutable 统一数据格式<br>7-11 热门搜索样式布局<br>7-12 Ajax获取推荐数据<br>7-13 代码优化微调<br>7-14 热门搜索换页功能实现<br>7-15 换页旋转动画效果的实现<br>7-16 避免无意义的请求发送，提升组件性能<br>第8章 项目实战：首页开发<br>本章将带大家完成项目首页的开发，课程能容包含react-router4的使用，组件及reducer的拆分设计，首页部分的核心功能包含列表显示，加载更多，返回顶部等。</p><p>8-1 什么是路由，如何在React中使用路由功能<br>8-2 首页组件的拆分<br>8-3 首页专题区域布局及reducer的设计<br>8-4 首页文章列表制作<br>8-5 首页推荐部分代码编写<br>8-6 首页异步数据获取<br>8-7 异步操作代码拆分优化<br>8-8 实现加载更多功能<br>8-9 返回顶部功能实现<br>8-10 首页性能优化及路由跳转<br>第9章 项目实战：详情页面和登录功能开发<br>本章将完成详情页面的开发，过程中将完整介绍react-router跨页面传值的方法及登陆鉴权的实现思路。同时我们将给大家介绍异步组件和路由withRouter方法的使用方式。</p><p>9-1 详情页面布局<br>9-2 使用redux管理详情页面数据<br>9-3 异步获取数据<br>9-4 页面路由参数的传递<br>9-5 登陆页面布局<br>9-6 登陆功能实现<br>9-7 登陆鉴权及代码优化<br>9-8 异步组件及withRouter路由方法的使用<br>第10章 课程总结<br>本章将给大家介绍项目的上线流程，React版本升级对本项目的影响，并带大家进行整个课程的知识点回顾。</p><p>10-1 项目上线流程<br>10-2 React 版本升级说明<br>10-3 课程总结<br>本课程已完结</p><p><div id="jspay" sid="JC2vyAF3433" style="display:none">JC2vyAF3433</div></p><script type="text/javascript" src="https://www.fageka.com/j.js"></script><script type="text/javascript" src="https://www.fageka.com/e.js" charset="utf-8"></script>]]></content>
+      
+      <categories>
+          
+          <category> 前端开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 实战 </tag>
+            
+            <tag> 慕课网 </tag>
+            
+            <tag> 2018 </tag>
+            
+            <tag> 前端开发 </tag>
+            
+            <tag> React </tag>
             
         </tags>
       
