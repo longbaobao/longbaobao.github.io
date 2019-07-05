@@ -1,3 +1,16 @@
+https://www.jucaizhan.com/网易云课堂/网易云课堂《数据分析思维案例实战》2019/
+https://www.jucaizhan.com/2019-07-05/达内《最近流出的Python工程师培训视频》2019/
+https://www.jucaizhan.com/2019-07-05/小D课堂《零基础入门SpringBoot2.X到实战》2018/
+https://www.jucaizhan.com/2019-07-05/魔凡《SEO优化培训第6期》2019/
+https://www.jucaizhan.com/2019-07-05/艾奇学院《Excel在数据分析中的应用》2019/
+https://www.jucaizhan.com/网易云课堂/网易云课堂《36节课，实现Excel小白到高手的进阶》2019/
+https://www.jucaizhan.com/2019-07-04/职问《数据分析专题课》2019/
+https://www.jucaizhan.com/2019-07-04/希赛网《2018网络规划设计师》2018/
+https://www.jucaizhan.com/51CTO学院/51CTO学院《Sqlmap注入工具全解析视频课程.》2018/
+https://www.jucaizhan.com/七月在线/七月在线《机器学习工程师班（第八期）》2019/
+https://www.jucaizhan.com/慕课网/慕课网《新一代大数据计算引擎 Flink从入门到实战》2019/
+https://www.jucaizhan.com/尚学堂/尚学堂《大数据全套1903期》2019/
+https://www.jucaizhan.com/51CTO学院/51CTO学院.徐葳《Flink入门及实战(上+下)2018年12月》2019/
 https://www.jucaizhan.com/2019-07-03/七月在线《PyTorch的入门与实战》2019/
 https://www.jucaizhan.com/2019-07-03/我赢职场《Linux 环境高级C语言系统开发》2018/
 https://www.jucaizhan.com/2019-07-03/我赢职场《rhca云计算7.0》2018/
@@ -59,8 +72,8 @@ https://www.jucaizhan.com/2019-06-29/Storm流计算之项目篇/
 https://www.jucaizhan.com/2019-06-29/基于Springboot的Thymeleaf精讲/
 https://www.jucaizhan.com/2019-06-29/Spark从入门到精通/
 https://www.jucaizhan.com/2019-06-29/Storm流计算从入门到精通之技术篇/
-https://www.jucaizhan.com/2019-06-29/大数据分析实战视频/
 https://www.jucaizhan.com/2019-06-29/大数据仓库Hive/
+https://www.jucaizhan.com/2019-06-29/大数据分析实战视频/
 https://www.jucaizhan.com/2019-06-29/尚学堂GO语言全套课程/
 https://www.jucaizhan.com/2019-06-29/美感培养，数据可视化专题强化/
 https://www.jucaizhan.com/2019-06-29/2019最新python全栈21期/
@@ -85,16 +98,3 @@ https://www.jucaizhan.com/优效学院/优效学院《高级java架构师-项目
 https://www.jucaizhan.com/慕课网/慕课网《全新升级 Kotlin系统入门与进阶》2018/
 https://www.jucaizhan.com/慕课网/158_慕课网《学习Hyperledger_Fabric实战联盟链》2018/
 https://www.jucaizhan.com/慕课网/157_慕课网《React服务器渲染原理解析与实践》2018/
-https://www.jucaizhan.com/慕课网/053_慕课网_《全网首发mpvue课程小程序全栈开发》_12课_2018/
-https://www.jucaizhan.com/慕课网/052_慕课网_《HTTP协议原理实践_Web开发工程师必学》_5课_2018/
-https://www.jucaizhan.com/慕课网/051_慕课网_《揭秘一线互联网企业前端JavaScript高级面试》_9课_2018/
-https://www.jucaizhan.com/慕课网/050_慕课网_《Vue2.5开发去哪儿网App从零基础入门到实战项目》_10课_2018/
-https://www.jucaizhan.com/慕课网/049_慕课网_《从天气项目入门SpringCloud微服务治理》_11课_2018/
-https://www.jucaizhan.com/慕课网/048_慕课网_《SpringCloud微服务实战》_12课_2018/
-https://www.jucaizhan.com/慕课网/047_慕课网_《ZooKeeper分布式专题与Dubbo微服务入门》_10课_2018/
-https://www.jucaizhan.com/慕课网/046_慕课网_《区块链入门与去中心化应用实战》_7课_2018/
-https://www.jucaizhan.com/大讲台/大讲台《企业级实战：Spark离线和实时电影推荐系统》2018/
-https://www.jucaizhan.com/大讲台/大讲台《Spark项目实战：爱奇艺用户行为实时分析系统》2017/
-https://www.jucaizhan.com/大讲台/大讲台《Spark企业级实战项目：道路交通实时流量监控项目》2017/
-https://www.jucaizhan.com/大讲台/大讲台《Spark企业级实战：知名手机厂商用户行为实时分析系统》2017/
-https://www.jucaizhan.com/小象学院/小象学院《大数据实时计算系统实践》2018/
