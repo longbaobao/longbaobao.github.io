@@ -16,13 +16,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/Caffe/</loc>
-        <lastmod>2019-02-24T07:12:04.036Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/LSTM%E7%BD%91%E7%BB%9C/</loc>
         <lastmod>2019-02-24T07:12:04.036Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -31,6 +24,13 @@
 
     <url>
         <loc>https://www.jucaizhan.com/tags/RNN/</loc>
+        <lastmod>2019-02-24T07:12:04.036Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Caffe/</loc>
         <lastmod>2019-02-24T07:12:04.036Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -198,13 +198,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/jQuery/</loc>
-        <lastmod>2019-02-24T07:12:04.047Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/</loc>
         <lastmod>2019-02-24T07:12:04.047Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -212,21 +205,21 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/Node-js/</loc>
+        <loc>https://www.jucaizhan.com/tags/jQuery/</loc>
         <lastmod>2019-02-24T07:12:04.047Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/Activiti6-0/</loc>
+        <loc>https://www.jucaizhan.com/tags/%E4%BA%92%E5%8A%A8%E7%9B%B4%E6%92%ADAPP/</loc>
         <lastmod>2019-02-24T07:12:04.048Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/%E4%BA%92%E5%8A%A8%E7%9B%B4%E6%92%ADAPP/</loc>
+        <loc>https://www.jucaizhan.com/tags/Activiti6-0/</loc>
         <lastmod>2019-02-24T07:12:04.048Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -254,14 +247,14 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+        <loc>https://www.jucaizhan.com/tags/H5/</loc>
         <lastmod>2019-02-24T07:12:04.051Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/H5/</loc>
+        <loc>https://www.jucaizhan.com/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
         <lastmod>2019-02-24T07:12:04.051Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -289,14 +282,14 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/ElasticStack/</loc>
+        <loc>https://www.jucaizhan.com/tags/%E6%88%BF%E4%BA%A7%E9%94%80%E5%94%AE%E5%B9%B3%E5%8F%B0/</loc>
         <lastmod>2019-02-24T07:12:04.053Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/%E6%88%BF%E4%BA%A7%E9%94%80%E5%94%AE%E5%B9%B3%E5%8F%B0/</loc>
+        <loc>https://www.jucaizhan.com/tags/ElasticStack/</loc>
         <lastmod>2019-02-24T07:12:04.053Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -338,6 +331,13 @@
     </url>
 
     <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%86%85%E5%AD%98%E5%88%86%E6%9E%90/</loc>
+        <lastmod>2019-02-24T07:12:04.056Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.jucaizhan.com/tags/AntD/</loc>
         <lastmod>2019-02-24T07:12:04.056Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -360,13 +360,6 @@
 
     <url>
         <loc>https://www.jucaizhan.com/tags/WebFlux/</loc>
-        <lastmod>2019-02-24T07:12:04.056Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%86%85%E5%AD%98%E5%88%86%E6%9E%90/</loc>
         <lastmod>2019-02-24T07:12:04.056Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -450,7 +443,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+        <loc>https://www.jucaizhan.com/tags/%E9%87%8D%E6%9E%84/</loc>
         <lastmod>2019-02-24T07:12:04.066Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -458,13 +451,6 @@
 
     <url>
         <loc>https://www.jucaizhan.com/tags/%E9%AB%98%E5%B9%B6%E5%8F%91/</loc>
-        <lastmod>2019-02-24T07:12:04.066Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E9%87%8D%E6%9E%84/</loc>
         <lastmod>2019-02-24T07:12:04.066Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -485,13 +471,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/Spring/</loc>
-        <lastmod>2019-02-24T07:12:04.068Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF/</loc>
         <lastmod>2019-02-24T07:12:04.068Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -506,6 +485,13 @@
     </url>
 
     <url>
+        <loc>https://www.jucaizhan.com/tags/Hadoop%E8%BF%90%E7%BB%B4/</loc>
+        <lastmod>2019-02-24T07:12:04.069Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.jucaizhan.com/tags/Mycat/</loc>
         <lastmod>2019-02-24T07:12:04.069Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -514,13 +500,6 @@
 
     <url>
         <loc>https://www.jucaizhan.com/tags/Mysql/</loc>
-        <lastmod>2019-02-24T07:12:04.069Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/Hadoop%E8%BF%90%E7%BB%B4/</loc>
         <lastmod>2019-02-24T07:12:04.069Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -674,22 +653,8 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/%E9%BA%A6%E5%AD%90%E5%AD%A6%E9%99%A2/</loc>
-        <lastmod>2019-02-24T07:12:04.082Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/%E5%A4%A7%E8%AE%B2%E5%8F%B0/</loc>
         <lastmod>2019-02-24T13:43:43.104Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%AE%9E%E6%97%B6%E5%A4%84%E7%90%86/</loc>
-        <lastmod>2019-02-24T13:44:05.694Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -730,14 +695,14 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%8E%BB%E5%93%AA%E5%84%BF%E7%BD%91App/</loc>
+        <loc>https://www.jucaizhan.com/tags/JavaScript/</loc>
         <lastmod>2019-03-01T13:02:26.147Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/JavaScript/</loc>
+        <loc>https://www.jucaizhan.com/tags/%E5%8E%BB%E5%93%AA%E5%84%BF%E7%BD%91App/</loc>
         <lastmod>2019-03-01T13:02:26.147Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -758,20 +723,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/Spark/</loc>
-        <lastmod>2019-06-29T15:31:09.004Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/Storm/</loc>
-        <lastmod>2019-06-29T15:31:16.157Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/</loc>
         <lastmod>2019-06-29T15:31:20.340Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -787,13 +738,6 @@
 
     <url>
         <loc>https://www.jucaizhan.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-        <lastmod>2019-06-29T15:31:25.382Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
         <lastmod>2019-06-29T15:31:25.382Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -884,13 +828,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%B0%9A%E7%A1%85%E8%B0%B7/</loc>
-        <lastmod>2019-06-29T15:44:25.270Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/%E7%A1%85%E8%B0%B7%E5%95%86%E5%9F%8E/</loc>
         <lastmod>2019-06-29T15:44:25.270Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -968,13 +905,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%85%A8%E7%BD%91%E5%86%85%E5%AE%B9%E6%8A%93%E5%8F%96%E5%B9%B3%E5%8F%B0/</loc>
-        <lastmod>2019-06-29T15:55:39.929Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/mongoose/</loc>
         <lastmod>2019-06-29T15:55:39.929Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1017,13 +947,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</loc>
-        <lastmod>2019-06-29T16:07:20.452Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/Python%E5%85%A8%E6%A0%88/</loc>
         <lastmod>2019-06-29T16:08:03.291Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1054,13 +977,6 @@
     <url>
         <loc>https://www.jucaizhan.com/tags/uni-app/</loc>
         <lastmod>2019-06-29T16:10:34.737Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/</loc>
-        <lastmod>2019-06-29T16:10:34.738Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -1101,27 +1017,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/JAVA/</loc>
-        <lastmod>2019-06-29T16:10:34.741Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E4%BC%98%E6%83%A0%E5%88%B8/</loc>
-        <lastmod>2019-06-29T16:10:34.741Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/MySQL/</loc>
-        <lastmod>2019-06-29T16:10:34.742Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/</loc>
         <lastmod>2019-06-29T16:10:34.742Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1144,13 +1039,6 @@
 
     <url>
         <loc>https://www.jucaizhan.com/tags/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/</loc>
-        <lastmod>2019-06-29T16:10:34.743Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/TensorFlow/</loc>
         <lastmod>2019-06-29T16:10:34.743Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1213,13 +1101,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/2019/</loc>
-        <lastmod>2019-06-29T16:10:34.746Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/App%E6%95%B0%E6%8D%AE%E6%8A%93%E5%8F%96/</loc>
         <lastmod>2019-06-29T16:10:34.746Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1248,13 +1129,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
-        <lastmod>2019-06-29T16:10:34.748Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/Hyperledger-Fabric/</loc>
         <lastmod>2019-06-29T16:10:34.748Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1271,27 +1145,6 @@
     <url>
         <loc>https://www.jucaizhan.com/tags/%E7%9B%B4%E6%92%AD%E5%B9%B3%E5%8F%B0/</loc>
         <lastmod>2019-06-29T16:10:34.749Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
-        <lastmod>2019-06-29T16:10:34.750Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/</loc>
-        <lastmod>2019-06-29T16:10:34.750Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/Kotlin/</loc>
-        <lastmod>2019-06-29T16:10:34.750Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -1339,34 +1192,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/Go/</loc>
-        <lastmod>2019-06-30T08:13:20.541Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%8D%83%E9%94%8B%E6%95%99%E8%82%B2/</loc>
-        <lastmod>2019-06-30T08:13:20.541Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/next%E5%AD%A6%E9%99%A2/</loc>
-        <lastmod>2019-06-30T08:13:39.496Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E6%B5%8B%E8%AF%95/</loc>
-        <lastmod>2019-06-30T08:52:52.149Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/%E4%BA%AC%E5%B3%B0%E6%95%99%E8%82%B2/</loc>
         <lastmod>2019-06-30T10:00:25.990Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1374,85 +1199,8 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/ELasticJob/</loc>
-        <lastmod>2019-06-30T10:05:09.933Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6/</loc>
-        <lastmod>2019-06-30T10:05:09.933Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E4%BC%98%E5%93%81%E8%AF%BE%E5%A0%82/</loc>
-        <lastmod>2019-06-30T10:05:09.933Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/PHP/</loc>
-        <lastmod>2019-06-30T10:07:58.708Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/ThinkPHP/</loc>
-        <lastmod>2019-06-30T10:07:58.708Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/UI%E8%AE%BE%E8%AE%A1%E5%B8%88/</loc>
-        <lastmod>2019-06-30T10:17:56.141Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%AE%9E%E6%88%98/</loc>
-        <lastmod>2019-06-30T15:36:17.102Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F/</loc>
-        <lastmod>2019-06-30T15:36:17.102Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E7%9B%91%E6%8E%A7/</loc>
-        <lastmod>2019-06-30T15:36:17.102Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/%E5%9B%BE%E7%81%B5%E5%AD%A6%E9%99%A2/</loc>
         <lastmod>2019-06-30T15:36:17.102Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/React/</loc>
-        <lastmod>2019-06-30T15:39:25.342Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E7%88%B1%E5%89%8D%E7%AB%AF/</loc>
-        <lastmod>2019-06-30T15:39:25.342Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -1474,13 +1222,6 @@
     <url>
         <loc>https://www.jucaizhan.com/tags/%E8%B5%B7%E7%82%B9%E5%AD%A6%E9%99%A2/</loc>
         <lastmod>2019-06-30T15:39:39.528Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E6%92%A9%E8%AF%BE%E5%AD%A6%E9%99%A2/</loc>
-        <lastmod>2019-06-30T15:45:35.608Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -1542,20 +1283,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/%E7%BD%91%E6%98%93%E4%BA%91%E8%AF%BE%E5%A0%82/</loc>
-        <lastmod>2019-07-01T12:57:47.631Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E7%BD%91%E6%98%93%E4%BA%91%E8%AF%BE%E5%A0%82-%E5%BE%AE%E4%B8%93%E4%B8%9A/</loc>
-        <lastmod>2019-07-01T12:57:47.631Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/web%E6%B8%97%E9%80%8F/</loc>
         <lastmod>2019-07-01T13:47:36.713Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1591,34 +1318,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/%E7%88%AC%E8%99%AB/</loc>
-        <lastmod>2019-07-01T13:54:00.550Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E9%BB%91%E9%A9%AC%E7%A8%8B%E5%BA%8F%E5%91%98/</loc>
-        <lastmod>2019-07-01T13:54:00.550Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-        <lastmod>2019-07-02T15:37:09.931Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E7%A7%BB%E5%8A%A8%E7%A0%94%E5%8F%91/</loc>
-        <lastmod>2019-07-02T15:37:09.931Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/%E8%BD%AF%E8%B0%8B%E6%95%99%E8%82%B2/</loc>
         <lastmod>2019-07-02T15:37:09.931Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1633,13 +1332,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/Unity/</loc>
-        <lastmod>2019-07-02T16:13:02.837Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/%E6%B8%B8%E6%88%8F/</loc>
         <lastmod>2019-07-02T16:13:02.837Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1647,99 +1339,8 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/SpringCloud/</loc>
-        <lastmod>2019-07-03T13:35:43.608Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/</loc>
-        <lastmod>2019-07-03T13:35:43.608Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E9%BE%99%E6%9E%9C%E5%AD%A6%E9%99%A2/</loc>
-        <lastmod>2019-07-03T13:35:43.608Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%A4%A7%E5%89%8D%E7%AB%AF/</loc>
-        <lastmod>2019-07-03T13:35:54.419Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82/</loc>
-        <lastmod>2019-07-03T13:35:54.419Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/Javascript/</loc>
-        <lastmod>2019-07-03T13:35:54.419Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/ES6/</loc>
-        <lastmod>2019-07-03T13:35:54.419Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E7%B1%B3%E6%96%AF%E7%89%B9%E5%90%B4/</loc>
-        <lastmod>2019-07-03T13:35:54.419Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/%E5%8D%9A%E6%AF%85%E5%88%9B%E4%B8%BA/</loc>
         <lastmod>2019-07-03T13:46:50.737Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E6%95%B0%E5%AD%A6/</loc>
-        <lastmod>2019-07-03T13:47:14.594Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E4%B8%83%E6%9C%88%E5%9C%A8%E7%BA%BF/</loc>
-        <lastmod>2019-07-03T13:47:14.594Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/</loc>
-        <lastmod>2019-07-03T14:01:22.531Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-        <lastmod>2019-07-03T14:01:43.626Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%B0%8F%E8%B1%A1%E5%AD%A6%E9%99%A2/</loc>
-        <lastmod>2019-07-03T14:01:43.626Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -1780,34 +1381,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/PyTorch/</loc>
-        <lastmod>2019-07-03T14:06:33.111Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
-        <lastmod>2019-07-03T14:06:33.111Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
-        <lastmod>2019-07-03T14:06:33.111Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/</loc>
-        <lastmod>2019-07-04T13:56:18.069Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/%E5%B0%9A%E5%AD%A6%E5%A0%82/</loc>
         <lastmod>2019-07-04T13:56:34.367Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1815,21 +1388,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/</loc>
-        <lastmod>2019-07-04T13:56:55.133Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/%E6%B5%81%E8%AE%A1%E7%AE%97/</loc>
-        <lastmod>2019-07-04T13:56:55.133Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/Flink/</loc>
         <lastmod>2019-07-04T13:56:55.133Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1845,27 +1404,6 @@
     <url>
         <loc>https://www.jucaizhan.com/tags/%E7%BD%91%E7%BB%9C%E8%A7%84%E5%88%92/</loc>
         <lastmod>2019-07-05T13:38:00.426Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E8%BF%90%E7%BB%B4/</loc>
-        <lastmod>2019-07-05T13:40:46.028Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%AE%89%E5%85%A8/</loc>
-        <lastmod>2019-07-05T13:40:46.028Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E9%BB%91%E5%AE%A2/</loc>
-        <lastmod>2019-07-05T13:40:46.028Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -1927,50 +1465,8 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</loc>
-        <lastmod>2019-07-05T13:59:23.473Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/Java/</loc>
-        <lastmod>2019-07-05T14:01:26.292Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/SpringBoot/</loc>
-        <lastmod>2019-07-05T14:01:26.292Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91/</loc>
-        <lastmod>2019-07-05T14:01:26.292Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/tags/SpringBoot2-X/</loc>
         <lastmod>2019-07-05T14:01:26.292Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/%E7%BB%BC%E5%90%88/</loc>
-        <lastmod>2019-07-05T14:05:12.018Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/tags/Python/</loc>
-        <lastmod>2019-07-05T14:05:12.018Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -1985,6 +1481,986 @@
     <url>
         <loc>https://www.jucaizhan.com/tags/%E8%BE%BE%E5%86%85/</loc>
         <lastmod>2019-07-05T14:05:12.018Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E6%95%B0%E5%AD%A6/</loc>
+        <lastmod>2019-07-06T00:00:30.840Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/PyTorch/</loc>
+        <lastmod>2019-07-06T00:00:35.220Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/ES6/</loc>
+        <lastmod>2019-07-06T00:01:15.554Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Javascript/</loc>
+        <lastmod>2019-07-06T00:01:15.554Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%B1%B3%E6%96%AF%E7%89%B9%E5%90%B4/</loc>
+        <lastmod>2019-07-06T00:01:15.554Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E6%92%A9%E8%AF%BE%E5%AD%A6%E9%99%A2/</loc>
+        <lastmod>2019-07-06T00:01:26.868Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/React/</loc>
+        <lastmod>2019-07-06T00:01:33.778Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%88%B1%E5%89%8D%E7%AB%AF/</loc>
+        <lastmod>2019-07-06T00:01:33.778Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E9%BB%91%E5%AE%A2/</loc>
+        <lastmod>2019-07-06T00:01:41.851Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/</loc>
+        <lastmod>2019-07-06T00:01:41.851Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%B0%8F%E8%B1%A1%E5%AD%A6%E9%99%A2/</loc>
+        <lastmod>2019-07-06T00:01:57.138Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%A4%A7%E5%89%8D%E7%AB%AF/</loc>
+        <lastmod>2019-07-06T00:02:41.062Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/ThinkPHP/</loc>
+        <lastmod>2019-07-06T00:02:41.062Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%BD%91%E6%98%93%E4%BA%91%E8%AF%BE%E5%A0%82-%E5%BE%AE%E4%B8%93%E4%B8%9A/</loc>
+        <lastmod>2019-07-06T00:02:41.062Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/UI%E8%AE%BE%E8%AE%A1%E5%B8%88/</loc>
+        <lastmod>2019-07-06T00:02:41.062Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E9%BB%91%E9%A9%AC%E7%A8%8B%E5%BA%8F%E5%91%98/</loc>
+        <lastmod>2019-07-06T00:02:58.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/ELasticJob/</loc>
+        <lastmod>2019-07-06T00:02:58.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E4%BC%98%E5%93%81%E8%AF%BE%E5%A0%82/</loc>
+        <lastmod>2019-07-06T00:02:58.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Go/</loc>
+        <lastmod>2019-07-06T00:03:18.681Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%8D%83%E9%94%8B%E6%95%99%E8%82%B2/</loc>
+        <lastmod>2019-07-06T00:03:18.681Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/PHP7/</loc>
+        <lastmod>2019-07-07T17:00:39.147Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/</loc>
+        <lastmod>2019-07-07T17:00:39.147Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%B0%9A%E7%A1%85%E8%B0%B7/</loc>
+        <lastmod>2019-07-07T17:01:03.416Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+        <lastmod>2019-07-07T17:01:03.416Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E9%99%A2/</loc>
+        <lastmod>2019-07-07T17:01:18.618Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E9%A9%AC%E5%93%A5%E6%95%99%E8%82%B2/</loc>
+        <lastmod>2019-07-07T17:01:18.618Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/SpringCloud/</loc>
+        <lastmod>2019-07-08T12:28:52.497Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Kotlin/</loc>
+        <lastmod>2019-07-08T12:31:32.143Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%94%A8%E6%88%B7%E5%85%A8%E7%AB%AF%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%E7%B3%BB/</loc>
+        <lastmod>2019-07-08T15:10:05.771Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Storm/</loc>
+        <lastmod>2019-07-09T14:38:41.499Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97/</loc>
+        <lastmod>2019-07-09T14:38:41.499Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Java8/</loc>
+        <lastmod>2019-07-09T14:39:01.490Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/PowerMock/</loc>
+        <lastmod>2019-07-09T14:39:29.276Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%A4%A9%E5%96%84%E5%AD%A6%E9%99%A2/</loc>
+        <lastmod>2019-07-09T14:39:45.173Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Zookeeper/</loc>
+        <lastmod>2019-07-09T14:40:08.175Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E4%B8%80%E7%BA%BF%E7%A0%81%E5%86%9C%E5%B7%A5%E4%BD%9C%E5%AE%A4/</loc>
+        <lastmod>2019-07-09T14:40:08.175Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%9F%BA%E7%A1%80/</loc>
+        <lastmod>2019-07-09T14:41:44.108Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/ReactNative/</loc>
+        <lastmod>2019-07-09T14:41:58.444Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%94%B5%E5%95%86/</loc>
+        <lastmod>2019-07-09T14:41:58.444Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/OCR%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB/</loc>
+        <lastmod>2019-07-09T14:42:14.573Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82/</loc>
+        <lastmod>2019-07-09T14:42:53.334Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/next%E5%AD%A6%E9%99%A2/</loc>
+        <lastmod>2019-07-09T14:42:53.334Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+        <lastmod>2019-07-09T14:42:53.334Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%88%B1%E6%97%85%E8%A1%8C/</loc>
+        <lastmod>2019-07-09T14:43:16.038Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%AD%A6%E6%88%90%E5%9C%A8%E7%BA%BF/</loc>
+        <lastmod>2019-07-09T14:43:50.328Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E9%AD%94%E4%B9%90%E7%A7%91%E6%8A%80/</loc>
+        <lastmod>2019-07-09T14:44:05.910Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%94%B5%E5%95%86%E5%AE%9E%E6%97%B6%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F/</loc>
+        <lastmod>2019-07-09T14:44:32.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Metrics/</loc>
+        <lastmod>2019-07-09T14:45:35.952Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Guava/</loc>
+        <lastmod>2019-07-09T14:46:13.400Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%94%B5%E8%A7%86%E6%94%B6%E8%A7%86%E7%8E%87/</loc>
+        <lastmod>2019-07-09T14:46:35.851Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+        <lastmod>2019-07-09T14:46:53.787Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/MySQL/</loc>
+        <lastmod>2019-07-09T14:46:53.787Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%94%B5%E5%95%86%E8%AF%A6%E6%83%85%E9%A1%B5/</loc>
+        <lastmod>2019-07-09T14:47:37.401Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%A4%A7%E5%9E%8B%E7%94%B5%E5%95%86%E5%BE%AE%E6%9C%8D%E5%8A%A1/</loc>
+        <lastmod>2019-07-09T14:48:14.346Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Spring/</loc>
+        <lastmod>2019-07-09T14:48:51.662Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6/</loc>
+        <lastmod>2019-07-09T14:48:51.662Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/quartz/</loc>
+        <lastmod>2019-07-09T14:48:51.662Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Guns/</loc>
+        <lastmod>2019-07-09T14:49:32.948Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</loc>
+        <lastmod>2019-07-09T14:49:32.948Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%B9%B6%E5%8F%91/</loc>
+        <lastmod>2019-07-09T14:50:05.481Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E4%BA%8B%E5%8A%A1/</loc>
+        <lastmod>2019-07-09T14:50:39.496Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Flink/</loc>
+        <lastmod>2019-07-09T14:51:14.751Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%AE%9E%E6%97%B6%E5%A4%84%E7%90%86/</loc>
+        <lastmod>2019-07-09T14:51:14.751Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F/</loc>
+        <lastmod>2019-07-09T14:51:14.751Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/RocketMQ/</loc>
+        <lastmod>2019-07-09T14:51:32.490Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/</loc>
+        <lastmod>2019-07-09T14:51:32.490Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/SpringBoot/</loc>
+        <lastmod>2019-07-09T14:52:06.793Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/</loc>
+        <lastmod>2019-07-09T14:52:23.302Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/dubbo/</loc>
+        <lastmod>2019-07-09T14:52:23.302Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Spark/</loc>
+        <lastmod>2019-07-09T14:52:40.859Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%88%B7%E7%B3%BB%E7%BB%9F/</loc>
+        <lastmod>2019-07-09T14:52:40.859Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/</loc>
+        <lastmod>2019-07-09T14:53:00.483Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Elasticsearch/</loc>
+        <lastmod>2019-07-09T14:53:00.483Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/</loc>
+        <lastmod>2019-07-09T14:53:19.784Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Git/</loc>
+        <lastmod>2019-07-09T14:53:19.784Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%AD%A6%E9%80%94%E6%97%A0%E5%BF%A7/</loc>
+        <lastmod>2019-07-09T14:53:38.696Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Netty/</loc>
+        <lastmod>2019-07-09T14:53:38.696Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/RPC/</loc>
+        <lastmod>2019-07-09T14:53:38.696Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F/</loc>
+        <lastmod>2019-07-09T14:53:38.696Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91%E6%94%BB%E5%9F%8E%E7%8B%AE-Java/</loc>
+        <lastmod>2019-07-09T14:54:58.307Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E4%B8%AD%E5%8D%8E%E7%9F%B3%E5%BD%AC/</loc>
+        <lastmod>2019-07-09T14:54:58.307Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F/</loc>
+        <lastmod>2019-07-09T14:55:33.436Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
+        <lastmod>2019-07-09T14:55:48.606Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E9%BE%99%E6%9E%9C%E5%AD%A6%E9%99%A2/</loc>
+        <lastmod>2019-07-09T14:56:07.819Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/</loc>
+        <lastmod>2019-07-09T14:56:07.819Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Unity/</loc>
+        <lastmod>2019-07-09T14:56:30.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E6%B8%B8%E6%88%8F%E7%A0%94%E5%8F%91/</loc>
+        <lastmod>2019-07-09T14:56:30.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/</loc>
+        <lastmod>2019-07-09T14:56:30.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E9%94%90%E4%BA%9A%E6%95%99%E8%82%B2/</loc>
+        <lastmod>2019-07-09T14:56:30.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%83%AD%E9%97%A8%E6%90%9C%E7%B4%A2/</loc>
+        <lastmod>2019-07-09T14:58:27.151Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/solr/</loc>
+        <lastmod>2019-07-09T14:58:27.151Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E8%AF%BE%E5%B7%A5%E5%9C%BA/</loc>
+        <lastmod>2019-07-09T14:58:27.151Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%8D%9A%E5%AD%A6%E8%B0%B7/</loc>
+        <lastmod>2019-07-09T15:47:08.683Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84/</loc>
+        <lastmod>2019-07-10T15:03:12.701Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/</loc>
+        <lastmod>2019-07-10T15:03:12.701Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
+        <lastmod>2019-07-10T15:03:12.701Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%AE%89%E5%85%A8/</loc>
+        <lastmod>2019-07-10T15:03:25.589Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%BD%91%E6%98%93%E4%BA%91%E8%AF%BE%E5%A0%82/</loc>
+        <lastmod>2019-07-10T15:03:25.589Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/iOS/</loc>
+        <lastmod>2019-07-10T15:03:25.589Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E9%80%86%E5%90%91/</loc>
+        <lastmod>2019-07-10T15:03:25.589Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Java/</loc>
+        <lastmod>2019-07-10T15:03:38.556Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91/</loc>
+        <lastmod>2019-07-10T15:03:38.556Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%BD%A9%E7%A5%A8%E9%A2%84%E6%B5%8B/</loc>
+        <lastmod>2019-07-10T15:03:38.556Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</loc>
+        <lastmod>2019-07-10T15:03:50.480Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Tableau/</loc>
+        <lastmod>2019-07-10T15:03:50.480Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Udemy/</loc>
+        <lastmod>2019-07-10T15:04:01.422Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</loc>
+        <lastmod>2019-07-10T15:04:15.877Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Python/</loc>
+        <lastmod>2019-07-10T15:04:15.877Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E9%87%91%E8%9E%8D/</loc>
+        <lastmod>2019-07-10T15:04:15.877Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%8D%8E%E5%B0%94%E8%A1%97%E5%AD%A6%E5%A0%82/</loc>
+        <lastmod>2019-07-10T15:04:15.877Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E8%BF%90%E7%BB%B4/</loc>
+        <lastmod>2019-07-10T15:04:29.242Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/zabbix/</loc>
+        <lastmod>2019-07-10T15:04:29.242Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%9B%91%E6%8E%A7/</loc>
+        <lastmod>2019-07-10T15:04:29.242Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E8%80%81%E7%94%B7%E5%AD%A9/</loc>
+        <lastmod>2019-07-10T15:04:29.242Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%A7%BB%E5%8A%A8%E7%A0%94%E5%8F%91/</loc>
+        <lastmod>2019-07-10T15:04:46.152Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Flutter/</loc>
+        <lastmod>2019-07-10T15:04:46.152Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E8%B7%A8%E5%B9%B3%E5%8F%B0/</loc>
+        <lastmod>2019-07-10T15:04:46.152Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%BC%80%E8%AF%BE%E5%90%A7/</loc>
+        <lastmod>2019-07-10T15:04:46.152Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/PHP/</loc>
+        <lastmod>2019-07-10T15:05:03.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Laravel/</loc>
+        <lastmod>2019-07-10T15:05:03.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%BE%AE%E4%BF%A1%E5%95%86%E5%9F%8E/</loc>
+        <lastmod>2019-07-10T15:05:03.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E9%BA%A6%E5%AD%90%E5%AD%A6%E9%99%A2/</loc>
+        <lastmod>2019-07-10T15:05:03.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%BB%BC%E5%90%88/</loc>
+        <lastmod>2019-07-10T15:05:22.695Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E6%B5%8B%E8%AF%95/</loc>
+        <lastmod>2019-07-10T15:05:22.695Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/</loc>
+        <lastmod>2019-07-10T15:05:33.779Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%85%A8%E7%BD%91%E5%86%85%E5%AE%B9%E6%8A%93%E5%8F%96%E5%B9%B3%E5%8F%B0/</loc>
+        <lastmod>2019-07-10T15:05:33.779Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E7%88%AC%E8%99%AB/</loc>
+        <lastmod>2019-07-10T15:05:33.779Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/Node-js/</loc>
+        <lastmod>2019-07-10T15:05:33.779Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E9%A5%A5%E4%BA%BA%E8%B0%B7/</loc>
+        <lastmod>2019-07-10T15:05:33.779Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%AE%9E%E6%88%98/</loc>
+        <lastmod>2019-07-10T15:06:28.504Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E6%85%95%E8%AF%BE%E7%BD%91/</loc>
+        <lastmod>2019-07-10T15:06:28.504Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+        <lastmod>2019-07-10T15:06:28.504Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/JAVA/</loc>
+        <lastmod>2019-07-10T15:06:28.504Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/2019/</loc>
+        <lastmod>2019-07-10T15:06:28.504Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E4%BC%98%E6%83%A0%E5%88%B8/</loc>
+        <lastmod>2019-07-10T15:06:28.504Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+        <lastmod>2019-07-10T15:08:06.092Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E4%B8%83%E6%9C%88%E5%9C%A8%E7%BA%BF/</loc>
+        <lastmod>2019-07-10T15:08:06.092Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
+        <lastmod>2019-07-10T15:08:16.585Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
+        <lastmod>2019-07-10T15:08:16.585Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/tags/TensorFlow/</loc>
+        <lastmod>2019-07-10T15:08:16.585Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

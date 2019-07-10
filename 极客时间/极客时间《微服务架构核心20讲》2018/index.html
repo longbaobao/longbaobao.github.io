@@ -1,0 +1,92 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="description" content="极客时间《微服务架构核心20讲》2018"><meta name="keywords" content="后端开发,微服务,Spring,SpringCloud,极客时间"><meta name="author" content="巨菜站,undefined"><meta name="copyright" content="巨菜站"><link rel="alternate" href="/atom.xml" title="巨菜站" type="application/atom+xml"><meta name="description" content="&lt;p&gt;课程背景&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;互联网时代，企业在瞬息万变的市场赢得和保持竞争优势的核心在于持续创新。业界前沿互联网公司的实践表明，微服务架构 (Microservices Architecture) 是企业应对业务复杂性，支持大规模持续创新行之有效的架构手段。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;微服务架构作为一种渐进式的演进架构，自提出以来便被互联网企业和传统企业所重视和采用。微服务架构所涉及的知识广泛，其学习曲线相对陡峭，其中架构落地、网关、监控等技术问题是常见的挑战。技术人员光靠自学摸索，通常需要耗费不少时间精力。由于微服务架构可操作学习的案例相对较少，尤其是大型业务微服务架构应用案例，所以大家对微服务架构理念虽然有一定理解，但是对微服务架构如何落地缺乏可靠的最佳实践经验。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;技术基础和平台工具易学，但架构思维和落地经验难建。一个合格的架构师除了最核心的技术理论基础之外，必须具备良好的架构视野和思维模式，以及通过技术与业务结合的落地实践所总结的行之有效的经验和方法论。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本视频课程特邀请有十余年互联网分布式系统研发和架构经验的资深架构师杨波老师就“微服务架构核心要点”做深入浅出的总结与阐述，希望能帮助技术人员在微服务架构落地实践中提高效率，少走弯路。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;杨波老师现担任拍拍贷技术中心框架研发部总监，主导微服务架构体系建设。曾作为核心开发人员参与亿贝（eBay）开放 API 平台研发，曾任携程旅游网（Ctrip）技术研发总监，主导携程大规模 SOA 体系建设，也曾在唯品会（VIPShop）任资深云平台架构师，负责容器 PaaS 平台的调研和架构。杨波老师具有丰富的一线实战经验，也曾多次在 InfoQ 发表技术文章，在大型技术会议如 ArchSummit 大会进行技术分享交流，受到广泛好评。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h3&gt;课程收获&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本视频课程由 20 个白板短视频组成，技术人员可以在碎片化时间自由学习，快速掌握以下核心要点：&lt;/p&gt;&lt;br&gt;"><title>极客时间《微服务架构核心20讲》2018 | 巨菜站_后端开发,微服务,Spring,SpringCloud,极客时间</title><link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css?version=1.5.3"><link rel="dns-prefetch" href="https://cdn.staticfile.org"><link rel="dns-prefetch" href="https://cdn.bootcss.com"><link rel="dns-prefetch" href="https://creativecommons.org"><link rel="stylesheet" type="text/css" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script><script src="https://unpkg.com/blueimp-md5@latest/js/md5.min.js"></script><link rel="dns-prefetch" href="https://hm.baidu.com"><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3f2224e84fb41c8beaba0224b5142794";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();</script><link rel="dns-prefetch" href="https://www.google-analytics.com"><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-121920923-2', 'auto');
+ga('send', 'pageview');</script><script>(function(m, ei, q, i, a, j, s) {
+    m[i] = m[i] || function() {
+        (m[i].a = m[i].a || []).push(arguments)
+    };
+    j = ei.createElement(q),
+        s = ei.getElementsByTagName(q)[0];
+    j.async = true;
+    j.charset = 'UTF-8';
+    j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+    s.parentNode.insertBefore(j, s);
+})(window, document, 'script', '_MEIQIA');
+_MEIQIA('entId', 124369);</script><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  localSearch: {"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}"},"path":"search.xml"}
+} </script></head><body><canvas class="fireworks"></canvas><i class="fa fa-arrow-right" id="toggle-sidebar" aria-hidden="true"></i><div id="sidebar"><div class="toggle-sidebar-info text-center"><span data-toggle="切换文章详情">切换站点概览</span><hr></div><div class="sidebar-toc"><div class="sidebar-toc__title">目录</div><div class="sidebar-toc__progress"><span class="progress-notice">你已经读了</span><span class="progress-num">0</span><span class="progress-percentage">%</span><div class="sidebar-toc__progress-bar"></div></div><div class="sidebar-toc__content"><ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#undefined"><span class="toc-number">1.</span> <span class="toc-text">课程收获</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#undefined"><span class="toc-number">2.</span> <span class="toc-text">适宜人群</span></a></li></ol></div></div><div class="author-info hide"><div class="author-info__avatar text-center"><img src="http://blog.fueson.top/avatar/me.jpg?imageMogr2/thumbnail/200x200&gt;/gravity/Center/crop/200x200/format/jpg/blur/1x0/quality/75|imageslim"></div><div class="author-info__name text-center">巨菜站</div><div class="author-info__description text-center">资源下载，百度资源，教育资源</div><hr><div class="author-info-articles"><a class="author-info-articles__archives article-meta" href="/archives"><span class="pull-left">文章</span><span class="pull-right">298</span></a><a class="author-info-articles__tags article-meta" href="/tags"><span class="pull-left">标签</span><span class="pull-right">352</span></a><a class="author-info-articles__categories article-meta" href="/categories"><span class="pull-left">分类</span><span class="pull-right">43</span></a></div></div><div class="unit"><div class="heart"><div class="heart-piece-0"></div><div class="heart-piece-1"></div><div class="heart-piece-2"></div><div class="heart-piece-3"></div><div class="heart-piece-4"></div><div class="heart-piece-5"></div><div class="heart-piece-6"></div><div class="heart-piece-7"></div><div class="heart-piece-8"></div></div><p class="anime-title"><a href="https://www.jucaizhan.com/" target="_blank">感谢访问本站 ^_^</a></p><div class="email-title"><i class="fa fa-telegram" style="margin-right: 14px"></i><a href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&amp;email=908934816@qq.com" target="_blank">失效连接提交</a></div></div></div><div id="content-outer"><div id="top-container" style="background-image: url(http://blog.fueson.top/bg/saber.jpg)"><div id="page-header"><span class="pull-left"> <a id="site-name" href="/">巨菜站</a></span><i class="fa fa-bars toggle-menu pull-right" aria-hidden="true"></i><span class="pull-right menus"><a class="site-page" href="/">主页</a><a class="site-page" href="/archives">文章总览</a><a class="site-page" href="/about">关于我们</a><a class="site-page" href="/categories">分类</a><a class="site-page" href="/tags">标签</a><a class="site-page" href="/gallery">个人相册</a></span></div><div id="post-info"><div id="post-title">极客时间《微服务架构核心20讲》2018</div><div id="post-meta"><time class="post-meta__date"><i class="fa fa-calendar" aria-hidden="true"></i> 2018-09-17</time><span class="post-meta__separator">|</span><i class="fa fa-inbox post-meta__icon" aria-hidden="true"></i><a class="post-meta__categories" href="/categories/后端研发攻城狮-Java/">后端研发攻城狮-Java</a><div class="post-meta-wordcount"><span>字数总计: </span><span class="word-count">1,241</span><span class="post-meta__separator">|</span><span>阅读时长: 4 分钟</span></div></div></div></div><div class="layout" id="content-inner"><article id="post"><div id="post-content"><p>课程背景</p>
+<p></p><p>互联网时代，企业在瞬息万变的市场赢得和保持竞争优势的核心在于持续创新。业界前沿互联网公司的实践表明，微服务架构 (Microservices Architecture) 是企业应对业务复杂性，支持大规模持续创新行之有效的架构手段。</p><p></p>
+<p></p><p>微服务架构作为一种渐进式的演进架构，自提出以来便被互联网企业和传统企业所重视和采用。微服务架构所涉及的知识广泛，其学习曲线相对陡峭，其中架构落地、网关、监控等技术问题是常见的挑战。技术人员光靠自学摸索，通常需要耗费不少时间精力。由于微服务架构可操作学习的案例相对较少，尤其是大型业务微服务架构应用案例，所以大家对微服务架构理念虽然有一定理解，但是对微服务架构如何落地缺乏可靠的最佳实践经验。</p><p></p>
+<p></p><p>技术基础和平台工具易学，但架构思维和落地经验难建。一个合格的架构师除了最核心的技术理论基础之外，必须具备良好的架构视野和思维模式，以及通过技术与业务结合的落地实践所总结的行之有效的经验和方法论。</p><p></p>
+<p></p><p>本视频课程特邀请有十余年互联网分布式系统研发和架构经验的资深架构师杨波老师就“微服务架构核心要点”做深入浅出的总结与阐述，希望能帮助技术人员在微服务架构落地实践中提高效率，少走弯路。</p><p></p>
+<p></p><p>杨波老师现担任拍拍贷技术中心框架研发部总监，主导微服务架构体系建设。曾作为核心开发人员参与亿贝（eBay）开放 API 平台研发，曾任携程旅游网（Ctrip）技术研发总监，主导携程大规模 SOA 体系建设，也曾在唯品会（VIPShop）任资深云平台架构师，负责容器 PaaS 平台的调研和架构。杨波老师具有丰富的一线实战经验，也曾多次在 InfoQ 发表技术文章，在大型技术会议如 ArchSummit 大会进行技术分享交流，受到广泛好评。</p><p></p>
+<p></p><h3>课程收获</h3><p></p>
+<p></p><p>本视频课程由 20 个白板短视频组成，技术人员可以在碎片化时间自由学习，快速掌握以下核心要点：</p><br><a id="more"></a><p></p>
+<p><ul></ul></p>
+<p><li>理解微服务原理，先决条件，微服务架构和组织架构的关系</li></p>
+<p><li>理解微服务中台架构</li></p>
+<p><li>理解总体微服务基础架构体系</li></p>
+<p><li>理解公共运行时服务，服务发现，网关和配置中心原理和架构</li></p>
+<p><li>理解典型微服务框架和通讯模式，两层服务模式</li></p>
+<p><li>理解微服务监控体系和可靠性工程实践</li></p>
+<p><li>理解常用后台支持服务和开源实践</li></p>
+<p><li>理解基于容器云的持续交付流水线，各种发布模式</li><br></p>
+<p></p><h3>适宜人群</h3><p></p>
+<ol><br><li>本课程适合希望了解和落地微服务架构的企业技术决策者，现任及预备役的架构师；</li><br><li>对架构设计感兴趣，有 3-5 年经验及以上的后端开发工程师；</li><br><li>立志掌握微服务架构相关知识的云计算工程师或运维工程师；</li><br></ol>
+
+<p>第1讲：什么是微服务架构？</p>
+<p>第2讲：架构师如何权衡微服务的利弊？</p>
+<p>第3讲：康威法则和微服务给架构师怎样的启示？</p>
+<p>第4讲：企业应该在什么时候开始考虑引入微服务？</p>
+<p>第5讲：什么样的组织架构更适合微服务？</p>
+<p>第6讲：如何理解阿里巴巴提出的微服务中台战略？</p>
+<p>第7讲：如何给出一个清晰简洁的服务分层方式？</p>
+<p>第8讲：微服务总体技术架构体系是怎样设计的？</p>
+<p>第9讲：微服务最经典的三种服务发现机制</p>
+<p>第10讲：微服务 API 服务网关（一）原理</p>
+<p>第11讲：微服务 API 服务网关（二）开源网关 Zuul</p>
+<p>第12讲：跟 Netflix 学习微服务路由发现体系</p>
+<p>第13讲：集中式配置中心的作用和原理是什么？</p>
+<p>第14讲：微服务通讯方式 RPC vs REST</p>
+<p>第15讲：微服务框架需要考虑哪些治理环节？</p>
+<p>第16讲：微服务监控系统分层和监控架构</p>
+<p>第17讲：微服务的调用链监控该如何选型？</p>
+<p>第18讲：微服务的容错限流是如何工作的？</p>
+<p>第19讲：Docker 容器部署技术 &amp; 持续交付流水线</p>
+<p>第20讲：容器集群调度和基于容器的发布体系</p>
+<p><div id="jspay" sid="QWeKYn52442" style="display:none">QWeKYn52442</div></p>
+<script type="text/javascript" src="https://www.fageka.com/j.js"></script>
+<script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>
+</div></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">巨菜站</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://www.jucaizhan.com/极客时间/极客时间《微服务架构核心20讲》2018/">https://www.jucaizhan.com/极客时间/极客时间《微服务架构核心20讲》2018/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://www.jucaizhan.com" target="_blank">巨菜站</a>！</span></div></div><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/后端开发/">后端开发</a><a class="post-meta__tags" href="/tags/微服务/">微服务</a><a class="post-meta__tags" href="/tags/Spring/">Spring</a><a class="post-meta__tags" href="/tags/SpringCloud/">SpringCloud</a><a class="post-meta__tags" href="/tags/极客时间/">极客时间</a></div><nav id="pagination"><div class="prev-post pull-left"><a href="/51CTO学院/001_51CTO_唐宇迪_《Tensorflow案例实战视频课程》_22课_2017/"><i class="fa fa-chevron-left">  </i><span>Tensorflow案例实战视频课程</span></a></div><div class="next-post pull-right"><a href="/炼数成金/003_炼数成金_《深入玩转EXCEL》_10课_2017/"><span>深入玩转EXCEL</span><i class="fa fa-chevron-right"></i></a></div></nav><div id="gitalk-container"></div><script>var gitalk = new Gitalk({
+  clientID: '58c55a7244de19e196b7',
+  clientSecret: '36193ea6255115da581cda3f178fa9dcccfe7873',
+  repo: 'blog',
+  owner: 'longbaobao',
+  admin: 'longbaobao',
+  id: md5(decodeURI(location.pathname)),
+  distractionFreeMode: 'true',
+})
+gitalk.render('gitalk-container')</script></div></div><footer><div class="layout" id="footer"><div class="copyright">&copy;2018 - 2019 By 巨菜站</div><div class="icp"><a><span>冀ICP备16022574号-1</span></a></div><div class="busuanzi"><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_page_pv"><i class="fa fa-file-o"></i><span id="busuanzi_value_page_pv"></span><span></span></span></div></div></footer><i class="fa fa-arrow-up" id="go-up" aria-hidden="true"></i><script src="/js/third-party/anime.min.js"></script><script src="/js/third-party/jquery.min.js"></script><script src="/js/third-party/jquery.fancybox.min.js"></script><script src="/js/third-party/velocity.min.js"></script><script src="/js/third-party/velocity.ui.min.js"></script><script src="/js/utils.js?version=1.5.3"></script><script src="/js/fancybox.js?version=1.5.3"></script><script src="/js/sidebar.js?version=1.5.3"></script><script src="/js/copy.js?version=1.5.3"></script><script src="/js/fireworks.js?version=1.5.3"></script><script src="/js/transition.js?version=1.5.3"></script><script src="/js/scroll.js?version=1.5.3"></script><script src="/js/head.js?version=1.5.3"></script></body></html>

@@ -1,3 +1,70 @@
+https://www.jucaizhan.com/2019-07-10/博为峰教育《软件测试学习视频》2019/
+https://www.jucaizhan.com/2019-07-10/饥人谷《Node.js爬虫开发全网内容抓取平台》Node班第4期 2019/
+https://www.jucaizhan.com/2019-07-10/麦子学院《Laravel项目实战微信商城 》2019/
+https://www.jucaizhan.com/2019-07-10/开课吧《Flutter认知与入门》2019/
+https://www.jucaizhan.com/2019-07-10/Udemy《硅谷风向-机器学习项目课：从基础到搭建项目》2019/
+https://www.jucaizhan.com/2019-07-10/华尔街学堂《python金融实务从入门到精通》2019 /
+https://www.jucaizhan.com/2019-07-10/网易云课堂《Tableau数据地图实战 》2019/
+https://www.jucaizhan.com/2019-07-10/老男孩《zabbix视频教程》2019/
+https://www.jucaizhan.com/2019-07-10/刑不行《Python金融数字货币量化投资》2019/
+https://www.jucaizhan.com/2019-07-10/网易云课堂《java项目实战开发彩票预测项目》2016/
+https://www.jucaizhan.com/2019-07-10/网易云课堂《iOS逆向与安全》2019/
+https://www.jucaizhan.com/龙果学院/龙果学院《基于Flink流处理的动态实时亿级用户全端数据统计分析系统（支持所有的终端统计）》2019/
+https://www.jucaizhan.com/龙果学院/龙果学院.汪文君《Java8新特性及实战》2019/
+https://www.jucaizhan.com/龙果学院/龙果学院.汪文君《Apache Storm1.2.2实战》2019/
+https://www.jucaizhan.com/龙果学院/龙果学院.汪文君《Metrics实战视频》2018/
+https://www.jucaizhan.com/龙果学院/龙果学院.汪文君《PowerMock实战》2018/
+https://www.jucaizhan.com/龙果学院/龙果学院《Google Guava深入浅出》2019/
+https://www.jucaizhan.com/龙果学院/龙果学院《基于大数据技术之电视收视率企业项目实战（hadoop+Spark）》2019/
+https://www.jucaizhan.com/龙果学院/龙果学院《Spring Boot 教程全集》2017/
+https://www.jucaizhan.com/龙果学院/龙果学院《基于spring+quartz的分布式任务调度》2018/
+https://www.jucaizhan.com/龙果学院/龙果学院《深入理解热门开源项目Guns管理系统》2018/
+https://www.jucaizhan.com/龙果学院/龙果学院.汪文君《Java高并发编程3阶段》2018/
+https://www.jucaizhan.com/2019-07-09/魔乐科技《SpringBoot框架开发详解》2017/
+https://www.jucaizhan.com/2019-07-09/学成在线《微服务项目》2019/
+https://www.jucaizhan.com/龙果学院/龙果学院《基于Flink流处理的动态实时电商实时分析系统》2019/
+https://www.jucaizhan.com/龙果学院/龙果学院《基于Flink流处理的动态实时亿级电商全端用户画像系统》2019/
+https://www.jucaizhan.com/龙果学院/龙果学院《微服务架构的分布式事务解决方案（Dubbo分布式事务处理）》2017/
+https://www.jucaizhan.com/龙果学院/龙果学院《JAVA-ACE-架构师系列视频课程- RocketMQ》2017/
+https://www.jucaizhan.com/龙果学院/龙果学院《spring与dubbo分布式REST服务开发实战》2017/
+https://www.jucaizhan.com/龙果学院/龙果学院《大数据用户画像解决方案》2019/
+https://www.jucaizhan.com/龙果学院/龙果学院《深入大数据架构师之路，问鼎40万年薪》2019/
+https://www.jucaizhan.com/龙果学院/龙果学院《MySQL大型分布式集群》2018/
+https://www.jucaizhan.com/龙果学院/龙果学院《Spring Boot源码解析》2017/
+https://www.jucaizhan.com/龙果学院/龙果学院《从无到有构建大型电商微服务亿级架构（三阶段）》2018/
+https://www.jucaizhan.com/龙果学院/龙果学院《（第二版）亿级流量电商详情页系统实战-缓存架构+高可用服务架构+微服务架构》2018/
+https://www.jucaizhan.com/龙果学院/龙果学院《深度解剖dubbo源码》2017/
+https://www.jucaizhan.com/龙果学院/龙果学院《大数据-基于Spark的机器学习-智能客户系统项目实战》2017/
+https://www.jucaizhan.com/龙果学院/龙果学院.中华石彬《互联网Java工程师面试突击训练》第一季 2019/
+https://www.jucaizhan.com/龙果学院/龙果学院.中华石彬《Elasticsearch顶尖高手系列-高手进阶篇》2017/
+https://www.jucaizhan.com/龙果学院/龙果学院.中华石彬《Elasticsearch顶尖高手系列课程-核心知识篇》 2017/
+https://www.jucaizhan.com/龙果学院/龙果学院《Java并发编程原理与实战》2017 /
+https://www.jucaizhan.com/龙果学院/龙果学院《深入理解Java虚拟机（jvm性能调优+内存模型+虚拟机原理）》2017/
+https://www.jucaizhan.com/龙果学院/龙果学院《秒杀系统企业级实战应用（真实工业界案例）》2017/
+https://www.jucaizhan.com/2019-07-09/课工场《大数据项目实战-爱旅行之热门搜索》2019/
+https://www.jucaizhan.com/2019-07-09/学途无忧《Netty实战高性能分布式RPC（Dubbo分布式底层实现）》2016/
+https://www.jucaizhan.com/极客时间/极客时间《玩转git三剑客》2018/
+https://www.jucaizhan.com/2019-07-09/网易云课堂.锐亚教育《Unity制作 王者荣耀 商业级手游》2018/
+https://www.jucaizhan.com/2019-07-10/天善学院《Python与数据科学实战》2019/
+https://www.jucaizhan.com/2019-07-10/一线码农工作室《玩转Zookeeper 3.4.10 分布式协调服务框架》2017/
+https://www.jucaizhan.com/2019-07-10/金程教育《量化金融分析师AQF实训项目》2018/
+https://www.jucaizhan.com/2019-07-10/数据蛙《python+mysql基础》2019/
+https://www.jucaizhan.com/2019-07-10/旋之华《React Native 电商项目视频教程.》2017/
+https://www.jucaizhan.com/2019-07-10/ocr实战《OCR文字识别实战》2019/
+https://www.jucaizhan.com/2019-07-10/博学谷《python就业班》2019/
+https://www.jucaizhan.com/2019-07-10/慕课网.廖师兄《两小时学会SpringBoot》2018/
+https://www.jucaizhan.com/2019-07-10/腾讯课堂.next学院《人人都会小程序》2018/
+https://www.jucaizhan.com/2019-07-10/课工场《手把手带你完成电商项目后端爱旅行项目实战》2018/
+https://www.jucaizhan.com/龙果学院/龙果学院《Elasticsearch顶尖高手系列：高手进阶篇（最新第二版）》2019/
+https://www.jucaizhan.com/网易云课堂/网易云课堂《漫谈spring cloud分布式服务架构》2019/
+https://www.jucaizhan.com/马哥教育/马哥教育.杨博士《数学分析&人工智能课程结构介绍》2019/
+https://www.jucaizhan.com/黑马程序员/黑马程序员《基于PHP7+MVC博客系统设计》2018/
+https://www.jucaizhan.com/七月在线/七月在线.管理师《机器学习算法班》2016/
+https://www.jucaizhan.com/2019-07-08/潭州学院《大数据课程》2019/
+https://www.jucaizhan.com/博学谷/博学谷《Python人工智能》2019 /
+https://www.jucaizhan.com/博学谷/博学谷《Python爬虫课程》2019/
+https://www.jucaizhan.com/2019-07-08/课工场《Spring Cloud 微服务分布式架构项目开发实战大型商城项目》2019/
+https://www.jucaizhan.com/尚硅谷/尚硅谷.韩老师《图解Java设计模式》2019/
 https://www.jucaizhan.com/网易云课堂/网易云课堂《数据分析思维案例实战》2019/
 https://www.jucaizhan.com/2019-07-05/达内《最近流出的Python工程师培训视频》2019/
 https://www.jucaizhan.com/2019-07-05/小D课堂《零基础入门SpringBoot2.X到实战》2018/
@@ -5,22 +72,24 @@ https://www.jucaizhan.com/2019-07-05/魔凡《SEO优化培训第6期》2019/
 https://www.jucaizhan.com/2019-07-05/艾奇学院《Excel在数据分析中的应用》2019/
 https://www.jucaizhan.com/网易云课堂/网易云课堂《36节课，实现Excel小白到高手的进阶》2019/
 https://www.jucaizhan.com/2019-07-04/职问《数据分析专题课》2019/
+https://www.jucaizhan.com/七月在线/七月在线.寒小阳《TensorFlow框架案例实战.》2017/
 https://www.jucaizhan.com/2019-07-04/希赛网《2018网络规划设计师》2018/
 https://www.jucaizhan.com/51CTO学院/51CTO学院《Sqlmap注入工具全解析视频课程.》2018/
 https://www.jucaizhan.com/七月在线/七月在线《机器学习工程师班（第八期）》2019/
 https://www.jucaizhan.com/慕课网/慕课网《新一代大数据计算引擎 Flink从入门到实战》2019/
 https://www.jucaizhan.com/尚学堂/尚学堂《大数据全套1903期》2019/
 https://www.jucaizhan.com/51CTO学院/51CTO学院.徐葳《Flink入门及实战(上+下)2018年12月》2019/
-https://www.jucaizhan.com/2019-07-03/七月在线《PyTorch的入门与实战》2019/
+https://www.jucaizhan.com/七月在线/七月在线《PyTorch的入门与实战》2019/
 https://www.jucaizhan.com/2019-07-03/我赢职场《Linux 环境高级C语言系统开发》2018/
 https://www.jucaizhan.com/2019-07-03/我赢职场《rhca云计算7.0》2018/
-https://www.jucaizhan.com/2019-07-03/小象学院《机器学习全新升级版III》2019/
-https://www.jucaizhan.com/2019-07-03/51CTO学院《Python黑客编程入门视频课程》2017/
+https://www.jucaizhan.com/小象学院/小象学院《机器学习全新升级版III》2019/
+https://www.jucaizhan.com/51CTO学院/51CTO学院《Python黑客编程入门视频课程》2017/
 https://www.jucaizhan.com/2019-07-03/博毅创为《C语言入门到精通》2018/
-https://www.jucaizhan.com/2019-07-03/七月在线《机器学习中的数学第二期》2018/
+https://www.jucaizhan.com/七月在线/七月在线《机器学习中的数学第二期》2018/
 https://www.jucaizhan.com/2019-07-03/孟宁《Linux从零入门实战》2019/
-https://www.jucaizhan.com/2019-07-03/龙果学院《漫谈spring cloud 与 spring boot 基础架构》2017/
-https://www.jucaizhan.com/2019-07-03/腾讯课堂.米斯特吴《ES6_Javascript_最全最新讲解》2019/
+https://www.jucaizhan.com/龙果学院/龙果学院《漫谈spring cloud 与 spring boot 基础架构》2017/
+https://www.jucaizhan.com/龙果学院/龙果学院《从无到有搭建中小型互联网公司后台服务架构与运维架构》2018/
+https://www.jucaizhan.com/腾讯课堂/腾讯课堂.米斯特吴《ES6_Javascript_最全最新讲解》2019/
 https://www.jucaizhan.com/2019-07-02/老谢《web技术栈》2019/
 https://www.jucaizhan.com/2019-07-02/英宝通Unity学院《Unity基础初级入门》2019/
 https://www.jucaizhan.com/2019-07-02/猎维科技《Python人工智能 第一期脱产班》2019/
@@ -29,72 +98,3 @@ https://www.jucaizhan.com/腾讯课堂/腾讯课堂.软谋教育《微信小程�
 https://www.jucaizhan.com/腾讯课堂/腾讯课堂《Java架构班之BATJ企业面试课》2019/
 https://www.jucaizhan.com/2019-07-01/柠檬班《JMeter性能测试》2019/
 https://www.jucaizhan.com/2019-07-01/易锦教育《安卓逆向第4期》2019/
-https://www.jucaizhan.com/2019-07-01/小迪安全《2018小迪渗透专题培训》2019/
-https://www.jucaizhan.com/千峰教育/千锋教育《Java微服务架构(SpringBoot+SpringCloud)（156集）》2019/
-https://www.jucaizhan.com/网易云课堂/网易云课堂《跟简七学理财》2018/
-https://www.jucaizhan.com/腾讯课堂/撩课学院《零基础入门学习Web开发》2019/
-https://www.jucaizhan.com/腾讯课堂/爱前端《最受欢迎的react框架【爱前端】》2017/
-https://www.jucaizhan.com/腾讯课堂/图灵学院《Java大规模分布式跟踪监控系统班》2017/
-https://www.jucaizhan.com/千峰教育/千锋教育《Hive课程详解》2017/
-https://www.jucaizhan.com/起点学院/起点学院《静秋姐姐手把手教你做运营》2018/
-https://www.jucaizhan.com/2019-06-30/网易云课堂.微专业《前端开发工程师：零基础完成网易MIni项目开发》2019/
-https://www.jucaizhan.com/2019-06-30/网易云课堂.微专业《程序设计入门：Java语言》2019/
-https://www.jucaizhan.com/2019-06-30/网易云课堂.微专业《UI设计师：零基础成为年薪20万的UI》2019/
-https://www.jucaizhan.com/2019-06-30/黑马程序员《ELasticJob分布式任务调度视频》2019/
-https://www.jucaizhan.com/2019-06-30/腾讯课堂《Python 网络爬虫数据采集 【优品课堂】》2017/
-https://www.jucaizhan.com/2019-06-30/腾讯课堂.next学院《人人都会小程序》2019/
-https://www.jucaizhan.com/慕课网/慕课网《BAT资深工程师由浅入深分析Tp5&Tp6底层源码》2019/
-https://www.jucaizhan.com/2019-06-30/京峰教育《Linux运维工程师》2019/
-https://www.jucaizhan.com/2019-06-30/千锋教育《Go语言教程》2019/
-https://www.jucaizhan.com/2019-06-30/网易云课堂《ThinkPHP5 第二季：实战开发企业站》2019/
-https://www.jucaizhan.com/2019-06-30/黑马程序员《软件测试零基础入门》2018/
-https://www.jucaizhan.com/2019-06-29/2019千锋Python超详细入门教程/
-https://www.jucaizhan.com/2019-06-29/Zinx-Golang轻量级服务器-框架教学视频[应用篇]/
-https://www.jucaizhan.com/2019-06-29/Zinx-Golang轻量级服务器-框架教学视频[框架篇]/
-https://www.jucaizhan.com/2019-06-29/数据仓库设计/
-https://www.jucaizhan.com/2019-06-29/Linux运维从小白到大神/
-https://www.jucaizhan.com/2019-06-29/基于Node.js开发个性化全网内容抓取平台视频课程 Node实战教程.js视频/
-https://www.jucaizhan.com/2019-06-29/ssm框架角色权限后台管理系统脚手架开发实战.js视频/
-https://www.jucaizhan.com/2019-06-29/ssm框架实现的学生系统.js视频/
-https://www.jucaizhan.com/2019-06-29/jsp+ssm+mysql开发进销存管理系统实战.js视频/
-https://www.jucaizhan.com/2019-06-29/宁浩网node.js视频/
-https://www.jucaizhan.com/2019-06-29/大数据协作框架/
-https://www.jucaizhan.com/2019-06-29/尚硅谷Android项目之_硅谷商城新/
-https://www.jucaizhan.com/2019-06-29/prometheus企业监控系统视频 (下) /
-https://www.jucaizhan.com/2019-06-29/prometheus企业监控/
-https://www.jucaizhan.com/2019-06-29/prometheus企业监控系统视频 (上)/
-https://www.jucaizhan.com/2019-06-29/深度学习与PyTorch入门实战/
-https://www.jucaizhan.com/2019-06-29/用微信小程序工具轻松设计制作WebApp/
-https://www.jucaizhan.com/2019-06-29/产品经理视频课程/
-https://www.jucaizhan.com/2019-06-29/分布式数据库HBase/
-https://www.jucaizhan.com/2019-06-29/董老师Python教学视频/
-https://www.jucaizhan.com/2019-06-29/Storm流计算之项目篇/
-https://www.jucaizhan.com/2019-06-29/基于Springboot的Thymeleaf精讲/
-https://www.jucaizhan.com/2019-06-29/Spark从入门到精通/
-https://www.jucaizhan.com/2019-06-29/Storm流计算从入门到精通之技术篇/
-https://www.jucaizhan.com/2019-06-29/大数据仓库Hive/
-https://www.jucaizhan.com/2019-06-29/大数据分析实战视频/
-https://www.jucaizhan.com/2019-06-29/尚学堂GO语言全套课程/
-https://www.jucaizhan.com/2019-06-29/美感培养，数据可视化专题强化/
-https://www.jucaizhan.com/2019-06-29/2019最新python全栈21期/
-https://www.jucaizhan.com/2019-06-29/小凡《VueJs组件化基础入门详解》2019/
-https://www.jucaizhan.com/2019-06-29/奇牛学院《C++项目经理带你-零基础手写坦克大战》2019/
-https://www.jucaizhan.com/千峰教育/千峰教育《java容灾项目从入门到实战》2019/
-https://www.jucaizhan.com/慕课网/慕课网《Python爬虫工程师必学 App数据抓取实战》2018/
-https://www.jucaizhan.com/慕课网/慕课网《Python flask构建微信小程序订餐系统》2018/
-https://www.jucaizhan.com/慕课网/慕课网《Nodejs + React 实战开发区块链慕课Dapp 专门为前端工程师设计》2018/
-https://www.jucaizhan.com/慕课网/慕课网《NLP 实践 TensorFlow 打造聊天机器人》2019/
-https://www.jucaizhan.com/慕课网/慕课网《MySQL面试指南》2018/
-https://www.jucaizhan.com/慕课网/慕课网《FFmpeg音视频核心技术精讲与实战》2018/
-https://www.jucaizhan.com/慕课网/慕课网《EasySwoole+ElasticSearch打造高性能小视频服务系统》2019/
-https://www.jucaizhan.com/慕课网/慕课网《韩天峰力荐 Swoole入门到实战打造高性能赛事直播平台》11课_2018/
-https://www.jucaizhan.com/慕课网/慕课网《专为程序员设计的线性代数课程》2019/
-https://www.jucaizhan.com/慕课网/慕课网《JAVA分布式优惠券系统后台 手把手实战开发》2019/
-https://www.jucaizhan.com/极客时间/极客时间《快速上手Kotlin开发》2018/
-https://www.jucaizhan.com/其它/《React Native电商项目实战》2017/
-https://www.jucaizhan.com/其它/hcoder《uni-app 前后端实战课 - 《悦读》》2018/
-https://www.jucaizhan.com/其它/hcoder《uni-app 零基础到实战课程》2018/
-https://www.jucaizhan.com/优效学院/优效学院《高级java架构师-项目实战篇》2018/
-https://www.jucaizhan.com/慕课网/慕课网《全新升级 Kotlin系统入门与进阶》2018/
-https://www.jucaizhan.com/慕课网/158_慕课网《学习Hyperledger_Fabric实战联盟链》2018/
-https://www.jucaizhan.com/慕课网/157_慕课网《React服务器渲染原理解析与实践》2018/
