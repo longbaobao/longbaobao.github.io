@@ -1,0 +1,265 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="description" content="幂次学院《机器学习365天特训营 - 第二期》2018"><meta name="keywords" content="综合,人工智能,机器学习,幂次学院"><meta name="author" content="巨菜站,undefined"><meta name="copyright" content="巨菜站"><link rel="alternate" href="/atom.xml" title="巨菜站" type="application/atom+xml"><meta name="description" content="&lt;p&gt;『课程目录』:&lt;br&gt;第一章&lt;br&gt;开始之前&lt;br&gt;选修&lt;br&gt;        1.1 课程简介与机器学习发展史&lt;/p&gt;
+&lt;p&gt;第二章&lt;br&gt;线性代数基础&lt;br&gt;选修&lt;br&gt;        2.1 线性代数（一）&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;2.2 线性代数（二）
+
+2.3 线性代数（三）
+
+2.4 线性代数（四）
+
+2.5 线性代数（五）
+&lt;/code&gt;&lt;/pre&gt;"><title>幂次学院《机器学习365天特训营 - 第二期》2018 | 巨菜站_综合,人工智能,机器学习,幂次学院</title><link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css?version=1.5.3"><link rel="dns-prefetch" href="https://cdn.staticfile.org"><link rel="dns-prefetch" href="https://cdn.bootcss.com"><link rel="dns-prefetch" href="https://creativecommons.org"><link rel="stylesheet" type="text/css" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script><script src="https://unpkg.com/blueimp-md5@latest/js/md5.min.js"></script><link rel="dns-prefetch" href="https://hm.baidu.com"><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3f2224e84fb41c8beaba0224b5142794";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();</script><link rel="dns-prefetch" href="https://www.google-analytics.com"><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-121920923-2', 'auto');
+ga('send', 'pageview');</script><script>(function(m, ei, q, i, a, j, s) {
+    m[i] = m[i] || function() {
+        (m[i].a = m[i].a || []).push(arguments)
+    };
+    j = ei.createElement(q),
+        s = ei.getElementsByTagName(q)[0];
+    j.async = true;
+    j.charset = 'UTF-8';
+    j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+    s.parentNode.insertBefore(j, s);
+})(window, document, 'script', '_MEIQIA');
+_MEIQIA('entId', 124369);</script><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  localSearch: {"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}"},"path":"search.xml"}
+} </script></head><body><canvas class="fireworks"></canvas><i class="fa fa-arrow-right" id="toggle-sidebar" aria-hidden="true"></i><div id="sidebar"><div class="toggle-sidebar-info text-center"><span data-toggle="切换文章详情">切换站点概览</span><hr></div><div class="sidebar-toc"><div class="sidebar-toc__title">目录</div><div class="sidebar-toc__progress"><span class="progress-notice">你已经读了</span><span class="progress-num">0</span><span class="progress-percentage">%</span><div class="sidebar-toc__progress-bar"></div></div><div class="sidebar-toc__content"></div></div><div class="author-info hide"><div class="author-info__avatar text-center"><img src="http://blog.fueson.top/avatar/me.jpg?imageMogr2/thumbnail/200x200&gt;/gravity/Center/crop/200x200/format/jpg/blur/1x0/quality/75|imageslim"></div><div class="author-info__name text-center">巨菜站</div><div class="author-info__description text-center">资源下载，百度资源，教育资源</div><hr><div class="author-info-articles"><a class="author-info-articles__archives article-meta" href="/archives"><span class="pull-left">文章</span><span class="pull-right">513</span></a><a class="author-info-articles__tags article-meta" href="/tags"><span class="pull-left">标签</span><span class="pull-right">496</span></a><a class="author-info-articles__categories article-meta" href="/categories"><span class="pull-left">分类</span><span class="pull-right">53</span></a></div></div><div class="unit"><div class="heart"><div class="heart-piece-0"></div><div class="heart-piece-1"></div><div class="heart-piece-2"></div><div class="heart-piece-3"></div><div class="heart-piece-4"></div><div class="heart-piece-5"></div><div class="heart-piece-6"></div><div class="heart-piece-7"></div><div class="heart-piece-8"></div></div><p class="anime-title"><a href="https://www.jucaizhan.com/" target="_blank">感谢访问本站 ^_^</a></p><div class="email-title"><i class="fa fa-telegram" style="margin-right: 14px"></i><a href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&amp;email=908934816@qq.com" target="_blank">失效连接提交</a></div></div></div><div id="content-outer"><div id="top-container" style="background-image: url(http://blog.fueson.top/bg/saber.jpg)"><div id="page-header"><span class="pull-left"> <a id="site-name" href="/">巨菜站</a></span><i class="fa fa-bars toggle-menu pull-right" aria-hidden="true"></i><span class="pull-right menus"><a class="site-page" href="/">主页</a><a class="site-page" href="/archives">文章总览</a><a class="site-page" href="/about">关于我们</a><a class="site-page" href="/categories">分类</a><a class="site-page" href="/tags">标签</a><a class="site-page" href="/gallery">个人相册</a></span></div><div id="post-info"><div id="post-title">幂次学院《机器学习365天特训营 - 第二期》2018</div><div id="post-meta"><time class="post-meta__date"><i class="fa fa-calendar" aria-hidden="true"></i> 2019-07-23</time><span class="post-meta__separator">|</span><i class="fa fa-inbox post-meta__icon" aria-hidden="true"></i><a class="post-meta__categories" href="/categories/人工智能研发攻城狮/">人工智能研发攻城狮</a><div class="post-meta-wordcount"><span>字数总计: </span><span class="word-count">1,845</span><span class="post-meta__separator">|</span><span>阅读时长: 6 分钟</span></div></div></div></div><div class="layout" id="content-inner"><article id="post"><div id="post-content"><p>『课程目录』:<br>第一章<br>开始之前<br>选修<br>        1.1 课程简介与机器学习发展史</p>
+<p>第二章<br>线性代数基础<br>选修<br>        2.1 线性代数（一）</p>
+<pre><code>2.2 线性代数（二）
+
+2.3 线性代数（三）
+
+2.4 线性代数（四）
+
+2.5 线性代数（五）
+</code></pre><a id="more"></a> 
+<blockquote class="blockquote-center"><br>请支持原版！课程官方链接：<a href="https://mici.jiqishidai.com/site/course_introduction?id=8" target="_blank" rel="noopener">https://mici.jiqishidai.com/site/course_introduction?id=8</a></blockquote><br>
+
+<p>第三章<br>概率论基础<br>选修<br>        3.1 概率论（一）</p>
+<pre><code>3.2 概率论（二）
+
+3.3 概率论（三）
+
+3.4 概率论（四）
+</code></pre><p>第四章<br>Visual Studio Code使用<br>选修<br>        4.1 Visual Studio Code使用（一）</p>
+<p>第一章<br>机器学习简介<br>必修<br>        1.1 引言、基本术语、假设空间</p>
+<pre><code>1.2 归纳偏好、发展历程、应用现状
+</code></pre><p>第二章<br>模型评估与选择<br>必修<br>        2.1 经验误差与过拟合</p>
+<pre><code>2.2 评估方法（留出法，交叉验证法，自助法）
+
+2.3 评估法代码分析
+
+2.4 性能度量（混淆矩阵 ，准确率，精确度，敏感度，特异度，F1 score）
+</code></pre><p>第三章<br>线性模型<br>必修<br>        3.1 线性回归（一）</p>
+<pre><code>3.2 线性回归（二）
+
+3.3 线性回归（三）
+
+3.4 线性回归（四）
+
+3.5 逻辑回归（一）
+
+3.6 逻辑回归（二）
+</code></pre><p>第四章<br>决策树<br>必修<br>        4.1 划分选择与算法基本思想（一）</p>
+<pre><code>4.2 划分选择与算法基本思想（二）
+
+4.3 代码分析与KNN
+
+4.4 机器学习中距离和相似性度量方法概述
+</code></pre><p>第五章<br>数据预处理<br>必修<br>        5.1 处理缺失数据，处理类别数据</p>
+<pre><code>5.2 数据标准化与归一化
+
+5.3 特征选择
+
+5.4 特征排序，plot_decision_regions函数讲解
+</code></pre><p>第六章<br>支持向量机<br>必修<br>        6.1 使用支持向量机最大化分类间隔</p>
+<pre><code>6.2 SVM非线性分类
+</code></pre><p>第七章<br>神经网络<br>必修<br>        7.1 神经网络基础知识</p>
+<pre><code>7.2 神经网络（一）
+
+7.3 神经网络（二）
+</code></pre><p>第八章<br>深度学习<br>必修<br>        8.1 卷积神经网络CNN基本原理</p>
+<pre><code>8.2 开源深度学习框架与常见卷积网络模型
+
+8.3 基本分类（一）
+
+8.4 基本分类（二）
+
+8.5 文本分类
+
+8.6 回归
+
+8.7 过拟合与欠拟合
+
+8.8 模型的保存与恢复
+
+8.9  使用CNN图像识别
+
+8.10 使用CNN识别图像2
+
+8.11 循环神经网络
+
+8.12 自然语言处理
+
+8.13 自然语言处理2
+
+8.14 自然语言处理3
+
+8.15 LSTM例子
+</code></pre><p>第九章<br>贝叶斯分类器<br>必修<br>        9.1 极大似然估计</p>
+<pre><code>9.2 朴素贝叶斯分类器
+
+9.3 朴素贝叶斯2
+
+9.4 朴素贝叶斯3
+
+9.5 朴素贝叶斯4
+
+9.6 EM算法
+</code></pre><p>第十章<br>集成学习<br>必修<br>        10.1 集成学习概述</p>
+<pre><code>10.2 Bagging, Boosting, Stacking-1
+
+10.3 Bagging, Boosting, Stacking-2
+
+10.4 xgboost例子
+
+10.5 xgboost2
+</code></pre><p>第一十一章<br>聚类<br>必修<br>        11.1 k-means聚类</p>
+<pre><code>11.2 层次聚类
+
+11.3 层次聚类2
+
+11.4 密度聚类
+</code></pre><p>第一十二章<br>降维与度量学习<br>必修<br>        12.1 主成分分析</p>
+<pre><code>12.2 主成分分析2
+
+12.3 LDA降维1
+
+12.4 LDA降维2
+
+12.5 非线性PCA，流形学习，度量学习
+
+12.6 非线性PCA,流形学习,度量学习2
+
+12.7 综合应用-文本降维与聚类
+
+12.8 综合应用-文本降维与聚类2
+</code></pre><p>第一十三章<br>特征选择与稀疏学习<br>必修<br>        13.1 子集搜索与评价</p>
+<pre><code>13.2 子集搜索与评价2
+
+13.3 过滤式选择
+
+13.4 包裹式选择，嵌入式选择与L_1正则化
+
+13.5 稀疏表示与字典学习
+
+13.6 Python特征选择
+</code></pre><p>第一十四章<br>计算学习理论<br>必修<br>        14.1 基础知识</p>
+<pre><code>14.2 PAC学习与有限假设空间
+
+14.3 VC维、Rademacher复杂度
+
+14.4 稳定性
+</code></pre><p>第一十五章<br>半监督学习<br>必修<br>        15.1 生成式等方法基本理论</p>
+<pre><code>15.2 基本理论2
+
+15.3 python接口1
+
+15.4 python接口2
+
+15.5 python接口3
+</code></pre><p>第一十六章<br>概率图模型<br>必修<br>        16.1 隐马尔可夫模型</p>
+<pre><code>16.2 马尔可夫随机场
+
+16.3 条件随机场
+
+16.4 学习与推断（变量消去、信念传播）
+
+16.5 近似推断（MCMC采样，变分推断）
+
+16.6 话题模型
+</code></pre><p>第一十七章<br>规则学习<br>必修<br>        17.1 基本概念</p>
+<pre><code>17.2 序贯覆盖
+
+17.3 剪枝优化
+
+17.4 一阶规则学习
+
+17.5 归纳逻辑程序设计（最小一般泛化，逆归结）
+</code></pre><p>第一十八章<br>强化学习<br>必修<br>        18.1 任务与奖赏</p>
+<pre><code>18.2 K-摇臂赌博机（探索与利用，ε-贪心，Softmax）
+
+18.3 有模型学习（策略评估，策略改进，策略迭代与值迭代）
+
+18.4 免模型学习（蒙特卡罗强化学习，时序差分学习）
+
+18.5 值函数近似
+
+18.6 模仿学习（直接模仿学习，逆强化学习）
+</code></pre><p>第一十九章<br>增量学习<br>必修<br>        19.1 被动攻击学习（梯度下降量的抑制，被动攻击分类，被动攻击回归）</p>
+<pre><code>19.2 适应正则化学习（参数分布的学习，适应正则化分类，适应正则化回归）
+
+19.3 增量随机森林
+</code></pre><p>第二十章<br>迁移学习<br>必修<br>        20.1 迁移学习简介（什么是迁移学习、迁移学习VS传统机器学习，应用领域）</p>
+<pre><code>20.2 迁移学习的分类方法（一）按迁移情境，按特征空间
+
+20.3 迁移学习的分类方法（二）按特征空间，按迁移方法
+
+20.4 代表性研究成果（域适配问题，多源迁移学习，深度迁移学习）
+</code></pre><p>第二十一章<br>主动学习<br>必修<br>        21.1 主动学习简介</p>
+<pre><code>21.2 主动学习思想
+
+21.3 主动学习 VS 半监督学习
+
+21.4 主动学习 VS Self-Learning
+</code></pre><p>第二十二章<br>多任务学习<br>必修<br>        22.1 使用最小二乘回归的多任务学习</p>
+<pre><code>22.2 使用最小二乘概率分类器的多任务学习，多次维输出函数的学习
+</code></pre><p>第二十三章<br>机器学习应用场景介绍<br>必修<br>        23.1 机器学习经典应用场景，头脑风暴：挖掘身边的应用场景</p>
+<p>第二十四章<br>特征提取<br>必修<br>        24.1 时域特征</p>
+<pre><code>24.2 频域特征
+
+24.3 自动特征提取
+</code></pre><p>第二十五章<br>应用机器学习方法之前的处理<br>必修<br>        25.1 使用机器学习分类</p>
+<pre><code>25.2 机器学习调参
+
+25.3 分类结果展示
+</code></pre><p>第二十六章<br>机器学习项目实战<br>必修<br>        26.1 O2O优惠券使用预测</p>
+<pre><code>26.2 鲍鱼年龄预测
+
+26.3 机器恶意流量识别
+
+26.4 根据用户轨迹进行精准营销
+
+26.5 根据搜狗输入进行用户画像
+
+26.6 美国债务违约预测
+</code></pre><div class="post-copyright"><br>    <div class="post-copyright__author"><br>      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span><br>    </div><br></div>
+
+<blockquote class="blockquote-center"><br><img src="http://qr.liantu.com/api.php?&amp;w=180&amp;text=https://www.510ka.com/details/795A535F" alt="image"><br></blockquote>
+
+</div></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">巨菜站</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://www.jucaizhan.com/2019-07-23/幂次学院《机器学习365天特训营 - 第二期》2018/">https://www.jucaizhan.com/2019-07-23/幂次学院《机器学习365天特训营 - 第二期》2018/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://www.jucaizhan.com" target="_blank">巨菜站</a>！</span></div></div><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/综合/">综合</a><a class="post-meta__tags" href="/tags/人工智能/">人工智能</a><a class="post-meta__tags" href="/tags/机器学习/">机器学习</a><a class="post-meta__tags" href="/tags/幂次学院/">幂次学院</a></div><nav id="pagination"><div class="prev-post pull-left"><a href="/2019-07-23/老男孩教育《Go语言第四期》2019/"><i class="fa fa-chevron-left">  </i><span>老男孩教育《Go语言第四期》2019</span></a></div><div class="next-post pull-right"><a href="/2019-07-23/慕课网《纯正商业级应用 Node.js Koa2开发微信小程序服务端》2019/"><span>慕课网《纯正商业级应用 Node.js Koa2开发微信小程序服务端》2019</span><i class="fa fa-chevron-right"></i></a></div></nav><div id="gitalk-container"></div><script>var gitalk = new Gitalk({
+  clientID: '58c55a7244de19e196b7',
+  clientSecret: '36193ea6255115da581cda3f178fa9dcccfe7873',
+  repo: 'blog',
+  owner: 'longbaobao',
+  admin: 'longbaobao',
+  id: md5(decodeURI(location.pathname)),
+  distractionFreeMode: 'true',
+})
+gitalk.render('gitalk-container')</script></div></div><footer><div class="layout" id="footer"><div class="copyright">&copy;2018 - 2019 By 巨菜站</div><div class="icp"><a><span>冀ICP备16022574号-1</span></a></div><div class="busuanzi"><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_page_pv"><i class="fa fa-file-o"></i><span id="busuanzi_value_page_pv"></span><span></span></span></div></div></footer><i class="fa fa-arrow-up" id="go-up" aria-hidden="true"></i><script src="/js/third-party/anime.min.js"></script><script src="/js/third-party/jquery.min.js"></script><script src="/js/third-party/jquery.fancybox.min.js"></script><script src="/js/third-party/velocity.min.js"></script><script src="/js/third-party/velocity.ui.min.js"></script><script src="/js/utils.js?version=1.5.3"></script><script src="/js/fancybox.js?version=1.5.3"></script><script src="/js/sidebar.js?version=1.5.3"></script><script src="/js/copy.js?version=1.5.3"></script><script src="/js/fireworks.js?version=1.5.3"></script><script src="/js/transition.js?version=1.5.3"></script><script src="/js/scroll.js?version=1.5.3"></script><script src="/js/head.js?version=1.5.3"></script></body></html>
