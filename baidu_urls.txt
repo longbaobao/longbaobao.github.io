@@ -1,100 +1,100 @@
-https://www.jucaizhan.com/2019-07-26/尚硅谷《大数据项目之电商数仓系统 2019年2月IDEA版》2019/
+https://www.jucaizhan.com/2019-08-05/开课吧《ECMAScript6.0》/
+https://www.jucaizhan.com/2019-08-05/猎豹网校《DirectX 游戏开发终极指南》/
+https://www.jucaizhan.com/2019-08-05/起易在线教育《微信小程序 - 美甲商城项目实战开发》/
+https://www.jucaizhan.com/2019-08-05/博学谷《Android开发基础V3.0安卓》/
+https://www.jucaizhan.com/2019-08-04/万门大学《微软办公软件国际认证》/
+https://www.jucaizhan.com/2019-08-04/万门大学 《PPT整容计划》/
+https://www.jucaizhan.com/2019-08-04/开课吧《完整大数据生态体系精讲》/
+https://www.jucaizhan.com/2019-08-04/开课吧.廖雪峰《Python 商业爬虫课程（1-3期完整版）》/
+https://www.jucaizhan.com/2019-08-04/开课吧《百万架构师成长之路》/
+https://www.jucaizhan.com/2019-08-04/新青年上海交大21期《Java实战训练营Java10编程内部视频0-42》/
+https://www.jucaizhan.com/2019-08-04/翡翠教育《2019前端直播课》/
+https://www.jucaizhan.com/2019-08-04/腾讯课堂《K8S容器云平台工程师》/
+https://www.jucaizhan.com/2019-08-04/龙果学院《大数据DMP画像系统》/
+https://www.jucaizhan.com/2019-08-04/天善学院《商业分析全攻略——用数据分析方法解决商业问题》未完成/
+https://www.jucaizhan.com/2019-08-04/数据分析《数据可视化之tebleau进阶》/
+https://www.jucaizhan.com/2019-08-04/易锦大学《Android逆向安全培训班（价值3880元）》/
+https://www.jucaizhan.com/2019-08-04/达内教育《2019年达内培训最新web前端》/
+https://www.jucaizhan.com/2019-08-04/路飞学诚《Python开发21天入门必备系列》/
+https://www.jucaizhan.com/2019-08-04/麦子学院《人工智能与机器学习 2999元》/
+https://www.jucaizhan.com/2019-08-04/数据分析《数据可视化之R语言》/
+https://www.jucaizhan.com/2019-08-04/经管之家《CDA数据分析师 脱产就业班》/
+https://www.jucaizhan.com/2019-08-04/北风网《大数据数据分析与挖掘高级工程师第三期》/
+https://www.jucaizhan.com/2019-08-03/慕课网《聚焦Python分布式爬虫必学框架Scrapy 打造搜索引擎》/
+https://www.jucaizhan.com/2019-08-03/千峰教育.达摩院《Java从零开始系列-从零开始学编程 2019》/
+https://www.jucaizhan.com/2019-08-03/网易云课堂《Excel Power Query教程_数据整理》/
+https://www.jucaizhan.com/2019-08-03/网易云课堂《让你的图表动起来 - 动态图表大全》/
+https://www.jucaizhan.com/2019-08-03/若泽数据《Flink生产最佳实践第一季》/
+https://www.jucaizhan.com/2019-08-03/若泽数据《MySQL主从复制及如何落地大数据平台》/
+https://www.jucaizhan.com/2019-08-03/若泽数据《大数据人工智能线上实战班第五期》/
+https://www.jucaizhan.com/2019-08-03/若泽数据《大数据人工智能零基础班第7期》/
+https://www.jucaizhan.com/2019-08-03/高高手《电商设计全能班（第2期）》/
+https://www.jucaizhan.com/2019-08-03/高高手《神奇的VI贴图》/
+https://www.jucaizhan.com/2019-08-03/高高手《设计师基础班：从0进阶，设计师第1步》/
+https://www.jucaizhan.com/2019-08-03/若泽数据《实战课 2019》/
+https://www.jucaizhan.com/2019-08-03/万门大学《商业数据分析特训班》/
+https://www.jucaizhan.com/2019-08-03/网易云课堂.微专业《数据分析师python》/
+https://www.jucaizhan.com/2019-08-03/网易云课堂《Excel从入门到忘记》/
+https://www.jucaizhan.com/2019-08-03/麦子学院《产品经理课程入门到精通》/
+https://www.jucaizhan.com/2019-08-03/麦子学院《Java开发工程师》/
+https://www.jucaizhan.com/2019-08-02/慕课网《前端跳槽必备 揭秘一线互联网公司高级前端JavaScript面试》/
+https://www.jucaizhan.com/2019-08-02/六星教育《C++语言高薪大神就业班 2019年》/
+https://www.jucaizhan.com/2019-08-02/募格学术《LaTeX从入门到精通》/
+https://www.jucaizhan.com/2019-08-02/唐宇迪《深度学习30天系统实训》/
+https://www.jucaizhan.com/2019-08-02/网易云课堂 《Python开发实战：面向对象高级篇（价值199元）》/
+https://www.jucaizhan.com/2019-08-02/撩课学堂《Python-GUI编程-PyQt5-2018年网易Y课堂》/
+https://www.jucaizhan.com/2019-08-02/马哥教育《马哥带你3天玩转Docker容器实战》/
+https://www.jucaizhan.com/2019-08-02/马哥教育《马哥带你七天精通kubernetes(K8s)》/
+https://www.jucaizhan.com/2019-08-02/黑马程序员《Python数据结构与算法》/
+https://www.jucaizhan.com/2019-08-02/高高手《AE进阶：魔法特效案例教程》/
+https://www.jucaizhan.com/2019-08-02/高高手《色彩设计法则》/
+https://www.jucaizhan.com/2019-08-02/高高手《（价值149元）Martin·PS软件系统教程 - Adobe官方认证设计讲师》/
+https://www.jucaizhan.com/2019-08-02/高高手《（价值128元）Martin·AI软件系统教程 - Adobe官方认证设计讲师》/
+https://www.jucaizhan.com/慕课网/慕课网《Python主讲移动端自动化测试框架Appium 从基础到项目实战》2018/
+https://www.jucaizhan.com/高高手/高高手《Sketch：UI设计利器》/
+https://www.jucaizhan.com/2019-07-28/EDC设计研究中心《UI设计进阶班（181107）》/
+https://www.jucaizhan.com/千峰教育/千峰教育《微信小程序视频全套开发》/
+https://www.jucaizhan.com/2019-07-28/扣丁学堂《C语言开发培训基础》/
+https://www.jucaizhan.com/马哥教育/马哥教育《Nginx实战web服务企业实战 2019全新》2019/
+https://www.jucaizhan.com/高高手/高高手《商业UI设计：全链式设计方法与流程》/
+https://www.jucaizhan.com/网易云课堂/网易云课堂《ThinkPHP5+Apicoud+vue商城APP实战》2019/
+https://www.jucaizhan.com/北风网/北风网《人工智能顶级实战工程师就业》2018/
+https://www.jucaizhan.com/2019-07-27/邵飞《带你系统学UI交互设计》/
+https://www.jucaizhan.com/2019-07-27/张双《UI界面设计系统教程：组件&页面 2018》/
+https://www.jucaizhan.com/慕课网/慕课网《Python升级3.6 强力Django+杀手级Xadmin打造在线教育平台 重制版》2019/
+https://www.jucaizhan.com/小象学院/小象学院《深度学习之TensorFlow高级实战》第一期 2019/
+https://www.jucaizhan.com/网易云课堂/网易云课堂.侯捷《C++内存管理》2018/
+https://www.jucaizhan.com/网易云课堂/网易云课堂《72课跟李锐学Excel从入门到精通（价值99.99元）》/
+https://www.jucaizhan.com/2019-07-27/图灵学院《Java高级架构师-互联网企业级实战VIP》2018/
+https://www.jucaizhan.com/网易云课堂/网易云课堂《Excel Power Pivot建模分析_基础》/
+https://www.jucaizhan.com/2019-07-27/优就业《Web全栈系统班-第四阶段 2018IT培训事业部1210》2018/
+https://www.jucaizhan.com/网易云课堂/网易云课堂《Power BI在搜索引擎营销SEM的应用》2017/
+https://www.jucaizhan.com/课工场/课工场《基于Dubbox的微服实战》2019/
+https://www.jucaizhan.com/慕课网/慕课网《微信小程序入门与实战 常用组件API开发技巧项目实战 》2019/
+https://www.jucaizhan.com/尚硅谷/尚硅谷《大数据项目之电商数仓系统 2019年2月IDEA版》2019/
 https://www.jucaizhan.com/2019-07-26/传智播客《大数据就业班》2016/
-https://www.jucaizhan.com/2019-07-26/黑马程序员《软件测试学习2019》2019/
-https://www.jucaizhan.com/2019-07-26/高高手《手写体字形设计与表现》2018/
-https://www.jucaizhan.com/2019-07-26/网易云课堂.微专业《AI工程师 计算机视觉》2019/
+https://www.jucaizhan.com/黑马程序员/黑马程序员《软件测试学习2019》2019/
+https://www.jucaizhan.com/高高手/高高手《手写体字形设计与表现》2018/
+https://www.jucaizhan.com/网易云课堂/网易云课堂.微专业《AI工程师 计算机视觉》2019/
 https://www.jucaizhan.com/2019-07-26/风舞烟《数据可视化工具Tableau商业智能与可视化应用实战》2019/
 https://www.jucaizhan.com/2019-07-26/《Tableau全球官方技术培训视频（中文+英文）》2019/
-https://www.jucaizhan.com/2019-07-26/网易云课堂.龙良曲《深度学习与PyTorch入门实战教程（价值399元）》2019/
-https://www.jucaizhan.com/2019-07-26/网易云课堂.龙良曲《深度学习与TensorFlow 2入门实战》2019 /
-https://www.jucaizhan.com/2019-07-26/尚硅谷《大数据项目之推荐系统2019年2月IDEA版》2019/
-https://www.jucaizhan.com/2019-07-26/高高手《UI图标设计案例》2019/
+https://www.jucaizhan.com/网易云课堂/网易云课堂.龙良曲《深度学习与PyTorch入门实战教程（价值399元）》2019/
+https://www.jucaizhan.com/网易云课堂/网易云课堂.龙良曲《深度学习与TensorFlow 2入门实战》2019 /
+https://www.jucaizhan.com/尚硅谷/尚硅谷《大数据项目之推荐系统2019年2月IDEA版》2019/
+https://www.jucaizhan.com/高高手/高高手《UI图标设计案例》2019/
 https://www.jucaizhan.com/2019-07-26/光环大数据《一线大厂企业内训及数据分析》2019/
 https://www.jucaizhan.com/2019-07-26/橘子老师《PS教程超级合辑【1000集冠军课】》2019/
-https://www.jucaizhan.com/2019-07-26/千锋教育《SpringBoot实战开发2018年》2018/
-https://www.jucaizhan.com/2019-07-26/牛客网《算法提升班》2018/
+https://www.jucaizhan.com/千峰教育/千锋教育《SpringBoot实战开发2018年》2018/
+https://www.jucaizhan.com/牛课网/牛客网《算法提升班》2018/
 https://www.jucaizhan.com/2019-07-26/享学课堂《深入浅出java并发编程》2019/
-https://www.jucaizhan.com/2019-07-26/开课吧.廖雪峰《大数据分析工程师》2019/
-https://www.jucaizhan.com/2019-07-25/慕课网《Django2.0+小程序技术打造微信小程序助手》2019/
+https://www.jucaizhan.com/开课吧/开课吧.廖雪峰《大数据分析工程师》2019/
+https://www.jucaizhan.com/慕课网/慕课网《Django2.0+小程序技术打造微信小程序助手》2019/
 https://www.jucaizhan.com/2019-07-25/橘子老师《AE教程超级合辑【400+集冠军课】》2019/
 https://www.jucaizhan.com/2019-07-25/《大数据生态体系精讲》2019 /
 https://www.jucaizhan.com/2019-07-25/邹神《云计算HCIE直通车第二期》2019/
-https://www.jucaizhan.com/2019-07-25/老男孩教育《上海python脱产班vip》2018/
+https://www.jucaizhan.com/老男孩教育/老男孩教育《上海python脱产班vip》2018/
 https://www.jucaizhan.com/2019-07-25/明日学院 《Java从入门到精通（第5版）》2019/
 https://www.jucaizhan.com/2019-07-25/尚硅谷《大数据项目之Flink理论及项目》2019/
-https://www.jucaizhan.com/2019-07-25/博学谷《python8天入门训练营第三期》2019/
-https://www.jucaizhan.com/2019-07-25/博学谷《Java基础精讲（入门篇）》2019/
-https://www.jucaizhan.com/2019-07-25/千峰教育.Java达摩院《Java服务网格化系列-Kubernetes》2019/
-https://www.jucaizhan.com/2019-07-25/千峰教育.Java达摩院《Redis从入门到大师》2019/
-https://www.jucaizhan.com/2019-07-25/泰州在线《Unity3d 动作游戏全攻略》2014/
-https://www.jucaizhan.com/2019-07-25/国嵌《精通嵌入式第1季-嵌入式的童年》2017/
-https://www.jucaizhan.com/2019-07-25/国嵌《精通嵌入式第2季-裸奔吧arm》2017/
-https://www.jucaizhan.com/2019-07-25/国嵌《精通嵌入式第3季-小应用大智慧》2017/
-https://www.jucaizhan.com/2019-07-25/国嵌《精通嵌入式第4季-内核驱动奥秘多》2017/
-https://www.jucaizhan.com/2019-07-25/蒋忠洲《大数据预热系列》2019/
-https://www.jucaizhan.com/2019-07-25/上海悠悠《python接口测试第二期》2018/
-https://www.jucaizhan.com/2019-07-25/小象学院《机器学习算法精讲》2018/
-https://www.jucaizhan.com/极客时间/极客时间《玩转VS Code》2018/
-https://www.jucaizhan.com/极客时间/极客时间《Vue开发实战》2019/
-https://www.jucaizhan.com/极客时间/极客时间《趣谈Linux操作系统》2019 前49章 /
-https://www.jucaizhan.com/极客时间/极客时间《iOS开发高手课》2019/
-https://www.jucaizhan.com/极客时间/极客时间《从0开始做增长》2019/
-https://www.jucaizhan.com/极客时间/极客时间《大规模数据处理实战》2019 前37章 /
-https://www.jucaizhan.com/极客时间/极客时间《许式伟的架构课》2019 前26章/
-https://www.jucaizhan.com/极客时间/极客时间《白话法律42讲》2018/
-https://www.jucaizhan.com/极客时间/极客时间《Go语言从入门到实战》2019 /
-https://www.jucaizhan.com/极客时间/极客时间《软件工程之美》2019/
-https://www.jucaizhan.com/极客时间/极客时间《Java并发编程实战》2019 /
-https://www.jucaizhan.com/极客时间/极客时间《玩转Spring全家桶》2019 /
-https://www.jucaizhan.com/极客时间/极客时间《面试现场》2019 /
-https://www.jucaizhan.com/极客时间/极客时间《重学前端》2019 /
-https://www.jucaizhan.com/极客时间/极客时间《TensorFlow快速入门与实战》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《代码精进之路》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《10x程序员工作法》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《数据分析实战45讲》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《玩转Git三剑客》2018/
-https://www.jucaizhan.com/极客时间/极客时间《Android开发高手课》2018/
-https://www.jucaizhan.com/极客时间/极客时间《程序员的数学基础课》2018/
-https://www.jucaizhan.com/极客时间/极客时间《Linux性能优化实战》2018/
-https://www.jucaizhan.com/极客时间/极客时间《MySQL实战45讲》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《Nginx核心知识100讲》2018/
-https://www.jucaizhan.com/极客时间/极客时间《从0开始学大数据》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《数据结构与算法之美》2018/
-https://www.jucaizhan.com/极客时间/极客时间《深入剖析Kubernetes》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《如何设计一个秒杀系统》2018/
-https://www.jucaizhan.com/极客时间/极客时间《从0开始学微服务》2018/
-https://www.jucaizhan.com/极客时间/极客时间《Go语言核心36讲》2018/
-https://www.jucaizhan.com/极客时间/极客时间《程序员进阶攻略》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《邱岳的产品实战》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《深入拆解Java虚拟机》2018/
-https://www.jucaizhan.com/极客时间/极客时间《快速上手Kotlin开发》2018/
-https://www.jucaizhan.com/极客时间/极客时间《持续交付36讲》2018/
-https://www.jucaizhan.com/极客时间/极客时间《软件测试52讲》2018/
-https://www.jucaizhan.com/极客时间/极客时间《React实战进阶45讲》2018/
-https://www.jucaizhan.com/极客时间/极客时间《深度学习应用实践60讲》 2018/
-https://www.jucaizhan.com/极客时间/极客时间《零基础学Python》2018/
-https://www.jucaizhan.com/极客时间/极客时间《机器学习40讲》2018/
-https://www.jucaizhan.com/极客时间/极客时间《从0开始学游戏开发》2018/
-https://www.jucaizhan.com/极客时间/极客时间《趣谈网络协议》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《微服务架构实战160讲》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《Java核心技术36讲》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《从0开始学架构》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《硅谷产品实战36讲》2018/
-https://www.jucaizhan.com/极客时间/极客时间《技术领导力300讲》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《9小时搞定微信小程序开发》2018/
-https://www.jucaizhan.com/极客时间/极客时间《深入浅出区块链》2018/
-https://www.jucaizhan.com/极客时间/极客时间《推荐系统三十六式》2018/
-https://www.jucaizhan.com/极客时间/极客时间《微服务架构核心20讲》2018/
-https://www.jucaizhan.com/极客时间/极客时间《赵成的运维体系管理课》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《人工智能基础课》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《如何做好一场技术演讲》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《邱岳的产品手记》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《朱赟的技术管理课》2018/
-https://www.jucaizhan.com/极客时间/极客时间《左耳听风》2018/
-https://www.jucaizhan.com/极客时间/极客时间《AI技术内参》2018/
-https://www.jucaizhan.com/极客时间/极客时间《技术与商业案例解读》2018 /
-https://www.jucaizhan.com/极客时间/极客时间《深入浅出gRPC》2018/
-https://www.jucaizhan.com/2019-07-23/牛客网《(左神的算法课程和牛客网项目课程)》2019/
-https://www.jucaizhan.com/2019-07-23/51CTO学院.微职位《Python自动化运维微职位》2019/
-https://www.jucaizhan.com/2019-07-23/幂次学院《数据结构与算法365天特训营》2019 前17章/
-https://www.jucaizhan.com/2019-07-23/极客时间《Linux实战技能100讲》2019 前22章/
+https://www.jucaizhan.com/博学谷/博学谷《python8天入门训练营第三期》2019/
+https://www.jucaizhan.com/博学谷/博学谷《Java基础精讲（入门篇）》2019/
+https://www.jucaizhan.com/千峰教育/千峰教育.Java达摩院《Java服务网格化系列-Kubernetes》2019/
