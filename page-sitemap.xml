@@ -56,14 +56,14 @@
     </url>
     
     <url>
-        <loc>https://www.jucaizhan.com/demo/</loc>
+        <loc>https://www.jucaizhan.com/gallery/</loc>
         <lastmod>2019-02-24T07:12:04.086Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://www.jucaizhan.com/gallery/</loc>
+        <loc>https://www.jucaizhan.com/demo/</loc>
         <lastmod>2019-02-24T07:12:04.086Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
