@@ -8,7 +8,79 @@
 
     <url>
         <loc>https://www.jucaizhan.com/2019-08-23/%E6%85%95%E8%AF%BE%E7%BD%91%E3%80%8AReact16.8+Next.js+Koa2%E5%BC%80%E5%8F%91Github%E5%85%A8%E6%A0%88%E9%A1%B9%E7%9B%AE%E3%80%8B2019/</loc>
-        <lastmod>2019-08-21T13:29:52.500Z</lastmod>
+        <lastmod>2019-09-06T08:48:03.533Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8ASpring%20Boot%E4%B8%8EKubernetes%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%9E%E8%B7%B5%E3%80%8B%E6%9B%B4%E6%96%B050/</loc>
+        <lastmod>2019-09-06T08:35:33.841Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/2019-08-27/%E5%BC%80%E8%AF%BE%E5%90%A7%E3%80%8ADesign%20Sprint%204%E5%A4%A9%E8%AE%BE%E8%AE%A1%E8%83%BD%E5%8A%9B%E6%8F%90%E5%8D%87%E9%9B%86%E8%AE%AD%E8%90%A5%E3%80%8B%20copy/</loc>
+        <lastmod>2019-08-23T09:29:58.090Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/2019-08-27/PHP%E4%B8%AD%E6%96%87%E7%BD%91%E3%80%8AWEB%E5%89%8D%E7%AB%AF%E8%AF%BE%E7%A8%8B%E3%80%8B/</loc>
+        <lastmod>2019-08-23T09:29:49.718Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/2019-08-27/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E3%80%8A%E5%A4%A7%E4%BB%99%E5%B8%A6%E4%BD%A0%E5%AD%A6MATLAB%E7%BB%98%E5%9B%BE%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B8%93%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%AD%A3%EF%BC%89%E3%80%8B/</loc>
+        <lastmod>2019-08-23T09:27:21.909Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/2019-08-27/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E3%80%8A%E5%A4%A7%E4%BB%99%E5%B8%A6%E4%BD%A0%E8%BD%BB%E6%9D%BE%E5%85%A5%E9%97%A8MATLAB%EF%BC%88%E7%AC%AC%E4%B8%80%E5%AD%A3%EF%BC%89%E3%80%8B/</loc>
+        <lastmod>2019-08-23T09:26:54.328Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/2019-08-27/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E3%80%8A%E5%A4%A7%E4%BB%99%E5%B8%A6%E4%BD%A0%E5%85%A5%E9%97%A8MATLAB%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E4%BC%98%E5%8C%96%E7%AE%97%E6%B3%95%E4%B8%93%E9%A2%98%E3%80%8B/</loc>
+        <lastmod>2019-08-23T09:24:33.444Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/2019-08-27/%E5%BC%80%E8%AF%BE%E5%90%A7%E3%80%8ADesign%20Sprint%204%E5%A4%A9%E8%AE%BE%E8%AE%A1%E8%83%BD%E5%8A%9B%E6%8F%90%E5%8D%87%E9%9B%86%E8%AE%AD%E8%90%A5%E3%80%8B/</loc>
+        <lastmod>2019-08-23T09:22:06.950Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/2019-08-27/%E8%80%81%E7%94%B7%E5%AD%A9%E6%95%99%E8%82%B2%E3%80%8APython13%E6%9C%9FVIP%20%E5%9F%BA%E7%A1%80%E5%88%B0%E5%89%8D%E7%AB%AF%E3%80%8B/</loc>
+        <lastmod>2019-08-23T09:19:13.217Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/2019-08-27/%E5%8D%9A%E5%AD%A6%E8%B0%B7%E3%80%8A%E5%A4%A7%E5%92%96%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E4%BC%81%E4%B8%9ASEO%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96%E3%80%8B/</loc>
+        <lastmod>2019-08-23T09:19:08.692Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -727,7 +799,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/2019-08-20/%E4%B8%83%E6%9C%88%E5%9C%A8%E7%BA%BF%E3%80%8A%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%20%E7%AC%AC%E4%BA%8C%E6%9C%9F%E3%80%8B/</loc>
+        <loc>https://www.jucaizhan.com/2019-08-20/%E4%B8%83%E6%9C%88%E5%9C%A8%E7%BA%BF%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E7%AC%AC%E4%B8%89%E6%9C%9F%E3%80%8B/</loc>
         <lastmod>2019-08-18T09:03:12.134Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -735,7 +807,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/2019-08-20/%E4%B8%83%E6%9C%88%E5%9C%A8%E7%BA%BF%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E7%AC%AC%E4%B8%89%E6%9C%9F%E3%80%8B/</loc>
+        <loc>https://www.jucaizhan.com/2019-08-20/%E4%B8%83%E6%9C%88%E5%9C%A8%E7%BA%BF%E3%80%8A%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%20%E7%AC%AC%E4%BA%8C%E6%9C%9F%E3%80%8B/</loc>
         <lastmod>2019-08-18T09:03:12.134Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1167,14 +1239,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8ASpring%20Boot%E4%B8%8EKubernetes%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%9E%E8%B7%B5%E3%80%8B%E6%9B%B4%E6%96%B040/</loc>
-        <lastmod>2019-08-10T16:43:15.070Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/2019-08-07/%E6%85%95%E8%AF%BE%E7%BD%91%E3%80%8A%20Google%E8%80%81%E5%B8%88%E4%BA%B2%E6%8E%88%20TensorFlow2.0%20%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6%E3%80%8B%20%E5%89%8D9%E7%AB%A0/</loc>
         <lastmod>2019-08-10T16:43:02.755Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1561,46 +1625,6 @@
     <url>
         <loc>https://www.jucaizhan.com/2019-08-03/%E7%BD%91%E6%98%93%E4%BA%91%E8%AF%BE%E5%A0%82%E3%80%8AExcel%20Power%20Query%E6%95%99%E7%A8%8B_%E6%95%B0%E6%8D%AE%E6%95%B4%E7%90%86%E3%80%8B/</loc>
         <lastmod>2019-08-10T10:38:28.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/2019-08-03/%E8%8B%A5%E6%B3%BD%E6%95%B0%E6%8D%AE%E3%80%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BA%BF%E4%B8%8A%E5%AE%9E%E6%88%98%E7%8F%AD%E7%AC%AC%E4%BA%94%E6%9C%9F%E3%80%8B/</loc>
-        <lastmod>2019-08-10T10:38:16.350Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/2019-08-03/%E8%8B%A5%E6%B3%BD%E6%95%B0%E6%8D%AE%E3%80%8AMySQL%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6%E5%8F%8A%E5%A6%82%E4%BD%95%E8%90%BD%E5%9C%B0%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E3%80%8B/</loc>
-        <lastmod>2019-08-10T10:38:00.806Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/2019-08-03/%E8%8B%A5%E6%B3%BD%E6%95%B0%E6%8D%AE%E3%80%8AFlink%E7%94%9F%E4%BA%A7%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E7%AC%AC%E4%B8%80%E5%AD%A3%E3%80%8B/</loc>
-        <lastmod>2019-08-10T10:37:50.635Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/2019-08-03/%E8%8B%A5%E6%B3%BD%E6%95%B0%E6%8D%AE%E3%80%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%9B%B6%E5%9F%BA%E7%A1%80%E7%8F%AD%E7%AC%AC7%E6%9C%9F%E3%80%8B/</loc>
-        <lastmod>2019-08-10T10:37:39.106Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/2019-08-03/%E8%8B%A5%E6%B3%BD%E6%95%B0%E6%8D%AE%E3%80%8A%E5%AE%9E%E6%88%98%E8%AF%BE%202019%E3%80%8B/</loc>
-        <lastmod>2019-08-10T10:37:25.621Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -2151,7 +2175,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E8%80%81%E7%94%B7%E5%AD%A9%E6%95%99%E8%82%B2/%E8%80%81%E7%94%B7%E5%AD%A9%E6%95%99%E8%82%B2%E3%80%8ALinux%E8%BF%90%E7%BB%B451%E6%9C%9F%E3%80%8B2019/</loc>
+        <loc>https://www.jucaizhan.com/%E8%80%81%E7%94%B7%E5%AD%A9%E6%95%99%E8%82%B2/%E8%80%81%E7%94%B7%E5%AD%A9%E6%95%99%E8%82%B2%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8VIP%E8%A7%86%E9%A2%91%E3%80%8B2019/</loc>
         <lastmod>2019-08-02T11:21:18.886Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2159,7 +2183,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E8%80%81%E7%94%B7%E5%AD%A9%E6%95%99%E8%82%B2/%E8%80%81%E7%94%B7%E5%AD%A9%E6%95%99%E8%82%B2%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8VIP%E8%A7%86%E9%A2%91%E3%80%8B2019/</loc>
+        <loc>https://www.jucaizhan.com/%E8%80%81%E7%94%B7%E5%AD%A9%E6%95%99%E8%82%B2/%E8%80%81%E7%94%B7%E5%AD%A9%E6%95%99%E8%82%B2%E3%80%8ALinux%E8%BF%90%E7%BB%B451%E6%9C%9F%E3%80%8B2019/</loc>
         <lastmod>2019-08-02T11:21:18.886Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2551,7 +2575,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8AJava%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98%E3%80%8B2019%20/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8AJava%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF36%E8%AE%B2%E3%80%8B2018%20/</loc>
         <lastmod>2019-07-25T12:30:15.727Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2559,7 +2583,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8AJava%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF36%E8%AE%B2%E3%80%8B2018%20/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8AJava%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98%E3%80%8B2019%20/</loc>
         <lastmod>2019-07-25T12:30:15.727Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2575,14 +2599,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8ANginx%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86100%E8%AE%B2%E3%80%8B2018/</loc>
-        <lastmod>2019-07-25T12:30:15.727Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8AMySQL%E5%AE%9E%E6%88%9845%E8%AE%B2%E3%80%8B2018%20/</loc>
         <lastmod>2019-07-25T12:30:15.727Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2591,7 +2607,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8ATensorFlow%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98%E3%80%8B2018%20/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8ANginx%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86100%E8%AE%B2%E3%80%8B2018/</loc>
         <lastmod>2019-07-25T12:30:15.727Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2600,6 +2616,14 @@
 
     <url>
         <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8AReact%E5%AE%9E%E6%88%98%E8%BF%9B%E9%98%B645%E8%AE%B2%E3%80%8B2018/</loc>
+        <lastmod>2019-07-25T12:30:15.727Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8ATensorFlow%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98%E3%80%8B2018%20/</loc>
         <lastmod>2019-07-25T12:30:15.727Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2631,7 +2655,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8AGo%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%8336%E8%AE%B2%E3%80%8B2018/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8AGo%E8%AF%AD%E8%A8%80%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E6%88%98%E3%80%8B2019%20/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2639,7 +2663,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8AGo%E8%AF%AD%E8%A8%80%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E6%88%98%E3%80%8B2019%20/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8AGo%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%8336%E8%AE%B2%E3%80%8B2018/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2655,7 +2679,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%AD%A6%E5%BE%AE%E6%9C%8D%E5%8A%A1%E3%80%8B2018/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%81%9A%E5%A2%9E%E9%95%BF%E3%80%8B2019/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2663,7 +2687,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%81%9A%E5%A2%9E%E9%95%BF%E3%80%8B2019/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%AD%A6%E5%BE%AE%E6%9C%8D%E5%8A%A1%E3%80%8B2018/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2679,14 +2703,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E4%BB%A3%E7%A0%81%E7%B2%BE%E8%BF%9B%E4%B9%8B%E8%B7%AF%E3%80%8B2018%20/</loc>
-        <lastmod>2019-07-25T12:30:15.726Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%AD%A6%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E3%80%8B2018/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2695,7 +2711,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E5%AE%9E%E6%88%98%E3%80%8B2019%20%E5%89%8D37%E7%AB%A0%20/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E4%BB%A3%E7%A0%81%E7%B2%BE%E8%BF%9B%E4%B9%8B%E8%B7%AF%E3%80%8B2018%20/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2711,7 +2727,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F%E3%80%8B2018/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E5%AE%9E%E6%88%98%E3%80%8B2019%20%E5%89%8D37%E7%AB%A0%20/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2727,15 +2743,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AE%9E%E6%88%9845%E8%AE%B2%E3%80%8B2018%20/</loc>
-        <lastmod>2019-07-25T12:30:15.726Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E4%B8%89%E5%8D%81%E5%85%AD%E5%BC%8F%E3%80%8B2018/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F%E3%80%8B2018/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2751,7 +2759,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E6%9C%B1%E8%B5%9F%E7%9A%84%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E8%AF%BE%E3%80%8B2018/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E4%B8%89%E5%8D%81%E5%85%AD%E5%BC%8F%E3%80%8B2018/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2759,7 +2767,15 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E%E3%80%8B2018/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AE%9E%E6%88%9845%E8%AE%B2%E3%80%8B2018%20/</loc>
+        <lastmod>2019-07-25T12:30:15.726Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E6%9C%B1%E8%B5%9F%E7%9A%84%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E8%AF%BE%E3%80%8B2018/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2775,7 +2791,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E6%B7%B1%E5%85%A5%E6%8B%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%E3%80%8B2018/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E%E3%80%8B2018/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2791,15 +2807,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E5%8C%BA%E5%9D%97%E9%93%BE%E3%80%8B2018/</loc>
-        <lastmod>2019-07-25T12:30:15.726Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E7%8E%A9%E8%BD%ACSpring%E5%85%A8%E5%AE%B6%E6%A1%B6%E3%80%8B2019%20/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E6%B7%B1%E5%85%A5%E6%8B%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%E3%80%8B2018/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2815,7 +2823,15 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E7%A1%85%E8%B0%B7%E4%BA%A7%E5%93%81%E5%AE%9E%E6%88%9836%E8%AE%B2%E3%80%8B2018/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E7%8E%A9%E8%BD%ACSpring%E5%85%A8%E5%AE%B6%E6%A1%B6%E3%80%8B2019%20/</loc>
+        <lastmod>2019-07-25T12:30:15.726Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E5%8C%BA%E5%9D%97%E9%93%BE%E3%80%8B2018/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2824,6 +2840,14 @@
 
     <url>
         <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E8%AF%BE%E3%80%8B2018/</loc>
+        <lastmod>2019-07-25T12:30:15.726Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E7%A1%85%E8%B0%B7%E4%BA%A7%E5%93%81%E5%AE%9E%E6%88%9836%E8%AE%B2%E3%80%8B2018/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2855,7 +2879,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E8%B5%B5%E6%88%90%E7%9A%84%E8%BF%90%E7%BB%B4%E4%BD%93%E7%B3%BB%E7%AE%A1%E7%90%86%E8%AF%BE%E3%80%8B2018%20/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E8%B6%A3%E8%B0%88Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B2019%20%E5%89%8D49%E7%AB%A0%20/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2863,7 +2887,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E8%B6%A3%E8%B0%88Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B2019%20%E5%89%8D49%E7%AB%A0%20/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E8%B5%B5%E6%88%90%E7%9A%84%E8%BF%90%E7%BB%B4%E4%BD%93%E7%B3%BB%E7%AE%A1%E7%90%86%E8%AF%BE%E3%80%8B2018%20/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2879,7 +2903,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B9%8B%E7%BE%8E%E3%80%8B2019/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E9%82%B1%E5%B2%B3%E7%9A%84%E4%BA%A7%E5%93%81%E5%AE%9E%E6%88%98%E3%80%8B2018%20/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2895,7 +2919,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E9%82%B1%E5%B2%B3%E7%9A%84%E4%BA%A7%E5%93%81%E5%AE%9E%E6%88%98%E3%80%8B2018%20/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B9%8B%E7%BE%8E%E3%80%8B2019/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2919,6 +2943,14 @@
     </url>
 
     <url>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E9%9D%A2%E8%AF%95%E7%8E%B0%E5%9C%BA%E3%80%8B2019%20/</loc>
+        <lastmod>2019-07-25T12:30:15.726Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E9%87%8D%E5%AD%A6%E5%89%8D%E7%AB%AF%EF%BC%8D%E8%B7%9F%E7%9D%80%E5%B0%8F%E5%86%AC%E8%80%81%E5%B8%88%E5%AD%A6%E5%89%8D%E7%AB%AF%E3%80%8B2019/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2928,14 +2960,6 @@
 
     <url>
         <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6Python%E3%80%8B2018/</loc>
-        <lastmod>2019-07-25T12:30:15.726Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A%E9%9D%A2%E8%AF%95%E7%8E%B0%E5%9C%BA%E3%80%8B2019%20/</loc>
         <lastmod>2019-07-25T12:30:15.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2975,7 +2999,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A10x%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B7%A5%E4%BD%9C%E6%B3%95%E3%80%8B2018%20/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A9%E5%B0%8F%E6%97%B6%E6%90%9E%E5%AE%9A%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E3%80%8B2018/</loc>
         <lastmod>2019-07-25T12:30:15.715Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2983,7 +3007,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A9%E5%B0%8F%E6%97%B6%E6%90%9E%E5%AE%9A%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E3%80%8B2018/</loc>
+        <loc>https://www.jucaizhan.com/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%E3%80%8A10x%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B7%A5%E4%BD%9C%E6%B3%95%E3%80%8B2018%20/</loc>
         <lastmod>2019-07-25T12:30:15.715Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3231,14 +3255,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E9%BE%99%E6%9E%9C%E5%AD%A6%E9%99%A2/%E9%BE%99%E6%9E%9C%E5%AD%A6%E9%99%A2%E3%80%8AGoogle%20Guava%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E3%80%8B2019/</loc>
-        <lastmod>2019-07-21T10:19:45.988Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/%E9%BE%99%E6%9E%9C%E5%AD%A6%E9%99%A2/%E9%BE%99%E6%9E%9C%E5%AD%A6%E9%99%A2%E3%80%8AJAVA-ACE-%E6%9E%B6%E6%9E%84%E5%B8%88%E7%B3%BB%E5%88%97%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B-%20RocketMQ%E3%80%8B2017/</loc>
         <lastmod>2019-07-21T10:19:45.988Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3248,6 +3264,14 @@
 
     <url>
         <loc>https://www.jucaizhan.com/%E9%BE%99%E6%9E%9C%E5%AD%A6%E9%99%A2/%E9%BE%99%E6%9E%9C%E5%AD%A6%E9%99%A2%E3%80%8ASpring%20Boot%20%E6%95%99%E7%A8%8B%E5%85%A8%E9%9B%86%E3%80%8B2017/</loc>
+        <lastmod>2019-07-21T10:19:45.988Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/%E9%BE%99%E6%9E%9C%E5%AD%A6%E9%99%A2/%E9%BE%99%E6%9E%9C%E5%AD%A6%E9%99%A2%E3%80%8AGoogle%20Guava%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E3%80%8B2019/</loc>
         <lastmod>2019-07-21T10:19:45.988Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3439,22 +3463,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82.%E7%B1%B3%E6%96%AF%E7%89%B9%E5%90%B4%E3%80%8AES6_Javascript_%E6%9C%80%E5%85%A8%E6%9C%80%E6%96%B0%E8%AE%B2%E8%A7%A3%E3%80%8B2019/</loc>
-        <lastmod>2019-07-21T10:19:45.986Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82%E3%80%8AJava%E6%9E%B6%E6%9E%84%E7%8F%AD%E4%B9%8BBATJ%E4%BC%81%E4%B8%9A%E9%9D%A2%E8%AF%95%E8%AF%BE%E3%80%8B2019/</loc>
-        <lastmod>2019-07-21T10:19:45.986Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/021_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AJava%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E4%B8%8E%E9%AB%98%E5%B9%B6%E5%8F%91%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E3%80%8B_19%E8%AF%BE_2018/</loc>
         <lastmod>2019-07-21T10:19:45.986Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3472,6 +3480,22 @@
 
     <url>
         <loc>https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/026_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8AJava%E4%BB%BF%E6%8A%96%E9%9F%B3%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%85%A8%E6%A0%88%E5%BC%8F%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E3%80%8B_10%E8%AF%BE_20180/</loc>
+        <lastmod>2019-07-21T10:19:45.986Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82.%E7%B1%B3%E6%96%AF%E7%89%B9%E5%90%B4%E3%80%8AES6_Javascript_%E6%9C%80%E5%85%A8%E6%9C%80%E6%96%B0%E8%AE%B2%E8%A7%A3%E3%80%8B2019/</loc>
+        <lastmod>2019-07-21T10:19:45.986Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82/%E8%85%BE%E8%AE%AF%E8%AF%BE%E5%A0%82%E3%80%8AJava%E6%9E%B6%E6%9E%84%E7%8F%AD%E4%B9%8BBATJ%E4%BC%81%E4%B8%9A%E9%9D%A2%E8%AF%95%E8%AF%BE%E3%80%8B2019/</loc>
         <lastmod>2019-07-21T10:19:45.986Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3543,7 +3567,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/2019-07-19/%E8%9A%82%E8%9A%81%E5%AD%A6%E5%A0%82%E3%80%8AJava%E6%9E%B6%E6%9E%84%E5%B8%884%E6%9C%9F%E3%80%8B2019/</loc>
+        <loc>https://www.jucaizhan.com/2019-07-19/%E8%9A%82%E8%9A%81%E5%AD%A6%E5%A0%82%E3%80%8A%E5%9F%BA%E4%BA%8ESpringCloud%E6%9E%84%E5%BB%BA%E5%BE%AE%E6%9C%8D%E5%8A%A1%E7%94%B5%E5%95%86%E9%A1%B9%E7%9B%AE%E3%80%8B2019/</loc>
         <lastmod>2019-07-21T10:19:45.984Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3551,7 +3575,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/2019-07-19/%E8%9A%82%E8%9A%81%E5%AD%A6%E5%A0%82%E3%80%8A%E5%9F%BA%E4%BA%8ESpringCloud%E6%9E%84%E5%BB%BA%E5%BE%AE%E6%9C%8D%E5%8A%A1%E7%94%B5%E5%95%86%E9%A1%B9%E7%9B%AE%E3%80%8B2019/</loc>
+        <loc>https://www.jucaizhan.com/2019-07-19/%E8%9A%82%E8%9A%81%E5%AD%A6%E5%A0%82%E3%80%8AJava%E6%9E%B6%E6%9E%84%E5%B8%884%E6%9C%9F%E3%80%8B2019/</loc>
         <lastmod>2019-07-21T10:19:45.984Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3591,14 +3615,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E7%89%9B%E8%AF%BE%E7%BD%91/002_%E7%89%9B%E5%AE%A2%E7%BD%91_%E3%80%8A%E7%89%9B%E5%AE%A2%E4%B8%AD%E7%BA%A7%E9%A1%B9%E7%9B%AE%E8%AF%BE%E3%80%8B_2018/</loc>
-        <lastmod>2019-07-21T10:19:45.984Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/%E4%B8%87%E9%97%A8%E5%A4%A7%E5%AD%A6/%E4%B8%87%E9%97%A8%E5%A4%A7%E5%AD%A6%E3%80%8AJava%E9%9B%B6%E5%9F%BA%E7%A1%80%E7%89%B9%E8%AE%AD%E7%8F%AD%E3%80%8B2019/</loc>
         <lastmod>2019-07-21T10:19:45.984Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3616,6 +3632,14 @@
 
     <url>
         <loc>https://www.jucaizhan.com/%E5%B0%9A%E7%A1%85%E8%B0%B7/%E5%B0%9A%E7%A1%85%E8%B0%B7.%E9%9F%A9%E8%80%81%E5%B8%88%E3%80%8A%E5%9B%BE%E8%A7%A3Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B2019/</loc>
+        <lastmod>2019-07-21T10:19:45.984Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/%E7%89%9B%E8%AF%BE%E7%BD%91/002_%E7%89%9B%E5%AE%A2%E7%BD%91_%E3%80%8A%E7%89%9B%E5%AE%A2%E4%B8%AD%E7%BA%A7%E9%A1%B9%E7%9B%AE%E8%AF%BE%E3%80%8B_2018/</loc>
         <lastmod>2019-07-21T10:19:45.984Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3647,7 +3671,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/2019-07-19/%E8%9A%82%E8%9A%81%E5%AD%A6%E5%A0%82%E3%80%8AJava%E6%9E%B6%E6%9E%84%E5%B8%881%E6%9C%9F%E3%80%8B2019/</loc>
+        <loc>https://www.jucaizhan.com/2019-07-19/%E8%9A%82%E8%9A%81%E5%AD%A6%E5%A0%82%E3%80%8AJava%E6%9E%B6%E6%9E%84%E5%B8%882%E6%9C%9F%E3%80%8B2019/</loc>
         <lastmod>2019-07-21T10:19:45.983Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3655,7 +3679,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/2019-07-19/%E8%9A%82%E8%9A%81%E5%AD%A6%E5%A0%82%E3%80%8AJava%E6%9E%B6%E6%9E%84%E5%B8%882%E6%9C%9F%E3%80%8B2019/</loc>
+        <loc>https://www.jucaizhan.com/2019-07-19/%E8%9A%82%E8%9A%81%E5%AD%A6%E5%A0%82%E3%80%8AJava%E6%9E%B6%E6%9E%84%E5%B8%881%E6%9C%9F%E3%80%8B2019/</loc>
         <lastmod>2019-07-21T10:19:45.983Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3679,6 +3703,14 @@
     </url>
 
     <url>
+        <loc>https://www.jucaizhan.com/2019-06-29/prometheus%E4%BC%81%E4%B8%9A%E7%9B%91%E6%8E%A7/</loc>
+        <lastmod>2019-07-21T10:19:45.982Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.jucaizhan.com/2019-06-29/jsp+ssm+mysql%E5%BC%80%E5%8F%91%E8%BF%9B%E9%94%80%E5%AD%98%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98.js%E8%A7%86%E9%A2%91/</loc>
         <lastmod>2019-07-21T10:19:45.982Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3695,6 +3727,14 @@
     </url>
 
     <url>
+        <loc>https://www.jucaizhan.com/2019-06-29/ssm%E6%A1%86%E6%9E%B6%E5%AE%9E%E7%8E%B0%E7%9A%84%E5%AD%A6%E7%94%9F%E7%B3%BB%E7%BB%9F.js%E8%A7%86%E9%A2%91/</loc>
+        <lastmod>2019-07-21T10:19:45.982Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.jucaizhan.com/2019-06-29/prometheus%E4%BC%81%E4%B8%9A%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E8%A7%86%E9%A2%91%20(%E4%B8%8B)%20/</loc>
         <lastmod>2019-07-21T10:19:45.982Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3704,22 +3744,6 @@
 
     <url>
         <loc>https://www.jucaizhan.com/2019-06-29/ssm%E6%A1%86%E6%9E%B6%E8%A7%92%E8%89%B2%E6%9D%83%E9%99%90%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E8%84%9A%E6%89%8B%E6%9E%B6%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98.js%E8%A7%86%E9%A2%91/</loc>
-        <lastmod>2019-07-21T10:19:45.982Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/2019-06-29/prometheus%E4%BC%81%E4%B8%9A%E7%9B%91%E6%8E%A7/</loc>
-        <lastmod>2019-07-21T10:19:45.982Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.jucaizhan.com/2019-06-29/ssm%E6%A1%86%E6%9E%B6%E5%AE%9E%E7%8E%B0%E7%9A%84%E5%AD%A6%E7%94%9F%E7%B3%BB%E7%BB%9F.js%E8%A7%86%E9%A2%91/</loc>
         <lastmod>2019-07-21T10:19:45.982Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4207,7 +4231,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E5%8C%97%E9%A3%8E%E7%BD%91/%E5%8C%97%E9%A3%8E%E7%BD%91%E3%80%8A%E7%A6%BB%E7%BA%BF%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B0%E5%AE%9E%E6%88%98%E5%9F%B9%E8%AE%AD%E3%80%8B2019/</loc>
+        <loc>https://www.jucaizhan.com/%E5%8C%97%E9%A3%8E%E7%BD%91/%E5%8C%97%E9%A3%8E%E7%BD%91.%E4%B8%AD%E5%8D%8E%E7%9F%B3%E5%BD%AC%E3%80%8ASpark%E5%A4%A7%E5%9E%8B%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%EF%BC%9A%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E3%80%8B2019/</loc>
         <lastmod>2019-07-14T06:33:21.241Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4215,7 +4239,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E5%8C%97%E9%A3%8E%E7%BD%91/%E5%8C%97%E9%A3%8E%E7%BD%91.%E4%B8%AD%E5%8D%8E%E7%9F%B3%E5%BD%AC%E3%80%8ASpark%E5%A4%A7%E5%9E%8B%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%EF%BC%9A%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E3%80%8B2019/</loc>
+        <loc>https://www.jucaizhan.com/%E5%8C%97%E9%A3%8E%E7%BD%91/%E5%8C%97%E9%A3%8E%E7%BD%91%E3%80%8A%E7%A6%BB%E7%BA%BF%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B0%E5%AE%9E%E6%88%98%E5%9F%B9%E8%AE%AD%E3%80%8B2019/</loc>
         <lastmod>2019-07-14T06:33:21.241Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4463,7 +4487,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E5%8D%9A%E5%AD%A6%E8%B0%B7/%E5%8D%9A%E5%AD%A6%E8%B0%B7%E3%80%8APython%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E3%80%8B2019%20/</loc>
+        <loc>https://www.jucaizhan.com/%E5%8D%9A%E5%AD%A6%E8%B0%B7/%E5%8D%9A%E5%AD%A6%E8%B0%B7%E3%80%8APython%E7%88%AC%E8%99%AB%E8%AF%BE%E7%A8%8B%E3%80%8B2019/</loc>
         <lastmod>2019-07-07T17:00:29.776Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4471,7 +4495,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E5%8D%9A%E5%AD%A6%E8%B0%B7/%E5%8D%9A%E5%AD%A6%E8%B0%B7%E3%80%8APython%E7%88%AC%E8%99%AB%E8%AF%BE%E7%A8%8B%E3%80%8B2019/</loc>
+        <loc>https://www.jucaizhan.com/%E5%8D%9A%E5%AD%A6%E8%B0%B7/%E5%8D%9A%E5%AD%A6%E8%B0%B7%E3%80%8APython%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E3%80%8B2019%20/</loc>
         <lastmod>2019-07-07T17:00:29.776Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5287,14 +5311,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/026_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E5%A4%A7%E5%9E%8B%E7%94%B5%E5%95%86%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B7%B5%E3%80%8B_2014/</loc>
-        <lastmod>2019-02-24T07:12:04.076Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/027_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8ASpark%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E3%80%8B_2014/</loc>
         <lastmod>2019-02-24T07:12:04.076Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -5303,8 +5319,8 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/021_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8AOracle%E9%AB%98%E5%8F%AF%E7%94%A8%E3%80%8B_2013/</loc>
-        <lastmod>2019-02-24T07:12:04.074Z</lastmod>
+        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/026_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E5%A4%A7%E5%9E%8B%E7%94%B5%E5%95%86%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B7%B5%E3%80%8B_2014/</loc>
+        <lastmod>2019-02-24T07:12:04.076Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -5312,6 +5328,14 @@
 
     <url>
         <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/022_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E9%AB%98%E5%8F%AF%E7%94%A8%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B_2016/</loc>
+        <lastmod>2019-02-24T07:12:04.074Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/021_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8AOracle%E9%AB%98%E5%8F%AF%E7%94%A8%E3%80%8B_2013/</loc>
         <lastmod>2019-02-24T07:12:04.074Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5359,7 +5383,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/016_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8AMySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%90%E7%BB%B4%E3%80%8B_2014/</loc>
+        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/015_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8AHadoop%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B0%E3%80%8B_2013/</loc>
         <lastmod>2019-02-24T07:12:04.071Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5367,7 +5391,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/015_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8AHadoop%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B0%E3%80%8B_2013/</loc>
+        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/016_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8AMySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%90%E7%BB%B4%E3%80%8B_2014/</loc>
         <lastmod>2019-02-24T07:12:04.071Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5407,7 +5431,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/008_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8AMycat%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E3%80%8B_2017/</loc>
+        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/009_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8AHadoop%E9%9B%86%E7%BE%A4%E5%8E%9F%E7%90%86%E4%B8%8E%E8%BF%90%E7%BB%B4%E5%AE%9E%E8%B7%B5%E3%80%8B_2018/</loc>
         <lastmod>2019-02-24T07:12:04.069Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5415,7 +5439,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/009_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8AHadoop%E9%9B%86%E7%BE%A4%E5%8E%9F%E7%90%86%E4%B8%8E%E8%BF%90%E7%BB%B4%E5%AE%9E%E8%B7%B5%E3%80%8B_2018/</loc>
+        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/008_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8AMycat%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E3%80%8B_2017/</loc>
         <lastmod>2019-02-24T07:12:04.069Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5439,7 +5463,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/002_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B_15%E8%AF%BE_2016/</loc>
+        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/004_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%89%8D%E6%B2%BF%E7%B3%BB%E5%88%97%E4%B9%8B%E7%94%9F%E6%88%90%E5%BC%8F%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C%E3%80%8B_5%E8%AF%BE_2018/</loc>
         <lastmod>2019-02-24T07:12:04.067Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5455,7 +5479,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/004_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%89%8D%E6%B2%BF%E7%B3%BB%E5%88%97%E4%B9%8B%E7%94%9F%E6%88%90%E5%BC%8F%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C%E3%80%8B_5%E8%AF%BE_2018/</loc>
+        <loc>https://www.jucaizhan.com/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/002_%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91_%E3%80%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B_15%E8%AF%BE_2016/</loc>
         <lastmod>2019-02-24T07:12:04.067Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5687,7 +5711,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/014_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%BF%AE%E7%82%BC%E7%BC%96%E7%A8%8B%E5%86%85%E5%8A%9F%E3%80%8B_10%E8%AF%BE_2017/</loc>
+        <loc>https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/016_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E7%8E%A9%E8%BD%AC%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95_%E4%BB%8E%E7%9C%9F%E9%A2%98%E5%88%B0%E6%80%9D%E7%BB%B4%E5%85%A8%E9%9D%A2%E6%8F%90%E5%8D%87%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E3%80%8B_11%E8%AF%BE_2017/</loc>
         <lastmod>2019-02-24T07:12:04.050Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5695,7 +5719,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/016_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E7%8E%A9%E8%BD%AC%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95_%E4%BB%8E%E7%9C%9F%E9%A2%98%E5%88%B0%E6%80%9D%E7%BB%B4%E5%85%A8%E9%9D%A2%E6%8F%90%E5%8D%87%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E3%80%8B_11%E8%AF%BE_2017/</loc>
+        <loc>https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/014_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3%E4%BF%AE%E7%82%BC%E7%BC%96%E7%A8%8B%E5%86%85%E5%8A%9F%E3%80%8B_10%E8%AF%BE_2017/</loc>
         <lastmod>2019-02-24T07:12:04.050Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5735,14 +5759,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/006_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A360%E5%A4%A7%E7%89%9B%E5%B8%A6%E4%BD%A0%E6%A8%AA%E6%89%ABPHP%E8%81%8C%E5%9C%BA_%E5%85%A8%E9%9D%A2%E8%A7%A3%E8%AF%BBPHP%E9%9D%A2%E8%AF%95%E3%80%8B_11%E8%AF%BE_2017/</loc>
-        <lastmod>2019-02-24T07:12:04.047Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/007_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A6%E5%B0%8F%E6%97%B6jQuery%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AA%E5%89%8D%E7%AB%AF%E5%BA%94%E7%94%A8%E3%80%8B_7%E8%AF%BE_2017/</loc>
         <lastmod>2019-02-24T07:12:04.047Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -5752,6 +5768,14 @@
 
     <url>
         <loc>https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/008_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A7%E5%A4%A9%E6%90%9E%E5%AE%9ANode.js%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%8B_7%E8%AF%BE_2017/</loc>
+        <lastmod>2019-02-24T07:12:04.047Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/%E6%85%95%E8%AF%BE%E7%BD%91/006_%E6%85%95%E8%AF%BE%E7%BD%91_%E3%80%8A360%E5%A4%A7%E7%89%9B%E5%B8%A6%E4%BD%A0%E6%A8%AA%E6%89%ABPHP%E8%81%8C%E5%9C%BA_%E5%85%A8%E9%9D%A2%E8%A7%A3%E8%AF%BBPHP%E9%9D%A2%E8%AF%95%E3%80%8B_11%E8%AF%BE_2017/</loc>
         <lastmod>2019-02-24T07:12:04.047Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5839,14 +5863,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/51CTO%E5%AD%A6%E9%99%A2/014_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B-StyleTransfer(%E5%9F%BA%E4%BA%8ETensorflow)%E3%80%8B_2017/</loc>
-        <lastmod>2019-02-24T07:12:04.038Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/51CTO%E5%AD%A6%E9%99%A2/015_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B-%E5%AF%B9%E6%8A%97%E7%94%9F%E6%88%90%E7%BD%91%E7%BB%9C%E3%80%8B_2017/</loc>
         <lastmod>2019-02-24T07:12:04.038Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -5856,6 +5872,14 @@
 
     <url>
         <loc>https://www.jucaizhan.com/51CTO%E5%AD%A6%E9%99%A2/016_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B-%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8B%E3%80%8B_16%E8%AF%BE_2017/</loc>
+        <lastmod>2019-02-24T07:12:04.038Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/51CTO%E5%AD%A6%E9%99%A2/014_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B-StyleTransfer(%E5%9F%BA%E4%BA%8ETensorflow)%E3%80%8B_2017/</loc>
         <lastmod>2019-02-24T07:12:04.038Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5879,7 +5903,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/51CTO%E5%AD%A6%E9%99%A2/009_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6Caffe%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%E3%80%8B_12%E8%AF%BE_2017/</loc>
+        <loc>https://www.jucaizhan.com/51CTO%E5%AD%A6%E9%99%A2/010_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE-%E5%88%A9%E7%94%A8RNN%E4%B8%8ELSTM%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E8%BF%9B%E8%A1%8C%E5%94%90%E8%AF%97%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%E3%80%8B_2017/</loc>
         <lastmod>2019-02-24T07:12:04.036Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5895,7 +5919,7 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/51CTO%E5%AD%A6%E9%99%A2/010_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE-%E5%88%A9%E7%94%A8RNN%E4%B8%8ELSTM%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E8%BF%9B%E8%A1%8C%E5%94%90%E8%AF%97%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%E3%80%8B_2017/</loc>
+        <loc>https://www.jucaizhan.com/51CTO%E5%AD%A6%E9%99%A2/009_51CTO%E5%AD%A6%E9%99%A2_%E5%94%90%E5%AE%87%E8%BF%AA_%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6Caffe%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B%E3%80%8B_12%E8%AF%BE_2017/</loc>
         <lastmod>2019-02-24T07:12:04.036Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
