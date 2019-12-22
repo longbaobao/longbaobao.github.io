@@ -42,14 +42,14 @@
     </url>
     
     <url>
-        <loc>https://www.jucaizhan.com/tags/</loc>
+        <loc>https://www.jucaizhan.com/slides/</loc>
         <lastmod>2019-02-24T07:12:04.098Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://www.jucaizhan.com/slides/</loc>
+        <loc>https://www.jucaizhan.com/tags/</loc>
         <lastmod>2019-02-24T07:12:04.098Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -91,14 +91,14 @@
     </url>
     
     <url>
-        <loc>https://www.jucaizhan.com//404.html</loc>
+        <loc>https://www.jucaizhan.com/404/demo.html</loc>
         <lastmod>2019-02-24T07:12:04.031Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://www.jucaizhan.com/404/demo.html</loc>
+        <loc>https://www.jucaizhan.com//404.html</loc>
         <lastmod>2019-02-24T07:12:04.031Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
