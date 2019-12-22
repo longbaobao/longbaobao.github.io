@@ -336,13 +336,6 @@
     </url>
 
     <url>
-        <loc>https://www.jucaizhan.com/categories/%E7%A7%BB%E5%8A%A8%E7%A0%94%E5%8F%91%E6%94%BB%E5%9F%8E%E7%8B%AE/</loc>
-        <lastmod>2019-08-21T13:00:51.747Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.jucaizhan.com/categories/%E6%A1%8C%E9%9D%A2%E7%A0%94%E5%8F%91%E6%94%BB%E5%9F%8E%E7%8B%AE/</loc>
         <lastmod>2019-08-21T13:01:28.005Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -443,6 +436,20 @@
     <url>
         <loc>https://www.jucaizhan.com/categories/%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91%E6%94%BB%E5%9F%8E%E7%8B%AE/</loc>
         <lastmod>2019-09-06T08:48:03.533Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/categories/%E7%A7%BB%E5%8A%A8%E7%A0%94%E5%8F%91%E6%94%BB%E5%9F%8E%E7%8B%AE/</loc>
+        <lastmod>2019-11-05T03:41:17.179Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.jucaizhan.com/categories/%E5%A4%A9%E5%A4%A9%E5%BD%B1%E8%A7%86/</loc>
+        <lastmod>2019-12-22T03:33:34.309Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
